@@ -165,33 +165,117 @@ def concepts(item, patterns):
  text = (item['title'] + ' ' + item.get('excerpt', '')[:450]).casefold()
  return {name for name, pattern in patterns.items() if re.search(pattern, text, re.I)}
 
+
 def same_story(a, b):
- ac, bc = cve_ids(a), cve_ids(b)
- # If both articles cite different CVEs, do not merge merely because
- # they concern the same software or vulnerability class.
- if ac and bc:
-  return bool(ac & bc)
- at, bt = headline_tokens(a['title']), headline_tokens(b['title'])
- if not at or not bt: return False
- common = len(at & bt)
- overlap = common / min(len(at), len(bt))
- jaccard = common / len(at | bt)
- similarity = difflib.SequenceMatcher(None, ' '.join(sorted(at)), ' '.join(sorted(bt))).ratio()
- # Ordinary near-identical headlines: require multiple distinctive tokens.
- if common >= 5 and ((overlap >= .78 and jaccard >= .52) or (similarity >= .84 and jaccard >= .58)):
-  return True
- # One-sided CVE case: only consider a merge with strong product AND
- # incident agreement, not just generic "security flaw" vocabulary.
- if bool(ac) != bool(bc):
-  pa, pb = concepts(a, PRODUCT_PATTERNS), concepts(b, PRODUCT_PATTERNS)
-  ea, eb = concepts(a, EVENT_PATTERNS), concepts(b, EVENT_PATTERNS)
-  if not (pa & pb and ea & eb): return False
-  # Same publisher + same product + same vulnerability type, together
-  # with a distinctive title overlap, is a conservative proxy for identity.
-  same_publisher = a.get('source', '').casefold() == b.get('source', '').casefold()
-  if same_publisher and common >= 3 and overlap >= .35: return True
-  if common >= 4 and overlap >= .55 and jaccard >= .35: return True
- return False
+    ac, bc = cve_ids(a), cve_ids(b)
+
+    # Identische CVEs zusammenfuehren.
+    # Unterschiedliche bekannte CVEs getrennt behandeln.
+    if ac and bc:
+        return bool(ac & bc)
+
+    def normalized_tokens(item):
+        text = item.get("title", "").casefold()
+        text = unicodedata.normalize("NFKD", text)
+        text = "".join(
+            ch for ch in text
+            if not unicodedata.combining(ch)
+        )
+
+        replacements = {
+            "sicherheitslucke": "schwachstelle",
+            "lucke": "schwachstelle",
+            "spoofing-schwachstelle": "spoofing",
+            "ausgenutzte": "ausgenutzt",
+            "genutzte": "ausgenutzt",
+            "schliesst": "patch",
+            "geschlossen": "patch",
+            "behoben": "patch",
+        }
+
+        text = re.sub(
+            r"(?i)cve-\d{4}-\d{4,}",
+            " ",
+            text
+        )
+
+        tokens = re.findall(r"[a-z0-9]+", text)
+
+        return {
+            replacements.get(t, t)
+            for t in tokens
+            if len(t) >= 3 and t not in STOPWORDS
+        }
+
+    at = normalized_tokens(a)
+    bt = normalized_tokens(b)
+
+    if not at or not bt:
+        return False
+
+    common = len(at & bt)
+    overlap = common / min(len(at), len(bt))
+    jaccard = common / len(at | bt)
+
+    pa = concepts(a, PRODUCT_PATTERNS)
+    pb = concepts(b, PRODUCT_PATTERNS)
+    ea = concepts(a, EVENT_PATTERNS)
+    eb = concepts(b, EVENT_PATTERNS)
+
+    same_product = bool(pa & pb)
+    same_event = bool(ea & eb)
+
+    source_a = a.get("source", "").strip().casefold()
+    source_b = b.get("source", "").strip().casefold()
+
+    same_publisher = bool(source_a) and source_a == source_b
+
+    # Kein Zusammenfuehren bei widerspruechlichen Produkten.
+    if pa and pb and not same_product:
+        return False
+
+    # Kein Zusammenfuehren bei klar unterschiedlichen
+    # Schwachstellentypen.
+    if ea and eb and not same_event:
+        return False
+
+    # Nahezu identische Titel.
+    if common >= 5 and overlap >= 0.80 and jaccard >= 0.55:
+        return True
+
+    # Einseitige CVE: gleiche Quelle, gleiches Produkt
+    # und starke Titeluebereinstimmung.
+    if bool(ac) != bool(bc):
+        if (
+            same_publisher
+            and same_product
+            and common >= 3
+            and overlap >= 0.50
+        ):
+            return True
+
+        if (
+            same_product
+            and same_event
+            and common >= 4
+            and overlap >= 0.65
+        ):
+            return True
+
+        return False
+
+    # Beide ohne CVE: gleiche Quelle, gleiches Produkt
+    # und sehr hohe Uebereinstimmung.
+    if (
+        same_publisher
+        and same_product
+        and common >= 4
+        and overlap >= 0.75
+    ):
+        return True
+
+    return False
+
 
 def deduplicate(items):
  # Prefer the most informative and recent representation of a story.
