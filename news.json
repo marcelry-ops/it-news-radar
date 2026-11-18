@@ -11,16 +11,6 @@
       "category": "Security"
     },
     {
-      "id": "2dd609e7e6cb4480",
-      "title": "Outlook-Lücke CVE-2026-124194: Microsoft schließt aktiv ausgenutzte Schwachstelle",
-      "excerpt": "Outlook-Lücke CVE-2026-124194: Microsoft schließt aktiv ausgenutzte Schwachstelle BornCity",
-      "summary": "Outlook-Lücke CVE-2026-124194: Microsoft schließt aktiv ausgenutzte Schwachstelle BornCity",
-      "source": "BornCity",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMk41VWVKOEI5M2hablVFbDRXcmJVXzdkWDFsMGVSWUpZTjRnVkJIQWlUREZpbDhGckxhOGxvYTBPaDlLbkdPbEZWa1M2QWFrbWlJRzhGZzl4TlBjekpDYksxNl90X3lJY0NlQ1BnRG1PUl9zODRzc1VlTkl2Z3NEOUdMamtWb3VtMDhtU1lFT3JZWmMtcXlId003TmJRRTR4UV9ZSEYtZ3NuRWNmZ1E?oc=5",
-      "published": "2026-11-16T10:19:04+00:00",
-      "category": "Security"
-    },
-    {
       "id": "10aee0282cb55168",
       "title": "Große Marken lieferten Malware-Skript durch Lieferkettenangriff aus",
       "excerpt": "Über die Testplattform Optimizely gelangte am Montag ein Malware-Skript auf Webseiten. Davon waren namhafte Marken betroffen.",
@@ -28,6 +18,16 @@
       "source": "heise online",
       "url": "https://www.heise.de/news/Grosse-Marken-lieferten-Malware-Skript-durch-Lieferkettenangriff-aus-11527514.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "published": "2026-11-17T13:00:00+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "bb362a2455530eef",
+      "title": "(g+) IT-Sicherheit in der Industrie: Alte Industriesteuerungen werden zum Sicherheitsrisiko",
+      "excerpt": "Unsichere Fernzugänge, fehlende Netztrennung und alte Steuerungen gefährden Fabriken. Wie sich Produktionsanlagen schützen lassen, ohne sie stillzulegen. Eine Analyse von Dietmar Müller ( Security , Server )",
+      "summary": "Unsichere Fernzugänge, fehlende Netztrennung und alte Steuerungen gefährden Fabriken. Wie sich Produktionsanlagen schützen lassen, ohne sie stillzulegen. Eine Analyse von Dietmar Müller ( Security , Server )",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/it-sicherheit-in-der-industrie-alte-industriesteuerungen-werden-zum-sicherheitsrisiko-2611-215214.html",
+      "published": "2026-11-17T12:30:02+00:00",
       "category": "Security"
     },
     {
@@ -101,7 +101,7 @@
       "category": "Cloud"
     }
   ],
-  "updatedAt": "2026-11-18T08:41:27.935240+00:00",
+  "updatedAt": "2026-11-18T08:49:22.601280+00:00",
   "targets": {
     "Security": 3,
     "Microsoft 365": 3,
