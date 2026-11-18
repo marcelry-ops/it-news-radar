@@ -37,6 +37,12 @@ def google_rss(query):
 FEEDS = [('heise online', 'https://www.heise.de/rss/heise-atom.xml', None),
          ('heise Security', 'https://www.heise.de/security/rss/news-atom.xml', 'Security'),
          ('Golem.de', 'https://rss.golem.de/rss.php?feed=RSS2.0', None)]
+# Additional Swiss IT publishers; feed availability is checked at runtime.
+FEEDS += [
+ ('IT Reseller', 'https://www.itreseller.ch/rss/news.xml', 'IT Schweiz'),
+ ('Netzwoche', 'https://www.netzwoche.ch/taxonomy/term/31/feed', 'IT Schweiz'),
+ ('Inside IT', 'https://www.inside-it.ch/rss.xml', 'IT Schweiz'),
+]
 FEEDS += [('Google News / '+cat, google_rss(query), cat) for cat, queries in SEARCHES.items() for query in queries]
 
 BAD = re.compile(r'\b(anzeige|advertorial|sponsored|werbung|promotion|webinar|workshop|seminar|schulung|kurs|ticket|gewinnspiel|rabatt|gutschein|stellenangebot|jobangebot|whitepaper|event-tipp|messe-ticket|partnerinhalt|powered by)\b|\b(?:jetzt anmelden|jetzt buchen|kostenlos anmelden|hier registrieren)\b', re.I)
@@ -110,7 +116,9 @@ def eligible(item, category):
  title = item['title']
  if category == 'Security': return bool(SECURITY.search(text))
  if category == 'Microsoft 365': return bool(M365.search(text))
- if category == 'IT Schweiz': return bool(CH.search(text) and IT.search(text))
+ if category == 'IT Schweiz':
+  swiss_publisher = item.get('source') in {'IT Reseller', 'Netzwoche', 'Inside IT'}
+  return bool(IT.search(text) and (CH.search(text) or swiss_publisher))
  if category == 'Cloud': return bool(CLOUD.search(text))
  return False
 
@@ -219,6 +227,8 @@ def select(items):
   for item in selected:
    used.add(item['id'])
    chosen.append({**{k:v for k,v in item.items() if k != 'feedHint'}, 'category':category})
+ # Chronological display across all categories, newest first.
+ chosen.sort(key=lambda item: parse_date(item['published']) or dt.datetime.min.replace(tzinfo=UTC), reverse=True)
  return chosen, counts
 
 
