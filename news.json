@@ -101,16 +101,6 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "1870842c029eb18b",
-      "title": "Fünf Schweizer IT-Unternehmen gründen Opensovereign",
-      "excerpt": "Fünf Schweizer IT-Unternehmen gründen Opensovereign IT-Markt",
-      "summary": "Fünf Schweizer IT-Unternehmen gründen Opensovereign IT-Markt",
-      "source": "IT-Markt",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbVo4dDJwSnFWNnhYZ2ZfZ1dGSElLRm1zeTE5UENsSENudUhkcXcwX0J5VDBGVFg2dGQ2Q0JnTEl2b1lxZHkzVlhXMnlEVmhSanlRQU1ZS0tzY0lsakVON0lqVFh1ZlM5enZucEtkdUNyem1NcVBSaVEyRy1HRTVtdmlDZ2hHOWxWTVBjNlRNVFgxR3FFWldhbA?oc=5",
-      "published": "2026-11-18T10:26:13+00:00",
-      "category": "IT Schweiz"
-    },
-    {
       "id": "0d8a194978b02f38",
       "title": "So verändert sich das Mandat Schweizer CIOs",
       "excerpt": "So verändert sich das Mandat Schweizer CIOs IT-Markt",
@@ -131,16 +121,6 @@
       "category": "IT Schweiz"
     },
     {
-      "id": "92fc3ec9ba066eb5",
-      "title": "T-Systems Schweiz lanciert Plattform für souveräne KI",
-      "excerpt": "T-Systems Schweiz lanciert Plattform für souveräne KI IT-Markt",
-      "summary": "T-Systems Schweiz lanciert Plattform für souveräne KI IT-Markt",
-      "source": "IT-Markt",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOWwzd0FTdmVhUXhYTVhKQ042aTFMc19wZDVKR3puVWtRdkZsTWRiOS1YalZPUEtVOWNFQjJRTlJSNHlSMG1SNWVEbGpLTl85QzN6M1c4SzBBWHJ5Ri1yMkJzeE9vVXhUaVNiOWZsT0hDSFFTOWk5emdTLXZQYkZkWnFUVkJ1aC02MmY0R0wzTVFDT3ZlcFRqd25qaw?oc=5",
-      "published": "2026-11-12T10:28:38+00:00",
-      "category": "IT Schweiz"
-    },
-    {
       "id": "a0be1c53ececc5b1",
       "title": "Schweiz verliert im KI-Ranking an Boden",
       "excerpt": "Schweiz verliert im KI-Ranking an Boden Netzwoche",
@@ -148,6 +128,16 @@
       "source": "Netzwoche",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTWxZTFFFbHNRN1ZPMjRSRklQckZJQ0RWRDVfdjFUQlBKeE1NRWlBUTdWWkx5XzE3OGdrN3VGTFVLVXVNanFrM1Jmc2ZXOHdPZjNpZHhnR09ncTBSZWk5N2U1VkxfNHNTZWdPUkFoSG1qTW9OWkUyOWtDanROTURHemxOUzlSQVU?oc=5",
       "published": "2026-11-11T14:37:11+00:00",
+      "category": "IT Schweiz"
+    },
+    {
+      "id": "1161df4988a1d8a1",
+      "title": "Zugriff auf ictjobs.ch neu auch via Mobile-App",
+      "excerpt": "Zugriff auf ictjobs.ch neu auch via Mobile-App Swiss IT Magazine",
+      "summary": "Zugriff auf ictjobs.ch neu auch via Mobile-App Swiss IT Magazine",
+      "source": "Swiss IT Magazine",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdGE0dXhDdUM0bUk4NzdZSVJEMzI3WXBpSkp1Z0J4RkJBbmQ1REdYWTNSSUZLWUdlc0stZnFaTG9yVmI3UTRFSmxPaW1vVHhNWDZOTmdQYWY4WEtLOG5iblowNDBIeXFnWnVXRlZrc1BZT1RRS3lVM2lCOXlTZGZJM1RXS1hsUVFnTnZiMG85SFRqNmYzcnc?oc=5",
+      "published": "2026-11-12T07:12:00+00:00",
       "category": "IT Schweiz"
     },
     {
@@ -171,7 +161,7 @@
       "category": "Cloud"
     }
   ],
-  "updatedAt": "2026-11-18T11:45:25.122588+00:00",
+  "updatedAt": "2026-11-18T11:52:12.188930+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -181,9 +171,9 @@
   "counts": {
     "Security": 5,
     "Microsoft 365": 5,
-    "IT Schweiz": 5,
+    "IT Schweiz": 4,
     "Cloud": 2
   },
-  "warning": "Nicht genügend passende aktuelle Meldungen: 3 × Cloud.",
+  "warning": "Nicht genügend passende aktuelle Meldungen: 1 × IT Schweiz, 3 × Cloud.",
   "aiSummaries": false
 }
