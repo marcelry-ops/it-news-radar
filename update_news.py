@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """Build a German-language 3/3/3/1 RSS digest for GitHub Pages; stdlib only."""
 import datetime as dt
+import difflib
+import unicodedata
 import email.utils
 import hashlib
 import html
@@ -127,16 +129,51 @@ def score(item, category):
  return points
 
 
+# Conservative, local semantic-equivalence heuristics (no external AI service).
+# Match shared CVE IDs or strongly overlapping headline concepts. Avoid grouping
+# generic product announcements solely because they mention the same vendor.
+STOPWORDS = set('der die das den dem des ein eine einer eines und oder mit von vom zur zum auf im in am an bei fuer für durch gegen nach vor über ueber neue neuen neuer neues jetzt wird sind hat haben als aus zu so wie mehr nicht microsoft security sicherheit update updates meldung bericht'.split())
+CVE_PATTERN = re.compile(r'\bcve[-\s]?(\d{4})[-\s]?(\d{4,})\b', re.I)
+
+def headline_tokens(title):
+ text = unicodedata.normalize('NFKD', title.casefold())
+ text = ''.join(ch for ch in text if not unicodedata.combining(ch))
+ return {token for token in re.findall(r'[a-z0-9]+', text) if len(token) >= 3 and token not in STOPWORDS}
+
+def cve_ids(item):
+ return set(CVE_PATTERN.findall(item['title'] + ' ' + item.get('excerpt', '')[:250]))
+
+def same_story(a, b):
+ ac, bc = cve_ids(a), cve_ids(b)
+ if ac and bc:
+  # Different explicitly named vulnerabilities must remain separate.
+  return bool(ac & bc)
+ at, bt = headline_tokens(a['title']), headline_tokens(b['title'])
+ if len(at) < 4 or len(bt) < 4: return False
+ common = len(at & bt)
+ overlap = common / min(len(at), len(bt))
+ jaccard = common / len(at | bt)
+ ta, tb = ' '.join(sorted(at)), ' '.join(sorted(bt))
+ similarity = difflib.SequenceMatcher(None, ta, tb).ratio()
+ return common >= 5 and ((overlap >= .78 and jaccard >= .52) or (similarity >= .84 and jaccard >= .58))
+
+def deduplicate(items):
+ # Prefer the most informative and recent representation of a story.
+ ranked = sorted(items, key=lambda i: (len(i.get('excerpt', '')) >= 80, len(i.get('excerpt', '')), i['published']), reverse=True)
+ groups = []
+ for item in ranked:
+  for group in groups:
+   if any(same_story(item, other) for other in group):
+    group.append(item)
+    break
+  else: groups.append([item])
+ return [group[0] for group in groups]
+
 def select(items):
- # Same article can appear in multiple RSS feeds and categories.
- deduped = {}
- for item in items:
-  key = re.sub(r'[^a-z0-9äöü]+', '', item['title'].casefold())[:115]
-  if key not in deduped or len(item['excerpt']) > len(deduped[key]['excerpt']): deduped[key] = item
- candidates = list(deduped.values()); used = set(); chosen = []; counts = {}
+ candidates = deduplicate(items)
+ used = set(); chosen = []; counts = {}
  for category, target in TARGETS.items():
   pool = sorted((i for i in candidates if i['id'] not in used and eligible(i, category)), key=lambda i:score(i, category), reverse=True)
-  # Prefer articles with strong category signal; never fill with irrelevant news.
   selected = pool[:target]
   counts[category] = len(selected)
   for item in selected:
