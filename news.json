@@ -1,1 +1,106 @@
-{"items":[],"updatedAt":null,"warning":"Die automatische Aktualisierung muss nach dem Deployment einmal gestartet werden."}
+{
+  "items": [
+    {
+      "id": "e60b9956be543b5e",
+      "title": "heise-Angebot: iX-Workshop: Lokales Active Directory gegen Angriffe absichern",
+      "excerpt": "Lernen Sie, wie Angreifer Active Directory kompromittieren und wie Sie Ihre AD-Umgebung effektiv vor Ransomware und anderen Cyberangriffen schützen.",
+      "summary": "Lernen Sie, wie Angreifer Active Directory kompromittieren und wie Sie Ihre AD-Umgebung effektiv vor Ransomware und anderen Cyberangriffen schützen.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/iX-Workshop-Lokales-Active-Directory-gegen-Angriffe-absichern-11515951.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published": "2026-11-18T07:00:00+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "e1556aa10d7cd3ec",
+      "title": "Anzeige: Microsoft 365: Identitäten, Geräte und Daten absichern",
+      "excerpt": "Microsoft 365 Security umfasst den Schutz von Identitäten, Endgeräten und Daten. Ein dreitägiger Workshop vermittelt die nötigen Konfigurationen und Sicherheitskonzepte. ( Golem Karrierewelt , Verschlüsselung )",
+      "summary": "Microsoft 365 Security umfasst den Schutz von Identitäten, Endgeräten und Daten. Ein dreitägiger Workshop vermittelt die nötigen Konfigurationen und Sicherheitskonzepte. ( Golem Karrierewelt , Verschlüsselung )",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-microsoft-365-identitaeten-geraete-und-daten-absichern-2611-215328.html",
+      "published": "2026-11-18T06:15:01+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "f745ba96afcf17d6",
+      "title": "Anzeige: Penetration Testing: Sicherheitslücken erkennen und ausnutzen",
+      "excerpt": "Penetration Testing macht Schwachstellen in IT-Systemen sichtbar. Ein zweitägiger Online-Workshop vermittelt Angriffstechniken und den praktischen Einsatz von Kali Linux und Burp. ( Golem Karrierewelt , Server-Applikationen )",
+      "summary": "Penetration Testing macht Schwachstellen in IT-Systemen sichtbar. Ein zweitägiger Online-Workshop vermittelt Angriffstechniken und den praktischen Einsatz von Kali Linux und Burp. ( Golem Karrierewelt , Server-Applikationen )",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-penetration-testing-sicherheitsluecken-erkennen-und-ausnutzen-2611-215284.html",
+      "published": "2026-11-17T17:45:02+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "552cd61d0e918b3b",
+      "title": "EU sanktioniert russische Desinformationsnetzwerke und Hackergruppe",
+      "excerpt": "Wegen hybrider Angriffe und Cyberaktivitäten aus Russland belegt der EU-Ministerrat 30 Personen und zwei Organisationen mit Einreise- und Vermögenssperren.",
+      "summary": "Wegen hybrider Angriffe und Cyberaktivitäten aus Russland belegt der EU-Ministerrat 30 Personen und zwei Organisationen mit Einreise- und Vermögenssperren.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/EU-sanktioniert-russische-Desinformationsnetzwerke-und-Hackergruppe-11528693.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published": "2026-11-18T07:16:00+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "8b078db7a8a99dd6",
+      "title": "Java: RCE mit AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+      "excerpt": "Die Sicherheitslücke Java4Shell erlaubt Remote Code Execution, trifft aber nur bestimmte Prozessoren. Das gilt auch für Java-Clients.",
+      "summary": "Die Sicherheitslücke Java4Shell erlaubt Remote Code Execution, trifft aber nur bestimmte Prozessoren. Das gilt auch für Java-Clients.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Java-RCE-mit-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA-11528561.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published": "2026-11-18T00:05:00+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "ca5d71e44b70f849",
+      "title": "Java4Shell: Gefährlicher Bug in Java",
+      "excerpt": "Oracles Patchday stiftet Verwirrung. Es gibt gleich elf Updates gegen Remote Code Execution in Java. Dabei ist auch das hochriskante Java4Shell.",
+      "summary": "Oracles Patchday stiftet Verwirrung. Es gibt gleich elf Updates gegen Remote Code Execution in Java. Dabei ist auch das hochriskante Java4Shell.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Java4Shell-Gefaehrlicher-Bug-in-Java-11528499.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published": "2026-11-17T20:13:00+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "ac6a1ff87c66a343",
+      "title": "(g+) KI-Agenten: Wie Tokenisierung das Finanzsystem gefährdet",
+      "excerpt": "Leseempfehlung aus der Redaktion: Die Financial Times erklärt, warum die Gefahr der Tokenisierung nicht unterschätzt werden darf. Von Gillian Tett ( Security , KI )",
+      "summary": "Leseempfehlung aus der Redaktion: Die Financial Times erklärt, warum die Gefahr der Tokenisierung nicht unterschätzt werden darf. Von Gillian Tett ( Security , KI )",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/ki-agenten-wie-tokenisierung-das-finanzsystem-gefaehrdet-2611-215282.html",
+      "published": "2026-11-17T17:00:02+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "3852a168576d6274",
+      "title": "Große Marken lieferten Malware-Skript durch Lieferkettenangriff aus",
+      "excerpt": "Über die Testplattform Optimizely gelangte am Montag ein Malware-Skript auf Webseiten. Davon waren namhafte Marken betroffen.",
+      "summary": "Über die Testplattform Optimizely gelangte am Montag ein Malware-Skript auf Webseiten. Davon waren namhafte Marken betroffen.",
+      "source": "heise Security",
+      "url": "https://www.heise.de/news/Grosse-Marken-lieferten-Malware-Skript-durch-Lieferkettenangriff-aus-11527514.html",
+      "published": "2026-11-17T13:00:00+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "bb362a2455530eef",
+      "title": "(g+) IT-Sicherheit in der Industrie: Alte Industriesteuerungen werden zum Sicherheitsrisiko",
+      "excerpt": "Unsichere Fernzugänge, fehlende Netztrennung und alte Steuerungen gefährden Fabriken. Wie sich Produktionsanlagen schützen lassen, ohne sie stillzulegen. Eine Analyse von Dietmar Müller ( Security , Server )",
+      "summary": "Unsichere Fernzugänge, fehlende Netztrennung und alte Steuerungen gefährden Fabriken. Wie sich Produktionsanlagen schützen lassen, ohne sie stillzulegen. Eine Analyse von Dietmar Müller ( Security , Server )",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/it-sicherheit-in-der-industrie-alte-industriesteuerungen-werden-zum-sicherheitsrisiko-2611-215214.html",
+      "published": "2026-11-17T12:30:02+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "79e1a1dff5ce07d7",
+      "title": "Möglicher Cyberangriff: Hoster Contabo informiert Kunden über Sicherheitsvorfall",
+      "excerpt": "Ein Angreifer hat sich offenbar Zugriff auf Systeme des Münchener Hostinganbieters Contabo verschafft. Kunden werden per E-Mail informiert. ( Cybercrime , Server )",
+      "summary": "Ein Angreifer hat sich offenbar Zugriff auf Systeme des Münchener Hostinganbieters Contabo verschafft. Kunden werden per E-Mail informiert. ( Cybercrime , Server )",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/moeglicher-cyberangriff-hoster-contabo-informiert-kunden-ueber-sicherheitsvorfall-2611-215306.html",
+      "published": "2026-11-17T11:25:01+00:00",
+      "category": "Security"
+    }
+  ],
+  "updatedAt": "2026-11-18T07:51:36.231948+00:00",
+  "warning": "Zusammenfassungen basieren auf RSS-Auszügen (kein KI-Schlüssel konfiguriert oder KI nicht verfügbar)."
+}
