@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "id": "481469dbae1f56b4",
+      "title": "Microsoft Ignite 26: Azure wird agentischer und Windows rückt in die Cloud",
+      "excerpt": "Agenten stehen im Mittelpunkt der Ignite 2026: Microsoft will Azure zur zentralen Plattform dafür ausbauen und stellt neue KI-Modelle vor.",
+      "summary": "Agenten stehen im Mittelpunkt der Ignite 2026: Microsoft will Azure zur zentralen Plattform dafür ausbauen und stellt neue KI-Modelle vor.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Microsoft-Ignite-26-Azure-wird-agentischer-und-Windows-rueckt-in-die-Cloud-11529788.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published": "2026-11-18T15:54:00+00:00",
+      "category": "Cloud"
+    },
+    {
+      "id": "899df4f09b3a8d48",
+      "title": "#heiseshow: Anthropic, Cloud-Ausfälle, Voyager 1",
+      "excerpt": "In der #heiseshow: Anthropic plant den Börsengang, die Abhängigkeit von Microsoft, Apple & Co. wird zum Risiko und Voyager 1 ist einen Lichttag entfernt.",
+      "summary": "In der #heiseshow: Anthropic plant den Börsengang, die Abhängigkeit von Microsoft, Apple & Co. wird zum Risiko und Voyager 1 ist einen Lichttag entfernt.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/heiseshow-Anthropic-Cloud-Ausfaelle-Voyager-1-11529900.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published": "2026-11-18T15:44:00+00:00",
+      "category": "Cloud"
+    },
+    {
       "id": "9bc402f990ce8639",
       "title": "Schweizer Firmen gründen Allianz für digitale Souveränität",
       "excerpt": "Mit Opensovereign wollen fünf Schweizer IT-Unternehmen Open-Source-Technologien als Alternative zu proprietären IT-Lösungen stärken.",
@@ -31,16 +51,6 @@
       "category": "IT Schweiz"
     },
     {
-      "id": "7f3e73a1ed1fb5ce",
-      "title": "1&1: Cloudbetreiber Ionos holt sich neuen CEO von SAP",
-      "excerpt": "Führungswechsel beim europäischen Cloud-Marktführer: SAP-Manager Saueressig übernimmt bei Ionos und soll das Geschäft mit Großkunden und KI ausbauen. ( SAP , Rechenzentrum )",
-      "summary": "Führungswechsel beim europäischen Cloud-Marktführer: SAP-Manager Saueressig übernimmt bei Ionos und soll das Geschäft mit Großkunden und KI ausbauen. ( SAP , Rechenzentrum )",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/1-1-cloudbetreiber-ionos-holt-sich-neuen-ceo-von-sap-2611-215366.html",
-      "published": "2026-11-18T14:33:02+00:00",
-      "category": "Cloud"
-    },
-    {
       "id": "11c95c941f63eb6b",
       "title": "Colossus-Rechenzentrum: Memphis verteilt SpaceX-Steuereinnahmen an Anwohner",
       "excerpt": "Die Stadt Memphis gibt einen Teil der Steuereinnahmen durch SpaceX an die Nachbarschaft des Colossus-Rechenzentrums zurück. ( Rechenzentrum , Barrierefreiheit )",
@@ -48,16 +58,6 @@
       "source": "Golem.de",
       "url": "https://www.golem.de/news/colossus-rechenzentrum-memphis-verteilt-spacex-steuereinnahmen-an-anwohner-2611-215362.html",
       "published": "2026-11-18T14:12:02+00:00",
-      "category": "Cloud"
-    },
-    {
-      "id": "95b8a7fc0f6de53d",
-      "title": "Microsoft bringt Mensch, KI und Geschäft zusammen",
-      "excerpt": "An der Hausmesse \"Ignite\" in San Francisco zeigte Microsoft neue Entwicklungen rund um Copilot, KI-Agenten, Sicherheit und Cloud-Infrastruktur.",
-      "summary": "An der Hausmesse \"Ignite\" in San Francisco zeigte Microsoft neue Entwicklungen rund um Copilot, KI-Agenten, Sicherheit und Cloud-Infrastruktur.",
-      "source": "Inside IT",
-      "url": "https://www.inside-it.ch/microsoft-bringt-mensch%252C-ki-und-geschaeft-zusammen-20261118",
-      "published": "2026-11-18T13:25:14+00:00",
       "category": "Cloud"
     },
     {
@@ -201,7 +201,7 @@
       "category": "Cloud"
     }
   ],
-  "updatedAt": "2026-11-18T15:06:54.013989+00:00",
+  "updatedAt": "2026-11-18T16:11:07.960000+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
