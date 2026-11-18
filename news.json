@@ -1,16 +1,6 @@
 {
   "items": [
     {
-      "id": "4099dd09aadd415e",
-      "title": "Outlook-Lücke CVE-2026-124194: Angreifer stehlen NTLMv2-Anmeldedaten",
-      "excerpt": "Outlook-Lücke CVE-2026-124194: Angreifer stehlen NTLMv2-Anmeldedaten ad-hoc-news.de",
-      "summary": "Outlook-Lücke CVE-2026-124194: Angreifer stehlen NTLMv2-Anmeldedaten ad-hoc-news.de",
-      "source": "ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLXJzVkFBcGY2MGpWVzNLbTgzaGgzQm5SR2N0M3Naa0g2MTdyVU1nVFpOZlR6bVdnME41Wk5zaUt6LXhfQnpGYjJnSkRnelV4XzhOZWl2V1hjTGJWcTdiTFlrdVJHNS0yakVxR0tqaXl1d2Rnc1RtRFNNTXNkVDhvX3hVM2t0UmpZaTh3REpkVTFLOFQwaVFEc050SG5tUGZzbk1Mekt5X3BkR0lJVm5WUmRQbUp0M2Rr?oc=5",
-      "published": "2026-11-18T06:43:27+00:00",
-      "category": "Security"
-    },
-    {
       "id": "c7b593b54e571edf",
       "title": "Outlook-Sicherheitslücke: Microsoft schließt aktiv genutzte Spoofing-Schwachstelle",
       "excerpt": "Outlook-Sicherheitslücke: Microsoft schließt aktiv genutzte Spoofing-Schwachstelle BornCity",
@@ -28,6 +18,16 @@
       "source": "BornCity",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMk41VWVKOEI5M2hablVFbDRXcmJVXzdkWDFsMGVSWUpZTjRnVkJIQWlUREZpbDhGckxhOGxvYTBPaDlLbkdPbEZWa1M2QWFrbWlJRzhGZzl4TlBjekpDYksxNl90X3lJY0NlQ1BnRG1PUl9zODRzc1VlTkl2Z3NEOUdMamtWb3VtMDhtU1lFT3JZWmMtcXlId003TmJRRTR4UV9ZSEYtZ3NuRWNmZ1E?oc=5",
       "published": "2026-11-16T10:19:04+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "10aee0282cb55168",
+      "title": "Große Marken lieferten Malware-Skript durch Lieferkettenangriff aus",
+      "excerpt": "Über die Testplattform Optimizely gelangte am Montag ein Malware-Skript auf Webseiten. Davon waren namhafte Marken betroffen.",
+      "summary": "Über die Testplattform Optimizely gelangte am Montag ein Malware-Skript auf Webseiten. Davon waren namhafte Marken betroffen.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Grosse-Marken-lieferten-Malware-Skript-durch-Lieferkettenangriff-aus-11527514.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published": "2026-11-17T13:00:00+00:00",
       "category": "Security"
     },
     {
@@ -101,7 +101,7 @@
       "category": "Cloud"
     }
   ],
-  "updatedAt": "2026-11-18T08:03:51.366708+00:00",
+  "updatedAt": "2026-11-18T08:28:05.047717+00:00",
   "targets": {
     "Security": 3,
     "Microsoft 365": 3,
