@@ -31,16 +31,6 @@
       "category": "Security"
     },
     {
-      "id": "79e1a1dff5ce07d7",
-      "title": "Möglicher Cyberangriff: Hoster Contabo informiert Kunden über Sicherheitsvorfall",
-      "excerpt": "Ein Angreifer hat sich offenbar Zugriff auf Systeme des Münchener Hostinganbieters Contabo verschafft. Kunden werden per E-Mail informiert. ( Cybercrime , Server )",
-      "summary": "Ein Angreifer hat sich offenbar Zugriff auf Systeme des Münchener Hostinganbieters Contabo verschafft. Kunden werden per E-Mail informiert. ( Cybercrime , Server )",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/moeglicher-cyberangriff-hoster-contabo-informiert-kunden-ueber-sicherheitsvorfall-2611-215306.html",
-      "published": "2026-11-17T11:25:01+00:00",
-      "category": "Security"
-    },
-    {
       "id": "932c1f93465b53c8",
       "title": "ConnectWise ScreenConnect: Angreifer installieren Malware über RMM+-Erweiterung",
       "excerpt": "IT-Forscher haben Angriffe auf eine Schwachstelle in ConnectWise ScreenConnect beobachtet. Bösartige Akteure installieren dadurch Malware.",
@@ -48,6 +38,16 @@
       "source": "heise Security",
       "url": "https://www.heise.de/news/ConnectWise-ScreenConnect-Angreifer-installieren-Malware-ueber-RMM-Erweiterung-11526055.html",
       "published": "2026-11-16T10:15:00+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "8eade67e66f6b639",
+      "title": "Java4Shell: Gefährlicher Bug in Java",
+      "excerpt": "Oracles Patchday stiftet Verwirrung. Es gibt gleich elf Updates gegen Remote Code Execution in Java. Dabei ist auch das hochriskante Java4Shell.",
+      "summary": "Oracles Patchday stiftet Verwirrung. Es gibt gleich elf Updates gegen Remote Code Execution in Java. Dabei ist auch das hochriskante Java4Shell.",
+      "source": "heise Security",
+      "url": "https://www.heise.de/news/Java4Shell-Gefaehrlicher-Bug-in-Java-11528499.html",
+      "published": "2026-11-17T20:13:00+00:00",
       "category": "Security"
     },
     {
@@ -161,7 +161,7 @@
       "category": "Cloud"
     }
   ],
-  "updatedAt": "2026-11-18T10:10:33.107695+00:00",
+  "updatedAt": "2026-11-18T10:20:29.623400+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
