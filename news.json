@@ -31,6 +31,16 @@
       "category": "IT Schweiz"
     },
     {
+      "id": "e0585690d747675f",
+      "title": "Lausanne ernennt neuen IT-Leiter",
+      "excerpt": "Lausanne ernennt neuen IT-Leiter IT-Markt",
+      "summary": "Lausanne ernennt neuen IT-Leiter IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xNjBfbUhpenpBTlB3TzR5RERkSWNlNHBmWndMYk9YZXpvOW9RTlNFd2EzcEZ3TWEzRlBXd1VGWFlHb1B1MFNaU1RMLW1Ta2x1WDZJUXkwS0F3MUhvOU94bUNsMnBOQ2U2QlZvYW9SNGZaZ1dWRUFMVTRDQ2Y?oc=5",
+      "published": "2026-11-18T14:41:09+00:00",
+      "category": "IT Schweiz"
+    },
+    {
       "id": "d035777ff4b76f4c",
       "title": "IT-S expandiert nach Zürich",
       "excerpt": "Der IT-Dienstleister IT-S schliesst sich mit Allnet Solutions aus Urdorf zusammen. Durch die Übernahme des Allnet-Standorts und -Teams in Zürich ist der Dienstleister neu in vier Schweizer Wirtschaftsregionen vertreten.",
@@ -121,16 +131,6 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "8547a56091312ce0",
-      "title": "Fünf Schweizer IT-Firmen gründen OpenSovereign",
-      "excerpt": "VSHN, Puzzle ITC, Adfinis, Cloudscale und Cyberlink haben die Allianz OpenSovereign gegründet. Gemeinsam wollen die fünf Schweizer IT-Unternehmen Organisationen dabei unterstützen, ihre Abhängigkeit von einzelnen Technologieanbietern zu reduzieren.",
-      "summary": "VSHN, Puzzle ITC, Adfinis, Cloudscale und Cyberlink haben die Allianz OpenSovereign gegründet. Gemeinsam wollen die fünf Schweizer IT-Unternehmen Organisationen dabei unterstützen, ihre Abhängigkeit von einzelnen Technologieanbietern zu reduzieren.",
-      "source": "IT Reseller",
-      "url": "https://www.itreseller.ch/Artikel/106636/Fuenf_Schweizer_IT-Firmen_gruenden_OpenSovereign.html",
-      "published": "2026-11-18T07:43:54+00:00",
-      "category": "IT Schweiz"
-    },
-    {
       "id": "011a49bd505659d1",
       "title": "Microsoft Copilot: Neue Credit-Abrechnung kommt für Partner erst 2027",
       "excerpt": "Microsoft Copilot: Neue Credit-Abrechnung kommt für Partner erst 2027 BornCity",
@@ -138,16 +138,6 @@
       "source": "BornCity",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMXI4ckNvSHVlNnlrSVV6WHBiY0hoRU5IQkRwc3FsMFpKWVRMbEQ4NlkxaXN5bDNYSDkwZF9hbEJ5dE4zRTY4dm41RmtLX2xQamltcTRLUU5IUEdtQWJCVDRqSi00Wmlib044WE5EOFUwZWxzOFNTLWpVaGxwSy0tTWN6RUpaVGJGQVhodW91Wlg1a1cyNmUzTWtYU2Y?oc=5",
       "published": "2026-11-18T05:00:08+00:00",
-      "category": "Microsoft 365"
-    },
-    {
-      "id": "244495cbf8c12f4b",
-      "title": "Microsoft Teams: Town Halls erlauben ab Dezember bis zu 20.000 Anmeldungen",
-      "excerpt": "Microsoft Teams: Town Halls erlauben ab Dezember bis zu 20.000 Anmeldungen ad-hoc-news.de",
-      "summary": "Microsoft Teams: Town Halls erlauben ab Dezember bis zu 20.000 Anmeldungen ad-hoc-news.de",
-      "source": "ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVnEtdVN2YkJSVURvLU9xSUFlODBJRkFyRWdJNDdNN1RVZy1UMjJBQXRlS2dmazZPZGg5SWVEMDlLRngteHc5cGNVVDFDUlV5NVlQNHhtWUd1RjZpWlVGejVPY0NjZS1MN044Mk50N3pVU1pMVGEwWkRRYnE2cEQ5bS1MVjJsRnJ5ZVFOMi1GQkJ0TVhRanNKZHpjNjlrNWRuakN1NmpnSWJVbzhTQTZ5MFdUVFNBVTFJSDNjQUMwNA?oc=5",
-      "published": "2026-11-18T01:53:00+00:00",
       "category": "Microsoft 365"
     },
     {
@@ -199,9 +189,19 @@
       "url": "https://www.netzwoche.ch/news/2026-11-17/die-public-cloud-ist-noch-lange-nicht-am-ende",
       "published": "2026-11-17T09:16:07+00:00",
       "category": "Cloud"
+    },
+    {
+      "id": "af2a0c14df400b51",
+      "title": "Entra ID absichern: 14 Schritte, 90 Min [2026]",
+      "excerpt": "Entra ID absichern: 14 Schritte, 90 Min [2026] shattered.io",
+      "summary": "Entra ID absichern: 14 Schritte, 90 Min [2026] shattered.io",
+      "source": "shattered.io",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUUtCQ0xSby1Vekd2V0dhR1l0d2tra0RnVzktb1ZSOUYxRWRYYjBHYWdRM0J1X2VnY3VlOUNRTGJsLUpRZmhNWldCY3BBR2N6M0NGMTVTajExOE5BQU5vM2hSVkNoVUhpUFRjVDcybDBjck1ZQm5aaWN6NHVFd2JHSElxRkR1MzA?oc=5",
+      "published": "2026-11-16T15:58:20+00:00",
+      "category": "Microsoft 365"
     }
   ],
-  "updatedAt": "2026-11-18T16:11:07.960000+00:00",
+  "updatedAt": "2026-11-18T17:16:09.392060+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
