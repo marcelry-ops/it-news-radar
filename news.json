@@ -61,6 +61,16 @@
       "category": "Microsoft 365"
     },
     {
+      "id": "244495cbf8c12f4b",
+      "title": "Microsoft Teams: Town Halls erlauben ab Dezember bis zu 20.000 Anmeldungen",
+      "excerpt": "Microsoft Teams: Town Halls erlauben ab Dezember bis zu 20.000 Anmeldungen ad-hoc-news.de",
+      "summary": "Microsoft Teams: Town Halls erlauben ab Dezember bis zu 20.000 Anmeldungen ad-hoc-news.de",
+      "source": "ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVnEtdVN2YkJSVURvLU9xSUFlODBJRkFyRWdJNDdNN1RVZy1UMjJBQXRlS2dmazZPZGg5SWVEMDlLRngteHc5cGNVVDFDUlV5NVlQNHhtWUd1RjZpWlVGejVPY0NjZS1MN044Mk50N3pVU1pMVGEwWkRRYnE2cEQ5bS1MVjJsRnJ5ZVFOMi1GQkJ0TVhRanNKZHpjNjlrNWRuakN1NmpnSWJVbzhTQTZ5MFdUVFNBVTFJSDNjQUMwNA?oc=5",
+      "published": "2026-11-18T01:53:00+00:00",
+      "category": "Microsoft 365"
+    },
+    {
       "id": "b5e7a91b82275647",
       "title": "Microsoft SharePoint: Angreifer können Code einschleusen und ausführen",
       "excerpt": "Microsoft warnt vor Sicherheitslücken in der SharePoint Server Subscription Edition. Admins sollten das bereitstehende Update anwenden.",
@@ -88,16 +98,6 @@
       "source": "shattered.io",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUUtCQ0xSby1Vekd2V0dhR1l0d2tra0RnVzktb1ZSOUYxRWRYYjBHYWdRM0J1X2VnY3VlOUNRTGJsLUpRZmhNWldCY3BBR2N6M0NGMTVTajExOE5BQU5vM2hSVkNoVUhpUFRjVDcybDBjck1ZQm5aaWN6NHVFd2JHSElxRkR1MzA?oc=5",
       "published": "2026-11-16T15:58:20+00:00",
-      "category": "Microsoft 365"
-    },
-    {
-      "id": "d7ed85da753a4d52",
-      "title": "Microsoft Defender und Purview: Ausfall legt Sicherheitsfunktionen lahm",
-      "excerpt": "Microsoft Defender und Purview: Ausfall legt Sicherheitsfunktionen lahm ad-hoc-news.de",
-      "summary": "Microsoft Defender und Purview: Ausfall legt Sicherheitsfunktionen lahm ad-hoc-news.de",
-      "source": "ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUTltc3lNT3Z3MlFDOTN6bkJXZjRjYmRBS0VtUUJpSWdtQno5Y1k4eV9YeGxqT2d1d19ZWUx3MXpBcjdFcnk4SFdTa1hlTldXQXZ4QzB3UGF4NTFjNVUxTGJEWkhVZmZITGI5QUh2aWU5UnN3VWRFVFIyd3RieUlxb0R4RDF0MVpTWlY2ZUoySEdTRkttUnpSeXp0UmRETzdjako3THJmVUhwUXpseXd6Nmw5Y2p1bEdkdnVJ?oc=5",
-      "published": "2026-11-14T03:02:33+00:00",
       "category": "Microsoft 365"
     },
     {
@@ -151,6 +151,16 @@
       "category": "IT Schweiz"
     },
     {
+      "id": "11c95c941f63eb6b",
+      "title": "Colossus-Rechenzentrum: Memphis verteilt SpaceX-Steuereinnahmen an Anwohner",
+      "excerpt": "Das Geld ist zweckgebunden und kommt Anwohnern des Rechenzentrums Colossus 1 von SpaceXAI zugute. ( Rechenzentrum , Barrierefreiheit )",
+      "summary": "Das Geld ist zweckgebunden und kommt Anwohnern des Rechenzentrums Colossus 1 von SpaceXAI zugute. ( Rechenzentrum , Barrierefreiheit )",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/colossus-rechenzentrum-memphis-verteilt-spacex-steuereinnahmen-an-anwohner-2611-215362.html",
+      "published": "2026-11-18T14:12:02+00:00",
+      "category": "Cloud"
+    },
+    {
       "id": "0a5bdb03ca4b0e9a",
       "title": "Also stärkt Cloud-Geschäft in den USA",
       "excerpt": "Also stärkt Cloud-Geschäft in den USA Inside IT",
@@ -161,7 +171,7 @@
       "category": "Cloud"
     }
   ],
-  "updatedAt": "2026-11-18T13:55:39.664764+00:00",
+  "updatedAt": "2026-11-18T14:23:11.914174+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -172,8 +182,8 @@
     "Security": 5,
     "Microsoft 365": 5,
     "IT Schweiz": 5,
-    "Cloud": 1
+    "Cloud": 2
   },
-  "warning": "Nicht genügend passende aktuelle Meldungen: 4 × Cloud.",
+  "warning": "Nicht genügend passende aktuelle Meldungen: 3 × Cloud.",
   "aiSummaries": false
 }
