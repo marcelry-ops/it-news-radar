@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "6a21a62621a19c6a",
+      "title": "MIND führt DLP-Integrationen für Microsoft Copilot und Microsoft 365 ein",
+      "excerpt": "MIND führt DLP-Integrationen für Microsoft Copilot und Microsoft 365 ein Unite.AI",
+      "summary": "MIND führt DLP-Integrationen für Microsoft Copilot und Microsoft 365 ein Unite.AI",
+      "source": "Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOXy1Vck43UDkyYkdETFBna3RqdjRmbXdsdjlwYXpJQ0FaSjl6TWJRcUNFNkV3YmVsWm9neTJBLU9BS3Z6WXpuUkVSMFFoU1hwcnhjaHZNYU8zUHp4cV93UldSV0kxYUM3cVFHeGZVVGlOb0Y4WEpiTllVY2Y3dHNBZUQ0b1l1U3hlRnNHNGtFeGJDSDQtLUxzdjl0OA?oc=5",
+      "published": "2026-11-18T18:09:03+00:00",
+      "category": "Microsoft 365"
+    },
+    {
       "id": "481469dbae1f56b4",
       "title": "Microsoft Ignite 26: Azure wird agentischer und Windows rückt in die Cloud",
       "excerpt": "Agenten stehen im Mittelpunkt der Ignite 2026: Microsoft will Azure zur zentralen Plattform dafür ausbauen und stellt neue KI-Modelle vor.",
@@ -141,16 +151,6 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "244495cbf8c12f4b",
-      "title": "Microsoft Teams: Town Halls erlauben ab Dezember bis zu 20.000 Anmeldungen",
-      "excerpt": "Microsoft Teams: Town Halls erlauben ab Dezember bis zu 20.000 Anmeldungen ad-hoc-news.de",
-      "summary": "Microsoft Teams: Town Halls erlauben ab Dezember bis zu 20.000 Anmeldungen ad-hoc-news.de",
-      "source": "ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVnEtdVN2YkJSVURvLU9xSUFlODBJRkFyRWdJNDdNN1RVZy1UMjJBQXRlS2dmazZPZGg5SWVEMDlLRngteHc5cGNVVDFDUlV5NVlQNHhtWUd1RjZpWlVGejVPY0NjZS1MN044Mk50N3pVU1pMVGEwWkRRYnE2cEQ5bS1MVjJsRnJ5ZVFOMi1GQkJ0TVhRanNKZHpjNjlrNWRuakN1NmpnSWJVbzhTQTZ5MFdUVFNBVTFJSDNjQUMwNA?oc=5",
-      "published": "2026-11-18T01:53:00+00:00",
-      "category": "Microsoft 365"
-    },
-    {
       "id": "c7b593b54e571edf",
       "title": "Outlook-Sicherheitslücke: Microsoft schließt aktiv genutzte Spoofing-Schwachstelle",
       "excerpt": "Outlook-Sicherheitslücke: Microsoft schließt aktiv genutzte Spoofing-Schwachstelle BornCity",
@@ -201,7 +201,7 @@
       "category": "Cloud"
     }
   ],
-  "updatedAt": "2026-11-18T19:06:10.048120+00:00",
+  "updatedAt": "2026-11-18T20:08:06.567550+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
