@@ -143,19 +143,55 @@ def headline_tokens(title):
 def cve_ids(item):
  return set(CVE_PATTERN.findall(item['title'] + ' ' + item.get('excerpt', '')[:250]))
 
+# A shared product is insufficient: compare the actual incident and its action.
+PRODUCT_PATTERNS = {
+ 'outlook': r'\boutlook\b', 'exchange': r'\bexchange\b',
+ 'teams': r'\bteams\b', 'sharepoint': r'\bsharepoint\b',
+ 'windows': r'\bwindows\b', 'java': r'\bjava\b',
+ 'chrome': r'\bchrome\b', 'firefox': r'\bfirefox\b',
+ 'fortinet': r'\bforti(?:net|os|gate)\b', 'citrix': r'\bcitrix\b',
+ 'vmware': r'\bvmware\b', 'sap': r'\bsap\b',
+}
+EVENT_PATTERNS = {
+ 'spoofing': r'\bspoofing\b|\bidentit[aä]tsf[aä]lschung\b',
+ 'rce': r'\bremote code execution\b|\brce\b|\bferncodeausf[uü]hrung\b',
+ 'phishing': r'\bphishing\b',
+ 'ransomware': r'\bransomware\b|\berpressungstrojaner\b',
+ 'data_leak': r'\bdatenleck\b|\bdatenpanne\b|\bdatenabfluss\b',
+ 'dos': r'\bddos\b|\bdenial.of.service\b',
+}
+
+def concepts(item, patterns):
+ text = (item['title'] + ' ' + item.get('excerpt', '')[:450]).casefold()
+ return {name for name, pattern in patterns.items() if re.search(pattern, text, re.I)}
+
 def same_story(a, b):
  ac, bc = cve_ids(a), cve_ids(b)
+ # If both articles cite different CVEs, do not merge merely because
+ # they concern the same software or vulnerability class.
  if ac and bc:
-  # Different explicitly named vulnerabilities must remain separate.
   return bool(ac & bc)
  at, bt = headline_tokens(a['title']), headline_tokens(b['title'])
- if len(at) < 4 or len(bt) < 4: return False
+ if not at or not bt: return False
  common = len(at & bt)
  overlap = common / min(len(at), len(bt))
  jaccard = common / len(at | bt)
- ta, tb = ' '.join(sorted(at)), ' '.join(sorted(bt))
- similarity = difflib.SequenceMatcher(None, ta, tb).ratio()
- return common >= 5 and ((overlap >= .78 and jaccard >= .52) or (similarity >= .84 and jaccard >= .58))
+ similarity = difflib.SequenceMatcher(None, ' '.join(sorted(at)), ' '.join(sorted(bt))).ratio()
+ # Ordinary near-identical headlines: require multiple distinctive tokens.
+ if common >= 5 and ((overlap >= .78 and jaccard >= .52) or (similarity >= .84 and jaccard >= .58)):
+  return True
+ # One-sided CVE case: only consider a merge with strong product AND
+ # incident agreement, not just generic "security flaw" vocabulary.
+ if bool(ac) != bool(bc):
+  pa, pb = concepts(a, PRODUCT_PATTERNS), concepts(b, PRODUCT_PATTERNS)
+  ea, eb = concepts(a, EVENT_PATTERNS), concepts(b, EVENT_PATTERNS)
+  if not (pa & pb and ea & eb): return False
+  # Same publisher + same product + same vulnerability type, together
+  # with a distinctive title overlap, is a conservative proxy for identity.
+  same_publisher = a.get('source', '').casefold() == b.get('source', '').casefold()
+  if same_publisher and common >= 3 and overlap >= .35: return True
+  if common >= 4 and overlap >= .55 and jaccard >= .35: return True
+ return False
 
 def deduplicate(items):
  # Prefer the most informative and recent representation of a story.
