@@ -11,6 +11,16 @@
       "category": "Security"
     },
     {
+      "id": "5f4ca943da9d5d96",
+      "title": "Nach Cyberangriff: Japan nimmt Supercomputer Fugaku vom Netz",
+      "excerpt": "Unbekannte sind über ein Web-Dashboard in das Netzwerk des Fugaku-Betreibers Riken eingedrungen und haben auf Nutzerdaten zugegriffen. ( Supercomputer , Computer )",
+      "summary": "Unbekannte sind über ein Web-Dashboard in das Netzwerk des Fugaku-Betreibers Riken eingedrungen und haben auf Nutzerdaten zugegriffen. ( Supercomputer , Computer )",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/nach-cyberangriff-japan-nimmt-supercomputer-fugaku-vom-netz-2611-215359.html",
+      "published": "2026-11-18T12:45:02+00:00",
+      "category": "Security"
+    },
+    {
       "id": "3852a168576d6274",
       "title": "Große Marken lieferten Malware-Skript durch Lieferkettenangriff aus",
       "excerpt": "Über die Testplattform Optimizely gelangte am Montag ein Malware-Skript auf Webseiten. Davon waren namhafte Marken betroffen.",
@@ -18,6 +28,16 @@
       "source": "heise Security",
       "url": "https://www.heise.de/news/Grosse-Marken-lieferten-Malware-Skript-durch-Lieferkettenangriff-aus-11527514.html",
       "published": "2026-11-17T13:00:00+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "80d95080699c3f53",
+      "title": "Notfall-Update gegen DDoS: Flut an Client-Verbindungen überlastet das Tor-Netzwerk",
+      "excerpt": "Betreiber von Tor-Relays sollten zügig ihre Software aktualisieren. Das jüngste Update enthält einen neuen Schutz vor laufenden DDoS-Attacken. ( DoS , Cyberwar )",
+      "summary": "Betreiber von Tor-Relays sollten zügig ihre Software aktualisieren. Das jüngste Update enthält einen neuen Schutz vor laufenden DDoS-Attacken. ( DoS , Cyberwar )",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/notfall-update-veroeffentlicht-laufende-angriffe-beeintraechtigen-das-tor-netzwerk-2611-215355.html",
+      "published": "2026-11-18T11:40:02+00:00",
       "category": "Security"
     },
     {
@@ -31,26 +51,6 @@
       "category": "Security"
     },
     {
-      "id": "932c1f93465b53c8",
-      "title": "ConnectWise ScreenConnect: Angreifer installieren Malware über RMM+-Erweiterung",
-      "excerpt": "IT-Forscher haben Angriffe auf eine Schwachstelle in ConnectWise ScreenConnect beobachtet. Bösartige Akteure installieren dadurch Malware.",
-      "summary": "IT-Forscher haben Angriffe auf eine Schwachstelle in ConnectWise ScreenConnect beobachtet. Bösartige Akteure installieren dadurch Malware.",
-      "source": "heise Security",
-      "url": "https://www.heise.de/news/ConnectWise-ScreenConnect-Angreifer-installieren-Malware-ueber-RMM-Erweiterung-11526055.html",
-      "published": "2026-11-16T10:15:00+00:00",
-      "category": "Security"
-    },
-    {
-      "id": "8eade67e66f6b639",
-      "title": "Java4Shell: Gefährlicher Bug in Java",
-      "excerpt": "Oracles Patchday stiftet Verwirrung. Es gibt gleich elf Updates gegen Remote Code Execution in Java. Dabei ist auch das hochriskante Java4Shell.",
-      "summary": "Oracles Patchday stiftet Verwirrung. Es gibt gleich elf Updates gegen Remote Code Execution in Java. Dabei ist auch das hochriskante Java4Shell.",
-      "source": "heise Security",
-      "url": "https://www.heise.de/news/Java4Shell-Gefaehrlicher-Bug-in-Java-11528499.html",
-      "published": "2026-11-17T20:13:00+00:00",
-      "category": "Security"
-    },
-    {
       "id": "011a49bd505659d1",
       "title": "Microsoft Copilot: Neue Credit-Abrechnung kommt für Partner erst 2027",
       "excerpt": "Microsoft Copilot: Neue Credit-Abrechnung kommt für Partner erst 2027 BornCity",
@@ -58,6 +58,16 @@
       "source": "BornCity",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMXI4ckNvSHVlNnlrSVV6WHBiY0hoRU5IQkRwc3FsMFpKWVRMbEQ4NlkxaXN5bDNYSDkwZF9hbEJ5dE4zRTY4dm41RmtLX2xQamltcTRLUU5IUEdtQWJCVDRqSi00Wmlib044WE5EOFUwZWxzOFNTLWpVaGxwSy0tTWN6RUpaVGJGQVhodW91Wlg1a1cyNmUzTWtYU2Y?oc=5",
       "published": "2026-11-18T05:00:08+00:00",
+      "category": "Microsoft 365"
+    },
+    {
+      "id": "b5e7a91b82275647",
+      "title": "Microsoft SharePoint: Angreifer können Code einschleusen und ausführen",
+      "excerpt": "Microsoft warnt vor Sicherheitslücken in der SharePoint Server Subscription Edition. Admins sollten das bereitstehende Update anwenden.",
+      "summary": "Microsoft warnt vor Sicherheitslücken in der SharePoint Server Subscription Edition. Admins sollten das bereitstehende Update anwenden.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Microsoft-SharePoint-Angreifer-koennen-Code-einschleusen-und-ausfuehren-11529556.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published": "2026-11-18T13:05:00+00:00",
       "category": "Microsoft 365"
     },
     {
@@ -88,16 +98,6 @@
       "source": "ad-hoc-news.de",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUTltc3lNT3Z3MlFDOTN6bkJXZjRjYmRBS0VtUUJpSWdtQno5Y1k4eV9YeGxqT2d1d19ZWUx3MXpBcjdFcnk4SFdTa1hlTldXQXZ4QzB3UGF4NTFjNVUxTGJEWkhVZmZITGI5QUh2aWU5UnN3VWRFVFIyd3RieUlxb0R4RDF0MVpTWlY2ZUoySEdTRkttUnpSeXp0UmRETzdjako3THJmVUhwUXpseXd6Nmw5Y2p1bEdkdnVJ?oc=5",
       "published": "2026-11-14T03:02:33+00:00",
-      "category": "Microsoft 365"
-    },
-    {
-      "id": "92c2cd48a642c966",
-      "title": "Weltweiter Ausfall bei Microsoft 365: Störungen bei Outlook und Teams treffen auch Behörden UPDATE II",
-      "excerpt": "Weltweiter Ausfall bei Microsoft 365: Störungen bei Outlook und Teams treffen auch Behörden UPDATE II AppDated",
-      "summary": "Weltweiter Ausfall bei Microsoft 365: Störungen bei Outlook und Teams treffen auch Behörden UPDATE II AppDated",
-      "source": "AppDated",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ0dxTmM4bGRhZHYwbFBxY29JRjBPUmdhZnRwZUlENFU3ZXJKRkpHcnRjRjdISkJHNG9pVFBBR2xwODltRDdPc243dG5NZlREelM0UlUzbWNqNkxrckdrX3ZISUI2ZFJabHlveTFkVUVHYnlGSmx4Mnl2WjRqQnp0MWpCTXdvSmV2ZC1oQm9Ebm1xMksybFRzcW83RjBWWlRpTXg2NnFrTDdhaTZtR29sVlExS3UwUTkybnlHNA?oc=5",
-      "published": "2026-11-13T05:15:35+00:00",
       "category": "Microsoft 365"
     },
     {
@@ -151,16 +151,6 @@
       "category": "IT Schweiz"
     },
     {
-      "id": "4c66e7b542d038aa",
-      "title": "Cloud & KI: 403 US-Rechenzentren brauchen mehr Energie als manches EU-Land",
-      "excerpt": "Viele Zahlen zum Energiebedarf mussten die Forscher abschätzen. Einige der aktuell größten Rechenzentren sind dabei nicht einmal berücksichtigt. ( Energie & Klima , KI )",
-      "summary": "Viele Zahlen zum Energiebedarf mussten die Forscher abschätzen. Einige der aktuell größten Rechenzentren sind dabei nicht einmal berücksichtigt. ( Energie & Klima , KI )",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/cloud-ki-403-us-rechenzentren-brauchen-mehr-energie-als-manches-eu-land-2611-215316.html",
-      "published": "2026-11-17T15:28:02+00:00",
-      "category": "Cloud"
-    },
-    {
       "id": "0a5bdb03ca4b0e9a",
       "title": "Also stärkt Cloud-Geschäft in den USA",
       "excerpt": "Also stärkt Cloud-Geschäft in den USA Inside IT",
@@ -171,7 +161,7 @@
       "category": "Cloud"
     }
   ],
-  "updatedAt": "2026-11-18T12:08:21.410622+00:00",
+  "updatedAt": "2026-11-18T13:25:26.884107+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -182,8 +172,8 @@
     "Security": 5,
     "Microsoft 365": 5,
     "IT Schweiz": 5,
-    "Cloud": 2
+    "Cloud": 1
   },
-  "warning": "Nicht genügend passende aktuelle Meldungen: 3 × Cloud.",
+  "warning": "Nicht genügend passende aktuelle Meldungen: 4 × Cloud.",
   "aiSummaries": false
 }
