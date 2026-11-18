@@ -48,7 +48,7 @@
       "source": "Netzwoche",
       "url": "https://www.netzwoche.ch/news/2026-11-18/it-s-expandiert-nach-zuerich",
       "published": "2026-11-18T14:39:44+00:00",
-      "category": "Microsoft 365"
+      "category": "IT Schweiz"
     },
     {
       "id": "857d973cc60d03ab",
@@ -101,16 +101,6 @@
       "category": "Security"
     },
     {
-      "id": "2bc246b2544f705f",
-      "title": "Hacker-Angriff auf Eishockey-Weltverband IIHF",
-      "excerpt": "Die Website des Verbands ist derzeit nicht erreichbar. Der Vorfall könnte mit dem Ausschluss russischer Teams von internationalen Wettbewerben in Verbindung stehen.",
-      "summary": "Die Website des Verbands ist derzeit nicht erreichbar. Der Vorfall könnte mit dem Ausschluss russischer Teams von internationalen Wettbewerben in Verbindung stehen.",
-      "source": "Inside IT",
-      "url": "https://www.inside-it.ch/hacker-angriff-auf-eishockey-weltverband-iihf-20261118",
-      "published": "2026-11-18T11:25:53+00:00",
-      "category": "Microsoft 365"
-    },
-    {
       "id": "0d11956a44fb45c1",
       "title": "Fünf Schweizer IT-Unternehmen gründen Opensovereign",
       "excerpt": "Die fünf Schweizer IT-Unternehmen VSHN, Puzzle ITC, Adfinis, Cloudscale und Cyberlink rufen eine gemeinsame Initiative für digitale Souveränität ins Leben. Opensovereign soll Schweizer Organisationen auf dem Weg zur digitalen Unabhängigkeit begleiten. Dazu gehört die Ablösung proprietärer Anbieter und der Ausbau selbst kontrollierbarer IT-Infrastruktur.",
@@ -141,14 +131,24 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "8547a56091312ce0",
-      "title": "Fünf Schweizer IT-Firmen gründen OpenSovereign",
-      "excerpt": "VSHN, Puzzle ITC, Adfinis, Cloudscale und Cyberlink haben die Allianz OpenSovereign gegründet. Gemeinsam wollen die fünf Schweizer IT-Unternehmen Organisationen dabei unterstützen, ihre Abhängigkeit von einzelnen Technologieanbietern zu reduzieren.",
-      "summary": "VSHN, Puzzle ITC, Adfinis, Cloudscale und Cyberlink haben die Allianz OpenSovereign gegründet. Gemeinsam wollen die fünf Schweizer IT-Unternehmen Organisationen dabei unterstützen, ihre Abhängigkeit von einzelnen Technologieanbietern zu reduzieren.",
-      "source": "IT Reseller",
-      "url": "https://www.itreseller.ch/Artikel/106636/Fuenf_Schweizer_IT-Firmen_gruenden_OpenSovereign.html",
-      "published": "2026-11-18T07:43:54+00:00",
-      "category": "IT Schweiz"
+      "id": "011a49bd505659d1",
+      "title": "Microsoft Copilot: Neue Credit-Abrechnung kommt für Partner erst 2027",
+      "excerpt": "Microsoft Copilot: Neue Credit-Abrechnung kommt für Partner erst 2027 BornCity",
+      "summary": "Microsoft Copilot: Neue Credit-Abrechnung kommt für Partner erst 2027 BornCity",
+      "source": "BornCity",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMXI4ckNvSHVlNnlrSVV6WHBiY0hoRU5IQkRwc3FsMFpKWVRMbEQ4NlkxaXN5bDNYSDkwZF9hbEJ5dE4zRTY4dm41RmtLX2xQamltcTRLUU5IUEdtQWJCVDRqSi00Wmlib044WE5EOFUwZWxzOFNTLWpVaGxwSy0tTWN6RUpaVGJGQVhodW91Wlg1a1cyNmUzTWtYU2Y?oc=5",
+      "published": "2026-11-18T05:00:08+00:00",
+      "category": "Microsoft 365"
+    },
+    {
+      "id": "244495cbf8c12f4b",
+      "title": "Microsoft Teams: Town Halls erlauben ab Dezember bis zu 20.000 Anmeldungen",
+      "excerpt": "Microsoft Teams: Town Halls erlauben ab Dezember bis zu 20.000 Anmeldungen ad-hoc-news.de",
+      "summary": "Microsoft Teams: Town Halls erlauben ab Dezember bis zu 20.000 Anmeldungen ad-hoc-news.de",
+      "source": "ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVnEtdVN2YkJSVURvLU9xSUFlODBJRkFyRWdJNDdNN1RVZy1UMjJBQXRlS2dmazZPZGg5SWVEMDlLRngteHc5cGNVVDFDUlV5NVlQNHhtWUd1RjZpWlVGejVPY0NjZS1MN044Mk50N3pVU1pMVGEwWkRRYnE2cEQ5bS1MVjJsRnJ5ZVFOMi1GQkJ0TVhRanNKZHpjNjlrNWRuakN1NmpnSWJVbzhTQTZ5MFdUVFNBVTFJSDNjQUMwNA?oc=5",
+      "published": "2026-11-18T01:53:00+00:00",
+      "category": "Microsoft 365"
     },
     {
       "id": "c7b593b54e571edf",
@@ -201,7 +201,7 @@
       "category": "Cloud"
     }
   ],
-  "updatedAt": "2026-11-18T18:06:21.365899+00:00",
+  "updatedAt": "2026-11-18T19:06:10.048120+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -214,6 +214,6 @@
     "IT Schweiz": 5,
     "Cloud": 5
   },
-  "warning": "1 von 13 RSS-Quellen waren nicht erreichbar.",
+  "warning": "",
   "aiSummaries": false
 }
