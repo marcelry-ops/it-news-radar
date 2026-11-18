@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build a German-language 3/3/3/1 RSS digest for GitHub Pages; stdlib only."""
+"""Build a German-language 5/5/5/5 RSS digest for GitHub Pages; stdlib only."""
 import datetime as dt
 import difflib
 import unicodedata
@@ -17,7 +17,7 @@ from pathlib import Path
 
 UTC = dt.timezone.utc
 NOW = dt.datetime.now(UTC)
-TARGETS = {'Security': 3, 'Microsoft 365': 3, 'IT Schweiz': 3, 'Cloud': 1}
+TARGETS = {'Security': 5, 'Microsoft 365': 5, 'IT Schweiz': 5, 'Cloud': 5}
 MAX_AGE_DAYS = int(os.getenv('NEWS_MAX_AGE_DAYS', '7'))
 ATOM = '{http://www.w3.org/2005/Atom}'
 RSS_NS = '{http://purl.org/rss/1.0/modules/content/}'
@@ -165,117 +165,37 @@ def concepts(item, patterns):
  text = (item['title'] + ' ' + item.get('excerpt', '')[:450]).casefold()
  return {name for name, pattern in patterns.items() if re.search(pattern, text, re.I)}
 
-
 def same_story(a, b):
-    ac, bc = cve_ids(a), cve_ids(b)
+ ac, bc = cve_ids(a), cve_ids(b)
+ if ac and bc:
+  return bool(ac & bc)
 
-    # Identische CVEs zusammenfuehren.
-    # Unterschiedliche bekannte CVEs getrennt behandeln.
-    if ac and bc:
-        return bool(ac & bc)
+ def normalized_tokens(item):
+  text = unicodedata.normalize('NFKD', item['title'].casefold())
+  text = ''.join(ch for ch in text if not unicodedata.combining(ch))
+  text = re.sub(r'cve[- ]?\d{4}[- ]?\d{4,}', ' ', text)
+  synonyms = {'sicherheitslucke':'schwachstelle', 'lucke':'schwachstelle',
+              'genutzte':'ausgenutzt', 'ausgenutzte':'ausgenutzt',
+              'schliesst':'patch', 'behoben':'patch'}
+  return {synonyms.get(t, t) for t in re.findall(r'[a-z0-9]+', text)
+          if len(t) >= 3 and t not in STOPWORDS}
 
-    def normalized_tokens(item):
-        text = item.get("title", "").casefold()
-        text = unicodedata.normalize("NFKD", text)
-        text = "".join(
-            ch for ch in text
-            if not unicodedata.combining(ch)
-        )
-
-        replacements = {
-            "sicherheitslucke": "schwachstelle",
-            "lucke": "schwachstelle",
-            "spoofing-schwachstelle": "spoofing",
-            "ausgenutzte": "ausgenutzt",
-            "genutzte": "ausgenutzt",
-            "schliesst": "patch",
-            "geschlossen": "patch",
-            "behoben": "patch",
-        }
-
-        text = re.sub(
-            r"(?i)cve-\d{4}-\d{4,}",
-            " ",
-            text
-        )
-
-        tokens = re.findall(r"[a-z0-9]+", text)
-
-        return {
-            replacements.get(t, t)
-            for t in tokens
-            if len(t) >= 3 and t not in STOPWORDS
-        }
-
-    at = normalized_tokens(a)
-    bt = normalized_tokens(b)
-
-    if not at or not bt:
-        return False
-
-    common = len(at & bt)
-    overlap = common / min(len(at), len(bt))
-    jaccard = common / len(at | bt)
-
-    pa = concepts(a, PRODUCT_PATTERNS)
-    pb = concepts(b, PRODUCT_PATTERNS)
-    ea = concepts(a, EVENT_PATTERNS)
-    eb = concepts(b, EVENT_PATTERNS)
-
-    same_product = bool(pa & pb)
-    same_event = bool(ea & eb)
-
-    source_a = a.get("source", "").strip().casefold()
-    source_b = b.get("source", "").strip().casefold()
-
-    same_publisher = bool(source_a) and source_a == source_b
-
-    # Kein Zusammenfuehren bei widerspruechlichen Produkten.
-    if pa and pb and not same_product:
-        return False
-
-    # Kein Zusammenfuehren bei klar unterschiedlichen
-    # Schwachstellentypen.
-    if ea and eb and not same_event:
-        return False
-
-    # Nahezu identische Titel.
-    if common >= 5 and overlap >= 0.80 and jaccard >= 0.55:
-        return True
-
-    # Einseitige CVE: gleiche Quelle, gleiches Produkt
-    # und starke Titeluebereinstimmung.
-    if bool(ac) != bool(bc):
-        if (
-            same_publisher
-            and same_product
-            and common >= 3
-            and overlap >= 0.50
-        ):
-            return True
-
-        if (
-            same_product
-            and same_event
-            and common >= 4
-            and overlap >= 0.65
-        ):
-            return True
-
-        return False
-
-    # Beide ohne CVE: gleiche Quelle, gleiches Produkt
-    # und sehr hohe Uebereinstimmung.
-    if (
-        same_publisher
-        and same_product
-        and common >= 4
-        and overlap >= 0.75
-    ):
-        return True
-
-    return False
-
+ at, bt = normalized_tokens(a), normalized_tokens(b)
+ if not at or not bt: return False
+ common = len(at & bt)
+ overlap = common / min(len(at), len(bt))
+ jaccard = common / len(at | bt)
+ pa, pb = concepts(a, PRODUCT_PATTERNS), concepts(b, PRODUCT_PATTERNS)
+ ea, eb = concepts(a, EVENT_PATTERNS), concepts(b, EVENT_PATTERNS)
+ if pa and pb and not (pa & pb): return False
+ if ea and eb and not (ea & eb): return False
+ if common >= 5 and overlap >= .80 and jaccard >= .55: return True
+ same_source = bool(a.get('source')) and a.get('source', '').casefold() == b.get('source', '').casefold()
+ same_product = bool(pa & pb)
+ if bool(ac) != bool(bc):
+  return ((same_source and same_product and common >= 3 and overlap >= .50)
+          or (same_product and bool(ea & eb) and common >= 4 and overlap >= .65))
+ return bool(same_source and same_product and common >= 4 and overlap >= .75)
 
 def deduplicate(items):
  # Prefer the most informative and recent representation of a story.
@@ -302,25 +222,6 @@ def select(items):
  return chosen, counts
 
 
-def summarize(items):
- key = os.getenv('OPENAI_API_KEY', '').strip()
- if not key or not items: return False
- body = {'model':os.getenv('OPENAI_MODEL', 'gpt-4o-mini'), 'temperature':0.1,
-         'response_format':{'type':'json_object'}, 'messages':[
-          {'role':'system','content':'Schreibe pro Meldung eine neutrale deutschsprachige Zusammenfassung mit maximal 240 Zeichen, Schweizer Rechtschreibung ohne ß. Nur belegte Angaben aus Titel und RSS-Auszug verwenden. Keine zusätzlichen Fakten. Gib JSON {"summaries":[{"id":"...","summary":"..."}]} zurück.'},
-          {'role':'user','content':json.dumps([{'id':i['id'],'title':i['title'],'excerpt':i['excerpt']} for i in items], ensure_ascii=False)}]}
- req = urllib.request.Request('https://api.openai.com/v1/chat/completions', data=json.dumps(body).encode(),
-                              headers={'Authorization':'Bearer '+key,'Content-Type':'application/json'}, method='POST')
- try:
-  with urllib.request.urlopen(req, timeout=45) as response: data = json.load(response)
-  mapping = {x['id']:clean(x['summary'])[:240] for x in json.loads(data['choices'][0]['message']['content']).get('summaries', []) if isinstance(x, dict) and isinstance(x.get('summary'), str)}
-  for item in items:
-   if item['id'] in mapping and mapping[item['id']]: item['summary'] = mapping[item['id']]
-  return bool(mapping)
- except Exception as exc:
-  print('AI unavailable:', str(exc)[:200]); return False
-
-
 def main():
  results = []; failures = []
  with ThreadPoolExecutor(max_workers=6) as executor:
@@ -332,15 +233,13 @@ def main():
  chosen, counts = select(results)
  if not chosen and Path('news.json').exists():
   print('No suitable articles; retaining previous dataset'); return
- ai = summarize(chosen)
  missing = [f'{TARGETS[c]-counts[c]} × {c}' for c in TARGETS if counts[c] < TARGETS[c]]
  warnings = []
  if missing: warnings.append('Nicht genügend passende aktuelle Meldungen: ' + ', '.join(missing) + '.')
  if failures: warnings.append(f'{len(failures)} von {len(FEEDS)} RSS-Quellen waren nicht erreichbar.')
- if not ai: warnings.append('Kurztexte stammen aus RSS-Auszügen; keine KI-Zusammenfassungen aktiv.')
  payload = {'items':chosen, 'updatedAt':NOW.isoformat(), 'targets':TARGETS, 'counts':counts,
-            'warning':' '.join(warnings), 'aiSummaries':ai}
+            'warning':' '.join(warnings), 'aiSummaries':False}
  Path('news.json').write_text(json.dumps(payload, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
- print('Saved', len(chosen), 'items; categories:', counts, 'AI:', ai, 'feed failures:', failures)
+ print('Saved', len(chosen), 'items; categories:', counts, 'feed failures:', failures)
 
 if __name__ == '__main__': main()
