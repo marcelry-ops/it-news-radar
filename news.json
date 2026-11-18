@@ -11,6 +11,16 @@
       "category": "Security"
     },
     {
+      "id": "3852a168576d6274",
+      "title": "Große Marken lieferten Malware-Skript durch Lieferkettenangriff aus",
+      "excerpt": "Über die Testplattform Optimizely gelangte am Montag ein Malware-Skript auf Webseiten. Davon waren namhafte Marken betroffen.",
+      "summary": "Über die Testplattform Optimizely gelangte am Montag ein Malware-Skript auf Webseiten. Davon waren namhafte Marken betroffen.",
+      "source": "heise Security",
+      "url": "https://www.heise.de/news/Grosse-Marken-lieferten-Malware-Skript-durch-Lieferkettenangriff-aus-11527514.html",
+      "published": "2026-11-17T13:00:00+00:00",
+      "category": "Security"
+    },
+    {
       "id": "3a00de89322a9b1d",
       "title": "Nach Datenleck: Deutsche-Bank-Chef sieht keine Gefahr für Kundendaten",
       "excerpt": "Laut Deutsche-Bank-Chef Christian Sewing sind durch das Datenleck weder die Systeme der Bank kompromittiert noch Kundendaten gefährdet. ( Datenleck , Sicherheitslücke )",
@@ -18,16 +28,6 @@
       "source": "Golem.de",
       "url": "https://www.golem.de/news/nach-datenleck-deutsche-bank-chef-sieht-keine-gefahr-fuer-kundendaten-2611-215353.html",
       "published": "2026-11-18T11:15:02+00:00",
-      "category": "Security"
-    },
-    {
-      "id": "10aee0282cb55168",
-      "title": "Große Marken lieferten Malware-Skript durch Lieferkettenangriff aus",
-      "excerpt": "Über die Testplattform Optimizely gelangte am Montag ein Malware-Skript auf Webseiten. Davon waren namhafte Marken betroffen.",
-      "summary": "Über die Testplattform Optimizely gelangte am Montag ein Malware-Skript auf Webseiten. Davon waren namhafte Marken betroffen.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Grosse-Marken-lieferten-Malware-Skript-durch-Lieferkettenangriff-aus-11527514.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published": "2026-11-17T13:00:00+00:00",
       "category": "Security"
     },
     {
@@ -131,16 +131,6 @@
       "category": "IT Schweiz"
     },
     {
-      "id": "92fc3ec9ba066eb5",
-      "title": "T-Systems Schweiz lanciert Plattform für souveräne KI",
-      "excerpt": "T-Systems Schweiz lanciert Plattform für souveräne KI IT-Markt",
-      "summary": "T-Systems Schweiz lanciert Plattform für souveräne KI IT-Markt",
-      "source": "IT-Markt",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOWwzd0FTdmVhUXhYTVhKQ042aTFMc19wZDVKR3puVWtRdkZsTWRiOS1YalZPUEtVOWNFQjJRTlJSNHlSMG1SNWVEbGpLTl85QzN6M1c4SzBBWHJ5Ri1yMkJzeE9vVXhUaVNiOWZsT0hDSFFTOWk5emdTLXZQYkZkWnFUVkJ1aC02MmY0R0wzTVFDT3ZlcFRqd25qaw?oc=5",
-      "published": "2026-11-12T10:28:38+00:00",
-      "category": "IT Schweiz"
-    },
-    {
       "id": "a0be1c53ececc5b1",
       "title": "Schweiz verliert im KI-Ranking an Boden",
       "excerpt": "Schweiz verliert im KI-Ranking an Boden Netzwoche",
@@ -148,6 +138,16 @@
       "source": "Netzwoche",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTWxZTFFFbHNRN1ZPMjRSRklQckZJQ0RWRDVfdjFUQlBKeE1NRWlBUTdWWkx5XzE3OGdrN3VGTFVLVXVNanFrM1Jmc2ZXOHdPZjNpZHhnR09ncTBSZWk5N2U1VkxfNHNTZWdPUkFoSG1qTW9OWkUyOWtDanROTURHemxOUzlSQVU?oc=5",
       "published": "2026-11-11T14:37:11+00:00",
+      "category": "IT Schweiz"
+    },
+    {
+      "id": "1161df4988a1d8a1",
+      "title": "Zugriff auf ictjobs.ch neu auch via Mobile-App",
+      "excerpt": "Zugriff auf ictjobs.ch neu auch via Mobile-App Swiss IT Magazine",
+      "summary": "Zugriff auf ictjobs.ch neu auch via Mobile-App Swiss IT Magazine",
+      "source": "Swiss IT Magazine",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdGE0dXhDdUM0bUk4NzdZSVJEMzI3WXBpSkp1Z0J4RkJBbmQ1REdYWTNSSUZLWUdlc0stZnFaTG9yVmI3UTRFSmxPaW1vVHhNWDZOTmdQYWY4WEtLOG5iblowNDBIeXFnWnVXRlZrc1BZT1RRS3lVM2lCOXlTZGZJM1RXS1hsUVFnTnZiMG85SFRqNmYzcnc?oc=5",
+      "published": "2026-11-12T07:12:00+00:00",
       "category": "IT Schweiz"
     },
     {
@@ -171,7 +171,7 @@
       "category": "Cloud"
     }
   ],
-  "updatedAt": "2026-11-18T11:57:48.475609+00:00",
+  "updatedAt": "2026-11-18T12:08:21.410622+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
