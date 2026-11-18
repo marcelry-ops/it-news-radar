@@ -1,106 +1,119 @@
 {
   "items": [
     {
-      "id": "e60b9956be543b5e",
-      "title": "heise-Angebot: iX-Workshop: Lokales Active Directory gegen Angriffe absichern",
-      "excerpt": "Lernen Sie, wie Angreifer Active Directory kompromittieren und wie Sie Ihre AD-Umgebung effektiv vor Ransomware und anderen Cyberangriffen schützen.",
-      "summary": "Lernen Sie, wie Angreifer Active Directory kompromittieren und wie Sie Ihre AD-Umgebung effektiv vor Ransomware und anderen Cyberangriffen schützen.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/iX-Workshop-Lokales-Active-Directory-gegen-Angriffe-absichern-11515951.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published": "2026-11-18T07:00:00+00:00",
+      "id": "4099dd09aadd415e",
+      "title": "Outlook-Lücke CVE-2026-124194: Angreifer stehlen NTLMv2-Anmeldedaten",
+      "excerpt": "Outlook-Lücke CVE-2026-124194: Angreifer stehlen NTLMv2-Anmeldedaten ad-hoc-news.de",
+      "summary": "Outlook-Lücke CVE-2026-124194: Angreifer stehlen NTLMv2-Anmeldedaten ad-hoc-news.de",
+      "source": "ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLXJzVkFBcGY2MGpWVzNLbTgzaGgzQm5SR2N0M3Naa0g2MTdyVU1nVFpOZlR6bVdnME41Wk5zaUt6LXhfQnpGYjJnSkRnelV4XzhOZWl2V1hjTGJWcTdiTFlrdVJHNS0yakVxR0tqaXl1d2Rnc1RtRFNNTXNkVDhvX3hVM2t0UmpZaTh3REpkVTFLOFQwaVFEc050SG5tUGZzbk1Mekt5X3BkR0lJVm5WUmRQbUp0M2Rr?oc=5",
+      "published": "2026-11-18T06:43:27+00:00",
       "category": "Security"
     },
     {
-      "id": "e1556aa10d7cd3ec",
-      "title": "Anzeige: Microsoft 365: Identitäten, Geräte und Daten absichern",
-      "excerpt": "Microsoft 365 Security umfasst den Schutz von Identitäten, Endgeräten und Daten. Ein dreitägiger Workshop vermittelt die nötigen Konfigurationen und Sicherheitskonzepte. ( Golem Karrierewelt , Verschlüsselung )",
-      "summary": "Microsoft 365 Security umfasst den Schutz von Identitäten, Endgeräten und Daten. Ein dreitägiger Workshop vermittelt die nötigen Konfigurationen und Sicherheitskonzepte. ( Golem Karrierewelt , Verschlüsselung )",
+      "id": "c7b593b54e571edf",
+      "title": "Outlook-Sicherheitslücke: Microsoft schließt aktiv genutzte Spoofing-Schwachstelle",
+      "excerpt": "Outlook-Sicherheitslücke: Microsoft schließt aktiv genutzte Spoofing-Schwachstelle BornCity",
+      "summary": "Outlook-Sicherheitslücke: Microsoft schließt aktiv genutzte Spoofing-Schwachstelle BornCity",
+      "source": "BornCity",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZEM3VHhmSkFIMHNHc1g1NnY0Q25NUHZZclpURmxlclowVllNazNpTVg3Si1EQnJVbnBHaS1LWmk1bEEwd3hJUnM4SU9qOXlvR1RkN0g2OFJzd3UwTWtvUlhSWFFNRnFxNTNwNnJIaGtXYjlDUW04eTBMTUJZbUhicUU1d1NBUV8taHFpRlpHTW41QlRyNHVMNVc0YUdLdlBuRU12LTN3Y0FnYnF1ZHFB?oc=5",
+      "published": "2026-11-17T14:31:05+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "2dd609e7e6cb4480",
+      "title": "Outlook-Lücke CVE-2026-124194: Microsoft schließt aktiv ausgenutzte Schwachstelle",
+      "excerpt": "Outlook-Lücke CVE-2026-124194: Microsoft schließt aktiv ausgenutzte Schwachstelle BornCity",
+      "summary": "Outlook-Lücke CVE-2026-124194: Microsoft schließt aktiv ausgenutzte Schwachstelle BornCity",
+      "source": "BornCity",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMk41VWVKOEI5M2hablVFbDRXcmJVXzdkWDFsMGVSWUpZTjRnVkJIQWlUREZpbDhGckxhOGxvYTBPaDlLbkdPbEZWa1M2QWFrbWlJRzhGZzl4TlBjekpDYksxNl90X3lJY0NlQ1BnRG1PUl9zODRzc1VlTkl2Z3NEOUdMamtWb3VtMDhtU1lFT3JZWmMtcXlId003TmJRRTR4UV9ZSEYtZ3NuRWNmZ1E?oc=5",
+      "published": "2026-11-16T10:19:04+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "011a49bd505659d1",
+      "title": "Microsoft Copilot: Neue Credit-Abrechnung kommt für Partner erst 2027",
+      "excerpt": "Microsoft Copilot: Neue Credit-Abrechnung kommt für Partner erst 2027 BornCity",
+      "summary": "Microsoft Copilot: Neue Credit-Abrechnung kommt für Partner erst 2027 BornCity",
+      "source": "BornCity",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMXI4ckNvSHVlNnlrSVV6WHBiY0hoRU5IQkRwc3FsMFpKWVRMbEQ4NlkxaXN5bDNYSDkwZF9hbEJ5dE4zRTY4dm41RmtLX2xQamltcTRLUU5IUEdtQWJCVDRqSi00Wmlib044WE5EOFUwZWxzOFNTLWpVaGxwSy0tTWN6RUpaVGJGQVhodW91Wlg1a1cyNmUzTWtYU2Y?oc=5",
+      "published": "2026-11-18T05:00:08+00:00",
+      "category": "Microsoft 365"
+    },
+    {
+      "id": "bbb5946cccfaeb07",
+      "title": "Microsoft-Schullizenzen: Office 365 A1 und Gratis-Mail laufen schrittweise aus",
+      "excerpt": "Microsoft-Schullizenzen: Office 365 A1 und Gratis-Mail laufen schrittweise aus BornCity",
+      "summary": "Microsoft-Schullizenzen: Office 365 A1 und Gratis-Mail laufen schrittweise aus BornCity",
+      "source": "BornCity",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQVJGQVZzU1pkTWJfcGpkbU1yMTM0cTZ1R1lMMUpTVE4wTTdWVmtDOF9OVzFiY2FWbEo2WHJhWUpCZnNQSHQ5eEZVeFY1cmR6RG8zeHJfMV9nekJlNGpCdDU1X2J6Q1Qwd2xmME9GSEVBeldDN0hQVXM1UXpUeldTRUJCckVfQ1NnUnQ5d0hxOWNGdE1yaldBOTluelk5S1MzLWhuNHE5SQ?oc=5",
+      "published": "2026-11-17T11:11:05+00:00",
+      "category": "Microsoft 365"
+    },
+    {
+      "id": "af2a0c14df400b51",
+      "title": "Entra ID absichern: 14 Schritte, 90 Min [2026]",
+      "excerpt": "Entra ID absichern: 14 Schritte, 90 Min [2026] shattered.io",
+      "summary": "Entra ID absichern: 14 Schritte, 90 Min [2026] shattered.io",
+      "source": "shattered.io",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUUtCQ0xSby1Vekd2V0dhR1l0d2tra0RnVzktb1ZSOUYxRWRYYjBHYWdRM0J1X2VnY3VlOUNRTGJsLUpRZmhNWldCY3BBR2N6M0NGMTVTajExOE5BQU5vM2hSVkNoVUhpUFRjVDcybDBjck1ZQm5aaWN6NHVFd2JHSElxRkR1MzA?oc=5",
+      "published": "2026-11-16T15:58:20+00:00",
+      "category": "Microsoft 365"
+    },
+    {
+      "id": "0d8a194978b02f38",
+      "title": "So verändert sich das Mandat Schweizer CIOs",
+      "excerpt": "So verändert sich das Mandat Schweizer CIOs IT-Markt",
+      "summary": "So verändert sich das Mandat Schweizer CIOs IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWXpkVFkxNE9nbGwyVUhOZ1NIaXpfSlExM2ptSDk2Vm1hZUhWLVI1Yk5SWDJ2MnlUOW5CTHJGeW5oQjlfTGFva2NKeEFkVnZlc3JleVpXODNQTktVVDZqYVp0bDVwZ2JWaVByWlh6R1FZRkxtX3A3OTBJczNLbXA5N3VsS19lbEZLUzg0aA?oc=5",
+      "published": "2026-11-17T11:02:23+00:00",
+      "category": "IT Schweiz"
+    },
+    {
+      "id": "e7ceee6ab8080623",
+      "title": "Weischer.OOH steigt in den Schweizer Aussenwerbemarkt ein",
+      "excerpt": "Weischer.OOH steigt in den Schweizer Aussenwerbemarkt ein IT-Markt",
+      "summary": "Weischer.OOH steigt in den Schweizer Aussenwerbemarkt ein IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPREM5Q0wzMWhCRVFwZVZhSUI3Y0lQdUszVm9GWm1kMWZfVkVmUGYtUEZhVUE3OFp6alQyeENXMm9jMWhQS2duY3FYNTVXZDN5VnJ2VlNPcUJUeTltc1JFbkN5clFiQUI3M3VyLXZjZWFmV24wZVpKVGs2UlBhRDJtZ0oyMXBVVzlQb1hUSjgwUW5jRmJXTVJ4S3ZQS20?oc=5",
+      "published": "2026-11-16T14:43:53+00:00",
+      "category": "IT Schweiz"
+    },
+    {
+      "id": "a0be1c53ececc5b1",
+      "title": "Schweiz verliert im KI-Ranking an Boden",
+      "excerpt": "Schweiz verliert im KI-Ranking an Boden Netzwoche",
+      "summary": "Schweiz verliert im KI-Ranking an Boden Netzwoche",
+      "source": "Netzwoche",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTWxZTFFFbHNRN1ZPMjRSRklQckZJQ0RWRDVfdjFUQlBKeE1NRWlBUTdWWkx5XzE3OGdrN3VGTFVLVXVNanFrM1Jmc2ZXOHdPZjNpZHhnR09ncTBSZWk5N2U1VkxfNHNTZWdPUkFoSG1qTW9OWkUyOWtDanROTURHemxOUzlSQVU?oc=5",
+      "published": "2026-11-11T14:37:11+00:00",
+      "category": "IT Schweiz"
+    },
+    {
+      "id": "4c66e7b542d038aa",
+      "title": "Cloud & KI: 403 US-Rechenzentren brauchen mehr Energie als manches EU-Land",
+      "excerpt": "Viele Zahlen zum Energiebedarf mussten die Forscher abschätzen. Einige der aktuell größten Rechenzentren sind dabei nicht einmal berücksichtigt. ( Energie & Klima , KI )",
+      "summary": "Viele Zahlen zum Energiebedarf mussten die Forscher abschätzen. Einige der aktuell größten Rechenzentren sind dabei nicht einmal berücksichtigt. ( Energie & Klima , KI )",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-microsoft-365-identitaeten-geraete-und-daten-absichern-2611-215328.html",
-      "published": "2026-11-18T06:15:01+00:00",
-      "category": "Security"
-    },
-    {
-      "id": "f745ba96afcf17d6",
-      "title": "Anzeige: Penetration Testing: Sicherheitslücken erkennen und ausnutzen",
-      "excerpt": "Penetration Testing macht Schwachstellen in IT-Systemen sichtbar. Ein zweitägiger Online-Workshop vermittelt Angriffstechniken und den praktischen Einsatz von Kali Linux und Burp. ( Golem Karrierewelt , Server-Applikationen )",
-      "summary": "Penetration Testing macht Schwachstellen in IT-Systemen sichtbar. Ein zweitägiger Online-Workshop vermittelt Angriffstechniken und den praktischen Einsatz von Kali Linux und Burp. ( Golem Karrierewelt , Server-Applikationen )",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-penetration-testing-sicherheitsluecken-erkennen-und-ausnutzen-2611-215284.html",
-      "published": "2026-11-17T17:45:02+00:00",
-      "category": "Security"
-    },
-    {
-      "id": "552cd61d0e918b3b",
-      "title": "EU sanktioniert russische Desinformationsnetzwerke und Hackergruppe",
-      "excerpt": "Wegen hybrider Angriffe und Cyberaktivitäten aus Russland belegt der EU-Ministerrat 30 Personen und zwei Organisationen mit Einreise- und Vermögenssperren.",
-      "summary": "Wegen hybrider Angriffe und Cyberaktivitäten aus Russland belegt der EU-Ministerrat 30 Personen und zwei Organisationen mit Einreise- und Vermögenssperren.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/EU-sanktioniert-russische-Desinformationsnetzwerke-und-Hackergruppe-11528693.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published": "2026-11-18T07:16:00+00:00",
-      "category": "Security"
-    },
-    {
-      "id": "8b078db7a8a99dd6",
-      "title": "Java: RCE mit AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-      "excerpt": "Die Sicherheitslücke Java4Shell erlaubt Remote Code Execution, trifft aber nur bestimmte Prozessoren. Das gilt auch für Java-Clients.",
-      "summary": "Die Sicherheitslücke Java4Shell erlaubt Remote Code Execution, trifft aber nur bestimmte Prozessoren. Das gilt auch für Java-Clients.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Java-RCE-mit-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA-11528561.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published": "2026-11-18T00:05:00+00:00",
-      "category": "Security"
-    },
-    {
-      "id": "ca5d71e44b70f849",
-      "title": "Java4Shell: Gefährlicher Bug in Java",
-      "excerpt": "Oracles Patchday stiftet Verwirrung. Es gibt gleich elf Updates gegen Remote Code Execution in Java. Dabei ist auch das hochriskante Java4Shell.",
-      "summary": "Oracles Patchday stiftet Verwirrung. Es gibt gleich elf Updates gegen Remote Code Execution in Java. Dabei ist auch das hochriskante Java4Shell.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Java4Shell-Gefaehrlicher-Bug-in-Java-11528499.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published": "2026-11-17T20:13:00+00:00",
-      "category": "Security"
-    },
-    {
-      "id": "ac6a1ff87c66a343",
-      "title": "(g+) KI-Agenten: Wie Tokenisierung das Finanzsystem gefährdet",
-      "excerpt": "Leseempfehlung aus der Redaktion: Die Financial Times erklärt, warum die Gefahr der Tokenisierung nicht unterschätzt werden darf. Von Gillian Tett ( Security , KI )",
-      "summary": "Leseempfehlung aus der Redaktion: Die Financial Times erklärt, warum die Gefahr der Tokenisierung nicht unterschätzt werden darf. Von Gillian Tett ( Security , KI )",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/ki-agenten-wie-tokenisierung-das-finanzsystem-gefaehrdet-2611-215282.html",
-      "published": "2026-11-17T17:00:02+00:00",
-      "category": "Security"
-    },
-    {
-      "id": "3852a168576d6274",
-      "title": "Große Marken lieferten Malware-Skript durch Lieferkettenangriff aus",
-      "excerpt": "Über die Testplattform Optimizely gelangte am Montag ein Malware-Skript auf Webseiten. Davon waren namhafte Marken betroffen.",
-      "summary": "Über die Testplattform Optimizely gelangte am Montag ein Malware-Skript auf Webseiten. Davon waren namhafte Marken betroffen.",
-      "source": "heise Security",
-      "url": "https://www.heise.de/news/Grosse-Marken-lieferten-Malware-Skript-durch-Lieferkettenangriff-aus-11527514.html",
-      "published": "2026-11-17T13:00:00+00:00",
-      "category": "Security"
-    },
-    {
-      "id": "bb362a2455530eef",
-      "title": "(g+) IT-Sicherheit in der Industrie: Alte Industriesteuerungen werden zum Sicherheitsrisiko",
-      "excerpt": "Unsichere Fernzugänge, fehlende Netztrennung und alte Steuerungen gefährden Fabriken. Wie sich Produktionsanlagen schützen lassen, ohne sie stillzulegen. Eine Analyse von Dietmar Müller ( Security , Server )",
-      "summary": "Unsichere Fernzugänge, fehlende Netztrennung und alte Steuerungen gefährden Fabriken. Wie sich Produktionsanlagen schützen lassen, ohne sie stillzulegen. Eine Analyse von Dietmar Müller ( Security , Server )",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/it-sicherheit-in-der-industrie-alte-industriesteuerungen-werden-zum-sicherheitsrisiko-2611-215214.html",
-      "published": "2026-11-17T12:30:02+00:00",
-      "category": "Security"
-    },
-    {
-      "id": "79e1a1dff5ce07d7",
-      "title": "Möglicher Cyberangriff: Hoster Contabo informiert Kunden über Sicherheitsvorfall",
-      "excerpt": "Ein Angreifer hat sich offenbar Zugriff auf Systeme des Münchener Hostinganbieters Contabo verschafft. Kunden werden per E-Mail informiert. ( Cybercrime , Server )",
-      "summary": "Ein Angreifer hat sich offenbar Zugriff auf Systeme des Münchener Hostinganbieters Contabo verschafft. Kunden werden per E-Mail informiert. ( Cybercrime , Server )",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/moeglicher-cyberangriff-hoster-contabo-informiert-kunden-ueber-sicherheitsvorfall-2611-215306.html",
-      "published": "2026-11-17T11:25:01+00:00",
-      "category": "Security"
+      "url": "https://www.golem.de/news/cloud-ki-403-us-rechenzentren-brauchen-mehr-energie-als-manches-eu-land-2611-215316.html",
+      "published": "2026-11-17T15:28:02+00:00",
+      "category": "Cloud"
     }
   ],
-  "updatedAt": "2026-11-18T07:51:36.231948+00:00",
-  "warning": "Zusammenfassungen basieren auf RSS-Auszügen (kein KI-Schlüssel konfiguriert oder KI nicht verfügbar)."
+  "updatedAt": "2026-11-18T08:03:51.366708+00:00",
+  "targets": {
+    "Security": 3,
+    "Microsoft 365": 3,
+    "IT Schweiz": 3,
+    "Cloud": 1
+  },
+  "counts": {
+    "Security": 3,
+    "Microsoft 365": 3,
+    "IT Schweiz": 3,
+    "Cloud": 1
+  },
+  "warning": "Kurztexte stammen aus RSS-Auszügen; keine KI-Zusammenfassungen aktiv.",
+  "aiSummaries": false
 }
