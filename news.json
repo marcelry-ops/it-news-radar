@@ -1,14 +1,74 @@
 {
   "items": [
     {
-      "id": "c7b593b54e571edf",
-      "title": "Outlook-Sicherheitslücke: Microsoft schließt aktiv genutzte Spoofing-Schwachstelle",
-      "excerpt": "Outlook-Sicherheitslücke: Microsoft schließt aktiv genutzte Spoofing-Schwachstelle BornCity",
-      "summary": "Outlook-Sicherheitslücke: Microsoft schließt aktiv genutzte Spoofing-Schwachstelle BornCity",
-      "source": "BornCity",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZEM3VHhmSkFIMHNHc1g1NnY0Q25NUHZZclpURmxlclowVllNazNpTVg3Si1EQnJVbnBHaS1LWmk1bEEwd3hJUnM4SU9qOXlvR1RkN0g2OFJzd3UwTWtvUlhSWFFNRnFxNTNwNnJIaGtXYjlDUW04eTBMTUJZbUhicUU1d1NBUV8taHFpRlpHTW41QlRyNHVMNVc0YUdLdlBuRU12LTN3Y0FnYnF1ZHFB?oc=5",
-      "published": "2026-11-17T14:31:05+00:00",
-      "category": "Security"
+      "id": "9bc402f990ce8639",
+      "title": "Schweizer Firmen gründen Allianz für digitale Souveränität",
+      "excerpt": "Mit Opensovereign wollen fünf Schweizer IT-Unternehmen Open-Source-Technologien als Alternative zu proprietären IT-Lösungen stärken.",
+      "summary": "Mit Opensovereign wollen fünf Schweizer IT-Unternehmen Open-Source-Technologien als Alternative zu proprietären IT-Lösungen stärken.",
+      "source": "Inside IT",
+      "url": "https://www.inside-it.ch/schweizer-firmen-gruenden-allianz-fuer-digitale-souveraenitaet-20261118",
+      "published": "2026-11-18T14:43:34+00:00",
+      "category": "IT Schweiz"
+    },
+    {
+      "id": "d035777ff4b76f4c",
+      "title": "IT-S expandiert nach Zürich",
+      "excerpt": "Der IT-Dienstleister IT-S schliesst sich mit Allnet Solutions aus Urdorf zusammen. Durch die Übernahme des Allnet-Standorts und -Teams in Zürich ist der Dienstleister neu in vier Schweizer Wirtschaftsregionen vertreten.",
+      "summary": "Der IT-Dienstleister IT-S schliesst sich mit Allnet Solutions aus Urdorf zusammen. Durch die Übernahme des Allnet-Standorts und -Teams in Zürich ist der Dienstleister neu in vier Schweizer Wirtschaftsregionen vertreten.",
+      "source": "Netzwoche",
+      "url": "https://www.netzwoche.ch/news/2026-11-18/it-s-expandiert-nach-zuerich",
+      "published": "2026-11-18T14:39:44+00:00",
+      "category": "IT Schweiz"
+    },
+    {
+      "id": "857d973cc60d03ab",
+      "title": "Lausanne ernennt neuen IT-Leiter",
+      "excerpt": "Die Stadt Lausanne ernennt Philippe Catirane zum Leiter ihres Dienstes für Organisation und Informatik. Er tritt die Stelle am 1. März 2027 an und folgt auf Vincent Naïnemoutou, der in Pension geht.",
+      "summary": "Die Stadt Lausanne ernennt Philippe Catirane zum Leiter ihres Dienstes für Organisation und Informatik. Er tritt die Stelle am 1. März 2027 an und folgt auf Vincent Naïnemoutou, der in Pension geht.",
+      "source": "Netzwoche",
+      "url": "https://www.netzwoche.ch/news/2026-11-18/lausanne-ernennt-neuen-it-leiter",
+      "published": "2026-11-18T14:36:05+00:00",
+      "category": "IT Schweiz"
+    },
+    {
+      "id": "7f3e73a1ed1fb5ce",
+      "title": "1&1: Cloudbetreiber Ionos holt sich neuen CEO von SAP",
+      "excerpt": "Führungswechsel beim europäischen Cloud-Marktführer: SAP-Manager Saueressig übernimmt bei Ionos und soll das Geschäft mit Großkunden und KI ausbauen. ( SAP , Rechenzentrum )",
+      "summary": "Führungswechsel beim europäischen Cloud-Marktführer: SAP-Manager Saueressig übernimmt bei Ionos und soll das Geschäft mit Großkunden und KI ausbauen. ( SAP , Rechenzentrum )",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/1-1-cloudbetreiber-ionos-holt-sich-neuen-ceo-von-sap-2611-215366.html",
+      "published": "2026-11-18T14:33:02+00:00",
+      "category": "Cloud"
+    },
+    {
+      "id": "11c95c941f63eb6b",
+      "title": "Colossus-Rechenzentrum: Memphis verteilt SpaceX-Steuereinnahmen an Anwohner",
+      "excerpt": "Die Stadt Memphis gibt einen Teil der Steuereinnahmen durch SpaceX an die Nachbarschaft des Colossus-Rechenzentrums zurück. ( Rechenzentrum , Barrierefreiheit )",
+      "summary": "Die Stadt Memphis gibt einen Teil der Steuereinnahmen durch SpaceX an die Nachbarschaft des Colossus-Rechenzentrums zurück. ( Rechenzentrum , Barrierefreiheit )",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/colossus-rechenzentrum-memphis-verteilt-spacex-steuereinnahmen-an-anwohner-2611-215362.html",
+      "published": "2026-11-18T14:12:02+00:00",
+      "category": "Cloud"
+    },
+    {
+      "id": "95b8a7fc0f6de53d",
+      "title": "Microsoft bringt Mensch, KI und Geschäft zusammen",
+      "excerpt": "An der Hausmesse \"Ignite\" in San Francisco zeigte Microsoft neue Entwicklungen rund um Copilot, KI-Agenten, Sicherheit und Cloud-Infrastruktur.",
+      "summary": "An der Hausmesse \"Ignite\" in San Francisco zeigte Microsoft neue Entwicklungen rund um Copilot, KI-Agenten, Sicherheit und Cloud-Infrastruktur.",
+      "source": "Inside IT",
+      "url": "https://www.inside-it.ch/microsoft-bringt-mensch%252C-ki-und-geschaeft-zusammen-20261118",
+      "published": "2026-11-18T13:25:14+00:00",
+      "category": "Cloud"
+    },
+    {
+      "id": "b5e7a91b82275647",
+      "title": "Microsoft SharePoint: Angreifer können Code einschleusen und ausführen",
+      "excerpt": "Microsoft warnt vor Sicherheitslücken in der SharePoint Server Subscription Edition. Admins sollten das bereitstehende Update anwenden.",
+      "summary": "Microsoft warnt vor Sicherheitslücken in der SharePoint Server Subscription Edition. Admins sollten das bereitstehende Update anwenden.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Microsoft-SharePoint-Angreifer-koennen-Code-einschleusen-und-ausfuehren-11529556.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published": "2026-11-18T13:05:00+00:00",
+      "category": "Microsoft 365"
     },
     {
       "id": "5f4ca943da9d5d96",
@@ -18,16 +78,6 @@
       "source": "Golem.de",
       "url": "https://www.golem.de/news/nach-cyberangriff-japan-nimmt-supercomputer-fugaku-vom-netz-2611-215359.html",
       "published": "2026-11-18T12:45:02+00:00",
-      "category": "Security"
-    },
-    {
-      "id": "3852a168576d6274",
-      "title": "Große Marken lieferten Malware-Skript durch Lieferkettenangriff aus",
-      "excerpt": "Über die Testplattform Optimizely gelangte am Montag ein Malware-Skript auf Webseiten. Davon waren namhafte Marken betroffen.",
-      "summary": "Über die Testplattform Optimizely gelangte am Montag ein Malware-Skript auf Webseiten. Davon waren namhafte Marken betroffen.",
-      "source": "heise Security",
-      "url": "https://www.heise.de/news/Grosse-Marken-lieferten-Malware-Skript-durch-Lieferkettenangriff-aus-11527514.html",
-      "published": "2026-11-17T13:00:00+00:00",
       "category": "Security"
     },
     {
@@ -41,14 +91,44 @@
       "category": "Security"
     },
     {
-      "id": "3a00de89322a9b1d",
-      "title": "Nach Datenleck: Deutsche-Bank-Chef sieht keine Gefahr für Kundendaten",
-      "excerpt": "Laut Deutsche-Bank-Chef Christian Sewing sind durch das Datenleck weder die Systeme der Bank kompromittiert noch Kundendaten gefährdet. ( Datenleck , Sicherheitslücke )",
-      "summary": "Laut Deutsche-Bank-Chef Christian Sewing sind durch das Datenleck weder die Systeme der Bank kompromittiert noch Kundendaten gefährdet. ( Datenleck , Sicherheitslücke )",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/nach-datenleck-deutsche-bank-chef-sieht-keine-gefahr-fuer-kundendaten-2611-215353.html",
-      "published": "2026-11-18T11:15:02+00:00",
+      "id": "0d11956a44fb45c1",
+      "title": "Fünf Schweizer IT-Unternehmen gründen Opensovereign",
+      "excerpt": "Die fünf Schweizer IT-Unternehmen VSHN, Puzzle ITC, Adfinis, Cloudscale und Cyberlink rufen eine gemeinsame Initiative für digitale Souveränität ins Leben. Opensovereign soll Schweizer Organisationen auf dem Weg zur digitalen Unabhängigkeit begleiten. Dazu gehört die Ablösung proprietärer Anbieter und der Ausbau selbst kontrollierbarer IT-Infrastruktur.",
+      "summary": "Die fünf Schweizer IT-Unternehmen VSHN, Puzzle ITC, Adfinis, Cloudscale und Cyberlink rufen eine gemeinsame Initiative für digitale Souveränität ins Leben. Opensovereign soll Schweizer Organisationen auf dem Weg zur digitalen Unabhängigkeit begleiten. Dazu geh",
+      "source": "Netzwoche",
+      "url": "https://www.netzwoche.ch/news/2026-11-18/fuenf-schweizer-it-unternehmen-gruenden-opensovereign",
+      "published": "2026-11-18T10:27:45+00:00",
+      "category": "IT Schweiz"
+    },
+    {
+      "id": "10796f9a86c5c8cc",
+      "title": "Apache HTTP Server: RCE-Lücke CVE-2026-119618 wird aktiv ausgenutzt",
+      "excerpt": "Apache HTTP Server: RCE-Lücke CVE-2026-119618 wird aktiv ausgenutzt All About SECURITY",
+      "summary": "Apache HTTP Server: RCE-Lücke CVE-2026-119618 wird aktiv ausgenutzt All About SECURITY",
+      "source": "All About SECURITY",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQVVoQjZkZnVPbFYwSWNfN1dNWFVqeGE4cmtRcGd3TzNtS09NYXJLaUlnMXhoamhGOFhzam5RYUZjUGVPcTFoVVJuXzk5V2o5aWg5cmlzUm9aSUhlYTYzUEZRSUkxZl95WVR3b1BXX0kwUHllMkU4N0o3MGtuWjRac0w3X3JUb2Q3WXkzZ3pFdk9qUUZ4bk5WcnBQUTVacmd4RzJmRQ?oc=5",
+      "published": "2026-11-18T08:49:27+00:00",
       "category": "Security"
+    },
+    {
+      "id": "f40a281ab5923436",
+      "title": "Microsoft erweitert Copilot um gemeinsame Arbeitsräume für Teams",
+      "excerpt": "Zum Auftakt seiner Hausmesse Ignite hat Microsoft gemeinsame Arbeitsbereiche für Copilot vorgestellt. Zudem beginnt der Konzern mit der Einführung des KI-Agenten Autopilot, der wiederkehrende Aufgaben eigenständig übernehmen soll. Beide Neuerungen stehen vorerst nur im Frontier-Programm zur Verfügung.",
+      "summary": "Zum Auftakt seiner Hausmesse Ignite hat Microsoft gemeinsame Arbeitsbereiche für Copilot vorgestellt. Zudem beginnt der Konzern mit der Einführung des KI-Agenten Autopilot, der wiederkehrende Aufgaben eigenständig übernehmen soll. Beide Neuerungen stehen vorer",
+      "source": "Netzwoche",
+      "url": "https://www.netzwoche.ch/news/2026-11-18/microsoft-erweitert-copilot-um-gemeinsame-arbeitsraeume-fuer-teams",
+      "published": "2026-11-18T08:04:54+00:00",
+      "category": "Microsoft 365"
+    },
+    {
+      "id": "8547a56091312ce0",
+      "title": "Fünf Schweizer IT-Firmen gründen OpenSovereign",
+      "excerpt": "VSHN, Puzzle ITC, Adfinis, Cloudscale und Cyberlink haben die Allianz OpenSovereign gegründet. Gemeinsam wollen die fünf Schweizer IT-Unternehmen Organisationen dabei unterstützen, ihre Abhängigkeit von einzelnen Technologieanbietern zu reduzieren.",
+      "summary": "VSHN, Puzzle ITC, Adfinis, Cloudscale und Cyberlink haben die Allianz OpenSovereign gegründet. Gemeinsam wollen die fünf Schweizer IT-Unternehmen Organisationen dabei unterstützen, ihre Abhängigkeit von einzelnen Technologieanbietern zu reduzieren.",
+      "source": "IT Reseller",
+      "url": "https://www.itreseller.ch/Artikel/106636/Fuenf_Schweizer_IT-Firmen_gruenden_OpenSovereign.html",
+      "published": "2026-11-18T07:43:54+00:00",
+      "category": "IT Schweiz"
     },
     {
       "id": "011a49bd505659d1",
@@ -71,14 +151,24 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "b5e7a91b82275647",
-      "title": "Microsoft SharePoint: Angreifer können Code einschleusen und ausführen",
-      "excerpt": "Microsoft warnt vor Sicherheitslücken in der SharePoint Server Subscription Edition. Admins sollten das bereitstehende Update anwenden.",
-      "summary": "Microsoft warnt vor Sicherheitslücken in der SharePoint Server Subscription Edition. Admins sollten das bereitstehende Update anwenden.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Microsoft-SharePoint-Angreifer-koennen-Code-einschleusen-und-ausfuehren-11529556.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published": "2026-11-18T13:05:00+00:00",
-      "category": "Microsoft 365"
+      "id": "c7b593b54e571edf",
+      "title": "Outlook-Sicherheitslücke: Microsoft schließt aktiv genutzte Spoofing-Schwachstelle",
+      "excerpt": "Outlook-Sicherheitslücke: Microsoft schließt aktiv genutzte Spoofing-Schwachstelle BornCity",
+      "summary": "Outlook-Sicherheitslücke: Microsoft schließt aktiv genutzte Spoofing-Schwachstelle BornCity",
+      "source": "BornCity",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZEM3VHhmSkFIMHNHc1g1NnY0Q25NUHZZclpURmxlclowVllNazNpTVg3Si1EQnJVbnBHaS1LWmk1bEEwd3hJUnM4SU9qOXlvR1RkN0g2OFJzd3UwTWtvUlhSWFFNRnFxNTNwNnJIaGtXYjlDUW04eTBMTUJZbUhicUU1d1NBUV8taHFpRlpHTW41QlRyNHVMNVc0YUdLdlBuRU12LTN3Y0FnYnF1ZHFB?oc=5",
+      "published": "2026-11-17T14:31:05+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "3852a168576d6274",
+      "title": "Große Marken lieferten Malware-Skript durch Lieferkettenangriff aus",
+      "excerpt": "Über die Testplattform Optimizely gelangte am Montag ein Malware-Skript auf Webseiten. Davon waren namhafte Marken betroffen.",
+      "summary": "Über die Testplattform Optimizely gelangte am Montag ein Malware-Skript auf Webseiten. Davon waren namhafte Marken betroffen.",
+      "source": "heise Security",
+      "url": "https://www.heise.de/news/Grosse-Marken-lieferten-Malware-Skript-durch-Lieferkettenangriff-aus-11527514.html",
+      "published": "2026-11-17T13:00:00+00:00",
+      "category": "Security"
     },
     {
       "id": "bbb5946cccfaeb07",
@@ -91,87 +181,27 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "af2a0c14df400b51",
-      "title": "Entra ID absichern: 14 Schritte, 90 Min [2026]",
-      "excerpt": "Entra ID absichern: 14 Schritte, 90 Min [2026] shattered.io",
-      "summary": "Entra ID absichern: 14 Schritte, 90 Min [2026] shattered.io",
-      "source": "shattered.io",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUUtCQ0xSby1Vekd2V0dhR1l0d2tra0RnVzktb1ZSOUYxRWRYYjBHYWdRM0J1X2VnY3VlOUNRTGJsLUpRZmhNWldCY3BBR2N6M0NGMTVTajExOE5BQU5vM2hSVkNoVUhpUFRjVDcybDBjck1ZQm5aaWN6NHVFd2JHSElxRkR1MzA?oc=5",
-      "published": "2026-11-16T15:58:20+00:00",
-      "category": "Microsoft 365"
-    },
-    {
-      "id": "1870842c029eb18b",
-      "title": "Fünf Schweizer IT-Unternehmen gründen Opensovereign",
-      "excerpt": "Fünf Schweizer IT-Unternehmen gründen Opensovereign IT-Markt",
-      "summary": "Fünf Schweizer IT-Unternehmen gründen Opensovereign IT-Markt",
-      "source": "IT-Markt",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbVo4dDJwSnFWNnhYZ2ZfZ1dGSElLRm1zeTE5UENsSENudUhkcXcwX0J5VDBGVFg2dGQ2Q0JnTEl2b1lxZHkzVlhXMnlEVmhSanlRQU1ZS0tzY0lsakVON0lqVFh1ZlM5enZucEtkdUNyem1NcVBSaVEyRy1HRTVtdmlDZ2hHOWxWTVBjNlRNVFgxR3FFWldhbA?oc=5",
-      "published": "2026-11-18T10:26:13+00:00",
-      "category": "IT Schweiz"
-    },
-    {
-      "id": "0d8a194978b02f38",
-      "title": "So verändert sich das Mandat Schweizer CIOs",
-      "excerpt": "So verändert sich das Mandat Schweizer CIOs IT-Markt",
-      "summary": "So verändert sich das Mandat Schweizer CIOs IT-Markt",
-      "source": "IT-Markt",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWXpkVFkxNE9nbGwyVUhOZ1NIaXpfSlExM2ptSDk2Vm1hZUhWLVI1Yk5SWDJ2MnlUOW5CTHJGeW5oQjlfTGFva2NKeEFkVnZlc3JleVpXODNQTktVVDZqYVp0bDVwZ2JWaVByWlh6R1FZRkxtX3A3OTBJczNLbXA5N3VsS19lbEZLUzg0aA?oc=5",
-      "published": "2026-11-17T11:02:23+00:00",
-      "category": "IT Schweiz"
-    },
-    {
-      "id": "e7ceee6ab8080623",
-      "title": "Weischer.OOH steigt in den Schweizer Aussenwerbemarkt ein",
-      "excerpt": "Weischer.OOH steigt in den Schweizer Aussenwerbemarkt ein IT-Markt",
-      "summary": "Weischer.OOH steigt in den Schweizer Aussenwerbemarkt ein IT-Markt",
-      "source": "IT-Markt",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPREM5Q0wzMWhCRVFwZVZhSUI3Y0lQdUszVm9GWm1kMWZfVkVmUGYtUEZhVUE3OFp6alQyeENXMm9jMWhQS2duY3FYNTVXZDN5VnJ2VlNPcUJUeTltc1JFbkN5clFiQUI3M3VyLXZjZWFmV24wZVpKVGs2UlBhRDJtZ0oyMXBVVzlQb1hUSjgwUW5jRmJXTVJ4S3ZQS20?oc=5",
-      "published": "2026-11-16T14:43:53+00:00",
-      "category": "IT Schweiz"
-    },
-    {
-      "id": "a0be1c53ececc5b1",
-      "title": "Schweiz verliert im KI-Ranking an Boden",
-      "excerpt": "Schweiz verliert im KI-Ranking an Boden Netzwoche",
-      "summary": "Schweiz verliert im KI-Ranking an Boden Netzwoche",
+      "id": "cb9bf259348ce7da",
+      "title": "Banken und Versicherungen wollen KI-Agenten über die Cloud steuern",
+      "excerpt": "Mehr als die Hälfte der befragten Finanzinstitute erprobt oder nutzt Systeme mit mehreren KI-Agenten. Doch nur jedes zehnte koordiniert deren Einsatz bereits unternehmensweit, wie eine Capgemini-Umfrage zeigt. Cloud-Plattformen sollen zunehmend den Datenzugriff, die Berechtigungen und die Kontrolle automatisierter Entscheidungen übernehmen.",
+      "summary": "Mehr als die Hälfte der befragten Finanzinstitute erprobt oder nutzt Systeme mit mehreren KI-Agenten. Doch nur jedes zehnte koordiniert deren Einsatz bereits unternehmensweit, wie eine Capgemini-Umfrage zeigt. Cloud-Plattformen sollen zunehmend den Datenzugrif",
       "source": "Netzwoche",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTWxZTFFFbHNRN1ZPMjRSRklQckZJQ0RWRDVfdjFUQlBKeE1NRWlBUTdWWkx5XzE3OGdrN3VGTFVLVXVNanFrM1Jmc2ZXOHdPZjNpZHhnR09ncTBSZWk5N2U1VkxfNHNTZWdPUkFoSG1qTW9OWkUyOWtDanROTURHemxOUzlSQVU?oc=5",
-      "published": "2026-11-11T14:37:11+00:00",
-      "category": "IT Schweiz"
-    },
-    {
-      "id": "1161df4988a1d8a1",
-      "title": "Zugriff auf ictjobs.ch neu auch via Mobile-App",
-      "excerpt": "Zugriff auf ictjobs.ch neu auch via Mobile-App Swiss IT Magazine",
-      "summary": "Zugriff auf ictjobs.ch neu auch via Mobile-App Swiss IT Magazine",
-      "source": "Swiss IT Magazine",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdGE0dXhDdUM0bUk4NzdZSVJEMzI3WXBpSkp1Z0J4RkJBbmQ1REdYWTNSSUZLWUdlc0stZnFaTG9yVmI3UTRFSmxPaW1vVHhNWDZOTmdQYWY4WEtLOG5iblowNDBIeXFnWnVXRlZrc1BZT1RRS3lVM2lCOXlTZGZJM1RXS1hsUVFnTnZiMG85SFRqNmYzcnc?oc=5",
-      "published": "2026-11-12T07:12:00+00:00",
-      "category": "IT Schweiz"
-    },
-    {
-      "id": "11c95c941f63eb6b",
-      "title": "Colossus-Rechenzentrum: Memphis verteilt SpaceX-Steuereinnahmen an Anwohner",
-      "excerpt": "Das Geld ist zweckgebunden und kommt Anwohnern des Rechenzentrums Colossus 1 von SpaceXAI zugute. ( Rechenzentrum , Barrierefreiheit )",
-      "summary": "Das Geld ist zweckgebunden und kommt Anwohnern des Rechenzentrums Colossus 1 von SpaceXAI zugute. ( Rechenzentrum , Barrierefreiheit )",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/colossus-rechenzentrum-memphis-verteilt-spacex-steuereinnahmen-an-anwohner-2611-215362.html",
-      "published": "2026-11-18T14:12:02+00:00",
+      "url": "https://www.netzwoche.ch/news/2026-11-17/banken-und-versicherungen-wollen-ki-agenten-ueber-die-cloud-steuern",
+      "published": "2026-11-17T10:11:30+00:00",
       "category": "Cloud"
     },
     {
-      "id": "0a5bdb03ca4b0e9a",
-      "title": "Also stärkt Cloud-Geschäft in den USA",
-      "excerpt": "Also stärkt Cloud-Geschäft in den USA Inside IT",
-      "summary": "Also stärkt Cloud-Geschäft in den USA Inside IT",
-      "source": "Inside IT",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wbjU2Z3A1NkJTeGNla2J5Z2pKenJCeFU3X2FtdkhURHJnaHJNZ3d6bjh3U3dId0pDcVRPeWwyZGVBTENpczdKblRlbEhZVURvTDRpenotYlNjSlRXRkNETXRHSGNYQ0d0ZjFwODRzdl9PM3puMU5CZVpOZ285QQ?oc=5",
-      "published": "2026-11-12T03:28:00+00:00",
+      "id": "55abca058a4544a3",
+      "title": "Die Public Cloud ist noch lange nicht am Ende",
+      "excerpt": "Der Abzug von Anwendungen aus öffentlichen Clouds ist offenbar weniger verbreitet, als es die Debatten über die digitale Souveränität vermuten lassen. Auch europäische Unternehmen setzen laut einer Studie von Slashdata weiterhin auf die Public Cloud.",
+      "summary": "Der Abzug von Anwendungen aus öffentlichen Clouds ist offenbar weniger verbreitet, als es die Debatten über die digitale Souveränität vermuten lassen. Auch europäische Unternehmen setzen laut einer Studie von Slashdata weiterhin auf die Public Cloud.",
+      "source": "Netzwoche",
+      "url": "https://www.netzwoche.ch/news/2026-11-17/die-public-cloud-ist-noch-lange-nicht-am-ende",
+      "published": "2026-11-17T09:16:07+00:00",
       "category": "Cloud"
     }
   ],
-  "updatedAt": "2026-11-18T14:23:11.914174+00:00",
+  "updatedAt": "2026-11-18T15:06:54.013989+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -182,8 +212,8 @@
     "Security": 5,
     "Microsoft 365": 5,
     "IT Schweiz": 5,
-    "Cloud": 2
+    "Cloud": 5
   },
-  "warning": "Nicht genügend passende aktuelle Meldungen: 3 × Cloud.",
+  "warning": "",
   "aiSummaries": false
 }
