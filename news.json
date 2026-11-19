@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "7b01129b6027065e",
+      "title": "Schweizer Löhne im Tech-Sektor: KI-Kompetenz ist gut fürs Portemonnaie",
+      "excerpt": "Schweizer Löhne im Tech-Sektor: KI-Kompetenz ist gut fürs Portemonnaie Swiss IT Magazine",
+      "summary": "Schweizer Löhne im Tech-Sektor: KI-Kompetenz ist gut fürs Portemonnaie Swiss IT Magazine",
+      "source": "Swiss IT Magazine",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX25hd0hxLVJUbUltU3dMTndHSjBXbHpUYi1fWWxkMHBXTjJjUkRKN2ZXMDk4eXhYTUxObmxxTVl2REIycmwxc21jYjRja1ptUW1iU1RxaDY5MmpzNkx1ZG1tQldBdTBNOGtIdkNEeEN5WF9vRmJRUjNXWE84T05JTWs5RGlLaE9ERFFpOXZUa25WRmhPSEJCQlBfZURCaHozQ2o4SmRSeUpnN01La0tjMDZuYVd5ZW8?oc=5",
+      "published": "2026-11-19T05:03:45+00:00",
+      "category": "IT Schweiz"
+    },
+    {
       "id": "6a21a62621a19c6a",
       "title": "MIND führt DLP-Integrationen für Microsoft Copilot und Microsoft 365 ein",
       "excerpt": "MIND führt DLP-Integrationen für Microsoft Copilot und Microsoft 365 ein Unite.AI",
@@ -101,34 +111,44 @@
       "category": "Security"
     },
     {
-      "id": "0d11956a44fb45c1",
-      "title": "Fünf Schweizer IT-Unternehmen gründen Opensovereign",
-      "excerpt": "Die fünf Schweizer IT-Unternehmen VSHN, Puzzle ITC, Adfinis, Cloudscale und Cyberlink rufen eine gemeinsame Initiative für digitale Souveränität ins Leben. Opensovereign soll Schweizer Organisationen auf dem Weg zur digitalen Unabhängigkeit begleiten. Dazu gehört die Ablösung proprietärer Anbieter und der Ausbau selbst kontrollierbarer IT-Infrastruktur.",
-      "summary": "Die fünf Schweizer IT-Unternehmen VSHN, Puzzle ITC, Adfinis, Cloudscale und Cyberlink rufen eine gemeinsame Initiative für digitale Souveränität ins Leben. Opensovereign soll Schweizer Organisationen auf dem Weg zur digitalen Unabhängigkeit begleiten. Dazu geh",
+      "id": "80d95080699c3f53",
+      "title": "Notfall-Update gegen DDoS: Flut an Client-Verbindungen überlastet das Tor-Netzwerk",
+      "excerpt": "Betreiber von Tor-Relays sollten zügig ihre Software aktualisieren. Das jüngste Update enthält einen neuen Schutz vor laufenden DDoS-Attacken. ( DoS , Cyberwar )",
+      "summary": "Betreiber von Tor-Relays sollten zügig ihre Software aktualisieren. Das jüngste Update enthält einen neuen Schutz vor laufenden DDoS-Attacken. ( DoS , Cyberwar )",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/notfall-update-veroeffentlicht-laufende-angriffe-beeintraechtigen-das-tor-netzwerk-2611-215355.html",
+      "published": "2026-11-18T11:40:02+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "3a00de89322a9b1d",
+      "title": "Nach Datenleck: Deutsche-Bank-Chef sieht keine Gefahr für Kundendaten",
+      "excerpt": "Laut Deutsche-Bank-Chef Christian Sewing sind durch das Datenleck weder die Systeme der Bank kompromittiert noch Kundendaten gefährdet. ( Datenleck , Sicherheitslücke )",
+      "summary": "Laut Deutsche-Bank-Chef Christian Sewing sind durch das Datenleck weder die Systeme der Bank kompromittiert noch Kundendaten gefährdet. ( Datenleck , Sicherheitslücke )",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/nach-datenleck-deutsche-bank-chef-sieht-keine-gefahr-fuer-kundendaten-2611-215353.html",
+      "published": "2026-11-18T11:15:02+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "a85cb51f5d6f7498",
+      "title": "Kritische Java-Schwachstelle gefährdet Geschäftssoftware",
+      "excerpt": "Die Lücke Java4Shell ermöglicht Angriffe auf zahlreiche Java-Anwendungen. Das Bacs empfiehlt, eigene Systeme umgehend zu prüfen und Sicherheits-Updates einzuspielen.",
+      "summary": "Die Lücke Java4Shell ermöglicht Angriffe auf zahlreiche Java-Anwendungen. Das Bacs empfiehlt, eigene Systeme umgehend zu prüfen und Sicherheits-Updates einzuspielen.",
+      "source": "Inside IT",
+      "url": "https://www.inside-it.ch/kritische-java-schwachstelle-gefaehrdet-geschaeftssoftware-20261118",
+      "published": "2026-11-18T10:50:29+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "f40a281ab5923436",
+      "title": "Microsoft erweitert Copilot um gemeinsame Arbeitsräume für Teams",
+      "excerpt": "Zum Auftakt seiner Hausmesse Ignite hat Microsoft gemeinsame Arbeitsbereiche für Copilot vorgestellt. Zudem beginnt der Konzern mit der Einführung des KI-Agenten Autopilot, der wiederkehrende Aufgaben eigenständig übernehmen soll. Beide Neuerungen stehen vorerst nur im Frontier-Programm zur Verfügung.",
+      "summary": "Zum Auftakt seiner Hausmesse Ignite hat Microsoft gemeinsame Arbeitsbereiche für Copilot vorgestellt. Zudem beginnt der Konzern mit der Einführung des KI-Agenten Autopilot, der wiederkehrende Aufgaben eigenständig übernehmen soll. Beide Neuerungen stehen vorer",
       "source": "Netzwoche",
-      "url": "https://www.netzwoche.ch/news/2026-11-18/fuenf-schweizer-it-unternehmen-gruenden-opensovereign",
-      "published": "2026-11-18T10:27:45+00:00",
-      "category": "IT Schweiz"
-    },
-    {
-      "id": "10796f9a86c5c8cc",
-      "title": "Apache HTTP Server: RCE-Lücke CVE-2026-119618 wird aktiv ausgenutzt",
-      "excerpt": "Apache HTTP Server: RCE-Lücke CVE-2026-119618 wird aktiv ausgenutzt All About SECURITY",
-      "summary": "Apache HTTP Server: RCE-Lücke CVE-2026-119618 wird aktiv ausgenutzt All About SECURITY",
-      "source": "All About SECURITY",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQVVoQjZkZnVPbFYwSWNfN1dNWFVqeGE4cmtRcGd3TzNtS09NYXJLaUlnMXhoamhGOFhzam5RYUZjUGVPcTFoVVJuXzk5V2o5aWg5cmlzUm9aSUhlYTYzUEZRSUkxZl95WVR3b1BXX0kwUHllMkU4N0o3MGtuWjRac0w3X3JUb2Q3WXkzZ3pFdk9qUUZ4bk5WcnBQUTVacmd4RzJmRQ?oc=5",
-      "published": "2026-11-18T08:49:27+00:00",
-      "category": "Security"
-    },
-    {
-      "id": "4099dd09aadd415e",
-      "title": "Outlook-Lücke CVE-2026-124194: Angreifer stehlen NTLMv2-Anmeldedaten",
-      "excerpt": "Outlook-Lücke CVE-2026-124194: Angreifer stehlen NTLMv2-Anmeldedaten ad-hoc-news.de",
-      "summary": "Outlook-Lücke CVE-2026-124194: Angreifer stehlen NTLMv2-Anmeldedaten ad-hoc-news.de",
-      "source": "ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLXJzVkFBcGY2MGpWVzNLbTgzaGgzQm5SR2N0M3Naa0g2MTdyVU1nVFpOZlR6bVdnME41Wk5zaUt6LXhfQnpGYjJnSkRnelV4XzhOZWl2V1hjTGJWcTdiTFlrdVJHNS0yakVxR0tqaXl1d2Rnc1RtRFNNTXNkVDhvX3hVM2t0UmpZaTh3REpkVTFLOFQwaVFEc050SG5tUGZzbk1Mekt5X3BkR0lJVm5WUmRQbUp0M2Rr?oc=5",
-      "published": "2026-11-18T06:43:27+00:00",
-      "category": "Security"
+      "url": "https://www.netzwoche.ch/news/2026-11-18/microsoft-erweitert-copilot-um-gemeinsame-arbeitsraeume-fuer-teams",
+      "published": "2026-11-18T08:04:54+00:00",
+      "category": "Microsoft 365"
     },
     {
       "id": "011a49bd505659d1",
@@ -139,26 +159,6 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMXI4ckNvSHVlNnlrSVV6WHBiY0hoRU5IQkRwc3FsMFpKWVRMbEQ4NlkxaXN5bDNYSDkwZF9hbEJ5dE4zRTY4dm41RmtLX2xQamltcTRLUU5IUEdtQWJCVDRqSi00Wmlib044WE5EOFUwZWxzOFNTLWpVaGxwSy0tTWN6RUpaVGJGQVhodW91Wlg1a1cyNmUzTWtYU2Y?oc=5",
       "published": "2026-11-18T05:00:08+00:00",
       "category": "Microsoft 365"
-    },
-    {
-      "id": "244495cbf8c12f4b",
-      "title": "Microsoft Teams: Town Halls erlauben ab Dezember bis zu 20.000 Anmeldungen",
-      "excerpt": "Microsoft Teams: Town Halls erlauben ab Dezember bis zu 20.000 Anmeldungen ad-hoc-news.de",
-      "summary": "Microsoft Teams: Town Halls erlauben ab Dezember bis zu 20.000 Anmeldungen ad-hoc-news.de",
-      "source": "ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVnEtdVN2YkJSVURvLU9xSUFlODBJRkFyRWdJNDdNN1RVZy1UMjJBQXRlS2dmazZPZGg5SWVEMDlLRngteHc5cGNVVDFDUlV5NVlQNHhtWUd1RjZpWlVGejVPY0NjZS1MN044Mk50N3pVU1pMVGEwWkRRYnE2cEQ5bS1MVjJsRnJ5ZVFOMi1GQkJ0TVhRanNKZHpjNjlrNWRuakN1NmpnSWJVbzhTQTZ5MFdUVFNBVTFJSDNjQUMwNA?oc=5",
-      "published": "2026-11-18T01:53:00+00:00",
-      "category": "Microsoft 365"
-    },
-    {
-      "id": "c7b593b54e571edf",
-      "title": "Outlook-Sicherheitslücke: Microsoft schließt aktiv genutzte Spoofing-Schwachstelle",
-      "excerpt": "Outlook-Sicherheitslücke: Microsoft schließt aktiv genutzte Spoofing-Schwachstelle BornCity",
-      "summary": "Outlook-Sicherheitslücke: Microsoft schließt aktiv genutzte Spoofing-Schwachstelle BornCity",
-      "source": "BornCity",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZEM3VHhmSkFIMHNHc1g1NnY0Q25NUHZZclpURmxlclowVllNazNpTVg3Si1EQnJVbnBHaS1LWmk1bEEwd3hJUnM4SU9qOXlvR1RkN0g2OFJzd3UwTWtvUlhSWFFNRnFxNTNwNnJIaGtXYjlDUW04eTBMTUJZbUhicUU1d1NBUV8taHFpRlpHTW41QlRyNHVMNVc0YUdLdlBuRU12LTN3Y0FnYnF1ZHFB?oc=5",
-      "published": "2026-11-17T14:31:05+00:00",
-      "category": "Security"
     },
     {
       "id": "3852a168576d6274",
@@ -201,7 +201,7 @@
       "category": "Cloud"
     }
   ],
-  "updatedAt": "2026-11-19T04:06:44.860837+00:00",
+  "updatedAt": "2026-11-19T05:16:15.527092+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -214,6 +214,6 @@
     "IT Schweiz": 5,
     "Cloud": 5
   },
-  "warning": "",
+  "warning": "1 von 13 RSS-Quellen waren nicht erreichbar.",
   "aiSummaries": false
 }
