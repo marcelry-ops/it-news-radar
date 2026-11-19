@@ -121,16 +121,6 @@
       "category": "Security"
     },
     {
-      "id": "f40a281ab5923436",
-      "title": "Microsoft erweitert Copilot um gemeinsame Arbeitsräume für Teams",
-      "excerpt": "Zum Auftakt seiner Hausmesse Ignite hat Microsoft gemeinsame Arbeitsbereiche für Copilot vorgestellt. Zudem beginnt der Konzern mit der Einführung des KI-Agenten Autopilot, der wiederkehrende Aufgaben eigenständig übernehmen soll. Beide Neuerungen stehen vorerst nur im Frontier-Programm zur Verfügung.",
-      "summary": "Zum Auftakt seiner Hausmesse Ignite hat Microsoft gemeinsame Arbeitsbereiche für Copilot vorgestellt. Zudem beginnt der Konzern mit der Einführung des KI-Agenten Autopilot, der wiederkehrende Aufgaben eigenständig übernehmen soll. Beide Neuerungen stehen vorer",
-      "source": "Netzwoche",
-      "url": "https://www.netzwoche.ch/news/2026-11-18/microsoft-erweitert-copilot-um-gemeinsame-arbeitsraeume-fuer-teams",
-      "published": "2026-11-18T08:04:54+00:00",
-      "category": "Microsoft 365"
-    },
-    {
       "id": "4099dd09aadd415e",
       "title": "Outlook-Lücke CVE-2026-124194: Angreifer stehlen NTLMv2-Anmeldedaten",
       "excerpt": "Outlook-Lücke CVE-2026-124194: Angreifer stehlen NTLMv2-Anmeldedaten ad-hoc-news.de",
@@ -148,6 +138,16 @@
       "source": "BornCity",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMXI4ckNvSHVlNnlrSVV6WHBiY0hoRU5IQkRwc3FsMFpKWVRMbEQ4NlkxaXN5bDNYSDkwZF9hbEJ5dE4zRTY4dm41RmtLX2xQamltcTRLUU5IUEdtQWJCVDRqSi00Wmlib044WE5EOFUwZWxzOFNTLWpVaGxwSy0tTWN6RUpaVGJGQVhodW91Wlg1a1cyNmUzTWtYU2Y?oc=5",
       "published": "2026-11-18T05:00:08+00:00",
+      "category": "Microsoft 365"
+    },
+    {
+      "id": "244495cbf8c12f4b",
+      "title": "Microsoft Teams: Town Halls erlauben ab Dezember bis zu 20.000 Anmeldungen",
+      "excerpt": "Microsoft Teams: Town Halls erlauben ab Dezember bis zu 20.000 Anmeldungen ad-hoc-news.de",
+      "summary": "Microsoft Teams: Town Halls erlauben ab Dezember bis zu 20.000 Anmeldungen ad-hoc-news.de",
+      "source": "ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVnEtdVN2YkJSVURvLU9xSUFlODBJRkFyRWdJNDdNN1RVZy1UMjJBQXRlS2dmazZPZGg5SWVEMDlLRngteHc5cGNVVDFDUlV5NVlQNHhtWUd1RjZpWlVGejVPY0NjZS1MN044Mk50N3pVU1pMVGEwWkRRYnE2cEQ5bS1MVjJsRnJ5ZVFOMi1GQkJ0TVhRanNKZHpjNjlrNWRuakN1NmpnSWJVbzhTQTZ5MFdUVFNBVTFJSDNjQUMwNA?oc=5",
+      "published": "2026-11-18T01:53:00+00:00",
       "category": "Microsoft 365"
     },
     {
@@ -201,7 +201,7 @@
       "category": "Cloud"
     }
   ],
-  "updatedAt": "2026-11-19T03:00:00.841971+00:00",
+  "updatedAt": "2026-11-19T04:06:44.860837+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
