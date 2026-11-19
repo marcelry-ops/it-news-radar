@@ -101,16 +101,6 @@
       "category": "Security"
     },
     {
-      "id": "80d95080699c3f53",
-      "title": "Notfall-Update gegen DDoS: Flut an Client-Verbindungen überlastet das Tor-Netzwerk",
-      "excerpt": "Betreiber von Tor-Relays sollten zügig ihre Software aktualisieren. Das jüngste Update enthält einen neuen Schutz vor laufenden DDoS-Attacken. ( DoS , Cyberwar )",
-      "summary": "Betreiber von Tor-Relays sollten zügig ihre Software aktualisieren. Das jüngste Update enthält einen neuen Schutz vor laufenden DDoS-Attacken. ( DoS , Cyberwar )",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/notfall-update-veroeffentlicht-laufende-angriffe-beeintraechtigen-das-tor-netzwerk-2611-215355.html",
-      "published": "2026-11-18T11:40:02+00:00",
-      "category": "Security"
-    },
-    {
       "id": "0d11956a44fb45c1",
       "title": "Fünf Schweizer IT-Unternehmen gründen Opensovereign",
       "excerpt": "Die fünf Schweizer IT-Unternehmen VSHN, Puzzle ITC, Adfinis, Cloudscale und Cyberlink rufen eine gemeinsame Initiative für digitale Souveränität ins Leben. Opensovereign soll Schweizer Organisationen auf dem Weg zur digitalen Unabhängigkeit begleiten. Dazu gehört die Ablösung proprietärer Anbieter und der Ausbau selbst kontrollierbarer IT-Infrastruktur.",
@@ -139,6 +129,16 @@
       "url": "https://www.netzwoche.ch/news/2026-11-18/microsoft-erweitert-copilot-um-gemeinsame-arbeitsraeume-fuer-teams",
       "published": "2026-11-18T08:04:54+00:00",
       "category": "Microsoft 365"
+    },
+    {
+      "id": "4099dd09aadd415e",
+      "title": "Outlook-Lücke CVE-2026-124194: Angreifer stehlen NTLMv2-Anmeldedaten",
+      "excerpt": "Outlook-Lücke CVE-2026-124194: Angreifer stehlen NTLMv2-Anmeldedaten ad-hoc-news.de",
+      "summary": "Outlook-Lücke CVE-2026-124194: Angreifer stehlen NTLMv2-Anmeldedaten ad-hoc-news.de",
+      "source": "ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLXJzVkFBcGY2MGpWVzNLbTgzaGgzQm5SR2N0M3Naa0g2MTdyVU1nVFpOZlR6bVdnME41Wk5zaUt6LXhfQnpGYjJnSkRnelV4XzhOZWl2V1hjTGJWcTdiTFlrdVJHNS0yakVxR0tqaXl1d2Rnc1RtRFNNTXNkVDhvX3hVM2t0UmpZaTh3REpkVTFLOFQwaVFEc050SG5tUGZzbk1Mekt5X3BkR0lJVm5WUmRQbUp0M2Rr?oc=5",
+      "published": "2026-11-18T06:43:27+00:00",
+      "category": "Security"
     },
     {
       "id": "011a49bd505659d1",
@@ -201,7 +201,7 @@
       "category": "Cloud"
     }
   ],
-  "updatedAt": "2026-11-19T01:24:43.322340+00:00",
+  "updatedAt": "2026-11-19T03:00:00.841971+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
