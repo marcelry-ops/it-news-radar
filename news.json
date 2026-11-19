@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "940cfcd9731cc4c7",
+      "title": "KI-Unternehmen: Anthropic-Aktie macht Kurssprung zum Börsenstart",
+      "excerpt": "Anthropic ist erfolgreich an der Börse gestartet. Das Unternehmen wird mit fast 2 Billionen US-Dollar bewertet. ( Anthropic , Börse )",
+      "summary": "Anthropic ist erfolgreich an der Börse gestartet. Das Unternehmen wird mit fast 2 Billionen US-Dollar bewertet. ( Anthropic , Börse )",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/ki-unternehmen-anthropic-aktie-macht-kursprung-zum-boersenstart-2611-215436.html",
+      "published": "2026-11-19T17:16:01+00:00",
+      "category": "Firmen"
+    },
+    {
       "id": "456e7f8ab9d08c84",
       "title": "(g+) Wachstum: Wo bleibt Europas KI-Boom?",
       "excerpt": "Wenn man ganz genau hinsieht, kann man ihn in den Daten entdecken - unsere heutige Leseempfehlung aus der Financial Times. Von Soumaya Keynes ( Wirtschaft , KI )",
@@ -171,6 +181,26 @@
       "category": "Trends"
     },
     {
+      "id": "621c230feeace24c",
+      "title": "E-Mail ausgefallen? Wie Behörden und Unternehmen ihre Handlungsfähigkeit sichern - it-daily.net",
+      "excerpt": "E-Mail ausgefallen? Wie Behörden und Unternehmen ihre Handlungsfähigkeit sichern it-daily.net",
+      "summary": "E-Mail ausgefallen? Wie Behörden und Unternehmen ihre Handlungsfähigkeit sichern it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWkJmOXBDcy1lRlRIMW5VR2tuYzY1Y1NaZ29rWm43V25qNWcyODExWjVpUFh2MTFSN0FseFFERHk5ZEVlRlAteEFoTnZqdXN0UFduZzVISUpuZVpHOGt5UlBDUENMX2ZJSENydktNZFJLOVFZbjlrNFBrTS1lLTZqdlU2X2pwcFlRbW5UVjlNSEFKVGtzNHJldG1VaTJ2LUdJ?oc=5",
+      "published": "2026-11-19T08:23:31+00:00",
+      "category": "Firmen"
+    },
+    {
+      "id": "9030ca55abe28013",
+      "title": "Microsoft 365: Apps und KI-Agenten seit 18. November zentral verwalten",
+      "excerpt": "Microsoft 365: Apps und KI-Agenten seit 18. November zentral verwalten BornCity",
+      "summary": "Microsoft 365: Apps und KI-Agenten seit 18. November zentral verwalten BornCity",
+      "source": "BornCity",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObnMxVUFKaFlqY1l1azZhal8tRldLeTdyaDZYS3pTTjAxcXNldFlwT1ZmdGtUaUItSU5odXJiZ1VUazMtWGNkbVpoWWlIMU5zNmRYMndJZElmSGZZcFVWaUxlNTFhVHhGM1hBMUFiT1ltSTJGaVdXck9FMzI0MDZ2MXhyMUNvcmpWakJOMkVIMDFpTDNpUDQ0Z3J1UQ?oc=5",
+      "published": "2026-11-19T06:44:05+00:00",
+      "category": "Microsoft 365"
+    },
+    {
       "id": "c592d9b095472b85",
       "title": "Ransomware-Krisen erfolgreich bewältigen",
       "excerpt": "Ransomware-Krisen erfolgreich bewältigen CHEMIE TECHNIK",
@@ -179,6 +209,16 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ0xCdzJBZUU1RjBFUktMVlV5Vkoybm5kZDdtc3Eza0FtWEQ2YkItSTJBd2NJVE45S01uQTEtTU92OFBsbzd4cldUU29KSHhmaGFVejZwTEVDWU16NkhYN2hrTlM2b2RnQkJJLWJyc2NDZmRLYklfUDczQzg3dmwzd09FVlBLRmR0S0J3Y04xUHpLQ002Sk1LWA?oc=5",
       "published": "2026-11-19T06:26:00+00:00",
       "category": "Security"
+    },
+    {
+      "id": "086af95badb92bbd",
+      "title": "Trends 2027: Vorsprung durch Governance - it-daily.net",
+      "excerpt": "Trends 2027: Vorsprung durch Governance it-daily.net",
+      "summary": "Trends 2027: Vorsprung durch Governance it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lVnRkTURlNkRfQ18zWGFnLXMtWEs1d09EVW54TFFFckE3NTJUbXVZVGNVMnVfc1ZfTzE5ZFhtUl9xNjVheTJ2ci0weTM3QUpqSWcwUl9sU0pubDQ2MFNQYjhxZ082ZjdTeFFJcGw0eVp2V1dYOFFEYmJBMEU3dmc?oc=5",
+      "published": "2026-11-19T04:08:28+00:00",
+      "category": "Trends"
     },
     {
       "id": "6a21a62621a19c6a",
@@ -251,16 +291,6 @@
       "category": "Cloud"
     },
     {
-      "id": "f9ea533908e1c981",
-      "title": "Microsoft SharePoint: Angreifer können Code einschleusen und ausführen",
-      "excerpt": "Microsoft warnt vor Sicherheitslücken in der SharePoint Server Subscription Edition. Admins sollten das bereitstehende Update anwenden.",
-      "summary": "Microsoft warnt vor Sicherheitslücken in der SharePoint Server Subscription Edition. Admins sollten das bereitstehende Update anwenden.",
-      "source": "heise Security",
-      "url": "https://www.heise.de/news/Microsoft-SharePoint-Angreifer-koennen-Code-einschleusen-und-ausfuehren-11529556.html",
-      "published": "2026-11-18T13:05:00+00:00",
-      "category": "Microsoft 365"
-    },
-    {
       "id": "0d11956a44fb45c1",
       "title": "Fünf Schweizer IT-Unternehmen gründen Opensovereign",
       "excerpt": "Die fünf Schweizer IT-Unternehmen VSHN, Puzzle ITC, Adfinis, Cloudscale und Cyberlink rufen eine gemeinsame Initiative für digitale Souveränität ins Leben. Opensovereign soll Schweizer Organisationen auf dem Weg zur digitalen Unabhängigkeit begleiten. Dazu gehört die Ablösung proprietärer Anbieter und der Ausbau selbst kontrollierbarer IT-Infrastruktur.",
@@ -281,24 +311,14 @@
       "category": "Firmen"
     },
     {
-      "id": "8547a56091312ce0",
-      "title": "Fünf Schweizer IT-Firmen gründen OpenSovereign",
-      "excerpt": "VSHN, Puzzle ITC, Adfinis, Cloudscale und Cyberlink haben die Allianz OpenSovereign gegründet. Gemeinsam wollen die fünf Schweizer IT-Unternehmen Organisationen dabei unterstützen, ihre Abhängigkeit von einzelnen Technologieanbietern zu reduzieren.",
-      "summary": "VSHN, Puzzle ITC, Adfinis, Cloudscale und Cyberlink haben die Allianz OpenSovereign gegründet. Gemeinsam wollen die fünf Schweizer IT-Unternehmen Organisationen dabei unterstützen, ihre Abhängigkeit von einzelnen Technologieanbietern zu reduzieren.",
-      "source": "IT Reseller",
-      "url": "https://www.itreseller.ch/Artikel/106636/Fuenf_Schweizer_IT-Firmen_gruenden_OpenSovereign.html",
-      "published": "2026-11-18T07:43:54+00:00",
-      "category": "Firmen"
-    },
-    {
-      "id": "72646a0a7ab21f2c",
-      "title": "KI verändert 20 Prozent der Jobs: Was jetzt für Unternehmen, Beschäftigte und Berufseinsteiger zählt - Computerwoche",
-      "excerpt": "KI verändert 20 Prozent der Jobs: Was jetzt für Unternehmen, Beschäftigte und Berufseinsteiger zählt Computerwoche",
-      "summary": "KI verändert 20 Prozent der Jobs: Was jetzt für Unternehmen, Beschäftigte und Berufseinsteiger zählt Computerwoche",
-      "source": "Computerwoche",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQLTB6UHdCdVVCVGNSdjZMZVRUX3lqa0ZiREhkM0VuZFM0UVBWM0JuSzVTN2xBM3JGU09kQU4yd3VjZGJlcEd0R3dvNlVpTGRFdDk4YTJqeDFWOXBFbnlfZzluMEdHYjloeXpORUM0NGIzbjkyZVJtSkN6RUNkaEFTS1UzSktsakRtNjZ5dmVoa3ZrRmpKOFJTR1hlUFdoSXhDN2YySkhEalMxX2UxZmxpR0Nncm5hUHQzNTdoV1ZtXzBPRHZmbjFTLVhNajJjcllsUXN1Yzd0R05QXzNRQWlBYmFR?oc=5",
-      "published": "2026-11-18T03:00:00+00:00",
-      "category": "Firmen"
+      "id": "ef34217f86d32cc5",
+      "title": "E-Mail-Sicherheit: Blinder Fleck in der Cloud - it-daily.net",
+      "excerpt": "E-Mail-Sicherheit: Blinder Fleck in der Cloud it-daily.net",
+      "summary": "E-Mail-Sicherheit: Blinder Fleck in der Cloud it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdXNsWlo4VXNFMmFsSzJPVWplRTFmcUVmOWlQRWpiUlFucmlzZ0daeWEzSEw3R3kyclZUTE40MjFPRC1hN041alNQYUNkaUdlVl9JT3JaTl9kRkY5X2d5alpuM0JJN2MtUU8ycVd5TkxGdWp3bHV3NER0eTZMR2NpdUhQZw?oc=5",
+      "published": "2026-11-18T06:26:26+00:00",
+      "category": "Cloud"
     },
     {
       "id": "00cd893bf9d183c4",
@@ -329,29 +349,9 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcDczLXE0UTZ6TC12dTFsd0tVeEFOSmtHbktDNnkzT2pFdlpXdnNxZXB2ZW1raWVWLWl2aVpnVHFqaThtLXBOSC10YWgtdjJVVnlndlcwYVRJSnkyWktuU0FrVVRlRS1ieDVYQmhLU1F2UUJlVWRzZlNjSEZmWm5LUGJqU2tRbWp2LTFiSUdzNDEtQ3lVNTFNdGw1UDJlRnMzSjk0ZUZtMnhUODRVZFYzZ0lhdWJZd3lrNFJzM3dDSDdJcFFUQVZ2T0N3?oc=5",
       "published": "2026-11-17T08:00:00+00:00",
       "category": "Cloud"
-    },
-    {
-      "id": "7aa75a8b40453664",
-      "title": "Bechtle übernimmt zwei PLM-Spezialisten",
-      "excerpt": "Bechtle baut sein Geschäft mit Fertigungssoftware, Robotik und Fabrikautomation durch die Übernahme von EngRoTec Consulting und 4-PLM aus. Mit den beiden Unternehmen wechseln neun Mitarbeitende zum IT-Dienstleister.",
-      "summary": "Bechtle baut sein Geschäft mit Fertigungssoftware, Robotik und Fabrikautomation durch die Übernahme von EngRoTec Consulting und 4-PLM aus. Mit den beiden Unternehmen wechseln neun Mitarbeitende zum IT-Dienstleister.",
-      "source": "IT Reseller",
-      "url": "https://www.itreseller.ch/Artikel/106627/Bechtle_uebernimmt_zwei_PLM-Spezialisten.html",
-      "published": "2026-11-17T07:24:59+00:00",
-      "category": "Trends"
-    },
-    {
-      "id": "524ce4aa4f19c658",
-      "title": "Die Public Cloud ist noch lange nicht am Ende - IT-Markt",
-      "excerpt": "Die Public Cloud ist noch lange nicht am Ende IT-Markt",
-      "summary": "Die Public Cloud ist noch lange nicht am Ende IT-Markt",
-      "source": "IT-Markt",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYnkwWHBLcHVnQldSOV91Z0tUYXQtTTB5aURMdjJudkIzUlNNYktTVjJER081V2htYkFoQkpsalgwUERWcHhRU0xqN1VZSTlNeU1PWk9jOGtGUVl2cFpsbXlXTnpyWjAxNWtqY2R6aHNmM3g5anBTVUZFTGg3UHhvR2VjLUp2eWQwUDJNbzBB?oc=5",
-      "published": "2026-11-16T14:20:30+00:00",
-      "category": "Cloud"
     }
   ],
-  "updatedAt": "2026-11-19T17:16:10.276185+00:00",
+  "updatedAt": "2026-11-19T18:06:51.883494+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -370,6 +370,6 @@
     "Markt": 5,
     "Firmen": 5
   },
-  "warning": "3 von 29 RSS-Quellen waren nicht erreichbar.",
+  "warning": "",
   "aiSummaries": false
 }
