@@ -111,33 +111,13 @@
       "category": "Security"
     },
     {
-      "id": "80d95080699c3f53",
-      "title": "Notfall-Update gegen DDoS: Flut an Client-Verbindungen überlastet das Tor-Netzwerk",
-      "excerpt": "Betreiber von Tor-Relays sollten zügig ihre Software aktualisieren. Das jüngste Update enthält einen neuen Schutz vor laufenden DDoS-Attacken. ( DoS , Cyberwar )",
-      "summary": "Betreiber von Tor-Relays sollten zügig ihre Software aktualisieren. Das jüngste Update enthält einen neuen Schutz vor laufenden DDoS-Attacken. ( DoS , Cyberwar )",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/notfall-update-veroeffentlicht-laufende-angriffe-beeintraechtigen-das-tor-netzwerk-2611-215355.html",
-      "published": "2026-11-18T11:40:02+00:00",
-      "category": "Security"
-    },
-    {
-      "id": "3a00de89322a9b1d",
-      "title": "Nach Datenleck: Deutsche-Bank-Chef sieht keine Gefahr für Kundendaten",
-      "excerpt": "Laut Deutsche-Bank-Chef Christian Sewing sind durch das Datenleck weder die Systeme der Bank kompromittiert noch Kundendaten gefährdet. ( Datenleck , Sicherheitslücke )",
-      "summary": "Laut Deutsche-Bank-Chef Christian Sewing sind durch das Datenleck weder die Systeme der Bank kompromittiert noch Kundendaten gefährdet. ( Datenleck , Sicherheitslücke )",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/nach-datenleck-deutsche-bank-chef-sieht-keine-gefahr-fuer-kundendaten-2611-215353.html",
-      "published": "2026-11-18T11:15:02+00:00",
-      "category": "Security"
-    },
-    {
-      "id": "a85cb51f5d6f7498",
-      "title": "Kritische Java-Schwachstelle gefährdet Geschäftssoftware",
-      "excerpt": "Die Lücke Java4Shell ermöglicht Angriffe auf zahlreiche Java-Anwendungen. Das Bacs empfiehlt, eigene Systeme umgehend zu prüfen und Sicherheits-Updates einzuspielen.",
-      "summary": "Die Lücke Java4Shell ermöglicht Angriffe auf zahlreiche Java-Anwendungen. Das Bacs empfiehlt, eigene Systeme umgehend zu prüfen und Sicherheits-Updates einzuspielen.",
-      "source": "Inside IT",
-      "url": "https://www.inside-it.ch/kritische-java-schwachstelle-gefaehrdet-geschaeftssoftware-20261118",
-      "published": "2026-11-18T10:50:29+00:00",
+      "id": "10796f9a86c5c8cc",
+      "title": "Apache HTTP Server: RCE-Lücke CVE-2026-119618 wird aktiv ausgenutzt",
+      "excerpt": "Apache HTTP Server: RCE-Lücke CVE-2026-119618 wird aktiv ausgenutzt All About SECURITY",
+      "summary": "Apache HTTP Server: RCE-Lücke CVE-2026-119618 wird aktiv ausgenutzt All About SECURITY",
+      "source": "All About SECURITY",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQVVoQjZkZnVPbFYwSWNfN1dNWFVqeGE4cmtRcGd3TzNtS09NYXJLaUlnMXhoamhGOFhzam5RYUZjUGVPcTFoVVJuXzk5V2o5aWg5cmlzUm9aSUhlYTYzUEZRSUkxZl95WVR3b1BXX0kwUHllMkU4N0o3MGtuWjRac0w3X3JUb2Q3WXkzZ3pFdk9qUUZ4bk5WcnBQUTVacmd4RzJmRQ?oc=5",
+      "published": "2026-11-18T08:49:27+00:00",
       "category": "Security"
     },
     {
@@ -151,6 +131,16 @@
       "category": "Microsoft 365"
     },
     {
+      "id": "4099dd09aadd415e",
+      "title": "Outlook-Lücke CVE-2026-124194: Angreifer stehlen NTLMv2-Anmeldedaten",
+      "excerpt": "Outlook-Lücke CVE-2026-124194: Angreifer stehlen NTLMv2-Anmeldedaten ad-hoc-news.de",
+      "summary": "Outlook-Lücke CVE-2026-124194: Angreifer stehlen NTLMv2-Anmeldedaten ad-hoc-news.de",
+      "source": "ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLXJzVkFBcGY2MGpWVzNLbTgzaGgzQm5SR2N0M3Naa0g2MTdyVU1nVFpOZlR6bVdnME41Wk5zaUt6LXhfQnpGYjJnSkRnelV4XzhOZWl2V1hjTGJWcTdiTFlrdVJHNS0yakVxR0tqaXl1d2Rnc1RtRFNNTXNkVDhvX3hVM2t0UmpZaTh3REpkVTFLOFQwaVFEc050SG5tUGZzbk1Mekt5X3BkR0lJVm5WUmRQbUp0M2Rr?oc=5",
+      "published": "2026-11-18T06:43:27+00:00",
+      "category": "Security"
+    },
+    {
       "id": "011a49bd505659d1",
       "title": "Microsoft Copilot: Neue Credit-Abrechnung kommt für Partner erst 2027",
       "excerpt": "Microsoft Copilot: Neue Credit-Abrechnung kommt für Partner erst 2027 BornCity",
@@ -159,6 +149,16 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMXI4ckNvSHVlNnlrSVV6WHBiY0hoRU5IQkRwc3FsMFpKWVRMbEQ4NlkxaXN5bDNYSDkwZF9hbEJ5dE4zRTY4dm41RmtLX2xQamltcTRLUU5IUEdtQWJCVDRqSi00Wmlib044WE5EOFUwZWxzOFNTLWpVaGxwSy0tTWN6RUpaVGJGQVhodW91Wlg1a1cyNmUzTWtYU2Y?oc=5",
       "published": "2026-11-18T05:00:08+00:00",
       "category": "Microsoft 365"
+    },
+    {
+      "id": "c7b593b54e571edf",
+      "title": "Outlook-Sicherheitslücke: Microsoft schließt aktiv genutzte Spoofing-Schwachstelle",
+      "excerpt": "Outlook-Sicherheitslücke: Microsoft schließt aktiv genutzte Spoofing-Schwachstelle BornCity",
+      "summary": "Outlook-Sicherheitslücke: Microsoft schließt aktiv genutzte Spoofing-Schwachstelle BornCity",
+      "source": "BornCity",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZEM3VHhmSkFIMHNHc1g1NnY0Q25NUHZZclpURmxlclowVllNazNpTVg3Si1EQnJVbnBHaS1LWmk1bEEwd3hJUnM4SU9qOXlvR1RkN0g2OFJzd3UwTWtvUlhSWFFNRnFxNTNwNnJIaGtXYjlDUW04eTBMTUJZbUhicUU1d1NBUV8taHFpRlpHTW41QlRyNHVMNVc0YUdLdlBuRU12LTN3Y0FnYnF1ZHFB?oc=5",
+      "published": "2026-11-17T14:31:05+00:00",
+      "category": "Security"
     },
     {
       "id": "3852a168576d6274",
@@ -201,7 +201,7 @@
       "category": "Cloud"
     }
   ],
-  "updatedAt": "2026-11-19T05:16:15.527092+00:00",
+  "updatedAt": "2026-11-19T06:17:53.006000+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
