@@ -1,6 +1,56 @@
 {
   "items": [
     {
+      "id": "d1fdbbe90f0f90ba",
+      "title": "Bechtle übernimmt Swiss Solution Group",
+      "excerpt": "Bechtle übernimmt die Zuger Swiss Solution Group. Das Unternehmen ist auf das Lifecycle-Management von IT-Hardware spezialisiert. Mit dem Zukauf erweitert Bechtle sein Schweizer Angebot für die Aufbereitung, den Wiederverkauf und das Recycling von IT-Geräten.",
+      "summary": "Bechtle übernimmt die Zuger Swiss Solution Group. Das Unternehmen ist auf das Lifecycle-Management von IT-Hardware spezialisiert. Mit dem Zukauf erweitert Bechtle sein Schweizer Angebot für die Aufbereitung, den Wiederverkauf und das Recycling von IT-Geräten.",
+      "source": "Netzwoche",
+      "url": "https://www.netzwoche.ch/news/2026-11-19/bechtle-uebernimmt-swiss-solution-group",
+      "published": "2026-11-19T09:31:31+00:00",
+      "category": "IT Schweiz"
+    },
+    {
+      "id": "3c716ada4b87f8b3",
+      "title": "heise+ | Malware ohne Quellcode: Wie Trusting-Trust-Attacken funktionieren",
+      "excerpt": "Wer Software nicht blind vertrauen will, muss ihren Quellcode lückenlos prüfen. Doch wenn Angreifer geschickt vorgehen, reicht nicht einmal das.",
+      "summary": "Wer Software nicht blind vertrauen will, muss ihren Quellcode lückenlos prüfen. Doch wenn Angreifer geschickt vorgehen, reicht nicht einmal das.",
+      "source": "heise online",
+      "url": "https://www.heise.de/hintergrund/Malware-ohne-Quellcode-Wie-Trusting-Trust-Attacken-funktionieren-11414923.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published": "2026-11-19T09:30:00+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "a41dd4dbcba2633f",
+      "title": "KI-Agenten verbreiten sich im Schweizer Arbeitsalltag",
+      "excerpt": "Der Einsatz von KI-Agenten hat in der Schweizer Arbeitswelt deutlich zugenommen. Wer KI in den Alltag integriert, spart nach eigenen Angaben besonders viel Zeit. Viele Beschäftigte vermissen allerdings das Verständnis ihrer Vorgesetzten für die Folgen dieses Wandels.",
+      "summary": "Der Einsatz von KI-Agenten hat in der Schweizer Arbeitswelt deutlich zugenommen. Wer KI in den Alltag integriert, spart nach eigenen Angaben besonders viel Zeit. Viele Beschäftigte vermissen allerdings das Verständnis ihrer Vorgesetzten für die Folgen dieses W",
+      "source": "Netzwoche",
+      "url": "https://www.netzwoche.ch/news/2026-11-19/ki-agenten-verbreiten-sich-im-schweizer-arbeitsalltag",
+      "published": "2026-11-19T09:25:57+00:00",
+      "category": "IT Schweiz"
+    },
+    {
+      "id": "15cc5dd8394b5eab",
+      "title": "Die Payment-Zukunft gehört KI-Agenten und Stablecoins. Oder?",
+      "excerpt": "Die Payment-Branche rüstet sich für Zahlungen durch autonome KI-Agenten. Und in einem Laden in der Schweiz kann man heute schon Einkäufe mit Stablecoins bezahlen. Was es braucht, um die Technologien zum Fliegen zu bringen, diskutierten die Gäste am Swiss Payment Forum 2026.",
+      "summary": "Die Payment-Branche rüstet sich für Zahlungen durch autonome KI-Agenten. Und in einem Laden in der Schweiz kann man heute schon Einkäufe mit Stablecoins bezahlen. Was es braucht, um die Technologien zum Fliegen zu bringen, diskutierten die Gäste am Swiss Payme",
+      "source": "Netzwoche",
+      "url": "https://www.netzwoche.ch/news/2026-11-19/die-payment-zukunft-gehoert-ki-agenten-und-stablecoins-oder",
+      "published": "2026-11-19T08:52:02+00:00",
+      "category": "Trends"
+    },
+    {
+      "id": "9a200550e5bb09d0",
+      "title": "Gemini 4 Neon macht Googles Spitzenmodell Konkurrenz",
+      "excerpt": "Googles neues KI-Modell Gemini 4 Neon erreicht in Benchmarks das Niveau des Spitzenmodells Gemini 4 Carbon, arbeitet aber schneller und bald auch günstiger.",
+      "summary": "Googles neues KI-Modell Gemini 4 Neon erreicht in Benchmarks das Niveau des Spitzenmodells Gemini 4 Carbon, arbeitet aber schneller und bald auch günstiger.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Gemini-4-Neon-macht-Googles-Spitzenmodell-Konkurrenz-11530483.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published": "2026-11-19T08:38:00+00:00",
+      "category": "Trends"
+    },
+    {
       "id": "621c230feeace24c",
       "title": "E-Mail ausgefallen? Wie Behörden und Unternehmen ihre Handlungsfähigkeit sichern - it-daily.net",
       "excerpt": "E-Mail ausgefallen? Wie Behörden und Unternehmen ihre Handlungsfähigkeit sichern it-daily.net",
@@ -31,6 +81,16 @@
       "category": "Microsoft 365"
     },
     {
+      "id": "c592d9b095472b85",
+      "title": "Ransomware-Krisen erfolgreich bewältigen",
+      "excerpt": "Ransomware-Krisen erfolgreich bewältigen CHEMIE TECHNIK",
+      "summary": "Ransomware-Krisen erfolgreich bewältigen CHEMIE TECHNIK",
+      "source": "CHEMIE TECHNIK",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ0xCdzJBZUU1RjBFUktMVlV5Vkoybm5kZDdtc3Eza0FtWEQ2YkItSTJBd2NJVE45S01uQTEtTU92OFBsbzd4cldUU29KSHhmaGFVejZwTEVDWU16NkhYN2hrTlM2b2RnQkJJLWJyc2NDZmRLYklfUDczQzg3dmwzd09FVlBLRmR0S0J3Y04xUHpLQ002Sk1LWA?oc=5",
+      "published": "2026-11-19T06:26:00+00:00",
+      "category": "Security"
+    },
+    {
       "id": "7b01129b6027065e",
       "title": "Schweizer Löhne im Tech-Sektor: KI-Kompetenz ist gut fürs Portemonnaie",
       "excerpt": "Schweizer Löhne im Tech-Sektor: KI-Kompetenz ist gut fürs Portemonnaie Swiss IT Magazine",
@@ -49,6 +109,16 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lVnRkTURlNkRfQ18zWGFnLXMtWEs1d09EVW54TFFFckE3NTJUbXVZVGNVMnVfc1ZfTzE5ZFhtUl9xNjVheTJ2ci0weTM3QUpqSWcwUl9sU0pubDQ2MFNQYjhxZ082ZjdTeFFJcGw0eVp2V1dYOFFEYmJBMEU3dmc?oc=5",
       "published": "2026-11-19T04:08:28+00:00",
       "category": "Trends"
+    },
+    {
+      "id": "6a21a62621a19c6a",
+      "title": "MIND führt DLP-Integrationen für Microsoft Copilot und Microsoft 365 ein",
+      "excerpt": "MIND führt DLP-Integrationen für Microsoft Copilot und Microsoft 365 ein Unite.AI",
+      "summary": "MIND führt DLP-Integrationen für Microsoft Copilot und Microsoft 365 ein Unite.AI",
+      "source": "Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOXy1Vck43UDkyYkdETFBna3RqdjRmbXdsdjlwYXpJQ0FaSjl6TWJRcUNFNkV3YmVsWm9neTJBLU9BS3Z6WXpuUkVSMFFoU1hwcnhjaHZNYU8zUHp4cV93UldSV0kxYUM3cVFHeGZVVGlOb0Y4WEpiTllVY2Y3dHNBZUQ0b1l1U3hlRnNHNGtFeGJDSDQtLUxzdjl0OA?oc=5",
+      "published": "2026-11-18T18:09:03+00:00",
+      "category": "Microsoft 365"
     },
     {
       "id": "23da7ac421f950e4",
@@ -81,16 +151,6 @@
       "category": "Cloud"
     },
     {
-      "id": "51184c03d2cf8ef5",
-      "title": "Die Payment-Zukunft gehört KI-Agenten und Stablecoins. Oder?",
-      "excerpt": "Die Payment-Branche rüstet sich für Zahlungen durch autonome KI-Agenten. Und in einem Laden in der Schweiz kann man heute schon Einkäufe mit Stablecoins bezahlen. Was es braucht, um die Technologien zum Fliegen zu bringen, diskutierten die Gäste am Swiss Payment Forum 2026.",
-      "summary": "Die Payment-Branche rüstet sich für Zahlungen durch autonome KI-Agenten. Und in einem Laden in der Schweiz kann man heute schon Einkäufe mit Stablecoins bezahlen. Was es braucht, um die Technologien zum Fliegen zu bringen, diskutierten die Gäste am Swiss Payme",
-      "source": "Netzwoche",
-      "url": "https://www.netzwoche.ch/news/2026-11-18/die-payment-zukunft-gehoert-ki-agenten-und-stablecoins-oder",
-      "published": "2026-11-18T14:52:02+00:00",
-      "category": "Trends"
-    },
-    {
       "id": "9bc402f990ce8639",
       "title": "Schweizer Firmen gründen Allianz für digitale Souveränität",
       "excerpt": "Mit Opensovereign wollen fünf Schweizer IT-Unternehmen Open-Source-Technologien als Alternative zu proprietären IT-Lösungen stärken.",
@@ -101,24 +161,24 @@
       "category": "IT Schweiz"
     },
     {
-      "id": "d035777ff4b76f4c",
-      "title": "IT-S expandiert nach Zürich",
-      "excerpt": "Der IT-Dienstleister IT-S schliesst sich mit Allnet Solutions aus Urdorf zusammen. Durch die Übernahme des Allnet-Standorts und -Teams in Zürich ist der Dienstleister neu in vier Schweizer Wirtschaftsregionen vertreten.",
-      "summary": "Der IT-Dienstleister IT-S schliesst sich mit Allnet Solutions aus Urdorf zusammen. Durch die Übernahme des Allnet-Standorts und -Teams in Zürich ist der Dienstleister neu in vier Schweizer Wirtschaftsregionen vertreten.",
-      "source": "Netzwoche",
-      "url": "https://www.netzwoche.ch/news/2026-11-18/it-s-expandiert-nach-zuerich",
-      "published": "2026-11-18T14:39:44+00:00",
+      "id": "e0585690d747675f",
+      "title": "Lausanne ernennt neuen IT-Leiter",
+      "excerpt": "Lausanne ernennt neuen IT-Leiter IT-Markt",
+      "summary": "Lausanne ernennt neuen IT-Leiter IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xNjBfbUhpenpBTlB3TzR5RERkSWNlNHBmWndMYk9YZXpvOW9RTlNFd2EzcEZ3TWEzRlBXd1VGWFlHb1B1MFNaU1RMLW1Ta2x1WDZJUXkwS0F3MUhvOU94bUNsMnBOQ2U2QlZvYW9SNGZaZ1dWRUFMVTRDQ2Y?oc=5",
+      "published": "2026-11-18T14:41:09+00:00",
       "category": "IT Schweiz"
     },
     {
-      "id": "857d973cc60d03ab",
-      "title": "Lausanne ernennt neuen IT-Leiter",
-      "excerpt": "Die Stadt Lausanne ernennt Philippe Catirane zum Leiter ihres Dienstes für Organisation und Informatik. Er tritt die Stelle am 1. März 2027 an und folgt auf Vincent Naïnemoutou, der in Pension geht.",
-      "summary": "Die Stadt Lausanne ernennt Philippe Catirane zum Leiter ihres Dienstes für Organisation und Informatik. Er tritt die Stelle am 1. März 2027 an und folgt auf Vincent Naïnemoutou, der in Pension geht.",
-      "source": "Netzwoche",
-      "url": "https://www.netzwoche.ch/news/2026-11-18/lausanne-ernennt-neuen-it-leiter",
-      "published": "2026-11-18T14:36:05+00:00",
-      "category": "IT Schweiz"
+      "id": "ae0496157f3f9757",
+      "title": "IT-S expandiert nach Zürich - IT-Markt",
+      "excerpt": "IT-S expandiert nach Zürich IT-Markt",
+      "summary": "IT-S expandiert nach Zürich IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZSXdFY3dZbGxESU1kanBhU0t4UWRjbDBTN1JPRWMycm1qeEwxLXo4SWRjQ00wLUhzQk1hNGdoUllLOWdVakdVUG5nM0VTQzRBRWdybFIwZUlpWld5RV9RLXJPem9QbmZDbXpUcTBRR3I1LVdrNzNB?oc=5",
+      "published": "2026-11-18T14:40:15+00:00",
+      "category": "Markt"
     },
     {
       "id": "7f3e73a1ed1fb5ce",
@@ -151,24 +211,14 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "5f4ca943da9d5d96",
-      "title": "Nach Cyberangriff: Japan nimmt Supercomputer Fugaku vom Netz",
-      "excerpt": "Unbekannte sind über ein Web-Dashboard in das Netzwerk des Fugaku-Betreibers Riken eingedrungen und haben auf Nutzerdaten zugegriffen. ( Supercomputer , Computer )",
-      "summary": "Unbekannte sind über ein Web-Dashboard in das Netzwerk des Fugaku-Betreibers Riken eingedrungen und haben auf Nutzerdaten zugegriffen. ( Supercomputer , Computer )",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/nach-cyberangriff-japan-nimmt-supercomputer-fugaku-vom-netz-2611-215359.html",
-      "published": "2026-11-18T12:45:02+00:00",
-      "category": "Security"
-    },
-    {
-      "id": "d247ccd53c148159",
-      "title": "Ghost in the Shell: Die Zukunft, die uns einholt",
-      "excerpt": "Gehackte Gehirne und künstliche Körper sind noch Fiktion. Doch andere Probleme des Kult-Animes sind längst Realität. ( Ghost in the Shell , KI )",
-      "summary": "Gehackte Gehirne und künstliche Körper sind noch Fiktion. Doch andere Probleme des Kult-Animes sind längst Realität. ( Ghost in the Shell , KI )",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/ghost-in-the-shell-die-zukunft-die-uns-einholt-2611-215335.html",
-      "published": "2026-11-18T11:00:02+00:00",
-      "category": "Trends"
+      "id": "b5b7fadae0f289cd",
+      "title": "Kleine Nager hamstern Attitüde - IT-Markt",
+      "excerpt": "Kleine Nager hamstern Attitüde IT-Markt",
+      "summary": "Kleine Nager hamstern Attitüde IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOEdRcWthY3FKSm9kVkVRS0p5N1A5TEFfQTdLeTdoejBxcE1IYzlVUFo0Nm1pRXE4RjJrOVM1VU9TWm9MMHFLNFo2eDFyWllMMWd5Z25wN0RSRmpmaVc1bHVRRk5iNlBOSXRGVjgxbVMxT1NMSWM5ZDBKbFBIOENzbXhoZw?oc=5",
+      "published": "2026-11-18T11:36:13+00:00",
+      "category": "Markt"
     },
     {
       "id": "0d11956a44fb45c1",
@@ -178,7 +228,7 @@
       "source": "Netzwoche",
       "url": "https://www.netzwoche.ch/news/2026-11-18/fuenf-schweizer-it-unternehmen-gruenden-opensovereign",
       "published": "2026-11-18T10:27:45+00:00",
-      "category": "IT Schweiz"
+      "category": "Firmen"
     },
     {
       "id": "10796f9a86c5c8cc",
@@ -191,33 +241,23 @@
       "category": "Security"
     },
     {
-      "id": "56af2ce2eeca5977",
-      "title": "Start-up-Finanzierung in Deutschland fast verdoppelt - it-daily.net",
-      "excerpt": "Start-up-Finanzierung in Deutschland fast verdoppelt it-daily.net",
-      "summary": "Start-up-Finanzierung in Deutschland fast verdoppelt it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WNHdVY09PODgxUWQ0Rnp6NlRyWVRlQ2ZRN0p6QzVMeTdTQVZ5bE1RYTFxeThaajZHY1ZxazJXOUVaQnNjNjJhdlU5eU5SbmRJMGN0STVKTkE4TDF5U2lzQ3NTNWdFcVBCTmNKVk9MSEo4bjUyU2c?oc=5",
-      "published": "2026-11-18T08:29:00+00:00",
-      "category": "Firmen"
+      "id": "fbe823646a36cfe3",
+      "title": "Bewida übernimmt Sympasol - IT-Markt",
+      "excerpt": "Bewida übernimmt Sympasol IT-Markt",
+      "summary": "Bewida übernimmt Sympasol IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82Tm16RGk2SFNEbk1IUGd3TE9mNkhZQ2JvTEM3RkZGWFhNLXA5MVhHeGhyUll1X0o1QVhrcVZKS2dKUWlQdkJIWFlfbFVzdmdoNUpZZTZ4Y3lYUW96cFdwcWE0OFU5SmdHbWdFd1NhbW9tMV9x?oc=5",
+      "published": "2026-11-18T08:33:31+00:00",
+      "category": "Markt"
     },
     {
-      "id": "f40a281ab5923436",
-      "title": "Microsoft erweitert Copilot um gemeinsame Arbeitsräume für Teams",
-      "excerpt": "Zum Auftakt seiner Hausmesse Ignite hat Microsoft gemeinsame Arbeitsbereiche für Copilot vorgestellt. Zudem beginnt der Konzern mit der Einführung des KI-Agenten Autopilot, der wiederkehrende Aufgaben eigenständig übernehmen soll. Beide Neuerungen stehen vorerst nur im Frontier-Programm zur Verfügung.",
-      "summary": "Zum Auftakt seiner Hausmesse Ignite hat Microsoft gemeinsame Arbeitsbereiche für Copilot vorgestellt. Zudem beginnt der Konzern mit der Einführung des KI-Agenten Autopilot, der wiederkehrende Aufgaben eigenständig übernehmen soll. Beide Neuerungen stehen vorer",
-      "source": "Netzwoche",
-      "url": "https://www.netzwoche.ch/news/2026-11-18/microsoft-erweitert-copilot-um-gemeinsame-arbeitsraeume-fuer-teams",
-      "published": "2026-11-18T08:04:54+00:00",
-      "category": "Microsoft 365"
-    },
-    {
-      "id": "8547a56091312ce0",
+      "id": "8d9d4a7df1771923",
       "title": "Fünf Schweizer IT-Firmen gründen OpenSovereign",
-      "excerpt": "VSHN, Puzzle ITC, Adfinis, Cloudscale und Cyberlink haben die Allianz OpenSovereign gegründet. Gemeinsam wollen die fünf Schweizer IT-Unternehmen Organisationen dabei unterstützen, ihre Abhängigkeit von einzelnen Technologieanbietern zu reduzieren.",
-      "summary": "VSHN, Puzzle ITC, Adfinis, Cloudscale und Cyberlink haben die Allianz OpenSovereign gegründet. Gemeinsam wollen die fünf Schweizer IT-Unternehmen Organisationen dabei unterstützen, ihre Abhängigkeit von einzelnen Technologieanbietern zu reduzieren.",
-      "source": "IT Reseller",
-      "url": "https://www.itreseller.ch/Artikel/106636/Fuenf_Schweizer_IT-Firmen_gruenden_OpenSovereign.html",
-      "published": "2026-11-18T07:43:54+00:00",
+      "excerpt": "Fünf Schweizer IT-Firmen gründen OpenSovereign Swiss IT Magazine",
+      "summary": "Fünf Schweizer IT-Firmen gründen OpenSovereign Swiss IT Magazine",
+      "source": "Swiss IT Magazine",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORno1YndtUElCZTlmaGV5dE1OTFNZTmcta21Bai1EbHJOLUU5OWU2S3V2Q21xd0FBR1ZIMTFFekE1UlFUb2NKT01oMzhoOU9aTGx2TmF6MmNNUnBxVmlqQXNZYjdoNWxQWlBFb3UzZExmVWk5N3R2Zlk5WVpObXRxb0x2bE9TV0pfOU1kRGhtVjQwb00ydGpVcg?oc=5",
+      "published": "2026-11-18T07:12:00+00:00",
       "category": "Firmen"
     },
     {
@@ -241,14 +281,34 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "c7b593b54e571edf",
-      "title": "Outlook-Sicherheitslücke: Microsoft schließt aktiv genutzte Spoofing-Schwachstelle",
-      "excerpt": "Outlook-Sicherheitslücke: Microsoft schließt aktiv genutzte Spoofing-Schwachstelle BornCity",
-      "summary": "Outlook-Sicherheitslücke: Microsoft schließt aktiv genutzte Spoofing-Schwachstelle BornCity",
+      "id": "6cc85f4cb8db3395",
+      "title": "Speicherdilemma: Mehr aus dem IT-Budget holen - IT-Markt",
+      "excerpt": "Speicherdilemma: Mehr aus dem IT-Budget holen IT-Markt",
+      "summary": "Speicherdilemma: Mehr aus dem IT-Budget holen IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdGNPNHF4MGVEYU1ZblFqeDl5eXpwZHpReE1MdHVVM0Q5UjVFVTJwVFVZY0Y5cjhoUDJNUnRhOHhUcUI0aFAyX1U3OHcydXp1YmVCMWpEMGRneUdvU21IVDJGLXI5MzYycWZqS0xUczBTZzdhbld6dkI5WFhNdDBvZjVWekF1RTc3bzN3dVA1aw?oc=5",
+      "published": "2026-11-17T15:00:00+00:00",
+      "category": "Markt"
+    },
+    {
+      "id": "eee1f9fdd26bf8a9",
+      "title": "TI&M gewinnt den \"USP Partner of the Year\"-Award - IT-Markt",
+      "excerpt": "TI&M gewinnt den \"USP Partner of the Year\"-Award IT-Markt",
+      "summary": "TI&M gewinnt den \"USP Partner of the Year\"-Award IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSE93M19fVjcxUUMwOUI4c1hfWXl3cnV3dFA1TTlUcVZrN0x2RUUzS0hUYkhtMVljMGdDamtOd0drUVFJekQxMDNHTEV0bzhxT3JyeEZEOXZkbDJ1Sy0wMUgxZFJvLS1yRmNfSHFUUjQyZV9hWmdMN2FxTk5qa3IzUmd3SE1ISWNVMURDMnd3?oc=5",
+      "published": "2026-11-17T12:34:24+00:00",
+      "category": "Markt"
+    },
+    {
+      "id": "bbb5946cccfaeb07",
+      "title": "Microsoft-Schullizenzen: Office 365 A1 und Gratis-Mail laufen schrittweise aus",
+      "excerpt": "Microsoft-Schullizenzen: Office 365 A1 und Gratis-Mail laufen schrittweise aus BornCity",
+      "summary": "Microsoft-Schullizenzen: Office 365 A1 und Gratis-Mail laufen schrittweise aus BornCity",
       "source": "BornCity",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZEM3VHhmSkFIMHNHc1g1NnY0Q25NUHZZclpURmxlclowVllNazNpTVg3Si1EQnJVbnBHaS1LWmk1bEEwd3hJUnM4SU9qOXlvR1RkN0g2OFJzd3UwTWtvUlhSWFFNRnFxNTNwNnJIaGtXYjlDUW04eTBMTUJZbUhicUU1d1NBUV8taHFpRlpHTW41QlRyNHVMNVc0YUdLdlBuRU12LTN3Y0FnYnF1ZHFB?oc=5",
-      "published": "2026-11-17T14:31:05+00:00",
-      "category": "Security"
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQVJGQVZzU1pkTWJfcGpkbU1yMTM0cTZ1R1lMMUpTVE4wTTdWVmtDOF9OVzFiY2FWbEo2WHJhWUpCZnNQSHQ5eEZVeFY1cmR6RG8zeHJfMV9nekJlNGpCdDU1X2J6Q1Qwd2xmME9GSEVBeldDN0hQVXM1UXpUeldTRUJCckVfQ1NnUnQ5d0hxOWNGdE1yaldBOTluelk5S1MzLWhuNHE5SQ?oc=5",
+      "published": "2026-11-17T11:11:05+00:00",
+      "category": "Microsoft 365"
     },
     {
       "id": "cb9bf259348ce7da",
@@ -261,87 +321,17 @@
       "category": "Cloud"
     },
     {
-      "id": "55abca058a4544a3",
-      "title": "Die Public Cloud ist noch lange nicht am Ende",
-      "excerpt": "Der Abzug von Anwendungen aus öffentlichen Clouds ist offenbar weniger verbreitet, als es die Debatten über die digitale Souveränität vermuten lassen. Auch europäische Unternehmen setzen laut einer Studie von Slashdata weiterhin auf die Public Cloud.",
-      "summary": "Der Abzug von Anwendungen aus öffentlichen Clouds ist offenbar weniger verbreitet, als es die Debatten über die digitale Souveränität vermuten lassen. Auch europäische Unternehmen setzen laut einer Studie von Slashdata weiterhin auf die Public Cloud.",
-      "source": "Netzwoche",
-      "url": "https://www.netzwoche.ch/news/2026-11-17/die-public-cloud-ist-noch-lange-nicht-am-ende",
-      "published": "2026-11-17T09:16:07+00:00",
+      "id": "2ee4038c6151a8e2",
+      "title": "Ohne technische Resilienz keine Cloud-Strategie: Lehren aus dem Microsoft-Ausfall - Computerwoche",
+      "excerpt": "Ohne technische Resilienz keine Cloud-Strategie: Lehren aus dem Microsoft-Ausfall Computerwoche",
+      "summary": "Ohne technische Resilienz keine Cloud-Strategie: Lehren aus dem Microsoft-Ausfall Computerwoche",
+      "source": "Computerwoche",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcDczLXE0UTZ6TC12dTFsd0tVeEFOSmtHbktDNnkzT2pFdlpXdnNxZXB2ZW1raWVWLWl2aVpnVHFqaThtLXBOSC10YWgtdjJVVnlndlcwYVRJSnkyWktuU0FrVVRlRS1ieDVYQmhLU1F2UUJlVWRzZlNjSEZmWm5LUGJqU2tRbWp2LTFiSUdzNDEtQ3lVNTFNdGw1UDJlRnMzSjk0ZUZtMnhUODRVZFYzZ0lhdWJZd3lrNFJzM3dDSDdJcFFUQVZ2T0N3?oc=5",
+      "published": "2026-11-17T08:00:00+00:00",
       "category": "Cloud"
-    },
-    {
-      "id": "7aa75a8b40453664",
-      "title": "Bechtle übernimmt zwei PLM-Spezialisten",
-      "excerpt": "Bechtle baut sein Geschäft mit Fertigungssoftware, Robotik und Fabrikautomation durch die Übernahme von EngRoTec Consulting und 4-PLM aus. Mit den beiden Unternehmen wechseln neun Mitarbeitende zum IT-Dienstleister.",
-      "summary": "Bechtle baut sein Geschäft mit Fertigungssoftware, Robotik und Fabrikautomation durch die Übernahme von EngRoTec Consulting und 4-PLM aus. Mit den beiden Unternehmen wechseln neun Mitarbeitende zum IT-Dienstleister.",
-      "source": "IT Reseller",
-      "url": "https://www.itreseller.ch/Artikel/106627/Bechtle_uebernimmt_zwei_PLM-Spezialisten.html",
-      "published": "2026-11-17T07:24:59+00:00",
-      "category": "Trends"
-    },
-    {
-      "id": "af2a0c14df400b51",
-      "title": "Entra ID absichern: 14 Schritte, 90 Min [2026]",
-      "excerpt": "Entra ID absichern: 14 Schritte, 90 Min [2026] shattered.io",
-      "summary": "Entra ID absichern: 14 Schritte, 90 Min [2026] shattered.io",
-      "source": "shattered.io",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUUtCQ0xSby1Vekd2V0dhR1l0d2tra0RnVzktb1ZSOUYxRWRYYjBHYWdRM0J1X2VnY3VlOUNRTGJsLUpRZmhNWldCY3BBR2N6M0NGMTVTajExOE5BQU5vM2hSVkNoVUhpUFRjVDcybDBjck1ZQm5aaWN6NHVFd2JHSElxRkR1MzA?oc=5",
-      "published": "2026-11-16T15:58:20+00:00",
-      "category": "Microsoft 365"
-    },
-    {
-      "id": "e7ceee6ab8080623",
-      "title": "Weischer.OOH steigt in den Schweizer Aussenwerbemarkt ein",
-      "excerpt": "Weischer.OOH steigt in den Schweizer Aussenwerbemarkt ein IT-Markt",
-      "summary": "Weischer.OOH steigt in den Schweizer Aussenwerbemarkt ein IT-Markt",
-      "source": "IT-Markt",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPREM5Q0wzMWhCRVFwZVZhSUI3Y0lQdUszVm9GWm1kMWZfVkVmUGYtUEZhVUE3OFp6alQyeENXMm9jMWhQS2duY3FYNTVXZDN5VnJ2VlNPcUJUeTltc1JFbkN5clFiQUI3M3VyLXZjZWFmV24wZVpKVGs2UlBhRDJtZ0oyMXBVVzlQb1hUSjgwUW5jRmJXTVJ4S3ZQS20?oc=5",
-      "published": "2026-11-16T14:43:53+00:00",
-      "category": "Markt"
-    },
-    {
-      "id": "6a98a02f17c5aeff",
-      "title": "Geschäft mit KI-Software wächst sprunghaft",
-      "excerpt": "Der weltweite Markt für KI-Software wächst deutlich schneller als bislang erwartet. Laut einer neuen Prognose von Omdia dürfte der Umsatz 2026 die Marke von 200 Milliarden Dollar überschreiten und sich damit gegenüber 2024 verdoppeln.",
-      "summary": "Der weltweite Markt für KI-Software wächst deutlich schneller als bislang erwartet. Laut einer neuen Prognose von Omdia dürfte der Umsatz 2026 die Marke von 200 Milliarden Dollar überschreiten und sich damit gegenüber 2024 verdoppeln.",
-      "source": "IT Reseller",
-      "url": "https://www.itreseller.ch/Artikel/106622/Geschaeft_mit_KI-Software_waechst_sprunghaft.html",
-      "published": "2026-11-16T09:21:51+00:00",
-      "category": "Markt"
-    },
-    {
-      "id": "4c4c23ac47d66b4f",
-      "title": "GFT steigert Umsatz und hebt Prognose an",
-      "excerpt": "IT-Dienstleister GFT hat seinen Umsatz in den ersten neun Monaten 2026 um 7 Prozent gesteigert und die Profitabilität verbessert. Auch das Schweizer Geschäft entwickelt sich positiv.",
-      "summary": "IT-Dienstleister GFT hat seinen Umsatz in den ersten neun Monaten 2026 um 7 Prozent gesteigert und die Profitabilität verbessert. Auch das Schweizer Geschäft entwickelt sich positiv.",
-      "source": "IT Reseller",
-      "url": "https://www.itreseller.ch/Artikel/106620/GFT_steigert_Umsatz_und_hebt_Prognose_an.html",
-      "published": "2026-11-16T07:57:59+00:00",
-      "category": "Markt"
-    },
-    {
-      "id": "374221c6a4dc4194",
-      "title": "Die richtigen Unternehmen zur richtigen Zeit ansprechen",
-      "excerpt": "Die richtigen Unternehmen zur richtigen Zeit ansprechen IT-Markt",
-      "summary": "Die richtigen Unternehmen zur richtigen Zeit ansprechen IT-Markt",
-      "source": "IT-Markt",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVjFTenl6Q0NodkhHdFpQVTl5NG41ejREYUlMSV85LTZvMm9sSUxJdy1RN1J0NzQxRllPM0NPaEpON0h5OE43cGd3Q1dMTzA5Vm1uWnJucXhDbmxfU0UzVzE4bkZXZ09wd05rb3ZXVFNLbHpZRlFrRy13Z3VOaG9mbGhtOHBva2UzbnJZNDVtM0hJT3UwMDlfWHZwbw?oc=5",
-      "published": "2026-11-16T06:00:00+00:00",
-      "category": "Markt"
-    },
-    {
-      "id": "374221c6a4dc4194",
-      "title": "Die richtigen Unternehmen zur richtigen Zeit ansprechen",
-      "excerpt": "Die richtigen Unternehmen zur richtigen Zeit ansprechen IT-Markt",
-      "summary": "Die richtigen Unternehmen zur richtigen Zeit ansprechen IT-Markt",
-      "source": "IT-Markt",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVjFTenl6Q0NodkhHdFpQVTl5NG41ejREYUlMSV85LTZvMm9sSUxJdy1RN1J0NzQxRllPM0NPaEpON0h5OE43cGd3Q1dMTzA5Vm1uWnJucXhDbmxfU0UzVzE4bkZXZ09wd05rb3ZXVFNLbHpZRlFrRy13Z3VOaG9mbGhtOHBva2UzbnJZNDVtM0hJT3UwMDlfWHZwbw?oc=5",
-      "published": "2026-11-16T06:00:00+00:00",
-      "category": "Markt"
     }
   ],
-  "updatedAt": "2026-11-19T08:30:01.188114+00:00",
+  "updatedAt": "2026-11-19T10:18:02.888528+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -356,10 +346,10 @@
     "Microsoft 365": 5,
     "IT Schweiz": 5,
     "Cloud": 5,
-    "Trends": 4,
+    "Trends": 3,
     "Markt": 5,
     "Firmen": 5
   },
-  "warning": "Nicht genügend passende aktuelle Meldungen: 1 × Trends. 5 von 29 RSS-Quellen waren nicht erreichbar.",
+  "warning": "Nicht genügend passende aktuelle Meldungen: 2 × Trends. 1 von 29 RSS-Quellen waren nicht erreichbar.",
   "aiSummaries": false
 }
