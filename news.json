@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "id": "d36303b6b7adbd9a",
+      "title": "EU-Kommission bestätigt Cyberangriff",
+      "excerpt": "Mehrere interne Plattformen der Europäischen Kommission waren zeitweise nicht verfügbar. Das Ausmass des Vorfalls ist noch unklar.",
+      "summary": "Mehrere interne Plattformen der Europäischen Kommission waren zeitweise nicht verfügbar. Das Ausmass des Vorfalls ist noch unklar.",
+      "source": "Inside IT",
+      "url": "https://www.inside-it.ch/eu-kommission-bestaetigt-cyberangriff-20261119",
+      "published": "2026-11-19T15:19:05+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "dd9609baea78efc3",
+      "title": "ruby2ßhell: Remote Code Execution durch 21 ß",
+      "excerpt": "Kein Tippfehler: Eine neue Sicherheitslücke in Ruby heißt ruby2ßhell. Wegen falscher Verarbeitung von ß sind Ruby-Projekte wie GitLab und Mastodon angreifbar.",
+      "summary": "Kein Tippfehler: Eine neue Sicherheitslücke in Ruby heißt ruby2ßhell. Wegen falscher Verarbeitung von ß sind Ruby-Projekte wie GitLab und Mastodon angreifbar.",
+      "source": "heise Security",
+      "url": "https://www.heise.de/news/ruby2sshell-Remote-Code-Execution-durch-21-ss-11531365.html",
+      "published": "2026-11-19T14:50:00+00:00",
+      "category": "Security"
+    },
+    {
       "id": "bae9f2ee1cf0a622",
       "title": "Google: Gemini 4 Neon soll leistungsfähig und günstiger sein",
       "excerpt": "Googles neues KI-Modell Gemini 4 Neon ist zwischen dem leistungsfähigeren Carbon und dem preiswerteren Hydrogen angesiedelt. ( Gemini , Google )",
@@ -9,6 +29,16 @@
       "url": "https://www.golem.de/news/google-gemini-4-neon-soll-leistungsfaehig-und-guenstiger-sein-2611-215409.html",
       "published": "2026-11-19T12:57:01+00:00",
       "category": "Trends"
+    },
+    {
+      "id": "49188d6f73c9f523",
+      "title": "Helsing geht bei Atlantic Net leer aus, verkleinert Niederlassung in Plymouth",
+      "excerpt": "Helsing verkleinert seine Niederlassung in Plymouth. Dort wollte das Startup Unterwasserdrohnen für die britische Regierung bauen, bekam aber den Auftrag nicht.",
+      "summary": "Helsing verkleinert seine Niederlassung in Plymouth. Dort wollte das Startup Unterwasserdrohnen für die britische Regierung bauen, bekam aber den Auftrag nicht.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Helsing-geht-bei-Atlantic-Net-leer-aus-verkleinert-Niederlassung-in-Plymouth-11531029.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published": "2026-11-19T12:57:00+00:00",
+      "category": "Firmen"
     },
     {
       "id": "8c9549db4184d79b",
@@ -29,16 +59,6 @@
       "url": "https://www.golem.de/news/datenschutz-microsoft-365-dsgvo-konform-betreiben-realitaet-oder-mythos-2611-215208.html",
       "published": "2026-11-19T12:36:02+00:00",
       "category": "Microsoft 365"
-    },
-    {
-      "id": "6b8fcfbaa0bea934",
-      "title": "Mehr als ein Jahrzehnt unerkannt: Gravierende Sicherheitslücke in Nginx entdeckt - t3n",
-      "excerpt": "Mehr als ein Jahrzehnt unerkannt: Gravierende Sicherheitslücke in Nginx entdeckt t3n",
-      "summary": "Mehr als ein Jahrzehnt unerkannt: Gravierende Sicherheitslücke in Nginx entdeckt t3n",
-      "source": "t3n",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcVhlSHc1TW9Da3lmU2tGcnF2SUwxc1hMa2dLS0N3b3M5Z1pNSC1RRTg5YzdQazBucWZOMXQ2WmhraDJOeHlsWFVFX1JnTXoyRmVoX0U2c1NJQzZSN2VRSmJJM0VPOXZWakR0M3lzR3gxeEdRSUwwcFlnVUlBcUYyU2x3cGU3M2VS?oc=5",
-      "published": "2026-11-19T12:00:40+00:00",
-      "category": "Security"
     },
     {
       "id": "947f24276db6bc0b",
@@ -81,16 +101,6 @@
       "category": "IT Schweiz"
     },
     {
-      "id": "3c716ada4b87f8b3",
-      "title": "heise+ | Malware ohne Quellcode: Wie Trusting-Trust-Attacken funktionieren",
-      "excerpt": "Wer Software nicht blind vertrauen will, muss ihren Quellcode lückenlos prüfen. Doch wenn Angreifer geschickt vorgehen, reicht nicht einmal das.",
-      "summary": "Wer Software nicht blind vertrauen will, muss ihren Quellcode lückenlos prüfen. Doch wenn Angreifer geschickt vorgehen, reicht nicht einmal das.",
-      "source": "heise online",
-      "url": "https://www.heise.de/hintergrund/Malware-ohne-Quellcode-Wie-Trusting-Trust-Attacken-funktionieren-11414923.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published": "2026-11-19T09:30:00+00:00",
-      "category": "Security"
-    },
-    {
       "id": "a41dd4dbcba2633f",
       "title": "KI-Agenten verbreiten sich im Schweizer Arbeitsalltag",
       "excerpt": "Der Einsatz von KI-Agenten hat in der Schweizer Arbeitswelt deutlich zugenommen. Wer KI in den Alltag integriert, spart nach eigenen Angaben besonders viel Zeit. Viele Beschäftigte vermissen allerdings das Verständnis ihrer Vorgesetzten für die Folgen dieses Wandels.",
@@ -121,16 +131,6 @@
       "category": "Trends"
     },
     {
-      "id": "621c230feeace24c",
-      "title": "E-Mail ausgefallen? Wie Behörden und Unternehmen ihre Handlungsfähigkeit sichern - it-daily.net",
-      "excerpt": "E-Mail ausgefallen? Wie Behörden und Unternehmen ihre Handlungsfähigkeit sichern it-daily.net",
-      "summary": "E-Mail ausgefallen? Wie Behörden und Unternehmen ihre Handlungsfähigkeit sichern it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWkJmOXBDcy1lRlRIMW5VR2tuYzY1Y1NaZ29rWm43V25qNWcyODExWjVpUFh2MTFSN0FseFFERHk5ZEVlRlAteEFoTnZqdXN0UFduZzVISUpuZVpHOGt5UlBDUENMX2ZJSENydktNZFJLOVFZbjlrNFBrTS1lLTZqdlU2X2pwcFlRbW5UVjlNSEFKVGtzNHJldG1VaTJ2LUdJ?oc=5",
-      "published": "2026-11-19T08:23:31+00:00",
-      "category": "Firmen"
-    },
-    {
       "id": "7de738c0f3065450",
       "title": "Cybersicherheit: Überstürztes Handeln führt zu mehr Systemausfällen",
       "excerpt": "Von KI gefundene Sicherheitslücken sofort und gleichzeitig zu schließen, belastet bestehende IT-Infrastruktur stark. ( KI , Sicherheitslücke )",
@@ -159,16 +159,6 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ0xCdzJBZUU1RjBFUktMVlV5Vkoybm5kZDdtc3Eza0FtWEQ2YkItSTJBd2NJVE45S01uQTEtTU92OFBsbzd4cldUU29KSHhmaGFVejZwTEVDWU16NkhYN2hrTlM2b2RnQkJJLWJyc2NDZmRLYklfUDczQzg3dmwzd09FVlBLRmR0S0J3Y04xUHpLQ002Sk1LWA?oc=5",
       "published": "2026-11-19T06:26:00+00:00",
       "category": "Security"
-    },
-    {
-      "id": "086af95badb92bbd",
-      "title": "Trends 2027: Vorsprung durch Governance - it-daily.net",
-      "excerpt": "Trends 2027: Vorsprung durch Governance it-daily.net",
-      "summary": "Trends 2027: Vorsprung durch Governance it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lVnRkTURlNkRfQ18zWGFnLXMtWEs1d09EVW54TFFFckE3NTJUbXVZVGNVMnVfc1ZfTzE5ZFhtUl9xNjVheTJ2ci0weTM3QUpqSWcwUl9sU0pubDQ2MFNQYjhxZ082ZjdTeFFJcGw0eVp2V1dYOFFEYmJBMEU3dmc?oc=5",
-      "published": "2026-11-19T04:08:28+00:00",
-      "category": "Trends"
     },
     {
       "id": "6a21a62621a19c6a",
@@ -231,13 +221,13 @@
       "category": "IT Schweiz"
     },
     {
-      "id": "e0585690d747675f",
-      "title": "Lausanne ernennt neuen IT-Leiter",
-      "excerpt": "Lausanne ernennt neuen IT-Leiter IT-Markt",
-      "summary": "Lausanne ernennt neuen IT-Leiter IT-Markt",
-      "source": "IT-Markt",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xNjBfbUhpenpBTlB3TzR5RERkSWNlNHBmWndMYk9YZXpvOW9RTlNFd2EzcEZ3TWEzRlBXd1VGWFlHb1B1MFNaU1RMLW1Ta2x1WDZJUXkwS0F3MUhvOU94bUNsMnBOQ2U2QlZvYW9SNGZaZ1dWRUFMVTRDQ2Y?oc=5",
-      "published": "2026-11-18T14:41:09+00:00",
+      "id": "d035777ff4b76f4c",
+      "title": "IT-S expandiert nach Zürich",
+      "excerpt": "Der IT-Dienstleister IT-S schliesst sich mit Allnet Solutions aus Urdorf zusammen. Durch die Übernahme des Allnet-Standorts und -Teams in Zürich ist der Dienstleister neu in vier Schweizer Wirtschaftsregionen vertreten.",
+      "summary": "Der IT-Dienstleister IT-S schliesst sich mit Allnet Solutions aus Urdorf zusammen. Durch die Übernahme des Allnet-Standorts und -Teams in Zürich ist der Dienstleister neu in vier Schweizer Wirtschaftsregionen vertreten.",
+      "source": "Netzwoche",
+      "url": "https://www.netzwoche.ch/news/2026-11-18/it-s-expandiert-nach-zuerich",
+      "published": "2026-11-18T14:39:44+00:00",
       "category": "IT Schweiz"
     },
     {
@@ -261,16 +251,6 @@
       "category": "Firmen"
     },
     {
-      "id": "56af2ce2eeca5977",
-      "title": "Start-up-Finanzierung in Deutschland fast verdoppelt - it-daily.net",
-      "excerpt": "Start-up-Finanzierung in Deutschland fast verdoppelt it-daily.net",
-      "summary": "Start-up-Finanzierung in Deutschland fast verdoppelt it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WNHdVY09PODgxUWQ0Rnp6NlRyWVRlQ2ZRN0p6QzVMeTdTQVZ5bE1RYTFxeThaajZHY1ZxazJXOUVaQnNjNjJhdlU5eU5SbmRJMGN0STVKTkE4TDF5U2lzQ3NTNWdFcVBCTmNKVk9MSEo4bjUyU2c?oc=5",
-      "published": "2026-11-18T08:29:00+00:00",
-      "category": "Firmen"
-    },
-    {
       "id": "8547a56091312ce0",
       "title": "Fünf Schweizer IT-Firmen gründen OpenSovereign",
       "excerpt": "VSHN, Puzzle ITC, Adfinis, Cloudscale und Cyberlink haben die Allianz OpenSovereign gegründet. Gemeinsam wollen die fünf Schweizer IT-Unternehmen Organisationen dabei unterstützen, ihre Abhängigkeit von einzelnen Technologieanbietern zu reduzieren.",
@@ -291,6 +271,16 @@
       "category": "Microsoft 365"
     },
     {
+      "id": "72646a0a7ab21f2c",
+      "title": "KI verändert 20 Prozent der Jobs: Was jetzt für Unternehmen, Beschäftigte und Berufseinsteiger zählt - Computerwoche",
+      "excerpt": "KI verändert 20 Prozent der Jobs: Was jetzt für Unternehmen, Beschäftigte und Berufseinsteiger zählt Computerwoche",
+      "summary": "KI verändert 20 Prozent der Jobs: Was jetzt für Unternehmen, Beschäftigte und Berufseinsteiger zählt Computerwoche",
+      "source": "Computerwoche",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQLTB6UHdCdVVCVGNSdjZMZVRUX3lqa0ZiREhkM0VuZFM0UVBWM0JuSzVTN2xBM3JGU09kQU4yd3VjZGJlcEd0R3dvNlVpTGRFdDk4YTJqeDFWOXBFbnlfZzluMEdHYjloeXpORUM0NGIzbjkyZVJtSkN6RUNkaEFTS1UzSktsakRtNjZ5dmVoa3ZrRmpKOFJTR1hlUFdoSXhDN2YySkhEalMxX2UxZmxpR0Nncm5hUHQzNTdoV1ZtXzBPRHZmbjFTLVhNajJjcllsUXN1Yzd0R05QXzNRQWlBYmFR?oc=5",
+      "published": "2026-11-18T03:00:00+00:00",
+      "category": "Firmen"
+    },
+    {
       "id": "00cd893bf9d183c4",
       "title": "\"Das Energiesystem der Zukunft braucht Daten\" - energate messenger Schweiz",
       "excerpt": "\"Das Energiesystem der Zukunft braucht Daten\" energate messenger Schweiz",
@@ -301,6 +291,16 @@
       "category": "Trends"
     },
     {
+      "id": "0d8a194978b02f38",
+      "title": "So verändert sich das Mandat Schweizer CIOs",
+      "excerpt": "So verändert sich das Mandat Schweizer CIOs IT-Markt",
+      "summary": "So verändert sich das Mandat Schweizer CIOs IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWXpkVFkxNE9nbGwyVUhOZ1NIaXpfSlExM2ptSDk2Vm1hZUhWLVI1Yk5SWDJ2MnlUOW5CTHJGeW5oQjlfTGFva2NKeEFkVnZlc3JleVpXODNQTktVVDZqYVp0bDVwZ2JWaVByWlh6R1FZRkxtX3A3OTBJczNLbXA5N3VsS19lbEZLUzg0aA?oc=5",
+      "published": "2026-11-17T11:02:23+00:00",
+      "category": "Markt"
+    },
+    {
       "id": "2ee4038c6151a8e2",
       "title": "Ohne technische Resilienz keine Cloud-Strategie: Lehren aus dem Microsoft-Ausfall - Computerwoche",
       "excerpt": "Ohne technische Resilienz keine Cloud-Strategie: Lehren aus dem Microsoft-Ausfall Computerwoche",
@@ -309,6 +309,26 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcDczLXE0UTZ6TC12dTFsd0tVeEFOSmtHbktDNnkzT2pFdlpXdnNxZXB2ZW1raWVWLWl2aVpnVHFqaThtLXBOSC10YWgtdjJVVnlndlcwYVRJSnkyWktuU0FrVVRlRS1ieDVYQmhLU1F2UUJlVWRzZlNjSEZmWm5LUGJqU2tRbWp2LTFiSUdzNDEtQ3lVNTFNdGw1UDJlRnMzSjk0ZUZtMnhUODRVZFYzZ0lhdWJZd3lrNFJzM3dDSDdJcFFUQVZ2T0N3?oc=5",
       "published": "2026-11-17T08:00:00+00:00",
       "category": "Cloud"
+    },
+    {
+      "id": "7aa75a8b40453664",
+      "title": "Bechtle übernimmt zwei PLM-Spezialisten",
+      "excerpt": "Bechtle baut sein Geschäft mit Fertigungssoftware, Robotik und Fabrikautomation durch die Übernahme von EngRoTec Consulting und 4-PLM aus. Mit den beiden Unternehmen wechseln neun Mitarbeitende zum IT-Dienstleister.",
+      "summary": "Bechtle baut sein Geschäft mit Fertigungssoftware, Robotik und Fabrikautomation durch die Übernahme von EngRoTec Consulting und 4-PLM aus. Mit den beiden Unternehmen wechseln neun Mitarbeitende zum IT-Dienstleister.",
+      "source": "IT Reseller",
+      "url": "https://www.itreseller.ch/Artikel/106627/Bechtle_uebernimmt_zwei_PLM-Spezialisten.html",
+      "published": "2026-11-17T07:24:59+00:00",
+      "category": "Trends"
+    },
+    {
+      "id": "e7ceee6ab8080623",
+      "title": "Weischer.OOH steigt in den Schweizer Aussenwerbemarkt ein",
+      "excerpt": "Weischer.OOH steigt in den Schweizer Aussenwerbemarkt ein IT-Markt",
+      "summary": "Weischer.OOH steigt in den Schweizer Aussenwerbemarkt ein IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPREM5Q0wzMWhCRVFwZVZhSUI3Y0lQdUszVm9GWm1kMWZfVkVmUGYtUEZhVUE3OFp6alQyeENXMm9jMWhQS2duY3FYNTVXZDN5VnJ2VlNPcUJUeTltc1JFbkN5clFiQUI3M3VyLXZjZWFmV24wZVpKVGs2UlBhRDJtZ0oyMXBVVzlQb1hUSjgwUW5jRmJXTVJ4S3ZQS20?oc=5",
+      "published": "2026-11-16T14:43:53+00:00",
+      "category": "Markt"
     },
     {
       "id": "6a98a02f17c5aeff",
@@ -331,7 +351,7 @@
       "category": "Markt"
     }
   ],
-  "updatedAt": "2026-11-19T15:06:37.608501+00:00",
+  "updatedAt": "2026-11-19T16:11:26.908278+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -347,9 +367,9 @@
     "IT Schweiz": 5,
     "Cloud": 5,
     "Trends": 5,
-    "Markt": 3,
+    "Markt": 5,
     "Firmen": 5
   },
-  "warning": "Nicht genügend passende aktuelle Meldungen: 2 × Markt. 4 von 29 RSS-Quellen waren nicht erreichbar.",
+  "warning": "5 von 29 RSS-Quellen waren nicht erreichbar.",
   "aiSummaries": false
 }
