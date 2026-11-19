@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "456e7f8ab9d08c84",
+      "title": "(g+) Wachstum: Wo bleibt Europas KI-Boom?",
+      "excerpt": "Wenn man ganz genau hinsieht, kann man ihn in den Daten entdecken - unsere heutige Leseempfehlung aus der Financial Times. Von Soumaya Keynes ( Wirtschaft , KI )",
+      "summary": "Wenn man ganz genau hinsieht, kann man ihn in den Daten entdecken - unsere heutige Leseempfehlung aus der Financial Times. Von Soumaya Keynes ( Wirtschaft , KI )",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/wachstum-wo-bleibt-europas-ki-boom-2611-215427.html",
+      "published": "2026-11-19T17:00:02+00:00",
+      "category": "Markt"
+    },
+    {
+      "id": "a67afd283c1d393f",
+      "title": "Cyberangriff auf EU-Kommission: Verdacht auf KI-Tool Artex, tagelange Ausfälle",
+      "excerpt": "Ein Cyberangriff legte Personalsysteme der EU-Kommission tagelang lahm. Grund ist offenbar der Missbrauch des KI-Tools Artex, vor dem CERT-EU gewarnt hatte.",
+      "summary": "Ein Cyberangriff legte Personalsysteme der EU-Kommission tagelang lahm. Grund ist offenbar der Missbrauch des KI-Tools Artex, vor dem CERT-EU gewarnt hatte.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Cyberangriff-auf-EU-Kommission-Verdacht-auf-KI-Tool-Artex-tagelange-Ausfaelle-11531596.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published": "2026-11-19T16:27:00+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "6eb34376cbd5ae52",
+      "title": "Esker integriert Source-to-Pay-Prozesse in Microsoft Copilot - it-daily.net",
+      "excerpt": "Esker integriert Source-to-Pay-Prozesse in Microsoft Copilot it-daily.net",
+      "summary": "Esker integriert Source-to-Pay-Prozesse in Microsoft Copilot it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9raldMcGxaUGJpTWVtX0UzWGtYRDl0YUM4eXR1X05qdWJCNnlBVVRxZlJWUmJuWDFUYUF1Ym52dm5peHR5VHRLUnRLU3JsbDBBdDUxODVnNGdMMGFqemtiZTdIaW1YenR0MlE?oc=5",
+      "published": "2026-11-19T16:10:14+00:00",
+      "category": "Microsoft 365"
+    },
+    {
       "id": "d36303b6b7adbd9a",
       "title": "EU-Kommission bestätigt Cyberangriff",
       "excerpt": "Mehrere interne Plattformen der Europäischen Kommission waren zeitweise nicht verfügbar. Das Ausmass des Vorfalls ist noch unklar.",
@@ -11,14 +41,24 @@
       "category": "Security"
     },
     {
-      "id": "dd9609baea78efc3",
-      "title": "ruby2ßhell: Remote Code Execution durch 21 ß",
-      "excerpt": "Kein Tippfehler: Eine neue Sicherheitslücke in Ruby heißt ruby2ßhell. Wegen falscher Verarbeitung von ß sind Ruby-Projekte wie GitLab und Mastodon angreifbar.",
-      "summary": "Kein Tippfehler: Eine neue Sicherheitslücke in Ruby heißt ruby2ßhell. Wegen falscher Verarbeitung von ß sind Ruby-Projekte wie GitLab und Mastodon angreifbar.",
-      "source": "heise Security",
-      "url": "https://www.heise.de/news/ruby2sshell-Remote-Code-Execution-durch-21-ss-11531365.html",
-      "published": "2026-11-19T14:50:00+00:00",
-      "category": "Security"
+      "id": "46a591b1a67755ca",
+      "title": "Netsuisse nimmt Clavister ins Portfolio auf - IT-Markt",
+      "excerpt": "Netsuisse nimmt Clavister ins Portfolio auf IT-Markt",
+      "summary": "Netsuisse nimmt Clavister ins Portfolio auf IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbFJTM0o2SmhRdkVEUGVaa19rb2pITjlRR1dhMmpnQ1lqOHJnOFpTU1djT0pJSXM1dHFOclhZSXpkdzZacmNTNHJWZzFTRmRwaktWVlAwLXpXOWt4ZUsyZ1RYbGE2c2dIcXlVRTJVeEloNzFrME50bF85T1hyR0VQeEJLNFpoSHloM19z?oc=5",
+      "published": "2026-11-19T14:25:50+00:00",
+      "category": "Markt"
+    },
+    {
+      "id": "c94103493f0f95c3",
+      "title": "Auch Murmelis brauchen mal einen Spa-Tag - IT-Markt",
+      "excerpt": "Auch Murmelis brauchen mal einen Spa-Tag IT-Markt",
+      "summary": "Auch Murmelis brauchen mal einen Spa-Tag IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOamp1eDMyV1FHZ2MwTUxHc2t0S0FWdHdQSDlra1pPT0RPVkhPZng1NjVRRENETnJLcUsyTFRxRlBDZ1ZrZTJnRm5vR3pJTUhCbGlVUk5remVIcUdXLV9KUXhYOHlSOVEyckp1RkVSRlJZM1YxS1lPV2o1SVlkOF9heFZ6MFFra2tjb1pVbGt2Yw?oc=5",
+      "published": "2026-11-19T14:23:19+00:00",
+      "category": "Markt"
     },
     {
       "id": "bae9f2ee1cf0a622",
@@ -29,16 +69,6 @@
       "url": "https://www.golem.de/news/google-gemini-4-neon-soll-leistungsfaehig-und-guenstiger-sein-2611-215409.html",
       "published": "2026-11-19T12:57:01+00:00",
       "category": "Trends"
-    },
-    {
-      "id": "49188d6f73c9f523",
-      "title": "Helsing geht bei Atlantic Net leer aus, verkleinert Niederlassung in Plymouth",
-      "excerpt": "Helsing verkleinert seine Niederlassung in Plymouth. Dort wollte das Startup Unterwasserdrohnen für die britische Regierung bauen, bekam aber den Auftrag nicht.",
-      "summary": "Helsing verkleinert seine Niederlassung in Plymouth. Dort wollte das Startup Unterwasserdrohnen für die britische Regierung bauen, bekam aber den Auftrag nicht.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Helsing-geht-bei-Atlantic-Net-leer-aus-verkleinert-Niederlassung-in-Plymouth-11531029.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published": "2026-11-19T12:57:00+00:00",
-      "category": "Firmen"
     },
     {
       "id": "8c9549db4184d79b",
@@ -61,6 +91,16 @@
       "category": "Microsoft 365"
     },
     {
+      "id": "6b8fcfbaa0bea934",
+      "title": "Mehr als ein Jahrzehnt unerkannt: Gravierende Sicherheitslücke in Nginx entdeckt - t3n",
+      "excerpt": "Mehr als ein Jahrzehnt unerkannt: Gravierende Sicherheitslücke in Nginx entdeckt t3n",
+      "summary": "Mehr als ein Jahrzehnt unerkannt: Gravierende Sicherheitslücke in Nginx entdeckt t3n",
+      "source": "t3n",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcVhlSHc1TW9Da3lmU2tGcnF2SUwxc1hMa2dLS0N3b3M5Z1pNSC1RRTg5YzdQazBucWZOMXQ2WmhraDJOeHlsWFVFX1JnTXoyRmVoX0U2c1NJQzZSN2VRSmJJM0VPOXZWakR0M3lzR3gxeEdRSUwwcFlnVUlBcUYyU2x3cGU3M2VS?oc=5",
+      "published": "2026-11-19T12:00:40+00:00",
+      "category": "Security"
+    },
+    {
       "id": "947f24276db6bc0b",
       "title": "Microsofts KI-Framework verteilt Malware: So bekamen Angreifer Zugang",
       "excerpt": "Bei einem Hackerangriff wurde das Agent-Framework von Microsoft mit Malware infiziert, die an User ausgespielt wurde. Was Betroffene jetzt wissen müssen.",
@@ -71,6 +111,16 @@
       "category": "Security"
     },
     {
+      "id": "6a18558149be9fe6",
+      "title": "KI beschäftigt Versicherer mit Forderungen in Millionenhöhe - IT-Markt",
+      "excerpt": "KI beschäftigt Versicherer mit Forderungen in Millionenhöhe IT-Markt",
+      "summary": "KI beschäftigt Versicherer mit Forderungen in Millionenhöhe IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWmFxN2R1bEROcnN4N2Z3c3dtNFZINmY0SERaR3dGU09kQnJEdEh3QS03ak04alVRWldRV0xjdTkzQ252MGJmeFBVZml4Z3d1YXQyOEtSc3M5cFZRNnlydS1wLVBxY2Y4VG1jVGowUTRadUNlWGtEcVpLMlpEUXhUM1NJaHA2LV9TUDdNX1gxc2hPQnNCRzdEYWxTWW0yanJQcUhV?oc=5",
+      "published": "2026-11-19T11:06:42+00:00",
+      "category": "Markt"
+    },
+    {
       "id": "2ce5f825fa132128",
       "title": "Cyberkriminelle greifen IT des Kantons Basel-Landschaft an",
       "excerpt": "Unbekannte haben die IT-Infrastruktur des Kantons Basel-Landschaft angegriffen. Es kann deshalb teilweise zu Ausfällen von digitalen Anwendungen des Kantons kommen.",
@@ -79,16 +129,6 @@
       "url": "https://www.netzwoche.ch/news/2026-11-19/cyberkriminelle-greifen-it-des-kantons-basel-landschaft-an",
       "published": "2026-11-19T10:58:58+00:00",
       "category": "IT Schweiz"
-    },
-    {
-      "id": "69a98a8fe605ab77",
-      "title": "Trotz KI-Skepsis: Anthropic mit Rekord-Börsengang",
-      "excerpt": "Die Nachfrage beim Börsengang war so gross, dass die KI-Firma sogar mehr Aktien als geplant verkauft hat.",
-      "summary": "Die Nachfrage beim Börsengang war so gross, dass die KI-Firma sogar mehr Aktien als geplant verkauft hat.",
-      "source": "Inside IT",
-      "url": "https://www.inside-it.ch/trotz-ki-skepsis-anthropic-mit-rekord-boersengang-20261119",
-      "published": "2026-11-19T10:58:29+00:00",
-      "category": "Markt"
     },
     {
       "id": "d1fdbbe90f0f90ba",
@@ -131,26 +171,6 @@
       "category": "Trends"
     },
     {
-      "id": "7de738c0f3065450",
-      "title": "Cybersicherheit: Überstürztes Handeln führt zu mehr Systemausfällen",
-      "excerpt": "Von KI gefundene Sicherheitslücken sofort und gleichzeitig zu schließen, belastet bestehende IT-Infrastruktur stark. ( KI , Sicherheitslücke )",
-      "summary": "Von KI gefundene Sicherheitslücken sofort und gleichzeitig zu schließen, belastet bestehende IT-Infrastruktur stark. ( KI , Sicherheitslücke )",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/cybersicherheit-ueberstuerztes-handeln-fuehrt-zu-mehr-systemausfaellen-2611-215391.html",
-      "published": "2026-11-19T08:18:02+00:00",
-      "category": "Security"
-    },
-    {
-      "id": "9030ca55abe28013",
-      "title": "Microsoft 365: Apps und KI-Agenten seit 18. November zentral verwalten",
-      "excerpt": "Microsoft 365: Apps und KI-Agenten seit 18. November zentral verwalten BornCity",
-      "summary": "Microsoft 365: Apps und KI-Agenten seit 18. November zentral verwalten BornCity",
-      "source": "BornCity",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObnMxVUFKaFlqY1l1azZhal8tRldLeTdyaDZYS3pTTjAxcXNldFlwT1ZmdGtUaUItSU5odXJiZ1VUazMtWGNkbVpoWWlIMU5zNmRYMndJZElmSGZZcFVWaUxlNTFhVHhGM1hBMUFiT1ltSTJGaVdXck9FMzI0MDZ2MXhyMUNvcmpWakJOMkVIMDFpTDNpUDQ0Z3J1UQ?oc=5",
-      "published": "2026-11-19T06:44:05+00:00",
-      "category": "Microsoft 365"
-    },
-    {
       "id": "c592d9b095472b85",
       "title": "Ransomware-Krisen erfolgreich bewältigen",
       "excerpt": "Ransomware-Krisen erfolgreich bewältigen CHEMIE TECHNIK",
@@ -191,26 +211,6 @@
       "category": "Firmen"
     },
     {
-      "id": "481469dbae1f56b4",
-      "title": "Microsoft Ignite 26: Azure wird agentischer und Windows rückt in die Cloud",
-      "excerpt": "Agenten stehen im Mittelpunkt der Ignite 2026: Microsoft will Azure zur zentralen Plattform dafür ausbauen und stellt neue KI-Modelle vor.",
-      "summary": "Agenten stehen im Mittelpunkt der Ignite 2026: Microsoft will Azure zur zentralen Plattform dafür ausbauen und stellt neue KI-Modelle vor.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Microsoft-Ignite-26-Azure-wird-agentischer-und-Windows-rueckt-in-die-Cloud-11529788.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published": "2026-11-18T15:54:00+00:00",
-      "category": "Cloud"
-    },
-    {
-      "id": "899df4f09b3a8d48",
-      "title": "#heiseshow: Anthropic, Cloud-Ausfälle, Voyager 1",
-      "excerpt": "In der #heiseshow: Anthropic plant den Börsengang, die Abhängigkeit von Microsoft, Apple & Co. wird zum Risiko und Voyager 1 ist einen Lichttag entfernt.",
-      "summary": "In der #heiseshow: Anthropic plant den Börsengang, die Abhängigkeit von Microsoft, Apple & Co. wird zum Risiko und Voyager 1 ist einen Lichttag entfernt.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/heiseshow-Anthropic-Cloud-Ausfaelle-Voyager-1-11529900.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published": "2026-11-18T15:44:00+00:00",
-      "category": "Cloud"
-    },
-    {
       "id": "9bc402f990ce8639",
       "title": "Schweizer Firmen gründen Allianz für digitale Souveränität",
       "excerpt": "Mit Opensovereign wollen fünf Schweizer IT-Unternehmen Open-Source-Technologien als Alternative zu proprietären IT-Lösungen stärken.",
@@ -221,14 +221,24 @@
       "category": "IT Schweiz"
     },
     {
-      "id": "d035777ff4b76f4c",
-      "title": "IT-S expandiert nach Zürich",
-      "excerpt": "Der IT-Dienstleister IT-S schliesst sich mit Allnet Solutions aus Urdorf zusammen. Durch die Übernahme des Allnet-Standorts und -Teams in Zürich ist der Dienstleister neu in vier Schweizer Wirtschaftsregionen vertreten.",
-      "summary": "Der IT-Dienstleister IT-S schliesst sich mit Allnet Solutions aus Urdorf zusammen. Durch die Übernahme des Allnet-Standorts und -Teams in Zürich ist der Dienstleister neu in vier Schweizer Wirtschaftsregionen vertreten.",
-      "source": "Netzwoche",
-      "url": "https://www.netzwoche.ch/news/2026-11-18/it-s-expandiert-nach-zuerich",
-      "published": "2026-11-18T14:39:44+00:00",
+      "id": "e0585690d747675f",
+      "title": "Lausanne ernennt neuen IT-Leiter",
+      "excerpt": "Lausanne ernennt neuen IT-Leiter IT-Markt",
+      "summary": "Lausanne ernennt neuen IT-Leiter IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xNjBfbUhpenpBTlB3TzR5RERkSWNlNHBmWndMYk9YZXpvOW9RTlNFd2EzcEZ3TWEzRlBXd1VGWFlHb1B1MFNaU1RMLW1Ta2x1WDZJUXkwS0F3MUhvOU94bUNsMnBOQ2U2QlZvYW9SNGZaZ1dWRUFMVTRDQ2Y?oc=5",
+      "published": "2026-11-18T14:41:09+00:00",
       "category": "IT Schweiz"
+    },
+    {
+      "id": "ae0496157f3f9757",
+      "title": "IT-S expandiert nach Zürich - IT-Markt",
+      "excerpt": "IT-S expandiert nach Zürich IT-Markt",
+      "summary": "IT-S expandiert nach Zürich IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZSXdFY3dZbGxESU1kanBhU0t4UWRjbDBTN1JPRWMycm1qeEwxLXo4SWRjQ00wLUhzQk1hNGdoUllLOWdVakdVUG5nM0VTQzRBRWdybFIwZUlpWld5RV9RLXJPem9QbmZDbXpUcTBRR3I1LVdrNzNB?oc=5",
+      "published": "2026-11-18T14:40:15+00:00",
+      "category": "Markt"
     },
     {
       "id": "95b8a7fc0f6de53d",
@@ -241,6 +251,16 @@
       "category": "Cloud"
     },
     {
+      "id": "f9ea533908e1c981",
+      "title": "Microsoft SharePoint: Angreifer können Code einschleusen und ausführen",
+      "excerpt": "Microsoft warnt vor Sicherheitslücken in der SharePoint Server Subscription Edition. Admins sollten das bereitstehende Update anwenden.",
+      "summary": "Microsoft warnt vor Sicherheitslücken in der SharePoint Server Subscription Edition. Admins sollten das bereitstehende Update anwenden.",
+      "source": "heise Security",
+      "url": "https://www.heise.de/news/Microsoft-SharePoint-Angreifer-koennen-Code-einschleusen-und-ausfuehren-11529556.html",
+      "published": "2026-11-18T13:05:00+00:00",
+      "category": "Microsoft 365"
+    },
+    {
       "id": "0d11956a44fb45c1",
       "title": "Fünf Schweizer IT-Unternehmen gründen Opensovereign",
       "excerpt": "Die fünf Schweizer IT-Unternehmen VSHN, Puzzle ITC, Adfinis, Cloudscale und Cyberlink rufen eine gemeinsame Initiative für digitale Souveränität ins Leben. Opensovereign soll Schweizer Organisationen auf dem Weg zur digitalen Unabhängigkeit begleiten. Dazu gehört die Ablösung proprietärer Anbieter und der Ausbau selbst kontrollierbarer IT-Infrastruktur.",
@@ -248,6 +268,16 @@
       "source": "Netzwoche",
       "url": "https://www.netzwoche.ch/news/2026-11-18/fuenf-schweizer-it-unternehmen-gruenden-opensovereign",
       "published": "2026-11-18T10:27:45+00:00",
+      "category": "Firmen"
+    },
+    {
+      "id": "56af2ce2eeca5977",
+      "title": "Start-up-Finanzierung in Deutschland fast verdoppelt - it-daily.net",
+      "excerpt": "Start-up-Finanzierung in Deutschland fast verdoppelt it-daily.net",
+      "summary": "Start-up-Finanzierung in Deutschland fast verdoppelt it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WNHdVY09PODgxUWQ0Rnp6NlRyWVRlQ2ZRN0p6QzVMeTdTQVZ5bE1RYTFxeThaajZHY1ZxazJXOUVaQnNjNjJhdlU5eU5SbmRJMGN0STVKTkE4TDF5U2lzQ3NTNWdFcVBCTmNKVk9MSEo4bjUyU2c?oc=5",
+      "published": "2026-11-18T08:29:00+00:00",
       "category": "Firmen"
     },
     {
@@ -259,16 +289,6 @@
       "url": "https://www.itreseller.ch/Artikel/106636/Fuenf_Schweizer_IT-Firmen_gruenden_OpenSovereign.html",
       "published": "2026-11-18T07:43:54+00:00",
       "category": "Firmen"
-    },
-    {
-      "id": "011a49bd505659d1",
-      "title": "Microsoft Copilot: Neue Credit-Abrechnung kommt für Partner erst 2027",
-      "excerpt": "Microsoft Copilot: Neue Credit-Abrechnung kommt für Partner erst 2027 BornCity",
-      "summary": "Microsoft Copilot: Neue Credit-Abrechnung kommt für Partner erst 2027 BornCity",
-      "source": "BornCity",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMXI4ckNvSHVlNnlrSVV6WHBiY0hoRU5IQkRwc3FsMFpKWVRMbEQ4NlkxaXN5bDNYSDkwZF9hbEJ5dE4zRTY4dm41RmtLX2xQamltcTRLUU5IUEdtQWJCVDRqSi00Wmlib044WE5EOFUwZWxzOFNTLWpVaGxwSy0tTWN6RUpaVGJGQVhodW91Wlg1a1cyNmUzTWtYU2Y?oc=5",
-      "published": "2026-11-18T05:00:08+00:00",
-      "category": "Microsoft 365"
     },
     {
       "id": "72646a0a7ab21f2c",
@@ -291,14 +311,14 @@
       "category": "Trends"
     },
     {
-      "id": "0d8a194978b02f38",
-      "title": "So verändert sich das Mandat Schweizer CIOs",
-      "excerpt": "So verändert sich das Mandat Schweizer CIOs IT-Markt",
-      "summary": "So verändert sich das Mandat Schweizer CIOs IT-Markt",
+      "id": "9a2744fe4192dbea",
+      "title": "Banken und Versicherungen wollen KI-Agenten über die Cloud steuern - IT-Markt",
+      "excerpt": "Banken und Versicherungen wollen KI-Agenten über die Cloud steuern IT-Markt",
+      "summary": "Banken und Versicherungen wollen KI-Agenten über die Cloud steuern IT-Markt",
       "source": "IT-Markt",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWXpkVFkxNE9nbGwyVUhOZ1NIaXpfSlExM2ptSDk2Vm1hZUhWLVI1Yk5SWDJ2MnlUOW5CTHJGeW5oQjlfTGFva2NKeEFkVnZlc3JleVpXODNQTktVVDZqYVp0bDVwZ2JWaVByWlh6R1FZRkxtX3A3OTBJczNLbXA5N3VsS19lbEZLUzg0aA?oc=5",
-      "published": "2026-11-17T11:02:23+00:00",
-      "category": "Markt"
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd1pvRU85b0pVMXFxVDhQbnh4V0dlMzdHMjNfWHRCYnN4MWtNLTEwellLZ1dDMi02MTdMZFl6dmpDWUgyeDZvaUNOTDVaVkdzZWo0VHltNFJ6aF9rMEVpU0g4d0lJaHptcmtYbnBmM3BDdHBSR0ZTeWNEaW0wdUc1WTBuQjJ4OVk5RHBQZlplQjVzVkhkY3BCR0praWZyalF2SlhFR1Q0R0FjaDg?oc=5",
+      "published": "2026-11-17T10:17:03+00:00",
+      "category": "Cloud"
     },
     {
       "id": "2ee4038c6151a8e2",
@@ -321,37 +341,17 @@
       "category": "Trends"
     },
     {
-      "id": "e7ceee6ab8080623",
-      "title": "Weischer.OOH steigt in den Schweizer Aussenwerbemarkt ein",
-      "excerpt": "Weischer.OOH steigt in den Schweizer Aussenwerbemarkt ein IT-Markt",
-      "summary": "Weischer.OOH steigt in den Schweizer Aussenwerbemarkt ein IT-Markt",
+      "id": "524ce4aa4f19c658",
+      "title": "Die Public Cloud ist noch lange nicht am Ende - IT-Markt",
+      "excerpt": "Die Public Cloud ist noch lange nicht am Ende IT-Markt",
+      "summary": "Die Public Cloud ist noch lange nicht am Ende IT-Markt",
       "source": "IT-Markt",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPREM5Q0wzMWhCRVFwZVZhSUI3Y0lQdUszVm9GWm1kMWZfVkVmUGYtUEZhVUE3OFp6alQyeENXMm9jMWhQS2duY3FYNTVXZDN5VnJ2VlNPcUJUeTltc1JFbkN5clFiQUI3M3VyLXZjZWFmV24wZVpKVGs2UlBhRDJtZ0oyMXBVVzlQb1hUSjgwUW5jRmJXTVJ4S3ZQS20?oc=5",
-      "published": "2026-11-16T14:43:53+00:00",
-      "category": "Markt"
-    },
-    {
-      "id": "6a98a02f17c5aeff",
-      "title": "Geschäft mit KI-Software wächst sprunghaft",
-      "excerpt": "Der weltweite Markt für KI-Software wächst deutlich schneller als bislang erwartet. Laut einer neuen Prognose von Omdia dürfte der Umsatz 2026 die Marke von 200 Milliarden Dollar überschreiten und sich damit gegenüber 2024 verdoppeln.",
-      "summary": "Der weltweite Markt für KI-Software wächst deutlich schneller als bislang erwartet. Laut einer neuen Prognose von Omdia dürfte der Umsatz 2026 die Marke von 200 Milliarden Dollar überschreiten und sich damit gegenüber 2024 verdoppeln.",
-      "source": "IT Reseller",
-      "url": "https://www.itreseller.ch/Artikel/106622/Geschaeft_mit_KI-Software_waechst_sprunghaft.html",
-      "published": "2026-11-16T09:21:51+00:00",
-      "category": "Markt"
-    },
-    {
-      "id": "374221c6a4dc4194",
-      "title": "Die richtigen Unternehmen zur richtigen Zeit ansprechen",
-      "excerpt": "Die richtigen Unternehmen zur richtigen Zeit ansprechen IT-Markt",
-      "summary": "Die richtigen Unternehmen zur richtigen Zeit ansprechen IT-Markt",
-      "source": "IT-Markt",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVjFTenl6Q0NodkhHdFpQVTl5NG41ejREYUlMSV85LTZvMm9sSUxJdy1RN1J0NzQxRllPM0NPaEpON0h5OE43cGd3Q1dMTzA5Vm1uWnJucXhDbmxfU0UzVzE4bkZXZ09wd05rb3ZXVFNLbHpZRlFrRy13Z3VOaG9mbGhtOHBva2UzbnJZNDVtM0hJT3UwMDlfWHZwbw?oc=5",
-      "published": "2026-11-16T06:00:00+00:00",
-      "category": "Markt"
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYnkwWHBLcHVnQldSOV91Z0tUYXQtTTB5aURMdjJudkIzUlNNYktTVjJER081V2htYkFoQkpsalgwUERWcHhRU0xqN1VZSTlNeU1PWk9jOGtGUVl2cFpsbXlXTnpyWjAxNWtqY2R6aHNmM3g5anBTVUZFTGg3UHhvR2VjLUp2eWQwUDJNbzBB?oc=5",
+      "published": "2026-11-16T14:20:30+00:00",
+      "category": "Cloud"
     }
   ],
-  "updatedAt": "2026-11-19T16:11:26.908278+00:00",
+  "updatedAt": "2026-11-19T17:16:10.276185+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -370,6 +370,6 @@
     "Markt": 5,
     "Firmen": 5
   },
-  "warning": "5 von 29 RSS-Quellen waren nicht erreichbar.",
+  "warning": "3 von 29 RSS-Quellen waren nicht erreichbar.",
   "aiSummaries": false
 }
