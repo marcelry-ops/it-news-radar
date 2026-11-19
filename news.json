@@ -1,6 +1,56 @@
 {
   "items": [
     {
+      "id": "6b8fcfbaa0bea934",
+      "title": "Mehr als ein Jahrzehnt unerkannt: Gravierende Sicherheitslücke in Nginx entdeckt - t3n",
+      "excerpt": "Mehr als ein Jahrzehnt unerkannt: Gravierende Sicherheitslücke in Nginx entdeckt t3n",
+      "summary": "Mehr als ein Jahrzehnt unerkannt: Gravierende Sicherheitslücke in Nginx entdeckt t3n",
+      "source": "t3n",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcVhlSHc1TW9Da3lmU2tGcnF2SUwxc1hMa2dLS0N3b3M5Z1pNSC1RRTg5YzdQazBucWZOMXQ2WmhraDJOeHlsWFVFX1JnTXoyRmVoX0U2c1NJQzZSN2VRSmJJM0VPOXZWakR0M3lzR3gxeEdRSUwwcFlnVUlBcUYyU2x3cGU3M2VS?oc=5",
+      "published": "2026-11-19T12:00:40+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "947f24276db6bc0b",
+      "title": "Microsofts KI-Framework verteilt Malware: So bekamen Angreifer Zugang",
+      "excerpt": "Bei einem Hackerangriff wurde das Agent-Framework von Microsoft mit Malware infiziert, die an User ausgespielt wurde. Was Betroffene jetzt wissen müssen.",
+      "summary": "Bei einem Hackerangriff wurde das Agent-Framework von Microsoft mit Malware infiziert, die an User ausgespielt wurde. Was Betroffene jetzt wissen müssen.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Microsofts-KI-Framework-verteilt-Malware-So-bekamen-Angreifer-Zugang-11530977.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published": "2026-11-19T11:55:00+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "6a18558149be9fe6",
+      "title": "KI beschäftigt Versicherer mit Forderungen in Millionenhöhe - IT-Markt",
+      "excerpt": "KI beschäftigt Versicherer mit Forderungen in Millionenhöhe IT-Markt",
+      "summary": "KI beschäftigt Versicherer mit Forderungen in Millionenhöhe IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWmFxN2R1bEROcnN4N2Z3c3dtNFZINmY0SERaR3dGU09kQnJEdEh3QS03ak04alVRWldRV0xjdTkzQ252MGJmeFBVZml4Z3d1YXQyOEtSc3M5cFZRNnlydS1wLVBxY2Y4VG1jVGowUTRadUNlWGtEcVpLMlpEUXhUM1NJaHA2LV9TUDdNX1gxc2hPQnNCRzdEYWxTWW0yanJQcUhV?oc=5",
+      "published": "2026-11-19T11:06:42+00:00",
+      "category": "Markt"
+    },
+    {
+      "id": "2ce5f825fa132128",
+      "title": "Cyberkriminelle greifen IT des Kantons Basel-Landschaft an",
+      "excerpt": "Unbekannte haben die IT-Infrastruktur des Kantons Basel-Landschaft angegriffen. Es kann deshalb teilweise zu Ausfällen von digitalen Anwendungen des Kantons kommen.",
+      "summary": "Unbekannte haben die IT-Infrastruktur des Kantons Basel-Landschaft angegriffen. Es kann deshalb teilweise zu Ausfällen von digitalen Anwendungen des Kantons kommen.",
+      "source": "Netzwoche",
+      "url": "https://www.netzwoche.ch/news/2026-11-19/cyberkriminelle-greifen-it-des-kantons-basel-landschaft-an",
+      "published": "2026-11-19T10:58:58+00:00",
+      "category": "IT Schweiz"
+    },
+    {
+      "id": "69a98a8fe605ab77",
+      "title": "Trotz KI-Skepsis: Anthropic mit Rekord-Börsengang",
+      "excerpt": "Die Nachfrage beim Börsengang war so gross, dass die KI-Firma sogar mehr Aktien als geplant verkauft hat.",
+      "summary": "Die Nachfrage beim Börsengang war so gross, dass die KI-Firma sogar mehr Aktien als geplant verkauft hat.",
+      "source": "Inside IT",
+      "url": "https://www.inside-it.ch/trotz-ki-skepsis-anthropic-mit-rekord-boersengang-20261119",
+      "published": "2026-11-19T10:58:29+00:00",
+      "category": "Markt"
+    },
+    {
       "id": "d1fdbbe90f0f90ba",
       "title": "Bechtle übernimmt Swiss Solution Group",
       "excerpt": "Bechtle übernimmt die Zuger Swiss Solution Group. Das Unternehmen ist auf das Lifecycle-Management von IT-Hardware spezialisiert. Mit dem Zukauf erweitert Bechtle sein Schweizer Angebot für die Aufbereitung, den Wiederverkauf und das Recycling von IT-Geräten.",
@@ -61,16 +111,6 @@
       "category": "Firmen"
     },
     {
-      "id": "7de738c0f3065450",
-      "title": "Cybersicherheit: Überstürztes Handeln führt zu mehr Systemausfällen",
-      "excerpt": "Von KI gefundene Sicherheitslücken sofort und gleichzeitig zu schließen, belastet bestehende IT-Infrastruktur stark. ( KI , Sicherheitslücke )",
-      "summary": "Von KI gefundene Sicherheitslücken sofort und gleichzeitig zu schließen, belastet bestehende IT-Infrastruktur stark. ( KI , Sicherheitslücke )",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/cybersicherheit-ueberstuerztes-handeln-fuehrt-zu-mehr-systemausfaellen-2611-215391.html",
-      "published": "2026-11-19T08:18:02+00:00",
-      "category": "Security"
-    },
-    {
       "id": "9030ca55abe28013",
       "title": "Microsoft 365: Apps und KI-Agenten seit 18. November zentral verwalten",
       "excerpt": "Microsoft 365: Apps und KI-Agenten seit 18. November zentral verwalten BornCity",
@@ -91,16 +131,6 @@
       "category": "Security"
     },
     {
-      "id": "7b01129b6027065e",
-      "title": "Schweizer Löhne im Tech-Sektor: KI-Kompetenz ist gut fürs Portemonnaie",
-      "excerpt": "Schweizer Löhne im Tech-Sektor: KI-Kompetenz ist gut fürs Portemonnaie Swiss IT Magazine",
-      "summary": "Schweizer Löhne im Tech-Sektor: KI-Kompetenz ist gut fürs Portemonnaie Swiss IT Magazine",
-      "source": "Swiss IT Magazine",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX25hd0hxLVJUbUltU3dMTndHSjBXbHpUYi1fWWxkMHBXTjJjUkRKN2ZXMDk4eXhYTUxObmxxTVl2REIycmwxc21jYjRja1ptUW1iU1RxaDY5MmpzNkx1ZG1tQldBdTBNOGtIdkNEeEN5WF9vRmJRUjNXWE84T05JTWs5RGlLaE9ERFFpOXZUa25WRmhPSEJCQlBfZURCaHozQ2o4SmRSeUpnN01La0tjMDZuYVd5ZW8?oc=5",
-      "published": "2026-11-19T05:03:45+00:00",
-      "category": "IT Schweiz"
-    },
-    {
       "id": "086af95badb92bbd",
       "title": "Trends 2027: Vorsprung durch Governance - it-daily.net",
       "excerpt": "Trends 2027: Vorsprung durch Governance it-daily.net",
@@ -119,6 +149,16 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOXy1Vck43UDkyYkdETFBna3RqdjRmbXdsdjlwYXpJQ0FaSjl6TWJRcUNFNkV3YmVsWm9neTJBLU9BS3Z6WXpuUkVSMFFoU1hwcnhjaHZNYU8zUHp4cV93UldSV0kxYUM3cVFHeGZVVGlOb0Y4WEpiTllVY2Y3dHNBZUQ0b1l1U3hlRnNHNGtFeGJDSDQtLUxzdjl0OA?oc=5",
       "published": "2026-11-18T18:09:03+00:00",
       "category": "Microsoft 365"
+    },
+    {
+      "id": "84d178093d4c2f6e",
+      "title": "AI Gigafactory im Norden: Nokia und Partner planen europäische KI-Infrastruktur",
+      "excerpt": "Ein nordisch-baltisches Konsortium will mit einer souveränen Cloud, grünem Strom und schnellen Netzen den EU-Wettbewerb für KI-Gigafactories aufmischen.",
+      "summary": "Ein nordisch-baltisches Konsortium will mit einer souveränen Cloud, grünem Strom und schnellen Netzen den EU-Wettbewerb für KI-Gigafactories aufmischen.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/AI-Gigafactory-im-Norden-Nokia-und-Partner-planen-europaeische-KI-Infrastruktur-11530042.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published": "2026-11-18T17:14:00+00:00",
+      "category": "Cloud"
     },
     {
       "id": "23da7ac421f950e4",
@@ -181,26 +221,6 @@
       "category": "Markt"
     },
     {
-      "id": "7f3e73a1ed1fb5ce",
-      "title": "1&1: Cloudbetreiber Ionos holt sich neuen CEO von SAP",
-      "excerpt": "Führungswechsel beim europäischen Cloud-Marktführer: SAP-Manager Saueressig übernimmt bei Ionos und soll das Geschäft mit Großkunden und KI ausbauen. ( SAP , Rechenzentrum )",
-      "summary": "Führungswechsel beim europäischen Cloud-Marktführer: SAP-Manager Saueressig übernimmt bei Ionos und soll das Geschäft mit Großkunden und KI ausbauen. ( SAP , Rechenzentrum )",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/1-1-cloudbetreiber-ionos-holt-sich-neuen-ceo-von-sap-2611-215366.html",
-      "published": "2026-11-18T14:33:02+00:00",
-      "category": "Firmen"
-    },
-    {
-      "id": "11c95c941f63eb6b",
-      "title": "Colossus-Rechenzentrum: Memphis verteilt SpaceX-Steuereinnahmen an Anwohner",
-      "excerpt": "Die Stadt Memphis gibt einen Teil der Steuereinnahmen durch SpaceX an die Nachbarschaft des Colossus-Rechenzentrums zurück. ( Rechenzentrum , Barrierefreiheit )",
-      "summary": "Die Stadt Memphis gibt einen Teil der Steuereinnahmen durch SpaceX an die Nachbarschaft des Colossus-Rechenzentrums zurück. ( Rechenzentrum , Barrierefreiheit )",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/colossus-rechenzentrum-memphis-verteilt-spacex-steuereinnahmen-an-anwohner-2611-215362.html",
-      "published": "2026-11-18T14:12:02+00:00",
-      "category": "Cloud"
-    },
-    {
       "id": "b5e7a91b82275647",
       "title": "Microsoft SharePoint: Angreifer können Code einschleusen und ausführen",
       "excerpt": "Microsoft warnt vor Sicherheitslücken in der SharePoint Server Subscription Edition. Admins sollten das bereitstehende Update anwenden.",
@@ -231,16 +251,6 @@
       "category": "Firmen"
     },
     {
-      "id": "10796f9a86c5c8cc",
-      "title": "Apache HTTP Server: RCE-Lücke CVE-2026-119618 wird aktiv ausgenutzt",
-      "excerpt": "Apache HTTP Server: RCE-Lücke CVE-2026-119618 wird aktiv ausgenutzt All About SECURITY",
-      "summary": "Apache HTTP Server: RCE-Lücke CVE-2026-119618 wird aktiv ausgenutzt All About SECURITY",
-      "source": "All About SECURITY",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQVVoQjZkZnVPbFYwSWNfN1dNWFVqeGE4cmtRcGd3TzNtS09NYXJLaUlnMXhoamhGOFhzam5RYUZjUGVPcTFoVVJuXzk5V2o5aWg5cmlzUm9aSUhlYTYzUEZRSUkxZl95WVR3b1BXX0kwUHllMkU4N0o3MGtuWjRac0w3X3JUb2Q3WXkzZ3pFdk9qUUZ4bk5WcnBQUTVacmd4RzJmRQ?oc=5",
-      "published": "2026-11-18T08:49:27+00:00",
-      "category": "Security"
-    },
-    {
       "id": "fbe823646a36cfe3",
       "title": "Bewida übernimmt Sympasol - IT-Markt",
       "excerpt": "Bewida übernimmt Sympasol IT-Markt",
@@ -251,13 +261,23 @@
       "category": "Markt"
     },
     {
-      "id": "8d9d4a7df1771923",
+      "id": "56af2ce2eeca5977",
+      "title": "Start-up-Finanzierung in Deutschland fast verdoppelt - it-daily.net",
+      "excerpt": "Start-up-Finanzierung in Deutschland fast verdoppelt it-daily.net",
+      "summary": "Start-up-Finanzierung in Deutschland fast verdoppelt it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WNHdVY09PODgxUWQ0Rnp6NlRyWVRlQ2ZRN0p6QzVMeTdTQVZ5bE1RYTFxeThaajZHY1ZxazJXOUVaQnNjNjJhdlU5eU5SbmRJMGN0STVKTkE4TDF5U2lzQ3NTNWdFcVBCTmNKVk9MSEo4bjUyU2c?oc=5",
+      "published": "2026-11-18T08:29:00+00:00",
+      "category": "Firmen"
+    },
+    {
+      "id": "8547a56091312ce0",
       "title": "Fünf Schweizer IT-Firmen gründen OpenSovereign",
-      "excerpt": "Fünf Schweizer IT-Firmen gründen OpenSovereign Swiss IT Magazine",
-      "summary": "Fünf Schweizer IT-Firmen gründen OpenSovereign Swiss IT Magazine",
-      "source": "Swiss IT Magazine",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORno1YndtUElCZTlmaGV5dE1OTFNZTmcta21Bai1EbHJOLUU5OWU2S3V2Q21xd0FBR1ZIMTFFekE1UlFUb2NKT01oMzhoOU9aTGx2TmF6MmNNUnBxVmlqQXNZYjdoNWxQWlBFb3UzZExmVWk5N3R2Zlk5WVpObXRxb0x2bE9TV0pfOU1kRGhtVjQwb00ydGpVcg?oc=5",
-      "published": "2026-11-18T07:12:00+00:00",
+      "excerpt": "VSHN, Puzzle ITC, Adfinis, Cloudscale und Cyberlink haben die Allianz OpenSovereign gegründet. Gemeinsam wollen die fünf Schweizer IT-Unternehmen Organisationen dabei unterstützen, ihre Abhängigkeit von einzelnen Technologieanbietern zu reduzieren.",
+      "summary": "VSHN, Puzzle ITC, Adfinis, Cloudscale und Cyberlink haben die Allianz OpenSovereign gegründet. Gemeinsam wollen die fünf Schweizer IT-Unternehmen Organisationen dabei unterstützen, ihre Abhängigkeit von einzelnen Technologieanbietern zu reduzieren.",
+      "source": "IT Reseller",
+      "url": "https://www.itreseller.ch/Artikel/106636/Fuenf_Schweizer_IT-Firmen_gruenden_OpenSovereign.html",
+      "published": "2026-11-18T07:43:54+00:00",
       "category": "Firmen"
     },
     {
@@ -281,24 +301,14 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "6cc85f4cb8db3395",
-      "title": "Speicherdilemma: Mehr aus dem IT-Budget holen - IT-Markt",
-      "excerpt": "Speicherdilemma: Mehr aus dem IT-Budget holen IT-Markt",
-      "summary": "Speicherdilemma: Mehr aus dem IT-Budget holen IT-Markt",
-      "source": "IT-Markt",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdGNPNHF4MGVEYU1ZblFqeDl5eXpwZHpReE1MdHVVM0Q5UjVFVTJwVFVZY0Y5cjhoUDJNUnRhOHhUcUI0aFAyX1U3OHcydXp1YmVCMWpEMGRneUdvU21IVDJGLXI5MzYycWZqS0xUczBTZzdhbld6dkI5WFhNdDBvZjVWekF1RTc3bzN3dVA1aw?oc=5",
-      "published": "2026-11-17T15:00:00+00:00",
-      "category": "Markt"
-    },
-    {
-      "id": "eee1f9fdd26bf8a9",
-      "title": "TI&M gewinnt den \"USP Partner of the Year\"-Award - IT-Markt",
-      "excerpt": "TI&M gewinnt den \"USP Partner of the Year\"-Award IT-Markt",
-      "summary": "TI&M gewinnt den \"USP Partner of the Year\"-Award IT-Markt",
-      "source": "IT-Markt",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSE93M19fVjcxUUMwOUI4c1hfWXl3cnV3dFA1TTlUcVZrN0x2RUUzS0hUYkhtMVljMGdDamtOd0drUVFJekQxMDNHTEV0bzhxT3JyeEZEOXZkbDJ1Sy0wMUgxZFJvLS1yRmNfSHFUUjQyZV9hWmdMN2FxTk5qa3IzUmd3SE1ISWNVMURDMnd3?oc=5",
-      "published": "2026-11-17T12:34:24+00:00",
-      "category": "Markt"
+      "id": "00cd893bf9d183c4",
+      "title": "\"Das Energiesystem der Zukunft braucht Daten\" - energate messenger Schweiz",
+      "excerpt": "\"Das Energiesystem der Zukunft braucht Daten\" energate messenger Schweiz",
+      "summary": "\"Das Energiesystem der Zukunft braucht Daten\" energate messenger Schweiz",
+      "source": "energate messenger Schweiz",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV3d5Nm5KYUpyRWRJRzRMYzc0eG1EejY0SUpybGFxWlBmV1dfUDh6UHJOaWRIX0k1dTlvQXpIZDBHY2RDSWdNRUpXclBneW1OTzhhYmw5VlJLVFQ5QmRjSFM2OWZ1VC00MzFfcWt4dXJNWFNJc3dVTTVLV0RYSnFOWmhkN015LUZnaTIyYzA1TnNJaDA?oc=5",
+      "published": "2026-11-17T12:34:00+00:00",
+      "category": "Trends"
     },
     {
       "id": "bbb5946cccfaeb07",
@@ -311,13 +321,13 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "cb9bf259348ce7da",
-      "title": "Banken und Versicherungen wollen KI-Agenten über die Cloud steuern",
-      "excerpt": "Mehr als die Hälfte der befragten Finanzinstitute erprobt oder nutzt Systeme mit mehreren KI-Agenten. Doch nur jedes zehnte koordiniert deren Einsatz bereits unternehmensweit, wie eine Capgemini-Umfrage zeigt. Cloud-Plattformen sollen zunehmend den Datenzugriff, die Berechtigungen und die Kontrolle automatisierter Entscheidungen übernehmen.",
-      "summary": "Mehr als die Hälfte der befragten Finanzinstitute erprobt oder nutzt Systeme mit mehreren KI-Agenten. Doch nur jedes zehnte koordiniert deren Einsatz bereits unternehmensweit, wie eine Capgemini-Umfrage zeigt. Cloud-Plattformen sollen zunehmend den Datenzugrif",
-      "source": "Netzwoche",
-      "url": "https://www.netzwoche.ch/news/2026-11-17/banken-und-versicherungen-wollen-ki-agenten-ueber-die-cloud-steuern",
-      "published": "2026-11-17T10:11:30+00:00",
+      "id": "9a2744fe4192dbea",
+      "title": "Banken und Versicherungen wollen KI-Agenten über die Cloud steuern - IT-Markt",
+      "excerpt": "Banken und Versicherungen wollen KI-Agenten über die Cloud steuern IT-Markt",
+      "summary": "Banken und Versicherungen wollen KI-Agenten über die Cloud steuern IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd1pvRU85b0pVMXFxVDhQbnh4V0dlMzdHMjNfWHRCYnN4MWtNLTEwellLZ1dDMi02MTdMZFl6dmpDWUgyeDZvaUNOTDVaVkdzZWo0VHltNFJ6aF9rMEVpU0g4d0lJaHptcmtYbnBmM3BDdHBSR0ZTeWNEaW0wdUc1WTBuQjJ4OVk5RHBQZlplQjVzVkhkY3BCR0praWZyalF2SlhFR1Q0R0FjaDg?oc=5",
+      "published": "2026-11-17T10:17:03+00:00",
       "category": "Cloud"
     },
     {
@@ -329,9 +339,19 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcDczLXE0UTZ6TC12dTFsd0tVeEFOSmtHbktDNnkzT2pFdlpXdnNxZXB2ZW1raWVWLWl2aVpnVHFqaThtLXBOSC10YWgtdjJVVnlndlcwYVRJSnkyWktuU0FrVVRlRS1ieDVYQmhLU1F2UUJlVWRzZlNjSEZmWm5LUGJqU2tRbWp2LTFiSUdzNDEtQ3lVNTFNdGw1UDJlRnMzSjk0ZUZtMnhUODRVZFYzZ0lhdWJZd3lrNFJzM3dDSDdJcFFUQVZ2T0N3?oc=5",
       "published": "2026-11-17T08:00:00+00:00",
       "category": "Cloud"
+    },
+    {
+      "id": "7aa75a8b40453664",
+      "title": "Bechtle übernimmt zwei PLM-Spezialisten",
+      "excerpt": "Bechtle baut sein Geschäft mit Fertigungssoftware, Robotik und Fabrikautomation durch die Übernahme von EngRoTec Consulting und 4-PLM aus. Mit den beiden Unternehmen wechseln neun Mitarbeitende zum IT-Dienstleister.",
+      "summary": "Bechtle baut sein Geschäft mit Fertigungssoftware, Robotik und Fabrikautomation durch die Übernahme von EngRoTec Consulting und 4-PLM aus. Mit den beiden Unternehmen wechseln neun Mitarbeitende zum IT-Dienstleister.",
+      "source": "IT Reseller",
+      "url": "https://www.itreseller.ch/Artikel/106627/Bechtle_uebernimmt_zwei_PLM-Spezialisten.html",
+      "published": "2026-11-17T07:24:59+00:00",
+      "category": "Trends"
     }
   ],
-  "updatedAt": "2026-11-19T10:18:02.888528+00:00",
+  "updatedAt": "2026-11-19T12:08:20.881734+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -346,10 +366,10 @@
     "Microsoft 365": 5,
     "IT Schweiz": 5,
     "Cloud": 5,
-    "Trends": 3,
+    "Trends": 5,
     "Markt": 5,
     "Firmen": 5
   },
-  "warning": "Nicht genügend passende aktuelle Meldungen: 2 × Trends. 1 von 29 RSS-Quellen waren nicht erreichbar.",
+  "warning": "",
   "aiSummaries": false
 }
