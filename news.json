@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "ae16ad384fd78c94",
+      "title": "Microsoft Copilot: Word, Excel und PowerPoint jetzt direkt im KI-Chat",
+      "excerpt": "Microsoft Copilot: Word, Excel und PowerPoint jetzt direkt im KI-Chat BornCity",
+      "summary": "Microsoft Copilot: Word, Excel und PowerPoint jetzt direkt im KI-Chat BornCity",
+      "source": "BornCity",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMU5rdGFFQW5JcUl2TW4tRmRnNEFJMkR5ckdmbjlsNVh4dEpiYmxtRkJLc0N4dmF5SExoU2l3WlZIdWRIUTZHVEpLZWRtdXRjbWc3dHhGcmZfMUdjS2FtaTIxajIyVjNLd2NhV3VzOS1OWURIMjczandsalZsTnBhc2RNZEFrQTJvdWpidUxuVGZWZTZzbUVsbkt3?oc=5",
+      "published": "2026-11-19T20:49:05+00:00",
+      "category": "Microsoft 365"
+    },
+    {
       "id": "940cfcd9731cc4c7",
       "title": "KI-Unternehmen: Anthropic-Aktie macht Kurssprung zum Börsenstart",
       "excerpt": "Anthropic ist erfolgreich an der Börse gestartet. Das Unternehmen wird mit fast 2 Billionen US-Dollar bewertet. ( Anthropic , Börse )",
@@ -91,16 +101,6 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "a604fe93e4b6c337",
-      "title": "(g+) Datenschutz: Microsoft 365 DSGVO-konform betreiben - Realität oder Mythos?",
-      "excerpt": "Microsoft 365 lässt sich DSGVO-konform betreiben, doch MFA allein reicht nicht. Welche Einstellungen und Nachweise bei einer Datenschutzprüfung entscheidend sind. Ein Ratgebertext von Aaron Siller ( Microsoft 365 , Datenschutz )",
-      "summary": "Microsoft 365 lässt sich DSGVO-konform betreiben, doch MFA allein reicht nicht. Welche Einstellungen und Nachweise bei einer Datenschutzprüfung entscheidend sind. Ein Ratgebertext von Aaron Siller ( Microsoft 365 , Datenschutz )",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/datenschutz-microsoft-365-dsgvo-konform-betreiben-realitaet-oder-mythos-2611-215208.html",
-      "published": "2026-11-19T12:36:02+00:00",
-      "category": "Microsoft 365"
-    },
-    {
       "id": "6b8fcfbaa0bea934",
       "title": "Mehr als ein Jahrzehnt unerkannt: Gravierende Sicherheitslücke in Nginx entdeckt - t3n",
       "excerpt": "Mehr als ein Jahrzehnt unerkannt: Gravierende Sicherheitslücke in Nginx entdeckt t3n",
@@ -108,16 +108,6 @@
       "source": "t3n",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcVhlSHc1TW9Da3lmU2tGcnF2SUwxc1hMa2dLS0N3b3M5Z1pNSC1RRTg5YzdQazBucWZOMXQ2WmhraDJOeHlsWFVFX1JnTXoyRmVoX0U2c1NJQzZSN2VRSmJJM0VPOXZWakR0M3lzR3gxeEdRSUwwcFlnVUlBcUYyU2x3cGU3M2VS?oc=5",
       "published": "2026-11-19T12:00:40+00:00",
-      "category": "Security"
-    },
-    {
-      "id": "947f24276db6bc0b",
-      "title": "Microsofts KI-Framework verteilt Malware: So bekamen Angreifer Zugang",
-      "excerpt": "Bei einem Hackerangriff wurde das Agent-Framework von Microsoft mit Malware infiziert, die an User ausgespielt wurde. Was Betroffene jetzt wissen müssen.",
-      "summary": "Bei einem Hackerangriff wurde das Agent-Framework von Microsoft mit Malware infiziert, die an User ausgespielt wurde. Was Betroffene jetzt wissen müssen.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Microsofts-KI-Framework-verteilt-Malware-So-bekamen-Angreifer-Zugang-11530977.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published": "2026-11-19T11:55:00+00:00",
       "category": "Security"
     },
     {
@@ -181,16 +171,6 @@
       "category": "Trends"
     },
     {
-      "id": "621c230feeace24c",
-      "title": "E-Mail ausgefallen? Wie Behörden und Unternehmen ihre Handlungsfähigkeit sichern - it-daily.net",
-      "excerpt": "E-Mail ausgefallen? Wie Behörden und Unternehmen ihre Handlungsfähigkeit sichern it-daily.net",
-      "summary": "E-Mail ausgefallen? Wie Behörden und Unternehmen ihre Handlungsfähigkeit sichern it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWkJmOXBDcy1lRlRIMW5VR2tuYzY1Y1NaZ29rWm43V25qNWcyODExWjVpUFh2MTFSN0FseFFERHk5ZEVlRlAteEFoTnZqdXN0UFduZzVISUpuZVpHOGt5UlBDUENMX2ZJSENydktNZFJLOVFZbjlrNFBrTS1lLTZqdlU2X2pwcFlRbW5UVjlNSEFKVGtzNHJldG1VaTJ2LUdJ?oc=5",
-      "published": "2026-11-19T08:23:31+00:00",
-      "category": "Firmen"
-    },
-    {
       "id": "9030ca55abe28013",
       "title": "Microsoft 365: Apps und KI-Agenten seit 18. November zentral verwalten",
       "excerpt": "Microsoft 365: Apps und KI-Agenten seit 18. November zentral verwalten BornCity",
@@ -209,16 +189,6 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ0xCdzJBZUU1RjBFUktMVlV5Vkoybm5kZDdtc3Eza0FtWEQ2YkItSTJBd2NJVE45S01uQTEtTU92OFBsbzd4cldUU29KSHhmaGFVejZwTEVDWU16NkhYN2hrTlM2b2RnQkJJLWJyc2NDZmRLYklfUDczQzg3dmwzd09FVlBLRmR0S0J3Y04xUHpLQ002Sk1LWA?oc=5",
       "published": "2026-11-19T06:26:00+00:00",
       "category": "Security"
-    },
-    {
-      "id": "086af95badb92bbd",
-      "title": "Trends 2027: Vorsprung durch Governance - it-daily.net",
-      "excerpt": "Trends 2027: Vorsprung durch Governance it-daily.net",
-      "summary": "Trends 2027: Vorsprung durch Governance it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lVnRkTURlNkRfQ18zWGFnLXMtWEs1d09EVW54TFFFckE3NTJUbXVZVGNVMnVfc1ZfTzE5ZFhtUl9xNjVheTJ2ci0weTM3QUpqSWcwUl9sU0pubDQ2MFNQYjhxZ082ZjdTeFFJcGw0eVp2V1dYOFFEYmJBMEU3dmc?oc=5",
-      "published": "2026-11-19T04:08:28+00:00",
-      "category": "Trends"
     },
     {
       "id": "6a21a62621a19c6a",
@@ -311,14 +281,24 @@
       "category": "Firmen"
     },
     {
-      "id": "ef34217f86d32cc5",
-      "title": "E-Mail-Sicherheit: Blinder Fleck in der Cloud - it-daily.net",
-      "excerpt": "E-Mail-Sicherheit: Blinder Fleck in der Cloud it-daily.net",
-      "summary": "E-Mail-Sicherheit: Blinder Fleck in der Cloud it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdXNsWlo4VXNFMmFsSzJPVWplRTFmcUVmOWlQRWpiUlFucmlzZ0daeWEzSEw3R3kyclZUTE40MjFPRC1hN041alNQYUNkaUdlVl9JT3JaTl9kRkY5X2d5alpuM0JJN2MtUU8ycVd5TkxGdWp3bHV3NER0eTZMR2NpdUhQZw?oc=5",
-      "published": "2026-11-18T06:26:26+00:00",
-      "category": "Cloud"
+      "id": "8547a56091312ce0",
+      "title": "Fünf Schweizer IT-Firmen gründen OpenSovereign",
+      "excerpt": "VSHN, Puzzle ITC, Adfinis, Cloudscale und Cyberlink haben die Allianz OpenSovereign gegründet. Gemeinsam wollen die fünf Schweizer IT-Unternehmen Organisationen dabei unterstützen, ihre Abhängigkeit von einzelnen Technologieanbietern zu reduzieren.",
+      "summary": "VSHN, Puzzle ITC, Adfinis, Cloudscale und Cyberlink haben die Allianz OpenSovereign gegründet. Gemeinsam wollen die fünf Schweizer IT-Unternehmen Organisationen dabei unterstützen, ihre Abhängigkeit von einzelnen Technologieanbietern zu reduzieren.",
+      "source": "IT Reseller",
+      "url": "https://www.itreseller.ch/Artikel/106636/Fuenf_Schweizer_IT-Firmen_gruenden_OpenSovereign.html",
+      "published": "2026-11-18T07:43:54+00:00",
+      "category": "Firmen"
+    },
+    {
+      "id": "1fa1e3b7912853f9",
+      "title": "WordPress-Lücke CVE-2026-119977: Patch-Frist 6. Nov vorbei [2026]",
+      "excerpt": "WordPress-Lücke CVE-2026-119977: Patch-Frist 6. Nov vorbei [2026] shattered.io",
+      "summary": "WordPress-Lücke CVE-2026-119977: Patch-Frist 6. Nov vorbei [2026] shattered.io",
+      "source": "shattered.io",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUzRpQnNueDJWUDNYdnlLaVE1UGhLQWR6Um4yUl91VnA0NkhhQTVGUkZIVF9BbDF4TUZCcUZvSHEwbWJfS25FTzd2REtSNWtyYTRYY2FJQ0ZtOFZ2VHdsYUtFLU9CV0Rac1FZTHIxM2c0eWN5N0NwOHlZTmVDMXo2WVp1al9XQ29QV2c?oc=5",
+      "published": "2026-11-17T17:59:35+00:00",
+      "category": "Security"
     },
     {
       "id": "00cd893bf9d183c4",
@@ -349,9 +329,29 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcDczLXE0UTZ6TC12dTFsd0tVeEFOSmtHbktDNnkzT2pFdlpXdnNxZXB2ZW1raWVWLWl2aVpnVHFqaThtLXBOSC10YWgtdjJVVnlndlcwYVRJSnkyWktuU0FrVVRlRS1ieDVYQmhLU1F2UUJlVWRzZlNjSEZmWm5LUGJqU2tRbWp2LTFiSUdzNDEtQ3lVNTFNdGw1UDJlRnMzSjk0ZUZtMnhUODRVZFYzZ0lhdWJZd3lrNFJzM3dDSDdJcFFUQVZ2T0N3?oc=5",
       "published": "2026-11-17T08:00:00+00:00",
       "category": "Cloud"
+    },
+    {
+      "id": "7aa75a8b40453664",
+      "title": "Bechtle übernimmt zwei PLM-Spezialisten",
+      "excerpt": "Bechtle baut sein Geschäft mit Fertigungssoftware, Robotik und Fabrikautomation durch die Übernahme von EngRoTec Consulting und 4-PLM aus. Mit den beiden Unternehmen wechseln neun Mitarbeitende zum IT-Dienstleister.",
+      "summary": "Bechtle baut sein Geschäft mit Fertigungssoftware, Robotik und Fabrikautomation durch die Übernahme von EngRoTec Consulting und 4-PLM aus. Mit den beiden Unternehmen wechseln neun Mitarbeitende zum IT-Dienstleister.",
+      "source": "IT Reseller",
+      "url": "https://www.itreseller.ch/Artikel/106627/Bechtle_uebernimmt_zwei_PLM-Spezialisten.html",
+      "published": "2026-11-17T07:24:59+00:00",
+      "category": "Trends"
+    },
+    {
+      "id": "524ce4aa4f19c658",
+      "title": "Die Public Cloud ist noch lange nicht am Ende - IT-Markt",
+      "excerpt": "Die Public Cloud ist noch lange nicht am Ende IT-Markt",
+      "summary": "Die Public Cloud ist noch lange nicht am Ende IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYnkwWHBLcHVnQldSOV91Z0tUYXQtTTB5aURMdjJudkIzUlNNYktTVjJER081V2htYkFoQkpsalgwUERWcHhRU0xqN1VZSTlNeU1PWk9jOGtGUVl2cFpsbXlXTnpyWjAxNWtqY2R6aHNmM3g5anBTVUZFTGg3UHhvR2VjLUp2eWQwUDJNbzBB?oc=5",
+      "published": "2026-11-16T14:20:30+00:00",
+      "category": "Cloud"
     }
   ],
-  "updatedAt": "2026-11-19T20:14:34.780571+00:00",
+  "updatedAt": "2026-11-19T21:03:55.537752+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
