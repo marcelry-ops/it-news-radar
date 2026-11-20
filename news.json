@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "id": "d21199013fb2ee2e",
+      "title": "Microsoft Teams: Support für iOS 17 endet, bestehende Apps laufen weiter",
+      "excerpt": "Microsoft Teams: Support für iOS 17 endet, bestehende Apps laufen weiter ad-hoc-news.de",
+      "summary": "Microsoft Teams: Support für iOS 17 endet, bestehende Apps laufen weiter ad-hoc-news.de",
+      "source": "ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVHpGSzNlTTk2aFJGMGNuSUxMeUd3blNwdTR2amZYLWh3QjhtLVFWZVMtenFfcU53MkxsU3BwaHItYlNoazBHRmtfU3h4Rm1sVXJ2XzA2QXIyNjEzdUdIYk1fZXZtVTV3TXBVYS1RY3ctNTRzeXJfal9ISGNkTUJETDdScW5tbGUtdncwT29KbTR0dU1yQWV2WVZpLTlXV0JSYmRqQVBnY2l1a0V5cGo3cGF6TWZlTElCaHhoMw?oc=5",
+      "published": "2026-11-20T03:32:30+00:00",
+      "category": "Microsoft 365"
+    },
+    {
+      "id": "ad622efd91ceb59e",
+      "title": "KI-Agenten in Microsoft 365: Wer hat Zugriff auf welche Daten? - Computerwoche",
+      "excerpt": "KI-Agenten in Microsoft 365: Wer hat Zugriff auf welche Daten? Computerwoche",
+      "summary": "KI-Agenten in Microsoft 365: Wer hat Zugriff auf welche Daten? Computerwoche",
+      "source": "Computerwoche",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWmRGUHhDQVJuX2hYcEJiZzZrWVludnY4N0JOLTRmb1NGVGIzZjBBMDVTcU4yMEZnbTFsb3RkdUZmLUh0bDg1Q0M3eHkycWc0dVJIR25yZDRtLXMwYzJnNld2S05XX3R3dDBSR1plbHh1MzVjZXJ5bUhnSXZtSUJnUXYxUFBjTlF6SHFpUVd1M3h3cS1FZDBzY1JNckJ5Z2lSazdKbU1aR3pVMVJHeC1F?oc=5",
+      "published": "2026-11-20T03:00:00+00:00",
+      "category": "Microsoft 365"
+    },
+    {
       "id": "ae16ad384fd78c94",
       "title": "Microsoft Copilot: Word, Excel und PowerPoint jetzt direkt im KI-Chat",
       "excerpt": "Microsoft Copilot: Word, Excel und PowerPoint jetzt direkt im KI-Chat BornCity",
@@ -39,16 +59,6 @@
       "url": "https://www.heise.de/news/Cyberangriff-auf-EU-Kommission-Verdacht-auf-KI-Tool-Artex-tagelange-Ausfaelle-11531596.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "published": "2026-11-19T16:27:00+00:00",
       "category": "Security"
-    },
-    {
-      "id": "6eb34376cbd5ae52",
-      "title": "Esker integriert Source-to-Pay-Prozesse in Microsoft Copilot - it-daily.net",
-      "excerpt": "Esker integriert Source-to-Pay-Prozesse in Microsoft Copilot it-daily.net",
-      "summary": "Esker integriert Source-to-Pay-Prozesse in Microsoft Copilot it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9raldMcGxaUGJpTWVtX0UzWGtYRDl0YUM4eXR1X05qdWJCNnlBVVRxZlJWUmJuWDFUYUF1Ym52dm5peHR5VHRLUnRLU3JsbDBBdDUxODVnNGdMMGFqemtiZTdIaW1YenR0MlE?oc=5",
-      "published": "2026-11-19T16:10:14+00:00",
-      "category": "Microsoft 365"
     },
     {
       "id": "d36303b6b7adbd9a",
@@ -98,16 +108,16 @@
       "source": "Inside IT",
       "url": "https://www.inside-it.ch/zug-will-vertrauliche-daten-verarbeiten-in-m365-20261119",
       "published": "2026-11-19T12:49:48+00:00",
-      "category": "Microsoft 365"
+      "category": "IT Schweiz"
     },
     {
-      "id": "6b8fcfbaa0bea934",
-      "title": "Mehr als ein Jahrzehnt unerkannt: Gravierende Sicherheitslücke in Nginx entdeckt - t3n",
-      "excerpt": "Mehr als ein Jahrzehnt unerkannt: Gravierende Sicherheitslücke in Nginx entdeckt t3n",
-      "summary": "Mehr als ein Jahrzehnt unerkannt: Gravierende Sicherheitslücke in Nginx entdeckt t3n",
-      "source": "t3n",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcVhlSHc1TW9Da3lmU2tGcnF2SUwxc1hMa2dLS0N3b3M5Z1pNSC1RRTg5YzdQazBucWZOMXQ2WmhraDJOeHlsWFVFX1JnTXoyRmVoX0U2c1NJQzZSN2VRSmJJM0VPOXZWakR0M3lzR3gxeEdRSUwwcFlnVUlBcUYyU2x3cGU3M2VS?oc=5",
-      "published": "2026-11-19T12:00:40+00:00",
+      "id": "a49bb8a01250676b",
+      "title": "BSI-Lagebild: 8 Tage von Veröffentlichung der Sicherheitslücke bis zum Exploit - ComputerBase",
+      "excerpt": "BSI-Lagebild: 8 Tage von Veröffentlichung der Sicherheitslücke bis zum Exploit ComputerBase",
+      "summary": "BSI-Lagebild: 8 Tage von Veröffentlichung der Sicherheitslücke bis zum Exploit ComputerBase",
+      "source": "ComputerBase",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbUZkek0xZ005VGh2UXN6OEpRZE1RMDJZWUlaUjBRODFkTlh4OVkxajJzRkRwSUJXQ0NWbnM3UE8yaGtaOENpLVliUXFkZ1VNSmp3UHJvdWhlT2txcFRJSWd5QnZHWWVxcVk3VkVEbjNEUEpJT2xTYnNtRlAxMWNDSW9sdHNzSVU2WFNQOThmNnRHWi12cG5DaFNLUkhTa0IzZjRacDBSWDdNTV9hRHhUdFNnSm5SRWFfZ0VpZ0k0N2xCRmc?oc=5",
+      "published": "2026-11-19T12:33:00+00:00",
       "category": "Security"
     },
     {
@@ -221,16 +231,6 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "84d178093d4c2f6e",
-      "title": "AI Gigafactory im Norden: Nokia und Partner planen europäische KI-Infrastruktur",
-      "excerpt": "Ein nordisch-baltisches Konsortium will mit einer souveränen Cloud, grünem Strom und schnellen Netzen den EU-Wettbewerb für KI-Gigafactories aufmischen.",
-      "summary": "Ein nordisch-baltisches Konsortium will mit einer souveränen Cloud, grünem Strom und schnellen Netzen den EU-Wettbewerb für KI-Gigafactories aufmischen.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/AI-Gigafactory-im-Norden-Nokia-und-Partner-planen-europaeische-KI-Infrastruktur-11530042.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published": "2026-11-18T17:14:00+00:00",
-      "category": "Cloud"
-    },
-    {
       "id": "23da7ac421f950e4",
       "title": "Bronschhofer IT-Unternehmen expandiert nach Zürich",
       "excerpt": "Bronschhofer IT-Unternehmen expandiert nach Zürich Wil24",
@@ -252,22 +252,12 @@
     },
     {
       "id": "e0585690d747675f",
-      "title": "Lausanne ernennt neuen IT-Leiter",
+      "title": "Lausanne ernennt neuen IT-Leiter - IT-Markt",
       "excerpt": "Lausanne ernennt neuen IT-Leiter IT-Markt",
       "summary": "Lausanne ernennt neuen IT-Leiter IT-Markt",
       "source": "IT-Markt",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xNjBfbUhpenpBTlB3TzR5RERkSWNlNHBmWndMYk9YZXpvOW9RTlNFd2EzcEZ3TWEzRlBXd1VGWFlHb1B1MFNaU1RMLW1Ta2x1WDZJUXkwS0F3MUhvOU94bUNsMnBOQ2U2QlZvYW9SNGZaZ1dWRUFMVTRDQ2Y?oc=5",
       "published": "2026-11-18T14:41:09+00:00",
-      "category": "IT Schweiz"
-    },
-    {
-      "id": "ae0496157f3f9757",
-      "title": "IT-S expandiert nach Zürich - IT-Markt",
-      "excerpt": "IT-S expandiert nach Zürich IT-Markt",
-      "summary": "IT-S expandiert nach Zürich IT-Markt",
-      "source": "IT-Markt",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZSXdFY3dZbGxESU1kanBhU0t4UWRjbDBTN1JPRWMycm1qeEwxLXo4SWRjQ00wLUhzQk1hNGdoUllLOWdVakdVUG5nM0VTQzRBRWdybFIwZUlpWld5RV9RLXJPem9QbmZDbXpUcTBRR3I1LVdrNzNB?oc=5",
-      "published": "2026-11-18T14:40:15+00:00",
       "category": "Markt"
     },
     {
@@ -349,9 +339,19 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcDczLXE0UTZ6TC12dTFsd0tVeEFOSmtHbktDNnkzT2pFdlpXdnNxZXB2ZW1raWVWLWl2aVpnVHFqaThtLXBOSC10YWgtdjJVVnlndlcwYVRJSnkyWktuU0FrVVRlRS1ieDVYQmhLU1F2UUJlVWRzZlNjSEZmWm5LUGJqU2tRbWp2LTFiSUdzNDEtQ3lVNTFNdGw1UDJlRnMzSjk0ZUZtMnhUODRVZFYzZ0lhdWJZd3lrNFJzM3dDSDdJcFFUQVZ2T0N3?oc=5",
       "published": "2026-11-17T08:00:00+00:00",
       "category": "Cloud"
+    },
+    {
+      "id": "524ce4aa4f19c658",
+      "title": "Die Public Cloud ist noch lange nicht am Ende - IT-Markt",
+      "excerpt": "Die Public Cloud ist noch lange nicht am Ende IT-Markt",
+      "summary": "Die Public Cloud ist noch lange nicht am Ende IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYnkwWHBLcHVnQldSOV91Z0tUYXQtTTB5aURMdjJudkIzUlNNYktTVjJER081V2htYkFoQkpsalgwUERWcHhRU0xqN1VZSTlNeU1PWk9jOGtGUVl2cFpsbXlXTnpyWjAxNWtqY2R6aHNmM3g5anBTVUZFTGg3UHhvR2VjLUp2eWQwUDJNbzBB?oc=5",
+      "published": "2026-11-16T14:20:30+00:00",
+      "category": "Cloud"
     }
   ],
-  "updatedAt": "2026-11-20T04:02:15.287956+00:00",
+  "updatedAt": "2026-11-20T05:11:48.031742+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
