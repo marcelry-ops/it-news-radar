@@ -21,6 +21,7 @@ MAX_ITEMS = max(50, min(int(os.getenv('CVE_MAX_ITEMS', '2000')), 10000))
 TOP_CVES = 50
 PAGE_SIZE = 2000
 ID_RE = re.compile(r'\bCVE-\d{4}-\d{4,}\b', re.I)
+EUVD_RE = re.compile(r'\bEUVD-\d{4}-\d+\b', re.I)
 
 
 def get_json(url, attempts=2):
@@ -105,7 +106,8 @@ def base(cve_id):
     return {'id': cve_id, 'score': None, 'severity': 'UNRATED', 'cvssVersion': None,
             'published': None, 'modified': None, 'description': 'Keine Beschreibung vorhanden.',
             'products': [], 'references': [], 'sources': [],
-            'url': 'https://www.cve.org/CVERecord?id=' + cve_id}
+            'url': ('https://euvd.enisa.europa.eu/enisaid/' + urllib.parse.quote(cve_id)
+                    if cve_id.startswith('EUVD-') else 'https://www.cve.org/CVERecord?id=' + cve_id)}
 
 
 def nvd_item(cve):
@@ -142,26 +144,36 @@ def extract_id(value):
 
 
 def euvd_candidates(payload):
-    for row in (payload.get('items', []) if isinstance(payload, dict) else []):
+    # EUVD API results may be paginated as 'items' or 'content'.
+    rows = (payload if isinstance(payload, list) else
+            payload.get('items', payload.get('content', [])) if isinstance(payload, dict) else [])
+    for row in rows:
         if not isinstance(row, dict):
             continue
+        euvd_match = EUVD_RE.search(str(row.get('id') or row.get('enisaId') or row.get('euvdId') or ''))
+        euvd_id = euvd_match.group(0).upper() if euvd_match else None
         aliases = row.get('aliases') or []
-        cid = next((extract_id(a) for a in aliases if extract_id(a)), None) if isinstance(aliases, list) else extract_id(aliases)
-        cid = cid or extract_id(row.get('cve')) or extract_id(row.get('cveId'))
-        if not cid:
+        if not isinstance(aliases, list):
+            aliases = [aliases]
+        cve_id = (next((extract_id(a) for a in aliases if extract_id(a)), None)
+                  or extract_id(row.get('cve')) or extract_id(row.get('cveId')))
+        if not euvd_id and not cve_id:
             continue
-        item = base(cid)
-        item['sources'] = ['ENISA EUVD']
-        item['published'] = iso(row.get('datePublished') or row.get('published'))
-        item['description'] = str(row.get('description') or item['description'])[:5000]
-        score = numeric_score(row.get('baseScore') or row.get('cvssScore'))
-        if score is not None:
-            item['score'], item['severity'] = score, severity_for(score)
-        enisa_id = row.get('id') or row.get('enisaId')
-        if isinstance(enisa_id, str) and enisa_id.startswith('EUVD-'):
-            item['references'].append('https://euvd.enisa.europa.eu/enisaid/' + urllib.parse.quote(enisa_id))
-        yield item
-
+        published = iso(row.get('datePublished') or row.get('published') or row.get('publicationDate'))
+        modified = iso(row.get('dateUpdated') or row.get('lastModified') or
+                       row.get('lastModifiedDate') or row.get('dateModified') or row.get('updated'))
+        score = numeric_score(row.get('baseScore') if row.get('baseScore') is not None else row.get('cvssScore'))
+        for identifier in dict.fromkeys(x for x in (euvd_id, cve_id) if x):
+            item = base(identifier)
+            item.update(sources=['ENISA EUVD'], published=published, modified=modified,
+                        description=str(row.get('description') or item['description'])[:5000])
+            if score is not None:
+                item['score'], item['severity'] = score, severity_for(score)
+            if euvd_id and identifier != euvd_id:
+                item['references'].append('https://euvd.enisa.europa.eu/enisaid/' + urllib.parse.quote(euvd_id))
+            if cve_id and identifier != cve_id:
+                item['references'].append('https://www.cve.org/CVERecord?id=' + urllib.parse.quote(cve_id))
+            yield item
 
 def cvenow_candidates(payload):
     # cve.now JSON Feed 1.1. Do not use feed's update timestamp as CVE publication time.
@@ -200,7 +212,9 @@ def cveorg_enrich(item):
 
 
 def rank(items):
-    return sorted(items, key=lambda x: (x.get('published') or '', x['score'] if x.get('score') is not None else -1, x['id']), reverse=True)
+    # First last source modification ('Last Check'), then severity (CVSS).
+    # Missing modification timestamps rank last, not as if just checked.
+    return sorted(items, key=lambda x: (x.get('modified') or '', x['score'] if x.get('score') is not None else -1, x['id']), reverse=True)
 
 
 def build():
@@ -244,22 +258,26 @@ def build():
         except Exception as exc:
             warnings.append(label + ' nicht erreichbar: ' + str(exc)[:120])
 
-    # Enrich a small selection of newest entries using authoritative CVE.org records.
+    # Enrich a small selection of newest CVE entries using authoritative CVE.org records.
     # Keep requests bounded and do not block a successful NVD/EUVD result on failure.
-    for item in rank(entries.values())[:20]:
+    for item in [x for x in rank(entries.values()) if x['id'].startswith('CVE-')][:20]:
         try:
             cveorg_enrich(item)
         except Exception:
             pass
 
-    # Only original CVE publication dates within the configured window; provider-only
-    # entries with ambiguous dates may still reflect ingestion rather than publication.
-    selected = [x for x in entries.values() if x.get('published') and x['published'] >= iso(start.isoformat())]
+    # Include recently modified entries as well as recently published entries.
+    # Never substitute ingestion time for a missing source modification timestamp.
+    threshold = iso(start.isoformat())
+    selected = [x for x in entries.values() if
+                (x.get('modified') and x['modified'] >= threshold) or
+                (x.get('published') and x['published'] >= threshold)]
     selected = rank(selected)[:TOP_CVES]
     payload = {'updatedAt': iso(now.isoformat()), 'windowDays': DAYS,
                'totalResultsNvd': total, 'count': len(selected),
                'truncated': start_index < (total or 0),
                'source': 'NVD, CVE.org, cve.now, ENISA EUVD',
+               'sort': 'modified_desc_score_desc',
                'warning': ' | '.join(warnings) if warnings else None,
                'items': selected}
     Path('cves.json').write_text(json.dumps(payload, ensure_ascii=False, separators=(',', ':')), encoding='utf-8')
