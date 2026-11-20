@@ -281,6 +281,16 @@
       "category": "Cloud"
     },
     {
+      "id": "dbe6ab4b963da05e",
+      "title": "OpenSovereign: Fünf Schweizer IT-Firmen wollen digitale Unabhängigkeit stärken",
+      "excerpt": "OpenSovereign: Fünf Schweizer IT-Firmen wollen digitale Unabhängigkeit stärken ad-hoc-news.de",
+      "summary": "OpenSovereign: Fünf Schweizer IT-Firmen wollen digitale Unabhängigkeit stärken ad-hoc-news.de",
+      "source": "ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRDJzcjl5WjMwUThuUlpiaDZMODBkYUsxZ1hsck1VS2FaUnZFZExNR0R3Z3NqWnFlWlhHUTVPX0FIOVVIRDg5R0xVdEJYMUZVcmdkdnowQUczS0daZV9xalUzd0I5SFNKWjhaeDQ4MDdwRExheHZKbTF0VENDOENnNm5mTDlveEVyQmVoek5FM2diay1vVnlaellWdDVOcnY4ZEJaNlBmQ290ZEliUEhQRFFKdGk2ajBaQ2NIZnBVRHRxY05Fbk9BRQ?oc=5",
+      "published": "2026-11-18T10:54:47+00:00",
+      "category": "Firmen"
+    },
+    {
       "id": "0d11956a44fb45c1",
       "title": "Fünf Schweizer IT-Unternehmen gründen Opensovereign",
       "excerpt": "Die fünf Schweizer IT-Unternehmen VSHN, Puzzle ITC, Adfinis, Cloudscale und Cyberlink rufen eine gemeinsame Initiative für digitale Souveränität ins Leben. Opensovereign soll Schweizer Organisationen auf dem Weg zur digitalen Unabhängigkeit begleiten. Dazu gehört die Ablösung proprietärer Anbieter und der Ausbau selbst kontrollierbarer IT-Infrastruktur.",
@@ -288,16 +298,6 @@
       "source": "Netzwoche",
       "url": "https://www.netzwoche.ch/news/2026-11-18/fuenf-schweizer-it-unternehmen-gruenden-opensovereign",
       "published": "2026-11-18T10:27:45+00:00",
-      "category": "Firmen"
-    },
-    {
-      "id": "56af2ce2eeca5977",
-      "title": "Start-up-Finanzierung in Deutschland fast verdoppelt - it-daily.net",
-      "excerpt": "Start-up-Finanzierung in Deutschland fast verdoppelt it-daily.net",
-      "summary": "Start-up-Finanzierung in Deutschland fast verdoppelt it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WNHdVY09PODgxUWQ0Rnp6NlRyWVRlQ2ZRN0p6QzVMeTdTQVZ5bE1RYTFxeThaajZHY1ZxazJXOUVaQnNjNjJhdlU5eU5SbmRJMGN0STVKTkE4TDF5U2lzQ3NTNWdFcVBCTmNKVk9MSEo4bjUyU2c?oc=5",
-      "published": "2026-11-18T08:29:00+00:00",
       "category": "Firmen"
     },
     {
@@ -351,7 +351,7 @@
       "category": "Cloud"
     }
   ],
-  "updatedAt": "2026-11-20T02:56:13.679274+00:00",
+  "updatedAt": "2026-11-20T04:02:15.287956+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
