@@ -321,6 +321,16 @@
       "category": "Security"
     },
     {
+      "id": "00cd893bf9d183c4",
+      "title": "\"Das Energiesystem der Zukunft braucht Daten\" - energate messenger Schweiz",
+      "excerpt": "\"Das Energiesystem der Zukunft braucht Daten\" energate messenger Schweiz",
+      "summary": "\"Das Energiesystem der Zukunft braucht Daten\" energate messenger Schweiz",
+      "source": "energate messenger Schweiz",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV3d5Nm5KYUpyRWRJRzRMYzc0eG1EejY0SUpybGFxWlBmV1dfUDh6UHJOaWRIX0k1dTlvQXpIZDBHY2RDSWdNRUpXclBneW1OTzhhYmw5VlJLVFQ5QmRjSFM2OWZ1VC00MzFfcWt4dXJNWFNJc3dVTTVLV0RYSnFOWmhkN015LUZnaTIyYzA1TnNJaDA?oc=5",
+      "published": "2026-11-17T12:34:00+00:00",
+      "category": "Trends"
+    },
+    {
       "id": "9a2744fe4192dbea",
       "title": "Banken und Versicherungen wollen KI-Agenten über die Cloud steuern - IT-Markt",
       "excerpt": "Banken und Versicherungen wollen KI-Agenten über die Cloud steuern IT-Markt",
@@ -339,19 +349,9 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcDczLXE0UTZ6TC12dTFsd0tVeEFOSmtHbktDNnkzT2pFdlpXdnNxZXB2ZW1raWVWLWl2aVpnVHFqaThtLXBOSC10YWgtdjJVVnlndlcwYVRJSnkyWktuU0FrVVRlRS1ieDVYQmhLU1F2UUJlVWRzZlNjSEZmWm5LUGJqU2tRbWp2LTFiSUdzNDEtQ3lVNTFNdGw1UDJlRnMzSjk0ZUZtMnhUODRVZFYzZ0lhdWJZd3lrNFJzM3dDSDdJcFFUQVZ2T0N3?oc=5",
       "published": "2026-11-17T08:00:00+00:00",
       "category": "Cloud"
-    },
-    {
-      "id": "7aa75a8b40453664",
-      "title": "Bechtle übernimmt zwei PLM-Spezialisten",
-      "excerpt": "Bechtle baut sein Geschäft mit Fertigungssoftware, Robotik und Fabrikautomation durch die Übernahme von EngRoTec Consulting und 4-PLM aus. Mit den beiden Unternehmen wechseln neun Mitarbeitende zum IT-Dienstleister.",
-      "summary": "Bechtle baut sein Geschäft mit Fertigungssoftware, Robotik und Fabrikautomation durch die Übernahme von EngRoTec Consulting und 4-PLM aus. Mit den beiden Unternehmen wechseln neun Mitarbeitende zum IT-Dienstleister.",
-      "source": "IT Reseller",
-      "url": "https://www.itreseller.ch/Artikel/106627/Bechtle_uebernimmt_zwei_PLM-Spezialisten.html",
-      "published": "2026-11-17T07:24:59+00:00",
-      "category": "Trends"
     }
   ],
-  "updatedAt": "2026-11-20T01:17:44.059339+00:00",
+  "updatedAt": "2026-11-20T02:56:13.679274+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -370,6 +370,6 @@
     "Markt": 5,
     "Firmen": 5
   },
-  "warning": "1 von 29 RSS-Quellen waren nicht erreichbar.",
+  "warning": "",
   "aiSummaries": false
 }
