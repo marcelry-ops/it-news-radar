@@ -124,7 +124,7 @@ def build():
         if start_index >= total:
             break
         time.sleep(7)
-    found.sort(key=lambda x: (x['score'] if x['score'] is not None else -1, x['published'] or ''), reverse=True)
+    found.sort(key=lambda x: (x['published'] or '', x['score'] if x['score'] is not None else -1), reverse=True)
     truncated = start_index < (total or 0)
     payload = {'updatedAt':now.isoformat().replace('+00:00', 'Z'), 'windowDays':DAYS,
                'totalResultsNvd':total, 'count':len(found[:TOP_CVES]), 'truncated':truncated,
