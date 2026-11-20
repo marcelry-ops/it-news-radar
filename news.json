@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "b54a1ae6b4d85eed",
+      "title": "Microsoft Teams: Support für iOS 17 und iPadOS 17 endet",
+      "excerpt": "Microsoft Teams: Support für iOS 17 und iPadOS 17 endet Caschys Blog",
+      "summary": "Microsoft Teams: Support für iOS 17 und iPadOS 17 endet Caschys Blog",
+      "source": "Caschys Blog",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNjhabzU3UldaR3I2Uk5ZMUxsYlBGX1YyYnVWdzR1U0JTaGFSWm95SE4xVjNqMUF6bGQ2RVFtMlZ4Y00yZlFzcmlfRlJxSXdlVFk2VDJzMjhnQWZTWEExUVJGMlpuYnotblkwX0Y0U21WQTlUSU1EZEJoMjE5cWh2emZIN0xjWVlobkt2cnFn?oc=5",
+      "published": "2026-11-20T08:00:52+00:00",
+      "category": "Microsoft 365"
+    },
+    {
       "id": "80f6a3eec28dc739",
       "title": "KI-Investition: Deutsche Telekom steigt bei Mistral AI ein",
       "excerpt": "Mit 100 Millionen Euro beteiligt sich die Telekom an Mistral AI. Beide Unternehmen wollen ihr KI-Geschäft damit in Deutschland ausbauen. ( Telekom , KI )",
@@ -29,16 +39,6 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLVFXUW04b3k5a09lSVNBekVyRE04clZSVHJoYkhLZ1ZDQ0dzeHQ1dHR4Y3J6Mi1aNzhOT18tdFloUGZTR01JZ3llR3FPU2tldV9KdjRIUldFVDZldUJyN2VRSVRVbzh1RTlrT2V5QVp3T0ZKb1dieVlZMVo2emxIVVJ3and6ZEhxQktQVEE4d1czb1Rv?oc=5",
       "published": "2026-11-20T06:14:26+00:00",
       "category": "Security"
-    },
-    {
-      "id": "b223cc4c07efcf02",
-      "title": "MongoDB kauft Firebolt und holt sich Echtzeitanalyse-Engine ins Haus",
-      "excerpt": "Einst als Milliarden-Start-up gehandelt, landet Firebolt nun bei MongoDB. Die Engine soll dort Analysen für Anwendungen und KI-Agenten beschleunigen.",
-      "summary": "Einst als Milliarden-Start-up gehandelt, landet Firebolt nun bei MongoDB. Die Engine soll dort Analysen für Anwendungen und KI-Agenten beschleunigen.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/MongoDB-kauft-Firebolt-und-holt-sich-Echtzeitanalyse-Engine-ins-Haus-11531590.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published": "2026-11-20T06:03:00+00:00",
-      "category": "Firmen"
     },
     {
       "id": "d21199013fb2ee2e",
@@ -251,16 +251,6 @@
       "category": "Trends"
     },
     {
-      "id": "6a21a62621a19c6a",
-      "title": "MIND führt DLP-Integrationen für Microsoft Copilot und Microsoft 365 ein",
-      "excerpt": "MIND führt DLP-Integrationen für Microsoft Copilot und Microsoft 365 ein Unite.AI",
-      "summary": "MIND führt DLP-Integrationen für Microsoft Copilot und Microsoft 365 ein Unite.AI",
-      "source": "Unite.AI",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOXy1Vck43UDkyYkdETFBna3RqdjRmbXdsdjlwYXpJQ0FaSjl6TWJRcUNFNkV3YmVsWm9neTJBLU9BS3Z6WXpuUkVSMFFoU1hwcnhjaHZNYU8zUHp4cV93UldSV0kxYUM3cVFHeGZVVGlOb0Y4WEpiTllVY2Y3dHNBZUQ0b1l1U3hlRnNHNGtFeGJDSDQtLUxzdjl0OA?oc=5",
-      "published": "2026-11-18T18:09:03+00:00",
-      "category": "Microsoft 365"
-    },
-    {
       "id": "23da7ac421f950e4",
       "title": "Bronschhofer IT-Unternehmen expandiert nach Zürich",
       "excerpt": "Bronschhofer IT-Unternehmen expandiert nach Zürich Wil24",
@@ -291,14 +281,14 @@
       "category": "Cloud"
     },
     {
-      "id": "ef34217f86d32cc5",
-      "title": "E-Mail-Sicherheit: Blinder Fleck in der Cloud - it-daily.net",
-      "excerpt": "E-Mail-Sicherheit: Blinder Fleck in der Cloud it-daily.net",
-      "summary": "E-Mail-Sicherheit: Blinder Fleck in der Cloud it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdXNsWlo4VXNFMmFsSzJPVWplRTFmcUVmOWlQRWpiUlFucmlzZ0daeWEzSEw3R3kyclZUTE40MjFPRC1hN041alNQYUNkaUdlVl9JT3JaTl9kRkY5X2d5alpuM0JJN2MtUU8ycVd5TkxGdWp3bHV3NER0eTZMR2NpdUhQZw?oc=5",
-      "published": "2026-11-18T06:26:26+00:00",
-      "category": "Cloud"
+      "id": "8d9d4a7df1771923",
+      "title": "Fünf Schweizer IT-Firmen gründen OpenSovereign",
+      "excerpt": "Fünf Schweizer IT-Firmen gründen OpenSovereign Swiss IT Magazine",
+      "summary": "Fünf Schweizer IT-Firmen gründen OpenSovereign Swiss IT Magazine",
+      "source": "Swiss IT Magazine",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORno1YndtUElCZTlmaGV5dE1OTFNZTmcta21Bai1EbHJOLUU5OWU2S3V2Q21xd0FBR1ZIMTFFekE1UlFUb2NKT01oMzhoOU9aTGx2TmF6MmNNUnBxVmlqQXNZYjdoNWxQWlBFb3UzZExmVWk5N3R2Zlk5WVpObXRxb0x2bE9TV0pfOU1kRGhtVjQwb00ydGpVcg?oc=5",
+      "published": "2026-11-18T07:12:00+00:00",
+      "category": "Firmen"
     },
     {
       "id": "1fa1e3b7912853f9",
@@ -349,9 +339,19 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYnkwWHBLcHVnQldSOV91Z0tUYXQtTTB5aURMdjJudkIzUlNNYktTVjJER081V2htYkFoQkpsalgwUERWcHhRU0xqN1VZSTlNeU1PWk9jOGtGUVl2cFpsbXlXTnpyWjAxNWtqY2R6aHNmM3g5anBTVUZFTGg3UHhvR2VjLUp2eWQwUDJNbzBB?oc=5",
       "published": "2026-11-16T14:20:30+00:00",
       "category": "Cloud"
+    },
+    {
+      "id": "1afbe17a46528573",
+      "title": "Infomaniak und Gruyère Energie planen Rechenzentrum in Bulle - IT-Markt",
+      "excerpt": "Infomaniak und Gruyère Energie planen Rechenzentrum in Bulle IT-Markt",
+      "summary": "Infomaniak und Gruyère Energie planen Rechenzentrum in Bulle IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM2xfVGs1Q0lYNzhMcjJTOUVqaGdScWtJeHduNWM4NEdyWm1hUTgzZVVsZUtvM0tscmI3aWdmWkUyWTlQNm5uaEVuUFRpbC1QNWRzOHZWMUFMSWQyQW1PTzh0S3RYWVUxRWpySERmUUY5dkZ1WFh2QXFUcFhnSGF6ak5NeGdxSk5Ma3gyX1ZuaGFsV1QwSkIwTTlOZ2xTN2tDbUE?oc=5",
+      "published": "2026-11-16T11:13:55+00:00",
+      "category": "Cloud"
     }
   ],
-  "updatedAt": "2026-11-20T07:38:07.614553+00:00",
+  "updatedAt": "2026-11-20T09:14:18.321814+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -370,6 +370,6 @@
     "Markt": 5,
     "Firmen": 5
   },
-  "warning": "",
+  "warning": "1 von 29 RSS-Quellen waren nicht erreichbar.",
   "aiSummaries": false
 }
