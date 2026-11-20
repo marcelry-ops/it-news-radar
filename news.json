@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "b223cc4c07efcf02",
+      "title": "MongoDB kauft Firebolt und holt sich Echtzeitanalyse-Engine ins Haus",
+      "excerpt": "Einst als Milliarden-Start-up gehandelt, landet Firebolt nun bei MongoDB. Die Engine soll dort Analysen für Anwendungen und KI-Agenten beschleunigen.",
+      "summary": "Einst als Milliarden-Start-up gehandelt, landet Firebolt nun bei MongoDB. Die Engine soll dort Analysen für Anwendungen und KI-Agenten beschleunigen.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/MongoDB-kauft-Firebolt-und-holt-sich-Echtzeitanalyse-Engine-ins-Haus-11531590.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published": "2026-11-20T06:03:00+00:00",
+      "category": "Firmen"
+    },
+    {
       "id": "d21199013fb2ee2e",
       "title": "Microsoft Teams: Support für iOS 17 endet, bestehende Apps laufen weiter",
       "excerpt": "Microsoft Teams: Support für iOS 17 endet, bestehende Apps laufen weiter ad-hoc-news.de",
@@ -111,13 +121,13 @@
       "category": "IT Schweiz"
     },
     {
-      "id": "a49bb8a01250676b",
-      "title": "BSI-Lagebild: 8 Tage von Veröffentlichung der Sicherheitslücke bis zum Exploit - ComputerBase",
-      "excerpt": "BSI-Lagebild: 8 Tage von Veröffentlichung der Sicherheitslücke bis zum Exploit ComputerBase",
-      "summary": "BSI-Lagebild: 8 Tage von Veröffentlichung der Sicherheitslücke bis zum Exploit ComputerBase",
-      "source": "ComputerBase",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbUZkek0xZ005VGh2UXN6OEpRZE1RMDJZWUlaUjBRODFkTlh4OVkxajJzRkRwSUJXQ0NWbnM3UE8yaGtaOENpLVliUXFkZ1VNSmp3UHJvdWhlT2txcFRJSWd5QnZHWWVxcVk3VkVEbjNEUEpJT2xTYnNtRlAxMWNDSW9sdHNzSVU2WFNQOThmNnRHWi12cG5DaFNLUkhTa0IzZjRacDBSWDdNTV9hRHhUdFNnSm5SRWFfZ0VpZ0k0N2xCRmc?oc=5",
-      "published": "2026-11-19T12:33:00+00:00",
+      "id": "6b8fcfbaa0bea934",
+      "title": "Mehr als ein Jahrzehnt unerkannt: Gravierende Sicherheitslücke in Nginx entdeckt - t3n",
+      "excerpt": "Mehr als ein Jahrzehnt unerkannt: Gravierende Sicherheitslücke in Nginx entdeckt t3n",
+      "summary": "Mehr als ein Jahrzehnt unerkannt: Gravierende Sicherheitslücke in Nginx entdeckt t3n",
+      "source": "t3n",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcVhlSHc1TW9Da3lmU2tGcnF2SUwxc1hMa2dLS0N3b3M5Z1pNSC1RRTg5YzdQazBucWZOMXQ2WmhraDJOeHlsWFVFX1JnTXoyRmVoX0U2c1NJQzZSN2VRSmJJM0VPOXZWakR0M3lzR3gxeEdRSUwwcFlnVUlBcUYyU2x3cGU3M2VS?oc=5",
+      "published": "2026-11-19T12:00:40+00:00",
       "category": "Security"
     },
     {
@@ -271,16 +281,6 @@
       "category": "Cloud"
     },
     {
-      "id": "dbe6ab4b963da05e",
-      "title": "OpenSovereign: Fünf Schweizer IT-Firmen wollen digitale Unabhängigkeit stärken",
-      "excerpt": "OpenSovereign: Fünf Schweizer IT-Firmen wollen digitale Unabhängigkeit stärken ad-hoc-news.de",
-      "summary": "OpenSovereign: Fünf Schweizer IT-Firmen wollen digitale Unabhängigkeit stärken ad-hoc-news.de",
-      "source": "ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRDJzcjl5WjMwUThuUlpiaDZMODBkYUsxZ1hsck1VS2FaUnZFZExNR0R3Z3NqWnFlWlhHUTVPX0FIOVVIRDg5R0xVdEJYMUZVcmdkdnowQUczS0daZV9xalUzd0I5SFNKWjhaeDQ4MDdwRExheHZKbTF0VENDOENnNm5mTDlveEVyQmVoek5FM2diay1vVnlaellWdDVOcnY4ZEJaNlBmQ290ZEliUEhQRFFKdGk2ajBaQ2NIZnBVRHRxY05Fbk9BRQ?oc=5",
-      "published": "2026-11-18T10:54:47+00:00",
-      "category": "Firmen"
-    },
-    {
       "id": "0d11956a44fb45c1",
       "title": "Fünf Schweizer IT-Unternehmen gründen Opensovereign",
       "excerpt": "Die fünf Schweizer IT-Unternehmen VSHN, Puzzle ITC, Adfinis, Cloudscale und Cyberlink rufen eine gemeinsame Initiative für digitale Souveränität ins Leben. Opensovereign soll Schweizer Organisationen auf dem Weg zur digitalen Unabhängigkeit begleiten. Dazu gehört die Ablösung proprietärer Anbieter und der Ausbau selbst kontrollierbarer IT-Infrastruktur.",
@@ -351,7 +351,7 @@
       "category": "Cloud"
     }
   ],
-  "updatedAt": "2026-11-20T05:11:48.031742+00:00",
+  "updatedAt": "2026-11-20T06:16:21.330912+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
