@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "id": "a65811fbd8a8ffa4",
+      "title": "Angriffe seit September: Update für Zero-Day-Lücke in VMware vCenter verfügbar",
+      "excerpt": "Hacker können die Authentifizierung für VMware vCenter umgehen und erhalten Systemzugriff. ( Security , Virtualisierung )",
+      "summary": "Hacker können die Authentifizierung für VMware vCenter umgehen und erhalten Systemzugriff. ( Security , Virtualisierung )",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/angriffe-seit-september-update-fuer-zero-day-luecke-in-vmware-vcenter-verfuegbar-2611-215464.html",
+      "published": "2026-11-20T12:02:01+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "d44a2ebe7fc03280",
+      "title": "Revolut-Datenpanne: Nach Cyberangriff drohen Kunden gewaltsame Übergriffe",
+      "excerpt": "Cyberkriminelle sind an Daten von Revolut-Kunden gelangt. In den Niederlanden sind nun Versuche gewaltsamer Angriffe auf Betroffene bekannt geworden. ( Cybercrime , Cyberwar )",
+      "summary": "Cyberkriminelle sind an Daten von Revolut-Kunden gelangt. In den Niederlanden sind nun Versuche gewaltsamer Angriffe auf Betroffene bekannt geworden. ( Cybercrime , Cyberwar )",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/revolut-datenpanne-nach-cyberangriff-drohen-kunden-gewaltsame-uebergriffe-2611-215459.html",
+      "published": "2026-11-20T10:35:02+00:00",
+      "category": "Security"
+    },
+    {
       "id": "1ff1b1916b2ad1c1",
       "title": "Mit Nvidia RTX Spark N1X: Asus verkauft KI-Mini-PC ab 4.700 Euro",
       "excerpt": "Der Asus ProArt GR1X soll mithilfe von Nvidias RTX Spark N1X große Sprachmodelle und KI-Agenten ohne Cloud ausführen können. ( KI , Nvidia )",
@@ -19,16 +39,6 @@
       "url": "https://www.heise.de/news/Microsoft-Patchday-Hotpatches-erzeugen-Startprobleme-mit-Apps-11532241.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "published": "2026-11-20T09:41:00+00:00",
       "category": "Security"
-    },
-    {
-      "id": "b54a1ae6b4d85eed",
-      "title": "Microsoft Teams: Support für iOS 17 und iPadOS 17 endet",
-      "excerpt": "Microsoft Teams: Support für iOS 17 und iPadOS 17 endet Caschys Blog",
-      "summary": "Microsoft Teams: Support für iOS 17 und iPadOS 17 endet Caschys Blog",
-      "source": "Caschys Blog",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNjhabzU3UldaR3I2Uk5ZMUxsYlBGX1YyYnVWdzR1U0JTaGFSWm95SE4xVjNqMUF6bGQ2RVFtMlZ4Y00yZlFzcmlfRlJxSXdlVFk2VDJzMjhnQWZTWEExUVJGMlpuYnotblkwX0Y0U21WQTlUSU1EZEJoMjE5cWh2emZIN0xjWVlobkt2cnFn?oc=5",
-      "published": "2026-11-20T08:00:52+00:00",
-      "category": "Microsoft 365"
     },
     {
       "id": "80f6a3eec28dc739",
@@ -61,14 +71,14 @@
       "category": "Security"
     },
     {
-      "id": "d21199013fb2ee2e",
-      "title": "Microsoft Teams: Support für iOS 17 endet, bestehende Apps laufen weiter",
-      "excerpt": "Microsoft Teams: Support für iOS 17 endet, bestehende Apps laufen weiter ad-hoc-news.de",
-      "summary": "Microsoft Teams: Support für iOS 17 endet, bestehende Apps laufen weiter ad-hoc-news.de",
-      "source": "ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVHpGSzNlTTk2aFJGMGNuSUxMeUd3blNwdTR2amZYLWh3QjhtLVFWZVMtenFfcU53MkxsU3BwaHItYlNoazBHRmtfU3h4Rm1sVXJ2XzA2QXIyNjEzdUdIYk1fZXZtVTV3TXBVYS1RY3ctNTRzeXJfal9ISGNkTUJETDdScW5tbGUtdncwT29KbTR0dU1yQWV2WVZpLTlXV0JSYmRqQVBnY2l1a0V5cGo3cGF6TWZlTElCaHhoMw?oc=5",
-      "published": "2026-11-20T03:32:30+00:00",
-      "category": "Microsoft 365"
+      "id": "b223cc4c07efcf02",
+      "title": "MongoDB kauft Firebolt und holt sich Echtzeitanalyse-Engine ins Haus",
+      "excerpt": "Einst als Milliarden-Start-up gehandelt, landet Firebolt nun bei MongoDB. Die Engine soll dort Analysen für Anwendungen und KI-Agenten beschleunigen.",
+      "summary": "Einst als Milliarden-Start-up gehandelt, landet Firebolt nun bei MongoDB. Die Engine soll dort Analysen für Anwendungen und KI-Agenten beschleunigen.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/MongoDB-kauft-Firebolt-und-holt-sich-Echtzeitanalyse-Engine-ins-Haus-11531590.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published": "2026-11-20T06:03:00+00:00",
+      "category": "Firmen"
     },
     {
       "id": "ad622efd91ceb59e",
@@ -78,16 +88,6 @@
       "source": "Computerwoche",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWmRGUHhDQVJuX2hYcEJiZzZrWVludnY4N0JOLTRmb1NGVGIzZjBBMDVTcU4yMEZnbTFsb3RkdUZmLUh0bDg1Q0M3eHkycWc0dVJIR25yZDRtLXMwYzJnNld2S05XX3R3dDBSR1plbHh1MzVjZXJ5bUhnSXZtSUJnUXYxUFBjTlF6SHFpUVd1M3h3cS1FZDBzY1JNckJ5Z2lSazdKbU1aR3pVMVJHeC1F?oc=5",
       "published": "2026-11-20T03:00:00+00:00",
-      "category": "Microsoft 365"
-    },
-    {
-      "id": "ae16ad384fd78c94",
-      "title": "Microsoft Copilot: Word, Excel und PowerPoint jetzt direkt im KI-Chat",
-      "excerpt": "Microsoft Copilot: Word, Excel und PowerPoint jetzt direkt im KI-Chat BornCity",
-      "summary": "Microsoft Copilot: Word, Excel und PowerPoint jetzt direkt im KI-Chat BornCity",
-      "source": "BornCity",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMU5rdGFFQW5JcUl2TW4tRmRnNEFJMkR5ckdmbjlsNVh4dEpiYmxtRkJLc0N4dmF5SExoU2l3WlZIdWRIUTZHVEpLZWRtdXRjbWc3dHhGcmZfMUdjS2FtaTIxajIyVjNLd2NhV3VzOS1OWURIMjczandsalZsTnBhc2RNZEFrQTJvdWpidUxuVGZWZTZzbUVsbkt3?oc=5",
-      "published": "2026-11-19T20:49:05+00:00",
       "category": "Microsoft 365"
     },
     {
@@ -111,24 +111,14 @@
       "category": "Markt"
     },
     {
-      "id": "a67afd283c1d393f",
-      "title": "Cyberangriff auf EU-Kommission: Verdacht auf KI-Tool Artex, tagelange Ausfälle",
-      "excerpt": "Ein Cyberangriff legte Personalsysteme der EU-Kommission tagelang lahm. Grund ist offenbar der Missbrauch des KI-Tools Artex, vor dem CERT-EU gewarnt hatte.",
-      "summary": "Ein Cyberangriff legte Personalsysteme der EU-Kommission tagelang lahm. Grund ist offenbar der Missbrauch des KI-Tools Artex, vor dem CERT-EU gewarnt hatte.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Cyberangriff-auf-EU-Kommission-Verdacht-auf-KI-Tool-Artex-tagelange-Ausfaelle-11531596.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published": "2026-11-19T16:27:00+00:00",
-      "category": "Security"
-    },
-    {
-      "id": "d36303b6b7adbd9a",
-      "title": "EU-Kommission bestätigt Cyberangriff",
-      "excerpt": "Mehrere interne Plattformen der Europäischen Kommission waren zeitweise nicht verfügbar. Das Ausmass des Vorfalls ist noch unklar.",
-      "summary": "Mehrere interne Plattformen der Europäischen Kommission waren zeitweise nicht verfügbar. Das Ausmass des Vorfalls ist noch unklar.",
-      "source": "Inside IT",
-      "url": "https://www.inside-it.ch/eu-kommission-bestaetigt-cyberangriff-20261119",
-      "published": "2026-11-19T15:19:05+00:00",
-      "category": "Security"
+      "id": "6eb34376cbd5ae52",
+      "title": "Esker integriert Source-to-Pay-Prozesse in Microsoft Copilot - it-daily.net",
+      "excerpt": "Esker integriert Source-to-Pay-Prozesse in Microsoft Copilot it-daily.net",
+      "summary": "Esker integriert Source-to-Pay-Prozesse in Microsoft Copilot it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9raldMcGxaUGJpTWVtX0UzWGtYRDl0YUM4eXR1X05qdWJCNnlBVVRxZlJWUmJuWDFUYUF1Ym52dm5peHR5VHRLUnRLU3JsbDBBdDUxODVnNGdMMGFqemtiZTdIaW1YenR0MlE?oc=5",
+      "published": "2026-11-19T16:10:14+00:00",
+      "category": "Microsoft 365"
     },
     {
       "id": "46a591b1a67755ca",
@@ -151,16 +141,6 @@
       "category": "Markt"
     },
     {
-      "id": "bae9f2ee1cf0a622",
-      "title": "Google: Gemini 4 Neon soll leistungsfähig und günstiger sein",
-      "excerpt": "Googles neues KI-Modell Gemini 4 Neon ist zwischen dem leistungsfähigeren Carbon und dem preiswerteren Hydrogen angesiedelt. ( Gemini , Google )",
-      "summary": "Googles neues KI-Modell Gemini 4 Neon ist zwischen dem leistungsfähigeren Carbon und dem preiswerteren Hydrogen angesiedelt. ( Gemini , Google )",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/google-gemini-4-neon-soll-leistungsfaehig-und-guenstiger-sein-2611-215409.html",
-      "published": "2026-11-19T12:57:01+00:00",
-      "category": "Trends"
-    },
-    {
       "id": "8c9549db4184d79b",
       "title": "Zug will vertrauliche Daten verarbeiten in M365",
       "excerpt": "Die Mitarbeitenden der kantonalen Verwaltung können Microsoft 365 zukünftig nahezu uneingeschränkt nutzen. Lediglich geheime Dokumente wie Steuerunterlagen sind tabu.",
@@ -168,7 +148,7 @@
       "source": "Inside IT",
       "url": "https://www.inside-it.ch/zug-will-vertrauliche-daten-verarbeiten-in-m365-20261119",
       "published": "2026-11-19T12:49:48+00:00",
-      "category": "IT Schweiz"
+      "category": "Microsoft 365"
     },
     {
       "id": "6a18558149be9fe6",
@@ -231,16 +211,6 @@
       "category": "Firmen"
     },
     {
-      "id": "9030ca55abe28013",
-      "title": "Microsoft 365: Apps und KI-Agenten seit 18. November zentral verwalten",
-      "excerpt": "Microsoft 365: Apps und KI-Agenten seit 18. November zentral verwalten BornCity",
-      "summary": "Microsoft 365: Apps und KI-Agenten seit 18. November zentral verwalten BornCity",
-      "source": "BornCity",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObnMxVUFKaFlqY1l1azZhal8tRldLeTdyaDZYS3pTTjAxcXNldFlwT1ZmdGtUaUItSU5odXJiZ1VUazMtWGNkbVpoWWlIMU5zNmRYMndJZElmSGZZcFVWaUxlNTFhVHhGM1hBMUFiT1ltSTJGaVdXck9FMzI0MDZ2MXhyMUNvcmpWakJOMkVIMDFpTDNpUDQ0Z3J1UQ?oc=5",
-      "published": "2026-11-19T06:44:05+00:00",
-      "category": "Microsoft 365"
-    },
-    {
       "id": "c592d9b095472b85",
       "title": "Ransomware-Krisen erfolgreich bewältigen",
       "excerpt": "Ransomware-Krisen erfolgreich bewältigen CHEMIE TECHNIK",
@@ -261,14 +231,14 @@
       "category": "Trends"
     },
     {
-      "id": "23da7ac421f950e4",
-      "title": "Bronschhofer IT-Unternehmen expandiert nach Zürich",
-      "excerpt": "Bronschhofer IT-Unternehmen expandiert nach Zürich Wil24",
-      "summary": "Bronschhofer IT-Unternehmen expandiert nach Zürich Wil24",
-      "source": "Wil24",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWDQxemhkaHRqdGdLOUZPUFF3RkVTMVd0aU9ueE44c3Z1djY3cHpnVGtBbzFoN1NqNU1uZGNacG5KcE5NZXA4WFVNa0ZYXzlWNjJUdjdGNGpqNkJ2dEdILUJsSFVSMFZybTBKZU52WU83dGsyNFVValFxVDIwM24taUdNaDQzdmtLYmFSUg?oc=5",
-      "published": "2026-11-18T16:04:00+00:00",
-      "category": "Firmen"
+      "id": "6a21a62621a19c6a",
+      "title": "MIND führt DLP-Integrationen für Microsoft Copilot und Microsoft 365 ein",
+      "excerpt": "MIND führt DLP-Integrationen für Microsoft Copilot und Microsoft 365 ein Unite.AI",
+      "summary": "MIND führt DLP-Integrationen für Microsoft Copilot und Microsoft 365 ein Unite.AI",
+      "source": "Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOXy1Vck43UDkyYkdETFBna3RqdjRmbXdsdjlwYXpJQ0FaSjl6TWJRcUNFNkV3YmVsWm9neTJBLU9BS3Z6WXpuUkVSMFFoU1hwcnhjaHZNYU8zUHp4cV93UldSV0kxYUM3cVFHeGZVVGlOb0Y4WEpiTllVY2Y3dHNBZUQ0b1l1U3hlRnNHNGtFeGJDSDQtLUxzdjl0OA?oc=5",
+      "published": "2026-11-18T18:09:03+00:00",
+      "category": "Microsoft 365"
     },
     {
       "id": "9bc402f990ce8639",
@@ -291,13 +261,33 @@
       "category": "Cloud"
     },
     {
-      "id": "56afc9e17a1eed5b",
-      "title": "Neue Allianz für digitale Unabhängigkeit: Fünf Schweizer IT-Unternehmen gründen OpenSovereign",
-      "excerpt": "Neue Allianz für digitale Unabhängigkeit: Fünf Schweizer IT-Unternehmen gründen OpenSovereign Presseportal Schweiz",
-      "summary": "Neue Allianz für digitale Unabhängigkeit: Fünf Schweizer IT-Unternehmen gründen OpenSovereign Presseportal Schweiz",
-      "source": "Presseportal Schweiz",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVXRNWVMwMTEzQ293OTV6MHBLd2Rnal9PQUwydFN0SDZtSmFwd3JQU2lUZmR1Q1VTaUo1dDBBLU9mdWFUZFRpVlB0ekFXREVmRm80M0pZb1dySU9GSFhKN0RxSmhTZGlCRUJEakNFdzFhamFmMXhvTTFWcjdnM3ZUYVh6d0wtbHBjQUVRSkJ5eXEyY3NkNVQxUVFZOEZ0QmdSZVB6RmNYZWdpbU5Oc0ZmMXA1Ym94OFNtQzRNQk5Sb1BWN0hyWENBUndyYlNmTWvSAdQBQVVfeXFMTlh2MTNQU21yWFJ0LXZMLXRJWEZkQzlQN0l0OUlCRGtNVzNvWEhuUnV2X0JGdWRWWWhkeFV3b25HMklJNkFjaFBYY0o2cmxYVE9UYlZwZlVKdjR0ejhudWVZNnpXZy1VV1FLZFBvbnFNOGxLLTJzRlJGV0p3WEJVOF95QXF1U3NDMHc5MFhKUjhPYXR1a0ZRTDVPZHR5SDNFMmdidkFmSnRqcFFWYW1YWlp3UmdpU1dGX0MzUXAwemp2b0lHVEdMbzg2cFJPb1dub3diYmE?oc=5",
-      "published": "2026-11-18T07:50:10+00:00",
+      "id": "f9ea533908e1c981",
+      "title": "Microsoft SharePoint: Angreifer können Code einschleusen und ausführen",
+      "excerpt": "Microsoft warnt vor Sicherheitslücken in der SharePoint Server Subscription Edition. Admins sollten das bereitstehende Update anwenden.",
+      "summary": "Microsoft warnt vor Sicherheitslücken in der SharePoint Server Subscription Edition. Admins sollten das bereitstehende Update anwenden.",
+      "source": "heise Security",
+      "url": "https://www.heise.de/news/Microsoft-SharePoint-Angreifer-koennen-Code-einschleusen-und-ausfuehren-11529556.html",
+      "published": "2026-11-18T13:05:00+00:00",
+      "category": "Microsoft 365"
+    },
+    {
+      "id": "a60c081420a64bed",
+      "title": "Schweizer Löhne im Tech-Sektor: KI-Kompetenz ist gut fürs Portemonnaie",
+      "excerpt": "Eine grosse Lohnerhebung in der Schweizer Tech-Wirtschaft zeigt: Vor allem Talente in den Bereichen DevOps, Security und Data sind weiter sehr gefragt. Und wer sich heute im Bereich KI beweist, hat bessere Aussicht auf eine Lohnerhöhung.",
+      "summary": "Eine grosse Lohnerhebung in der Schweizer Tech-Wirtschaft zeigt: Vor allem Talente in den Bereichen DevOps, Security und Data sind weiter sehr gefragt. Und wer sich heute im Bereich KI beweist, hat bessere Aussicht auf eine Lohnerhöhung.",
+      "source": "IT Reseller",
+      "url": "https://www.itreseller.ch/Artikel/106640/Schweizer_Loehne_im_Tech-Sektor_KI-Kompetenz_ist_gut_fuers_Portemonnaie.html",
+      "published": "2026-11-18T10:37:38+00:00",
+      "category": "IT Schweiz"
+    },
+    {
+      "id": "c0e17cd81138608d",
+      "title": "Fünf Schweizer IT-Unternehmen gründen Opensovereign - SwissCybersecurity.net",
+      "excerpt": "Fünf Schweizer IT-Unternehmen gründen Opensovereign SwissCybersecurity.net",
+      "summary": "Fünf Schweizer IT-Unternehmen gründen Opensovereign SwissCybersecurity.net",
+      "source": "Swiss Cybersecurity",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ0c1dXhneXFzWkxUOWczNFJBUVZERHM1bEJNMzN3WU1nUkpJSHVLb3B5UWFCTHlpdkJ5Xzh1Smt2YVduVnVNa05ic2RMV08walFuSGZoMEliMzM4S3ZUWjFlOUh4dTUteDBTQlU0enpfSDVCay1VcklWaHJmMjJDTmhCY0lXYzhaSVNLWmFYYjhJRmhfX3Y2bFFMLVBxSmxoM2M5ZW1Qaw?oc=5",
+      "published": "2026-11-18T10:25:16+00:00",
       "category": "Firmen"
     },
     {
@@ -351,7 +341,7 @@
       "category": "Cloud"
     }
   ],
-  "updatedAt": "2026-11-20T10:19:49.962934+00:00",
+  "updatedAt": "2026-11-20T12:06:22.412462+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -366,10 +356,10 @@
     "Microsoft 365": 5,
     "IT Schweiz": 5,
     "Cloud": 5,
-    "Trends": 5,
+    "Trends": 4,
     "Markt": 5,
     "Firmen": 5
   },
-  "warning": "",
+  "warning": "Nicht genügend passende aktuelle Meldungen: 1 × Trends. 3 von 29 RSS-Quellen waren nicht erreichbar.",
   "aiSummaries": false
 }
