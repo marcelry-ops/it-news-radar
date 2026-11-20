@@ -341,7 +341,7 @@
       "category": "Cloud"
     }
   ],
-  "updatedAt": "2026-11-20T22:56:29.080925+00:00",
+  "updatedAt": "2026-11-20T23:55:59.000952+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -360,6 +360,6 @@
     "Markt": 5,
     "Firmen": 5
   },
-  "warning": "Nicht genügend passende aktuelle Meldungen: 1 × Trends.",
+  "warning": "Nicht genügend passende aktuelle Meldungen: 1 × Trends. 1 von 29 RSS-Quellen waren nicht erreichbar.",
   "aiSummaries": false
 }
