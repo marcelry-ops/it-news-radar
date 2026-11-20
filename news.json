@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "id": "1f67e8de0b4227ba",
+      "title": "Vor EU-UK-Gipfel: KI-gestützter Cyberangriff auf EU-Kommission",
+      "excerpt": "Die EU-Kommission nimmt ihre Personalplattform vom Netz. Ob Daten abgeflossen sind, ist unklar. ( EU-Kommission , KI )",
+      "summary": "Die EU-Kommission nimmt ihre Personalplattform vom Netz. Ob Daten abgeflossen sind, ist unklar. ( EU-Kommission , KI )",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/vor-eu-uk-gipfel-ki-gestuetzter-cyberangriff-auf-eu-kommission-2611-215474.html",
+      "published": "2026-11-20T13:33:02+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "54e6d0f6e6f2b4e5",
+      "title": "Königspinguine können nicht immer königlich sein - IT-Markt",
+      "excerpt": "Königspinguine können nicht immer königlich sein IT-Markt",
+      "summary": "Königspinguine können nicht immer königlich sein IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNEFyVzY5eU5MSmd6akI3VXVxcWtkZlYyanZRRS1vTmRYQXZTNERiemNQRkxoOXBPckNRQlNuR01hS3lHcGNTeExNdFBsOENfcHRkLV9VZk51RDNxWnVxYlBJRVNNQ2FaYkNaVURZajFySElCVFV3NnlqYkNGX3h0Mk5zWGU3dDRiTFpJeWoxVlJHWWZNbWdLNXdVbllSQQ?oc=5",
+      "published": "2026-11-20T13:19:27+00:00",
+      "category": "Markt"
+    },
+    {
       "id": "43d991c0ebf6fca3",
       "title": "Angesichts des Aufstiegs von Ransomware betont Viettel Cyber ​​Security seine Rolle bei der Überwachung rund um die Uhr.",
       "excerpt": "Angesichts des Aufstiegs von Ransomware betont Viettel Cyber ​​Security seine Rolle bei der Überwachung rund um die Uhr. Vietnam.vn",
@@ -61,16 +81,6 @@
       "category": "Security"
     },
     {
-      "id": "91d4d60733e42050",
-      "title": "Phoeniqs-CEO Thomas Taroni: «Bei KI soll Europa nicht allein von Amerika und China abhängig sein»",
-      "excerpt": "Phoeniqs-CEO Thomas Taroni: «Bei KI soll Europa nicht allein von Amerika und China abhängig sein» Finanz und Wirtschaft",
-      "summary": "Phoeniqs-CEO Thomas Taroni: «Bei KI soll Europa nicht allein von Amerika und China abhängig sein» Finanz und Wirtschaft",
-      "source": "Finanz und Wirtschaft",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZFJVZUNJSUhxZDBSdVZoT3VVSFJkdnlvX19Ua1lCT0gtTTB1YjBvd3Q5RUZxRkI5ZnlCQ0hEMFpfNGNoRkNMdDdOQk9PTC13YlM2ZlRaaVlFRVdodDNTRXlZcmw5SGtXOUY4OVhIWkVHU19SSXotN0xScW4yVWp3S3hUYWQwcG9VemxTYkZzMlp1Qm1UeGc?oc=5",
-      "published": "2026-11-20T10:10:13+00:00",
-      "category": "Firmen"
-    },
-    {
       "id": "1ff1b1916b2ad1c1",
       "title": "Mit Nvidia RTX Spark N1X: Asus verkauft KI-Mini-PC ab 4.700 Euro",
       "excerpt": "Der Asus ProArt GR1X soll mithilfe von Nvidias RTX Spark N1X große Sprachmodelle und KI-Agenten ohne Cloud ausführen können. ( KI , Nvidia )",
@@ -89,16 +99,6 @@
       "url": "https://www.heise.de/news/Microsoft-Patchday-Hotpatches-erzeugen-Startprobleme-mit-Apps-11532241.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "published": "2026-11-20T09:41:00+00:00",
       "category": "Security"
-    },
-    {
-      "id": "ada267dbf38629ed",
-      "title": "heise+ | Günstig, aber umständlich: Test Leapmotor B05 ProMax Design",
-      "excerpt": "Leapmotors B05 lockt mit schickem Design und guter Ausstattung zum fairen Preis. Im Test zeigte er solide Hardware, aber unverständlich umständliche Bedienung.",
-      "summary": "Leapmotors B05 lockt mit schickem Design und guter Ausstattung zum fairen Preis. Im Test zeigte er solide Hardware, aber unverständlich umständliche Bedienung.",
-      "source": "heise online",
-      "url": "https://www.heise.de/tests/Guenstig-aber-umstaendlich-Test-Leapmotor-B05-ProMax-Design-11503374.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "published": "2026-11-20T09:30:00+00:00",
-      "category": "Markt"
     },
     {
       "id": "b54a1ae6b4d85eed",
@@ -129,16 +129,6 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lVE85Z0NOSUpxckpNemRWSUpTRHJfb01wYUxGdzB3bEI1WTMwTzFheDMzN3poR2R0M0pVQ29MUVRfcDk1UEJKVExXQ2hKbTl0aTBsSUxXLVpQSVNGTnN4THhYWWNQSTFtRVpJX1BRNGp1blZpMUE?oc=5",
       "published": "2026-11-20T06:36:00+00:00",
       "category": "Firmen"
-    },
-    {
-      "id": "99d7ac27b3b4253e",
-      "title": "Warum grüne Security-Dashboards ein trügerisches Bild vermitteln können - it-daily.net",
-      "excerpt": "Warum grüne Security-Dashboards ein trügerisches Bild vermitteln können it-daily.net",
-      "summary": "Warum grüne Security-Dashboards ein trügerisches Bild vermitteln können it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLVFXUW04b3k5a09lSVNBekVyRE04clZSVHJoYkhLZ1ZDQ0dzeHQ1dHR4Y3J6Mi1aNzhOT18tdFloUGZTR01JZ3llR3FPU2tldV9KdjRIUldFVDZldUJyN2VRSVRVbzh1RTlrT2V5QVp3T0ZKb1dieVlZMVo2emxIVVJ3and6ZEhxQktQVEE4d1czb1Rv?oc=5",
-      "published": "2026-11-20T06:14:26+00:00",
-      "category": "Security"
     },
     {
       "id": "d21199013fb2ee2e",
@@ -301,6 +291,16 @@
       "category": "Cloud"
     },
     {
+      "id": "56afc9e17a1eed5b",
+      "title": "Neue Allianz für digitale Unabhängigkeit: Fünf Schweizer IT-Unternehmen gründen OpenSovereign",
+      "excerpt": "Neue Allianz für digitale Unabhängigkeit: Fünf Schweizer IT-Unternehmen gründen OpenSovereign Presseportal Schweiz",
+      "summary": "Neue Allianz für digitale Unabhängigkeit: Fünf Schweizer IT-Unternehmen gründen OpenSovereign Presseportal Schweiz",
+      "source": "Presseportal Schweiz",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVXRNWVMwMTEzQ293OTV6MHBLd2Rnal9PQUwydFN0SDZtSmFwd3JQU2lUZmR1Q1VTaUo1dDBBLU9mdWFUZFRpVlB0ekFXREVmRm80M0pZb1dySU9GSFhKN0RxSmhTZGlCRUJEakNFdzFhamFmMXhvTTFWcjdnM3ZUYVh6d0wtbHBjQUVRSkJ5eXEyY3NkNVQxUVFZOEZ0QmdSZVB6RmNYZWdpbU5Oc0ZmMXA1Ym94OFNtQzRNQk5Sb1BWN0hyWENBUndyYlNmTWvSAdQBQVVfeXFMTlh2MTNQU21yWFJ0LXZMLXRJWEZkQzlQN0l0OUlCRGtNVzNvWEhuUnV2X0JGdWRWWWhkeFV3b25HMklJNkFjaFBYY0o2cmxYVE9UYlZwZlVKdjR0ejhudWVZNnpXZy1VV1FLZFBvbnFNOGxLLTJzRlJGV0p3WEJVOF95QXF1U3NDMHc5MFhKUjhPYXR1a0ZRTDVPZHR5SDNFMmdidkFmSnRqcFFWYW1YWlp3UmdpU1dGX0MzUXAwemp2b0lHVEdMbzg2cFJPb1dub3diYmE?oc=5",
+      "published": "2026-11-18T07:50:10+00:00",
+      "category": "Firmen"
+    },
+    {
       "id": "00cd893bf9d183c4",
       "title": "\"Das Energiesystem der Zukunft braucht Daten\" - energate messenger Schweiz",
       "excerpt": "\"Das Energiesystem der Zukunft braucht Daten\" energate messenger Schweiz",
@@ -341,7 +341,7 @@
       "category": "Cloud"
     }
   ],
-  "updatedAt": "2026-11-20T13:23:58.575696+00:00",
+  "updatedAt": "2026-11-20T15:05:30.858725+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
