@@ -12,7 +12,8 @@ UTC = dt.timezone.utc
 NVD = 'https://services.nvd.nist.gov/rest/json/cves/2.0'
 KEV = 'https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json'
 DAYS = max(1, min(int(os.getenv('CVE_DAYS', '14')), 120))
-MAX_ITEMS = max(1, min(int(os.getenv('CVE_MAX_ITEMS', '2000')), 10000))
+MAX_ITEMS = max(50, min(int(os.getenv('CVE_MAX_ITEMS', '2000')), 10000))
+TOP_CVES = 50
 PAGE_SIZE = 2000
 
 
@@ -126,9 +127,9 @@ def build():
     found.sort(key=lambda x: (x['score'] if x['score'] is not None else -1, x['published'] or ''), reverse=True)
     truncated = start_index < (total or 0)
     payload = {'updatedAt':now.isoformat().replace('+00:00', 'Z'), 'windowDays':DAYS,
-               'totalResultsNvd':total, 'count':len(found[:MAX_ITEMS]), 'truncated':truncated,
+               'totalResultsNvd':total, 'count':len(found[:TOP_CVES]), 'truncated':truncated,
                'source':'NVD CVE API 2.0', 'kevSource':'CISA KEV',
-               'warning':kev_warning, 'items':found[:MAX_ITEMS]}
+               'warning':kev_warning, 'items':found[:TOP_CVES]}
     Path('cves.json').write_text(json.dumps(payload, ensure_ascii=False, separators=(',', ':')), encoding='utf-8')
     print(f'Wrote {payload["count"]} CVEs; NVD total={total}, truncated={truncated}')
 
