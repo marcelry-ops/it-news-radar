@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "128ef166f5d819c4",
+      "title": "Elia Ferrari - IT-Markt",
+      "excerpt": "Elia Ferrari IT-Markt",
+      "summary": "Elia Ferrari IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aaW5yVUdmSXZQS0RGVUdaLXRHWTVobWR5WTBzbVVzbHJrWERMRDZNbkdBeWFCamFvQ0UxcTdFOWN6bnctWmhIN3ZpRHVDY051MkRz?oc=5",
+      "published": "2026-11-20T19:40:29+00:00",
+      "category": "Markt"
+    },
+    {
       "id": "8835d6abfc7de4d0",
       "title": "Digital Networks / Cyber Security Act: Telekom fordert Bundesregierung zum Widerstand gegen EU auf",
       "excerpt": "Die EU will Kupferleitungen abschalten und chinesische Technologieanbieter breitflächig ausschließen. Die Telekom hält das für rechtswidrig. ( Telekom , DSL )",
@@ -123,16 +133,6 @@
     {
       "id": "ec528eefd543eb02",
       "title": "Das sind die Gewinner der Digital Economy Awards - IT-Markt",
-      "excerpt": "Das sind die Gewinner der Digital Economy Awards IT-Markt",
-      "summary": "Das sind die Gewinner der Digital Economy Awards IT-Markt",
-      "source": "IT-Markt",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeENoMjBYWU5hUFBJanVnNlRhNEhTMDMzYjlxSkZ2NTlnR1NaZThnY2hIUkhUMGEzc203WWhWZkVQNTFFSlpud0tNLU5tQ2NWRTZWblVhRW8yZEdKSDRmQWktUmp6MEl5dUZhaHlNZU1Gc1ZIVndwT1dsLVJJVENXc0JMbEhwYkVicEFtaDB3UlZfZw?oc=5",
-      "published": "2026-11-20T11:13:24+00:00",
-      "category": "Markt"
-    },
-    {
-      "id": "ec528eefd543eb02",
-      "title": "Das sind die Gewinner der Digital Economy Awards",
       "excerpt": "Das sind die Gewinner der Digital Economy Awards IT-Markt",
       "summary": "Das sind die Gewinner der Digital Economy Awards IT-Markt",
       "source": "IT-Markt",
@@ -271,16 +271,6 @@
       "category": "Firmen"
     },
     {
-      "id": "9030ca55abe28013",
-      "title": "Microsoft 365: Apps und KI-Agenten seit 18. November zentral verwalten",
-      "excerpt": "Microsoft 365: Apps und KI-Agenten seit 18. November zentral verwalten BornCity",
-      "summary": "Microsoft 365: Apps und KI-Agenten seit 18. November zentral verwalten BornCity",
-      "source": "BornCity",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObnMxVUFKaFlqY1l1azZhal8tRldLeTdyaDZYS3pTTjAxcXNldFlwT1ZmdGtUaUItSU5odXJiZ1VUazMtWGNkbVpoWWlIMU5zNmRYMndJZElmSGZZcFVWaUxlNTFhVHhGM1hBMUFiT1ltSTJGaVdXck9FMzI0MDZ2MXhyMUNvcmpWakJOMkVIMDFpTDNpUDQ0Z3J1UQ?oc=5",
-      "published": "2026-11-19T06:44:05+00:00",
-      "category": "Microsoft 365"
-    },
-    {
       "id": "086af95badb92bbd",
       "title": "Trends 2027: Vorsprung durch Governance - it-daily.net",
       "excerpt": "Trends 2027: Vorsprung durch Governance it-daily.net",
@@ -289,6 +279,16 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lVnRkTURlNkRfQ18zWGFnLXMtWEs1d09EVW54TFFFckE3NTJUbXVZVGNVMnVfc1ZfTzE5ZFhtUl9xNjVheTJ2ci0weTM3QUpqSWcwUl9sU0pubDQ2MFNQYjhxZ082ZjdTeFFJcGw0eVp2V1dYOFFEYmJBMEU3dmc?oc=5",
       "published": "2026-11-19T04:08:28+00:00",
       "category": "Trends"
+    },
+    {
+      "id": "6a21a62621a19c6a",
+      "title": "MIND führt DLP-Integrationen für Microsoft Copilot und Microsoft 365 ein",
+      "excerpt": "MIND führt DLP-Integrationen für Microsoft Copilot und Microsoft 365 ein Unite.AI",
+      "summary": "MIND führt DLP-Integrationen für Microsoft Copilot und Microsoft 365 ein Unite.AI",
+      "source": "Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOXy1Vck43UDkyYkdETFBna3RqdjRmbXdsdjlwYXpJQ0FaSjl6TWJRcUNFNkV3YmVsWm9neTJBLU9BS3Z6WXpuUkVSMFFoU1hwcnhjaHZNYU8zUHp4cV93UldSV0kxYUM3cVFHeGZVVGlOb0Y4WEpiTllVY2Y3dHNBZUQ0b1l1U3hlRnNHNGtFeGJDSDQtLUxzdjl0OA?oc=5",
+      "published": "2026-11-18T18:09:03+00:00",
+      "category": "Microsoft 365"
     },
     {
       "id": "23da7ac421f950e4",
@@ -341,7 +341,7 @@
       "category": "Cloud"
     }
   ],
-  "updatedAt": "2026-11-20T20:10:15.931244+00:00",
+  "updatedAt": "2026-11-20T20:59:16.834874+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
