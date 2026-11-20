@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "128ef166f5d819c4",
+      "title": "Elia Ferrari - IT-Markt",
+      "excerpt": "Elia Ferrari IT-Markt",
+      "summary": "Elia Ferrari IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aaW5yVUdmSXZQS0RGVUdaLXRHWTVobWR5WTBzbVVzbHJrWERMRDZNbkdBeWFCamFvQ0UxcTdFOWN6bnctWmhIN3ZpRHVDY051MkRz?oc=5",
+      "published": "2026-11-20T19:41:38+00:00",
+      "category": "Markt"
+    },
+    {
       "id": "8835d6abfc7de4d0",
       "title": "Digital Networks / Cyber Security Act: Telekom fordert Bundesregierung zum Widerstand gegen EU auf",
       "excerpt": "Die EU will Kupferleitungen abschalten und chinesische Technologieanbieter breitflächig ausschließen. Die Telekom hält das für rechtswidrig. ( Telekom , DSL )",
@@ -49,6 +59,16 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTklka3k4Snp4bi1aaUhDT29rUGpOOVQyc0FGVkNoYm5majRLUEYzdDdFUDdnd3dseTVKMHdhUTJWZzNVUW45S3JOcG44YWdYeWZfdm5jR2dnVTZPMFJiRUNHUjA5NkdPajVobXpESUxQQmxZdnhLTXU3eTdlSlVYaVc5YXVDV1gtU0dMYjNOUWFtSXBmdUlUeEVWY3Fldw?oc=5",
       "published": "2026-11-20T15:14:42+00:00",
       "category": "Trends"
+    },
+    {
+      "id": "62d2bef034da4f1a",
+      "title": "Cyberangriff auf Baselbieter Verwaltung führte zu Datenabfluss",
+      "excerpt": "Laut ersten forensischen Erkenntnissen wurden Personendaten von Grenzgängerinnen und Grenzgängern gestohlen.",
+      "summary": "Laut ersten forensischen Erkenntnissen wurden Personendaten von Grenzgängerinnen und Grenzgängern gestohlen.",
+      "source": "Inside IT",
+      "url": "https://www.inside-it.ch/cyberangriff-auf-baselbieter-verwaltung-fuehrte-zu-datenabfluss-20261120",
+      "published": "2026-11-20T15:07:34+00:00",
+      "category": "Security"
     },
     {
       "id": "725c28220385ba98",
@@ -131,26 +151,6 @@
       "category": "Markt"
     },
     {
-      "id": "91d4d60733e42050",
-      "title": "Phoeniqs-CEO Thomas Taroni: «Bei KI soll Europa nicht allein von Amerika und China abhängig sein»",
-      "excerpt": "Phoeniqs-CEO Thomas Taroni: «Bei KI soll Europa nicht allein von Amerika und China abhängig sein» Finanz und Wirtschaft",
-      "summary": "Phoeniqs-CEO Thomas Taroni: «Bei KI soll Europa nicht allein von Amerika und China abhängig sein» Finanz und Wirtschaft",
-      "source": "Finanz und Wirtschaft",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZFJVZUNJSUhxZDBSdVZoT3VVSFJkdnlvX19Ua1lCT0gtTTB1YjBvd3Q5RUZxRkI5ZnlCQ0hEMFpfNGNoRkNMdDdOQk9PTC13YlM2ZlRaaVlFRVdodDNTRXlZcmw5SGtXOUY4OVhIWkVHU19SSXotN0xScW4yVWp3S3hUYWQwcG9VemxTYkZzMlp1Qm1UeGc?oc=5",
-      "published": "2026-11-20T10:10:13+00:00",
-      "category": "Firmen"
-    },
-    {
-      "id": "593b305001cf34f3",
-      "title": "VMware vCenter – Zero-Day seit September aktiv ausgenutzt",
-      "excerpt": "VMware vCenter – Zero-Day seit September aktiv ausgenutzt Meteora Web",
-      "summary": "VMware vCenter – Zero-Day seit September aktiv ausgenutzt Meteora Web",
-      "source": "Meteora Web",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdkE4Y09xb3pFd3AxV3NjbVE2WGVwb3ZzTEs2MHhHVGV5VHc2NTAtV2pNUE1Ob3JDZWM5Q2VyZlV1YXNKaGRXcDk2aEtvdWpHVWlNMVp4eHFvN2ktUzdNcHF4ekdmTUVIVzhRNzJjT1JvM0N4VnZEdnlMbkZPTFlDX1NEdEp2SFhYWGo2STlNbGdlMkpaSVg1VHpfYmU?oc=5",
-      "published": "2026-11-20T09:16:22+00:00",
-      "category": "Security"
-    },
-    {
       "id": "b54a1ae6b4d85eed",
       "title": "Microsoft Teams: Support für iOS 17 und iPadOS 17 endet",
       "excerpt": "Microsoft Teams: Support für iOS 17 und iPadOS 17 endet Caschys Blog",
@@ -231,16 +231,6 @@
       "category": "IT Schweiz"
     },
     {
-      "id": "6a18558149be9fe6",
-      "title": "KI beschäftigt Versicherer mit Forderungen in Millionenhöhe - IT-Markt",
-      "excerpt": "KI beschäftigt Versicherer mit Forderungen in Millionenhöhe IT-Markt",
-      "summary": "KI beschäftigt Versicherer mit Forderungen in Millionenhöhe IT-Markt",
-      "source": "IT-Markt",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWmFxN2R1bEROcnN4N2Z3c3dtNFZINmY0SERaR3dGU09kQnJEdEh3QS03ak04alVRWldRV0xjdTkzQ252MGJmeFBVZml4Z3d1YXQyOEtSc3M5cFZRNnlydS1wLVBxY2Y4VG1jVGowUTRadUNlWGtEcVpLMlpEUXhUM1NJaHA2LV9TUDdNX1gxc2hPQnNCRzdEYWxTWW0yanJQcUhV?oc=5",
-      "published": "2026-11-19T11:06:42+00:00",
-      "category": "Markt"
-    },
-    {
       "id": "d1fdbbe90f0f90ba",
       "title": "Bechtle übernimmt Swiss Solution Group",
       "excerpt": "Bechtle übernimmt die Zuger Swiss Solution Group. Das Unternehmen ist auf das Lifecycle-Management von IT-Hardware spezialisiert. Mit dem Zukauf erweitert Bechtle sein Schweizer Angebot für die Aufbereitung, den Wiederverkauf und das Recycling von IT-Geräten.",
@@ -311,6 +301,16 @@
       "category": "Cloud"
     },
     {
+      "id": "56afc9e17a1eed5b",
+      "title": "Neue Allianz für digitale Unabhängigkeit: Fünf Schweizer IT-Unternehmen gründen OpenSovereign",
+      "excerpt": "Neue Allianz für digitale Unabhängigkeit: Fünf Schweizer IT-Unternehmen gründen OpenSovereign Presseportal Schweiz",
+      "summary": "Neue Allianz für digitale Unabhängigkeit: Fünf Schweizer IT-Unternehmen gründen OpenSovereign Presseportal Schweiz",
+      "source": "Presseportal Schweiz",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVXRNWVMwMTEzQ293OTV6MHBLd2Rnal9PQUwydFN0SDZtSmFwd3JQU2lUZmR1Q1VTaUo1dDBBLU9mdWFUZFRpVlB0ekFXREVmRm80M0pZb1dySU9GSFhKN0RxSmhTZGlCRUJEakNFdzFhamFmMXhvTTFWcjdnM3ZUYVh6d0wtbHBjQUVRSkJ5eXEyY3NkNVQxUVFZOEZ0QmdSZVB6RmNYZWdpbU5Oc0ZmMXA1Ym94OFNtQzRNQk5Sb1BWN0hyWENBUndyYlNmTWvSAdQBQVVfeXFMTlh2MTNQU21yWFJ0LXZMLXRJWEZkQzlQN0l0OUlCRGtNVzNvWEhuUnV2X0JGdWRWWWhkeFV3b25HMklJNkFjaFBYY0o2cmxYVE9UYlZwZlVKdjR0ejhudWVZNnpXZy1VV1FLZFBvbnFNOGxLLTJzRlJGV0p3WEJVOF95QXF1U3NDMHc5MFhKUjhPYXR1a0ZRTDVPZHR5SDNFMmdidkFmSnRqcFFWYW1YWlp3UmdpU1dGX0MzUXAwemp2b0lHVEdMbzg2cFJPb1dub3diYmE?oc=5",
+      "published": "2026-11-18T07:50:10+00:00",
+      "category": "Firmen"
+    },
+    {
       "id": "00cd893bf9d183c4",
       "title": "\"Das Energiesystem der Zukunft braucht Daten\" - energate messenger Schweiz",
       "excerpt": "\"Das Energiesystem der Zukunft braucht Daten\" energate messenger Schweiz",
@@ -341,7 +341,7 @@
       "category": "Cloud"
     }
   ],
-  "updatedAt": "2026-11-20T21:57:12.626682+00:00",
+  "updatedAt": "2026-11-20T22:56:29.080925+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
