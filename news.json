@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "80f6a3eec28dc739",
+      "title": "KI-Investition: Deutsche Telekom steigt bei Mistral AI ein",
+      "excerpt": "Mit 100 Millionen Euro beteiligt sich die Telekom an Mistral AI. Beide Unternehmen wollen ihr KI-Geschäft damit in Deutschland ausbauen. ( Telekom , KI )",
+      "summary": "Mit 100 Millionen Euro beteiligt sich die Telekom an Mistral AI. Beide Unternehmen wollen ihr KI-Geschäft damit in Deutschland ausbauen. ( Telekom , KI )",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/ki-investition-deutsche-telekom-steigt-bei-mistral-ai-ein-2611-215443.html",
+      "published": "2026-11-20T07:22:02+00:00",
+      "category": "Markt"
+    },
+    {
+      "id": "95685145073ca6e8",
+      "title": "Windows 11: Microsoft testet Fernsperre für gestohlene Firmen-PCs - it-daily.net",
+      "excerpt": "Windows 11: Microsoft testet Fernsperre für gestohlene Firmen-PCs it-daily.net",
+      "summary": "Windows 11: Microsoft testet Fernsperre für gestohlene Firmen-PCs it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lVE85Z0NOSUpxckpNemRWSUpTRHJfb01wYUxGdzB3bEI1WTMwTzFheDMzN3poR2R0M0pVQ29MUVRfcDk1UEJKVExXQ2hKbTl0aTBsSUxXLVpQSVNGTnN4THhYWWNQSTFtRVpJX1BRNGp1blZpMUE?oc=5",
+      "published": "2026-11-20T06:36:00+00:00",
+      "category": "Firmen"
+    },
+    {
+      "id": "99d7ac27b3b4253e",
+      "title": "Warum grüne Security-Dashboards ein trügerisches Bild vermitteln können - it-daily.net",
+      "excerpt": "Warum grüne Security-Dashboards ein trügerisches Bild vermitteln können it-daily.net",
+      "summary": "Warum grüne Security-Dashboards ein trügerisches Bild vermitteln können it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLVFXUW04b3k5a09lSVNBekVyRE04clZSVHJoYkhLZ1ZDQ0dzeHQ1dHR4Y3J6Mi1aNzhOT18tdFloUGZTR01JZ3llR3FPU2tldV9KdjRIUldFVDZldUJyN2VRSVRVbzh1RTlrT2V5QVp3T0ZKb1dieVlZMVo2emxIVVJ3and6ZEhxQktQVEE4d1czb1Rv?oc=5",
+      "published": "2026-11-20T06:14:26+00:00",
+      "category": "Security"
+    },
+    {
       "id": "b223cc4c07efcf02",
       "title": "MongoDB kauft Firebolt und holt sich Echtzeitanalyse-Engine ins Haus",
       "excerpt": "Einst als Milliarden-Start-up gehandelt, landet Firebolt nun bei MongoDB. Die Engine soll dort Analysen für Anwendungen und KI-Agenten beschleunigen.",
@@ -119,16 +149,6 @@
       "url": "https://www.inside-it.ch/zug-will-vertrauliche-daten-verarbeiten-in-m365-20261119",
       "published": "2026-11-19T12:49:48+00:00",
       "category": "IT Schweiz"
-    },
-    {
-      "id": "6b8fcfbaa0bea934",
-      "title": "Mehr als ein Jahrzehnt unerkannt: Gravierende Sicherheitslücke in Nginx entdeckt - t3n",
-      "excerpt": "Mehr als ein Jahrzehnt unerkannt: Gravierende Sicherheitslücke in Nginx entdeckt t3n",
-      "summary": "Mehr als ein Jahrzehnt unerkannt: Gravierende Sicherheitslücke in Nginx entdeckt t3n",
-      "source": "t3n",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcVhlSHc1TW9Da3lmU2tGcnF2SUwxc1hMa2dLS0N3b3M5Z1pNSC1RRTg5YzdQazBucWZOMXQ2WmhraDJOeHlsWFVFX1JnTXoyRmVoX0U2c1NJQzZSN2VRSmJJM0VPOXZWakR0M3lzR3gxeEdRSUwwcFlnVUlBcUYyU2x3cGU3M2VS?oc=5",
-      "published": "2026-11-19T12:00:40+00:00",
-      "category": "Security"
     },
     {
       "id": "6a18558149be9fe6",
@@ -261,16 +281,6 @@
       "category": "IT Schweiz"
     },
     {
-      "id": "e0585690d747675f",
-      "title": "Lausanne ernennt neuen IT-Leiter - IT-Markt",
-      "excerpt": "Lausanne ernennt neuen IT-Leiter IT-Markt",
-      "summary": "Lausanne ernennt neuen IT-Leiter IT-Markt",
-      "source": "IT-Markt",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xNjBfbUhpenpBTlB3TzR5RERkSWNlNHBmWndMYk9YZXpvOW9RTlNFd2EzcEZ3TWEzRlBXd1VGWFlHb1B1MFNaU1RMLW1Ta2x1WDZJUXkwS0F3MUhvOU94bUNsMnBOQ2U2QlZvYW9SNGZaZ1dWRUFMVTRDQ2Y?oc=5",
-      "published": "2026-11-18T14:41:09+00:00",
-      "category": "Markt"
-    },
-    {
       "id": "95b8a7fc0f6de53d",
       "title": "Microsoft bringt Mensch, KI und Geschäft zusammen",
       "excerpt": "An der Hausmesse \"Ignite\" in San Francisco zeigte Microsoft neue Entwicklungen rund um Copilot, KI-Agenten, Sicherheit und Cloud-Infrastruktur.",
@@ -279,16 +289,6 @@
       "url": "https://www.inside-it.ch/microsoft-bringt-mensch%252C-ki-und-geschaeft-zusammen-20261118",
       "published": "2026-11-18T13:25:14+00:00",
       "category": "Cloud"
-    },
-    {
-      "id": "0d11956a44fb45c1",
-      "title": "Fünf Schweizer IT-Unternehmen gründen Opensovereign",
-      "excerpt": "Die fünf Schweizer IT-Unternehmen VSHN, Puzzle ITC, Adfinis, Cloudscale und Cyberlink rufen eine gemeinsame Initiative für digitale Souveränität ins Leben. Opensovereign soll Schweizer Organisationen auf dem Weg zur digitalen Unabhängigkeit begleiten. Dazu gehört die Ablösung proprietärer Anbieter und der Ausbau selbst kontrollierbarer IT-Infrastruktur.",
-      "summary": "Die fünf Schweizer IT-Unternehmen VSHN, Puzzle ITC, Adfinis, Cloudscale und Cyberlink rufen eine gemeinsame Initiative für digitale Souveränität ins Leben. Opensovereign soll Schweizer Organisationen auf dem Weg zur digitalen Unabhängigkeit begleiten. Dazu geh",
-      "source": "Netzwoche",
-      "url": "https://www.netzwoche.ch/news/2026-11-18/fuenf-schweizer-it-unternehmen-gruenden-opensovereign",
-      "published": "2026-11-18T10:27:45+00:00",
-      "category": "Firmen"
     },
     {
       "id": "ef34217f86d32cc5",
@@ -351,7 +351,7 @@
       "category": "Cloud"
     }
   ],
-  "updatedAt": "2026-11-20T06:16:21.330912+00:00",
+  "updatedAt": "2026-11-20T07:38:07.614553+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
