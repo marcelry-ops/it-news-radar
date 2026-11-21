@@ -41,16 +41,6 @@
       "category": "Firmen"
     },
     {
-      "id": "a31ed4515686ebb9",
-      "title": "Elia Ferrari - IT-Markt",
-      "excerpt": "Elia Ferrari IT-Markt",
-      "summary": "Elia Ferrari IT-Markt",
-      "source": "IT-Markt",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDNGpGNmllQkVvX1BaXzJ6aWtvWUx4SWMtRHNEQmFEcXAtUVdfNjZXUkxYX08tUHBpRmRRNXFLbU96UlZjMU1FTC1qcHZKYm9JTS1v?oc=5",
-      "published": "2026-11-20T20:09:28+00:00",
-      "category": "Markt"
-    },
-    {
       "id": "128ef166f5d819c4",
       "title": "Elia Ferrari - IT-Markt",
       "excerpt": "Elia Ferrari IT-Markt",
@@ -109,6 +99,16 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTklka3k4Snp4bi1aaUhDT29rUGpOOVQyc0FGVkNoYm5majRLUEYzdDdFUDdnd3dseTVKMHdhUTJWZzNVUW45S3JOcG44YWdYeWZfdm5jR2dnVTZPMFJiRUNHUjA5NkdPajVobXpESUxQQmxZdnhLTXU3eTdlSlVYaVc5YXVDV1gtU0dMYjNOUWFtSXBmdUlUeEVWY3Fldw?oc=5",
       "published": "2026-11-20T15:14:42+00:00",
       "category": "Trends"
+    },
+    {
+      "id": "62d2bef034da4f1a",
+      "title": "Cyberangriff auf Baselbieter Verwaltung führte zu Datenabfluss",
+      "excerpt": "Laut ersten forensischen Erkenntnissen wurden Personendaten von Grenzgängerinnen und Grenzgängern gestohlen.",
+      "summary": "Laut ersten forensischen Erkenntnissen wurden Personendaten von Grenzgängerinnen und Grenzgängern gestohlen.",
+      "source": "Inside IT",
+      "url": "https://www.inside-it.ch/cyberangriff-auf-baselbieter-verwaltung-fuehrte-zu-datenabfluss-20261120",
+      "published": "2026-11-20T15:07:34+00:00",
+      "category": "Security"
     },
     {
       "id": "725c28220385ba98",
@@ -181,16 +181,6 @@
       "category": "Cloud"
     },
     {
-      "id": "593b305001cf34f3",
-      "title": "VMware vCenter – Zero-Day seit September aktiv ausgenutzt",
-      "excerpt": "VMware vCenter – Zero-Day seit September aktiv ausgenutzt Meteora Web",
-      "summary": "VMware vCenter – Zero-Day seit September aktiv ausgenutzt Meteora Web",
-      "source": "Meteora Web",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdkE4Y09xb3pFd3AxV3NjbVE2WGVwb3ZzTEs2MHhHVGV5VHc2NTAtV2pNUE1Ob3JDZWM5Q2VyZlV1YXNKaGRXcDk2aEtvdWpHVWlNMVp4eHFvN2ktUzdNcHF4ekdmTUVIVzhRNzJjT1JvM0N4VnZEdnlMbkZPTFlDX1NEdEp2SFhYWGo2STlNbGdlMkpaSVg1VHpfYmU?oc=5",
-      "published": "2026-11-20T09:16:22+00:00",
-      "category": "Security"
-    },
-    {
       "id": "b54a1ae6b4d85eed",
       "title": "Microsoft Teams: Support für iOS 17 und iPadOS 17 endet",
       "excerpt": "Microsoft Teams: Support für iOS 17 und iPadOS 17 endet Caschys Blog",
@@ -248,6 +238,16 @@
       "source": "IT-Markt",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbFJTM0o2SmhRdkVEUGVaa19rb2pITjlRR1dhMmpnQ1lqOHJnOFpTU1djT0pJSXM1dHFOclhZSXpkdzZacmNTNHJWZzFTRmRwaktWVlAwLXpXOWt4ZUsyZ1RYbGE2c2dIcXlVRTJVeEloNzFrME50bF85T1hyR0VQeEJLNFpoSHloM19z?oc=5",
       "published": "2026-11-19T14:25:50+00:00",
+      "category": "Markt"
+    },
+    {
+      "id": "c94103493f0f95c3",
+      "title": "Auch Murmelis brauchen mal einen Spa-Tag - IT-Markt",
+      "excerpt": "Auch Murmelis brauchen mal einen Spa-Tag IT-Markt",
+      "summary": "Auch Murmelis brauchen mal einen Spa-Tag IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOamp1eDMyV1FHZ2MwTUxHc2t0S0FWdHdQSDlra1pPT0RPVkhPZng1NjVRRENETnJLcUsyTFRxRlBDZ1ZrZTJnRm5vR3pJTUhCbGlVUk5remVIcUdXLV9KUXhYOHlSOVEyckp1RkVSRlJZM1YxS1lPV2o1SVlkOF9heFZ6MFFra2tjb1pVbGt2Yw?oc=5",
+      "published": "2026-11-19T14:23:19+00:00",
       "category": "Markt"
     },
     {
@@ -351,7 +351,7 @@
       "category": "Trends"
     }
   ],
-  "updatedAt": "2026-11-21T14:58:36.308532+00:00",
+  "updatedAt": "2026-11-21T15:55:25.484766+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
