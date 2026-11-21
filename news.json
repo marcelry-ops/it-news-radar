@@ -61,16 +61,6 @@
       "category": "Trends"
     },
     {
-      "id": "62d2bef034da4f1a",
-      "title": "Cyberangriff auf Baselbieter Verwaltung führte zu Datenabfluss",
-      "excerpt": "Laut ersten forensischen Erkenntnissen wurden Personendaten von Grenzgängerinnen und Grenzgängern gestohlen.",
-      "summary": "Laut ersten forensischen Erkenntnissen wurden Personendaten von Grenzgängerinnen und Grenzgängern gestohlen.",
-      "source": "Inside IT",
-      "url": "https://www.inside-it.ch/cyberangriff-auf-baselbieter-verwaltung-fuehrte-zu-datenabfluss-20261120",
-      "published": "2026-11-20T15:07:34+00:00",
-      "category": "Security"
-    },
-    {
       "id": "725c28220385ba98",
       "title": "Sonoff Core im Test: Günstiges Thermostat für Fußbodenheizungen ohne Cloud-Zwang",
       "excerpt": "Lokale Zeitpläne, Radar-Präsenzsensor und potenzialfreier Kontakt: Wie sich das nur 40 Euro teure Sonoff Core an einer wassergeführten Fußbodenheizung schlägt.",
@@ -79,16 +69,6 @@
       "url": "https://www.heise.de/bestenlisten/testbericht/sonoff-core-im-test-guenstiges-thermostat-fuer-fussbodenheizungen-ohne-cloud-zwang/22dck5w?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "published": "2026-11-20T15:00:00+00:00",
       "category": "Cloud"
-    },
-    {
-      "id": "54e6d0f6e6f2b4e5",
-      "title": "Königspinguine können nicht immer königlich sein - IT-Markt",
-      "excerpt": "Königspinguine können nicht immer königlich sein IT-Markt",
-      "summary": "Königspinguine können nicht immer königlich sein IT-Markt",
-      "source": "IT-Markt",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNEFyVzY5eU5MSmd6akI3VXVxcWtkZlYyanZRRS1vTmRYQXZTNERiemNQRkxoOXBPckNRQlNuR01hS3lHcGNTeExNdFBsOENfcHRkLV9VZk51RDNxWnVxYlBJRVNNQ2FaYkNaVURZajFySElCVFV3NnlqYkNGX3h0Mk5zWGU3dDRiTFpJeWoxVlJHWWZNbWdLNXdVbllSQQ?oc=5",
-      "published": "2026-11-20T13:19:27+00:00",
-      "category": "Markt"
     },
     {
       "id": "43d991c0ebf6fca3",
@@ -149,6 +129,16 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeENoMjBYWU5hUFBJanVnNlRhNEhTMDMzYjlxSkZ2NTlnR1NaZThnY2hIUkhUMGEzc203WWhWZkVQNTFFSlpud0tNLU5tQ2NWRTZWblVhRW8yZEdKSDRmQWktUmp6MEl5dUZhaHlNZU1Gc1ZIVndwT1dsLVJJVENXc0JMbEhwYkVicEFtaDB3UlZfZw?oc=5",
       "published": "2026-11-20T11:13:24+00:00",
       "category": "Markt"
+    },
+    {
+      "id": "593b305001cf34f3",
+      "title": "VMware vCenter – Zero-Day seit September aktiv ausgenutzt",
+      "excerpt": "VMware vCenter – Zero-Day seit September aktiv ausgenutzt Meteora Web",
+      "summary": "VMware vCenter – Zero-Day seit September aktiv ausgenutzt Meteora Web",
+      "source": "Meteora Web",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdkE4Y09xb3pFd3AxV3NjbVE2WGVwb3ZzTEs2MHhHVGV5VHc2NTAtV2pNUE1Ob3JDZWM5Q2VyZlV1YXNKaGRXcDk2aEtvdWpHVWlNMVp4eHFvN2ktUzdNcHF4ekdmTUVIVzhRNzJjT1JvM0N4VnZEdnlMbkZPTFlDX1NEdEp2SFhYWGo2STlNbGdlMkpaSVg1VHpfYmU?oc=5",
+      "published": "2026-11-20T09:16:22+00:00",
+      "category": "Security"
     },
     {
       "id": "b54a1ae6b4d85eed",
@@ -229,6 +219,16 @@
       "url": "https://www.inside-it.ch/zug-will-vertrauliche-daten-verarbeiten-in-m365-20261119",
       "published": "2026-11-19T12:49:48+00:00",
       "category": "IT Schweiz"
+    },
+    {
+      "id": "6a18558149be9fe6",
+      "title": "KI beschäftigt Versicherer mit Forderungen in Millionenhöhe - IT-Markt",
+      "excerpt": "KI beschäftigt Versicherer mit Forderungen in Millionenhöhe IT-Markt",
+      "summary": "KI beschäftigt Versicherer mit Forderungen in Millionenhöhe IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWmFxN2R1bEROcnN4N2Z3c3dtNFZINmY0SERaR3dGU09kQnJEdEh3QS03ak04alVRWldRV0xjdTkzQ252MGJmeFBVZml4Z3d1YXQyOEtSc3M5cFZRNnlydS1wLVBxY2Y4VG1jVGowUTRadUNlWGtEcVpLMlpEUXhUM1NJaHA2LV9TUDdNX1gxc2hPQnNCRzdEYWxTWW0yanJQcUhV?oc=5",
+      "published": "2026-11-19T11:06:42+00:00",
+      "category": "Markt"
     },
     {
       "id": "d1fdbbe90f0f90ba",
@@ -341,7 +341,7 @@
       "category": "Cloud"
     }
   ],
-  "updatedAt": "2026-11-20T23:55:59.000952+00:00",
+  "updatedAt": "2026-11-21T01:22:25.847972+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -360,6 +360,6 @@
     "Markt": 5,
     "Firmen": 5
   },
-  "warning": "Nicht genügend passende aktuelle Meldungen: 1 × Trends. 1 von 29 RSS-Quellen waren nicht erreichbar.",
+  "warning": "Nicht genügend passende aktuelle Meldungen: 1 × Trends.",
   "aiSummaries": false
 }
