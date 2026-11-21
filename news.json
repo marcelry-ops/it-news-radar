@@ -131,16 +131,6 @@
       "category": "Security"
     },
     {
-      "id": "75881a21f4e69f5a",
-      "title": "(g+) SaaS: Warum Investoren nicht wollen, dass dein Startup überlebt",
-      "excerpt": "Ein profitables Startup kann für Geldgeber zum Problem werden. Zwei Vertragsklauseln entscheiden, was Gründern im Ernstfall bleibt. ( Start-up , Wirtschaft )",
-      "summary": "Ein profitables Startup kann für Geldgeber zum Problem werden. Zwei Vertragsklauseln entscheiden, was Gründern im Ernstfall bleibt. ( Start-up , Wirtschaft )",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/saas-warum-investoren-nicht-wollen-dass-dein-startup-ueberlebt-2611-215405.html",
-      "published": "2026-11-20T12:30:01+00:00",
-      "category": "Firmen"
-    },
-    {
       "id": "fefa89614d8ef522",
       "title": "Naomi MacKenzie ist Pioneer of the Year",
       "excerpt": "Auch zur diesjährigen 20. Ausgabe des Digital Economy Awards zeichnet die IT-Branche Innovation und Nachwuchs aus.",
@@ -291,16 +281,6 @@
       "category": "Firmen"
     },
     {
-      "id": "6a21a62621a19c6a",
-      "title": "MIND führt DLP-Integrationen für Microsoft Copilot und Microsoft 365 ein",
-      "excerpt": "MIND führt DLP-Integrationen für Microsoft Copilot und Microsoft 365 ein Unite.AI",
-      "summary": "MIND führt DLP-Integrationen für Microsoft Copilot und Microsoft 365 ein Unite.AI",
-      "source": "Unite.AI",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOXy1Vck43UDkyYkdETFBna3RqdjRmbXdsdjlwYXpJQ0FaSjl6TWJRcUNFNkV3YmVsWm9neTJBLU9BS3Z6WXpuUkVSMFFoU1hwcnhjaHZNYU8zUHp4cV93UldSV0kxYUM3cVFHeGZVVGlOb0Y4WEpiTllVY2Y3dHNBZUQ0b1l1U3hlRnNHNGtFeGJDSDQtLUxzdjl0OA?oc=5",
-      "published": "2026-11-18T18:09:03+00:00",
-      "category": "Microsoft 365"
-    },
-    {
       "id": "23da7ac421f950e4",
       "title": "Bronschhofer IT-Unternehmen expandiert nach Zürich",
       "excerpt": "Bronschhofer IT-Unternehmen expandiert nach Zürich Wil24",
@@ -321,6 +301,26 @@
       "category": "IT Schweiz"
     },
     {
+      "id": "dbe6ab4b963da05e",
+      "title": "OpenSovereign: Fünf Schweizer IT-Firmen wollen digitale Unabhängigkeit stärken",
+      "excerpt": "OpenSovereign: Fünf Schweizer IT-Firmen wollen digitale Unabhängigkeit stärken ad-hoc-news.de",
+      "summary": "OpenSovereign: Fünf Schweizer IT-Firmen wollen digitale Unabhängigkeit stärken ad-hoc-news.de",
+      "source": "ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRDJzcjl5WjMwUThuUlpiaDZMODBkYUsxZ1hsck1VS2FaUnZFZExNR0R3Z3NqWnFlWlhHUTVPX0FIOVVIRDg5R0xVdEJYMUZVcmdkdnowQUczS0daZV9xalUzd0I5SFNKWjhaeDQ4MDdwRExheHZKbTF0VENDOENnNm5mTDlveEVyQmVoek5FM2diay1vVnlaellWdDVOcnY4ZEJaNlBmQ290ZEliUEhQRFFKdGk2ajBaQ2NIZnBVRHRxY05Fbk9BRQ?oc=5",
+      "published": "2026-11-18T10:54:47+00:00",
+      "category": "Firmen"
+    },
+    {
+      "id": "011a49bd505659d1",
+      "title": "Microsoft Copilot: Neue Credit-Abrechnung kommt für Partner erst 2027",
+      "excerpt": "Microsoft Copilot: Neue Credit-Abrechnung kommt für Partner erst 2027 BornCity",
+      "summary": "Microsoft Copilot: Neue Credit-Abrechnung kommt für Partner erst 2027 BornCity",
+      "source": "BornCity",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMXI4ckNvSHVlNnlrSVV6WHBiY0hoRU5IQkRwc3FsMFpKWVRMbEQ4NlkxaXN5bDNYSDkwZF9hbEJ5dE4zRTY4dm41RmtLX2xQamltcTRLUU5IUEdtQWJCVDRqSi00Wmlib044WE5EOFUwZWxzOFNTLWpVaGxwSy0tTWN6RUpaVGJGQVhodW91Wlg1a1cyNmUzTWtYU2Y?oc=5",
+      "published": "2026-11-18T05:00:08+00:00",
+      "category": "Microsoft 365"
+    },
+    {
       "id": "00cd893bf9d183c4",
       "title": "\"Das Energiesystem der Zukunft braucht Daten\" - energate messenger Schweiz",
       "excerpt": "\"Das Energiesystem der Zukunft braucht Daten\" energate messenger Schweiz",
@@ -331,7 +331,7 @@
       "category": "Trends"
     }
   ],
-  "updatedAt": "2026-11-21T13:06:26.760279+00:00",
+  "updatedAt": "2026-11-21T14:08:20.430341+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -350,6 +350,6 @@
     "Markt": 5,
     "Firmen": 5
   },
-  "warning": "Nicht genügend passende aktuelle Meldungen: 2 × Trends.",
+  "warning": "Nicht genügend passende aktuelle Meldungen: 2 × Trends. 2 von 29 RSS-Quellen waren nicht erreichbar.",
   "aiSummaries": false
 }
