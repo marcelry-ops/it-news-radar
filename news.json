@@ -21,6 +21,16 @@
       "category": "Cloud"
     },
     {
+      "id": "1d71172d5e0f4565",
+      "title": "KI-Wettrüsten: Trump verbietet US-Firmen Bau von Rechenzentren im Ausland - ComputerBase",
+      "excerpt": "KI-Wettrüsten: Trump verbietet US-Firmen Bau von Rechenzentren im Ausland ComputerBase",
+      "summary": "KI-Wettrüsten: Trump verbietet US-Firmen Bau von Rechenzentren im Ausland ComputerBase",
+      "source": "ComputerBase",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMlVkSUhIa1pFMl9RcVBURUtTTEk5aXd4cDNhZ3hKR3A3Vk1rQUNaMUhIS1I3SzdMYWItcVVBX3o0dGdDTHNrTFp5OUl1Q010X01SSmY1UVpMem9FUFNXSHhZZGl1eXFlREMzM3NXTmVOdXV0UGtuV3dkaGFzckdHZXc1ZXBjb1NtTmRiOHBaMkF1SHZpWmdvT01OZGxDOGVCVzQtQ2hYaUlXU1JEVTRWZ2V1cnJhVTl3WUl2ZkhaRGpfZDQ?oc=5",
+      "published": "2026-11-20T20:30:00+00:00",
+      "category": "Firmen"
+    },
+    {
       "id": "a31ed4515686ebb9",
       "title": "Elia Ferrari - IT-Markt",
       "excerpt": "Elia Ferrari IT-Markt",
@@ -311,16 +321,6 @@
       "category": "IT Schweiz"
     },
     {
-      "id": "56afc9e17a1eed5b",
-      "title": "Neue Allianz für digitale Unabhängigkeit: Fünf Schweizer IT-Unternehmen gründen OpenSovereign",
-      "excerpt": "Neue Allianz für digitale Unabhängigkeit: Fünf Schweizer IT-Unternehmen gründen OpenSovereign Presseportal Schweiz",
-      "summary": "Neue Allianz für digitale Unabhängigkeit: Fünf Schweizer IT-Unternehmen gründen OpenSovereign Presseportal Schweiz",
-      "source": "Presseportal Schweiz",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVXRNWVMwMTEzQ293OTV6MHBLd2Rnal9PQUwydFN0SDZtSmFwd3JQU2lUZmR1Q1VTaUo1dDBBLU9mdWFUZFRpVlB0ekFXREVmRm80M0pZb1dySU9GSFhKN0RxSmhTZGlCRUJEakNFdzFhamFmMXhvTTFWcjdnM3ZUYVh6d0wtbHBjQUVRSkJ5eXEyY3NkNVQxUVFZOEZ0QmdSZVB6RmNYZWdpbU5Oc0ZmMXA1Ym94OFNtQzRNQk5Sb1BWN0hyWENBUndyYlNmTWvSAdQBQVVfeXFMTlh2MTNQU21yWFJ0LXZMLXRJWEZkQzlQN0l0OUlCRGtNVzNvWEhuUnV2X0JGdWRWWWhkeFV3b25HMklJNkFjaFBYY0o2cmxYVE9UYlZwZlVKdjR0ejhudWVZNnpXZy1VV1FLZFBvbnFNOGxLLTJzRlJGV0p3WEJVOF95QXF1U3NDMHc5MFhKUjhPYXR1a0ZRTDVPZHR5SDNFMmdidkFmSnRqcFFWYW1YWlp3UmdpU1dGX0MzUXAwemp2b0lHVEdMbzg2cFJPb1dub3diYmE?oc=5",
-      "published": "2026-11-18T07:50:10+00:00",
-      "category": "Firmen"
-    },
-    {
       "id": "00cd893bf9d183c4",
       "title": "\"Das Energiesystem der Zukunft braucht Daten\" - energate messenger Schweiz",
       "excerpt": "\"Das Energiesystem der Zukunft braucht Daten\" energate messenger Schweiz",
@@ -331,7 +331,7 @@
       "category": "Trends"
     }
   ],
-  "updatedAt": "2026-11-21T11:53:50.703685+00:00",
+  "updatedAt": "2026-11-21T13:06:26.760279+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
