@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "a31ed4515686ebb9",
+      "title": "Elia Ferrari - IT-Markt",
+      "excerpt": "Elia Ferrari IT-Markt",
+      "summary": "Elia Ferrari IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDNGpGNmllQkVvX1BaXzJ6aWtvWUx4SWMtRHNEQmFEcXAtUVdfNjZXUkxYX08tUHBpRmRRNXFLbU96UlZjMU1FTC1qcHZKYm9JTS1v?oc=5",
+      "published": "2026-11-20T20:09:28+00:00",
+      "category": "Markt"
+    },
+    {
       "id": "128ef166f5d819c4",
       "title": "Elia Ferrari - IT-Markt",
       "excerpt": "Elia Ferrari IT-Markt",
@@ -211,16 +221,6 @@
       "category": "Markt"
     },
     {
-      "id": "c94103493f0f95c3",
-      "title": "Auch Murmelis brauchen mal einen Spa-Tag - IT-Markt",
-      "excerpt": "Auch Murmelis brauchen mal einen Spa-Tag IT-Markt",
-      "summary": "Auch Murmelis brauchen mal einen Spa-Tag IT-Markt",
-      "source": "IT-Markt",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOamp1eDMyV1FHZ2MwTUxHc2t0S0FWdHdQSDlra1pPT0RPVkhPZng1NjVRRENETnJLcUsyTFRxRlBDZ1ZrZTJnRm5vR3pJTUhCbGlVUk5remVIcUdXLV9KUXhYOHlSOVEyckp1RkVSRlJZM1YxS1lPV2o1SVlkOF9heFZ6MFFra2tjb1pVbGt2Yw?oc=5",
-      "published": "2026-11-19T14:23:19+00:00",
-      "category": "Markt"
-    },
-    {
       "id": "8c9549db4184d79b",
       "title": "Zug will vertrauliche Daten verarbeiten in M365",
       "excerpt": "Die Mitarbeitenden der kantonalen Verwaltung können Microsoft 365 zukünftig nahezu uneingeschränkt nutzen. Lediglich geheime Dokumente wie Steuerunterlagen sind tabu.",
@@ -341,7 +341,7 @@
       "category": "Cloud"
     }
   ],
-  "updatedAt": "2026-11-21T05:04:05.622456+00:00",
+  "updatedAt": "2026-11-21T06:03:17.471193+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
