@@ -21,6 +21,16 @@
       "category": "Cloud"
     },
     {
+      "id": "a31ed4515686ebb9",
+      "title": "Elia Ferrari - IT-Markt",
+      "excerpt": "Elia Ferrari IT-Markt",
+      "summary": "Elia Ferrari IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDNGpGNmllQkVvX1BaXzJ6aWtvWUx4SWMtRHNEQmFEcXAtUVdfNjZXUkxYX08tUHBpRmRRNXFLbU96UlZjMU1FTC1qcHZKYm9JTS1v?oc=5",
+      "published": "2026-11-20T20:09:28+00:00",
+      "category": "Markt"
+    },
+    {
       "id": "128ef166f5d819c4",
       "title": "Elia Ferrari - IT-Markt",
       "excerpt": "Elia Ferrari IT-Markt",
@@ -81,16 +91,6 @@
       "category": "Trends"
     },
     {
-      "id": "62d2bef034da4f1a",
-      "title": "Cyberangriff auf Baselbieter Verwaltung führte zu Datenabfluss",
-      "excerpt": "Laut ersten forensischen Erkenntnissen wurden Personendaten von Grenzgängerinnen und Grenzgängern gestohlen.",
-      "summary": "Laut ersten forensischen Erkenntnissen wurden Personendaten von Grenzgängerinnen und Grenzgängern gestohlen.",
-      "source": "Inside IT",
-      "url": "https://www.inside-it.ch/cyberangriff-auf-baselbieter-verwaltung-fuehrte-zu-datenabfluss-20261120",
-      "published": "2026-11-20T15:07:34+00:00",
-      "category": "Security"
-    },
-    {
       "id": "725c28220385ba98",
       "title": "Sonoff Core im Test: Günstiges Thermostat für Fußbodenheizungen ohne Cloud-Zwang",
       "excerpt": "Lokale Zeitpläne, Radar-Präsenzsensor und potenzialfreier Kontakt: Wie sich das nur 40 Euro teure Sonoff Core an einer wassergeführten Fußbodenheizung schlägt.",
@@ -109,6 +109,16 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNEFyVzY5eU5MSmd6akI3VXVxcWtkZlYyanZRRS1vTmRYQXZTNERiemNQRkxoOXBPckNRQlNuR01hS3lHcGNTeExNdFBsOENfcHRkLV9VZk51RDNxWnVxYlBJRVNNQ2FaYkNaVURZajFySElCVFV3NnlqYkNGX3h0Mk5zWGU3dDRiTFpJeWoxVlJHWWZNbWdLNXdVbllSQQ?oc=5",
       "published": "2026-11-20T13:19:27+00:00",
       "category": "Markt"
+    },
+    {
+      "id": "43d991c0ebf6fca3",
+      "title": "Angesichts des Aufstiegs von Ransomware betont Viettel Cyber ​​Security seine Rolle bei der Überwachung rund um die Uhr.",
+      "excerpt": "Angesichts des Aufstiegs von Ransomware betont Viettel Cyber ​​Security seine Rolle bei der Überwachung rund um die Uhr. Vietnam.vn",
+      "summary": "Angesichts des Aufstiegs von Ransomware betont Viettel Cyber ​​Security seine Rolle bei der Überwachung rund um die Uhr. Vietnam.vn",
+      "source": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOGYxSlpFbkdEUGFVcWlGM1JXeWNEWHBtWVBjbzJqNExydGYtY2o0NEpkNElpWlIyRmt5Q0hOOGpVLUV3MWVTQUoyT280UWtibUN2Nk5neWcyLXF4bElMd3NYWXVhTWxZZE56N0FSbnVnWGx0NklvV2tkdl9NUXJFc2lhZUYwZnM0OFBzSVlNVF9DazczOFBsaHBJNkRzb09iS1E?oc=5",
+      "published": "2026-11-20T13:12:41+00:00",
+      "category": "Security"
     },
     {
       "id": "75881a21f4e69f5a",
@@ -231,16 +241,6 @@
       "category": "Markt"
     },
     {
-      "id": "c94103493f0f95c3",
-      "title": "Auch Murmelis brauchen mal einen Spa-Tag - IT-Markt",
-      "excerpt": "Auch Murmelis brauchen mal einen Spa-Tag IT-Markt",
-      "summary": "Auch Murmelis brauchen mal einen Spa-Tag IT-Markt",
-      "source": "IT-Markt",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOamp1eDMyV1FHZ2MwTUxHc2t0S0FWdHdQSDlra1pPT0RPVkhPZng1NjVRRENETnJLcUsyTFRxRlBDZ1ZrZTJnRm5vR3pJTUhCbGlVUk5remVIcUdXLV9KUXhYOHlSOVEyckp1RkVSRlJZM1YxS1lPV2o1SVlkOF9heFZ6MFFra2tjb1pVbGt2Yw?oc=5",
-      "published": "2026-11-19T14:23:19+00:00",
-      "category": "Markt"
-    },
-    {
       "id": "8c9549db4184d79b",
       "title": "Zug will vertrauliche Daten verarbeiten in M365",
       "excerpt": "Die Mitarbeitenden der kantonalen Verwaltung können Microsoft 365 zukünftig nahezu uneingeschränkt nutzen. Lediglich geheime Dokumente wie Steuerunterlagen sind tabu.",
@@ -331,7 +331,7 @@
       "category": "Trends"
     }
   ],
-  "updatedAt": "2026-11-21T10:55:51.703477+00:00",
+  "updatedAt": "2026-11-21T11:53:50.703685+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
