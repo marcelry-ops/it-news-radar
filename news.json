@@ -81,16 +81,6 @@
       "category": "Markt"
     },
     {
-      "id": "077c1db9a8aa402f",
-      "title": "MIND meldet Copilot-DLP für Microsoft 365 als allgemein verfügbar",
-      "excerpt": "MIND meldet Copilot-DLP für Microsoft 365 als allgemein verfügbar NeoTeo",
-      "summary": "MIND meldet Copilot-DLP für Microsoft 365 als allgemein verfügbar NeoTeo",
-      "source": "NeoTeo",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdkRxeGhPRV8yZkk4RzF5MGNvanhyWkw0V1NRUTJUdUJuNWtNUGM3bDBFN2o3TXNReXJ5Tm9TY0tfQTBqNTRHN2FLUENyQ3Y3bkVNR091cFEwX0F0dExRR19fUDJQQ0dHNjZ0MndIcDgyejV6TVV3OGdhOVBjclRvQ1JQa3lzcXZKa2ZyamFVSm1SOF9MS0E?oc=5",
-      "published": "2026-11-20T20:00:21+00:00",
-      "category": "Microsoft 365"
-    },
-    {
       "id": "128ef166f5d819c4",
       "title": "Elia Ferrari - IT-Markt",
       "excerpt": "Elia Ferrari IT-Markt",
@@ -288,7 +278,7 @@
       "source": "Inside IT",
       "url": "https://www.inside-it.ch/zug-will-vertrauliche-daten-verarbeiten-in-m365-20261119",
       "published": "2026-11-19T12:49:48+00:00",
-      "category": "IT Schweiz"
+      "category": "Microsoft 365"
     },
     {
       "id": "d1fdbbe90f0f90ba",
@@ -341,6 +331,16 @@
       "category": "Firmen"
     },
     {
+      "id": "9bc402f990ce8639",
+      "title": "Schweizer Firmen gründen Allianz für digitale Souveränität",
+      "excerpt": "Mit Opensovereign wollen fünf Schweizer IT-Unternehmen Open-Source-Technologien als Alternative zu proprietären IT-Lösungen stärken.",
+      "summary": "Mit Opensovereign wollen fünf Schweizer IT-Unternehmen Open-Source-Technologien als Alternative zu proprietären IT-Lösungen stärken.",
+      "source": "Inside IT",
+      "url": "https://www.inside-it.ch/schweizer-firmen-gruenden-allianz-fuer-digitale-souveraenitaet-20261118",
+      "published": "2026-11-18T14:43:34+00:00",
+      "category": "IT Schweiz"
+    },
+    {
       "id": "00cd893bf9d183c4",
       "title": "\"Das Energiesystem der Zukunft braucht Daten\" - energate messenger Schweiz",
       "excerpt": "\"Das Energiesystem der Zukunft braucht Daten\" energate messenger Schweiz",
@@ -351,7 +351,7 @@
       "category": "Trends"
     }
   ],
-  "updatedAt": "2026-11-21T21:50:59.674109+00:00",
+  "updatedAt": "2026-11-21T22:51:13.690403+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
