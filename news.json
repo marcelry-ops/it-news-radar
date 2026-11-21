@@ -41,6 +41,16 @@
       "category": "Firmen"
     },
     {
+      "id": "a31ed4515686ebb9",
+      "title": "Elia Ferrari - IT-Markt",
+      "excerpt": "Elia Ferrari IT-Markt",
+      "summary": "Elia Ferrari IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDNGpGNmllQkVvX1BaXzJ6aWtvWUx4SWMtRHNEQmFEcXAtUVdfNjZXUkxYX08tUHBpRmRRNXFLbU96UlZjMU1FTC1qcHZKYm9JTS1v?oc=5",
+      "published": "2026-11-20T20:09:28+00:00",
+      "category": "Markt"
+    },
+    {
       "id": "128ef166f5d819c4",
       "title": "Elia Ferrari - IT-Markt",
       "excerpt": "Elia Ferrari IT-Markt",
@@ -101,16 +111,6 @@
       "category": "Trends"
     },
     {
-      "id": "62d2bef034da4f1a",
-      "title": "Cyberangriff auf Baselbieter Verwaltung führte zu Datenabfluss",
-      "excerpt": "Laut ersten forensischen Erkenntnissen wurden Personendaten von Grenzgängerinnen und Grenzgängern gestohlen.",
-      "summary": "Laut ersten forensischen Erkenntnissen wurden Personendaten von Grenzgängerinnen und Grenzgängern gestohlen.",
-      "source": "Inside IT",
-      "url": "https://www.inside-it.ch/cyberangriff-auf-baselbieter-verwaltung-fuehrte-zu-datenabfluss-20261120",
-      "published": "2026-11-20T15:07:34+00:00",
-      "category": "Security"
-    },
-    {
       "id": "725c28220385ba98",
       "title": "Sonoff Core im Test: Günstiges Thermostat für Fußbodenheizungen ohne Cloud-Zwang",
       "excerpt": "Lokale Zeitpläne, Radar-Präsenzsensor und potenzialfreier Kontakt: Wie sich das nur 40 Euro teure Sonoff Core an einer wassergeführten Fußbodenheizung schlägt.",
@@ -119,6 +119,16 @@
       "url": "https://www.heise.de/bestenlisten/testbericht/sonoff-core-im-test-guenstiges-thermostat-fuer-fussbodenheizungen-ohne-cloud-zwang/22dck5w?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "published": "2026-11-20T15:00:00+00:00",
       "category": "Cloud"
+    },
+    {
+      "id": "9bf41ac1152e3c6c",
+      "title": "Muse: Metas KI-Agent liest Benachrichtigungen und verwechselt Nutzer",
+      "excerpt": "Metas KI-Agent Muse soll Unterhaltungen verschiedener Nutzer vermischt haben. Das Unternehmen spricht von Halluzinationen und Einzelfällen. ( Meta , KI )",
+      "summary": "Metas KI-Agent Muse soll Unterhaltungen verschiedener Nutzer vermischt haben. Das Unternehmen spricht von Halluzinationen und Einzelfällen. ( Meta , KI )",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/muse-metas-ki-agent-liest-benachrichtigungen-und-verwechselt-nutzer-2611-215480.html",
+      "published": "2026-11-20T14:33:02+00:00",
+      "category": "Firmen"
     },
     {
       "id": "54e6d0f6e6f2b4e5",
@@ -171,14 +181,14 @@
       "category": "Markt"
     },
     {
-      "id": "52bbed2a9b40349c",
-      "title": "Arrow erweitert ArrowSphere um Vertriebsportal",
-      "excerpt": "Arrow ergänzt ArrowSphere Cloud um ein Vertriebsportal für das Geschäft mit Microsoft und AWS. Zunächst erhalten ausgewählte Partner Zugang.",
-      "summary": "Arrow ergänzt ArrowSphere Cloud um ein Vertriebsportal für das Geschäft mit Microsoft und AWS. Zunächst erhalten ausgewählte Partner Zugang.",
-      "source": "IT Reseller",
-      "url": "https://www.itreseller.ch/Artikel/106655/Arrow_erweitert_ArrowSphere_um_Vertriebsportal.html",
-      "published": "2026-11-20T10:02:47+00:00",
-      "category": "Cloud"
+      "id": "593b305001cf34f3",
+      "title": "VMware vCenter – Zero-Day seit September aktiv ausgenutzt",
+      "excerpt": "VMware vCenter – Zero-Day seit September aktiv ausgenutzt Meteora Web",
+      "summary": "VMware vCenter – Zero-Day seit September aktiv ausgenutzt Meteora Web",
+      "source": "Meteora Web",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdkE4Y09xb3pFd3AxV3NjbVE2WGVwb3ZzTEs2MHhHVGV5VHc2NTAtV2pNUE1Ob3JDZWM5Q2VyZlV1YXNKaGRXcDk2aEtvdWpHVWlNMVp4eHFvN2ktUzdNcHF4ekdmTUVIVzhRNzJjT1JvM0N4VnZEdnlMbkZPTFlDX1NEdEp2SFhYWGo2STlNbGdlMkpaSVg1VHpfYmU?oc=5",
+      "published": "2026-11-20T09:16:22+00:00",
+      "category": "Security"
     },
     {
       "id": "b54a1ae6b4d85eed",
@@ -191,13 +201,13 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "95685145073ca6e8",
-      "title": "Windows 11: Microsoft testet Fernsperre für gestohlene Firmen-PCs - it-daily.net",
-      "excerpt": "Windows 11: Microsoft testet Fernsperre für gestohlene Firmen-PCs it-daily.net",
-      "summary": "Windows 11: Microsoft testet Fernsperre für gestohlene Firmen-PCs it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lVE85Z0NOSUpxckpNemRWSUpTRHJfb01wYUxGdzB3bEI1WTMwTzFheDMzN3poR2R0M0pVQ29MUVRfcDk1UEJKVExXQ2hKbTl0aTBsSUxXLVpQSVNGTnN4THhYWWNQSTFtRVpJX1BRNGp1blZpMUE?oc=5",
-      "published": "2026-11-20T06:36:00+00:00",
+      "id": "b223cc4c07efcf02",
+      "title": "MongoDB kauft Firebolt und holt sich Echtzeitanalyse-Engine ins Haus",
+      "excerpt": "Einst als Milliarden-Start-up gehandelt, landet Firebolt nun bei MongoDB. Die Engine soll dort Analysen für Anwendungen und KI-Agenten beschleunigen.",
+      "summary": "Einst als Milliarden-Start-up gehandelt, landet Firebolt nun bei MongoDB. Die Engine soll dort Analysen für Anwendungen und KI-Agenten beschleunigen.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/MongoDB-kauft-Firebolt-und-holt-sich-Echtzeitanalyse-Engine-ins-Haus-11531590.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published": "2026-11-20T06:03:00+00:00",
       "category": "Firmen"
     },
     {
@@ -241,16 +251,6 @@
       "category": "Markt"
     },
     {
-      "id": "c94103493f0f95c3",
-      "title": "Auch Murmelis brauchen mal einen Spa-Tag - IT-Markt",
-      "excerpt": "Auch Murmelis brauchen mal einen Spa-Tag IT-Markt",
-      "summary": "Auch Murmelis brauchen mal einen Spa-Tag IT-Markt",
-      "source": "IT-Markt",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOamp1eDMyV1FHZ2MwTUxHc2t0S0FWdHdQSDlra1pPT0RPVkhPZng1NjVRRENETnJLcUsyTFRxRlBDZ1ZrZTJnRm5vR3pJTUhCbGlVUk5remVIcUdXLV9KUXhYOHlSOVEyckp1RkVSRlJZM1YxS1lPV2o1SVlkOF9heFZ6MFFra2tjb1pVbGt2Yw?oc=5",
-      "published": "2026-11-19T14:23:19+00:00",
-      "category": "Markt"
-    },
-    {
       "id": "8c9549db4184d79b",
       "title": "Zug will vertrauliche Daten verarbeiten in M365",
       "excerpt": "Die Mitarbeitenden der kantonalen Verwaltung können Microsoft 365 zukünftig nahezu uneingeschränkt nutzen. Lediglich geheime Dokumente wie Steuerunterlagen sind tabu.",
@@ -279,26 +279,6 @@
       "url": "https://www.netzwoche.ch/news/2026-11-19/ki-agenten-verbreiten-sich-im-schweizer-arbeitsalltag",
       "published": "2026-11-19T09:25:57+00:00",
       "category": "IT Schweiz"
-    },
-    {
-      "id": "621c230feeace24c",
-      "title": "E-Mail ausgefallen? Wie Behörden und Unternehmen ihre Handlungsfähigkeit sichern - it-daily.net",
-      "excerpt": "E-Mail ausgefallen? Wie Behörden und Unternehmen ihre Handlungsfähigkeit sichern it-daily.net",
-      "summary": "E-Mail ausgefallen? Wie Behörden und Unternehmen ihre Handlungsfähigkeit sichern it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWkJmOXBDcy1lRlRIMW5VR2tuYzY1Y1NaZ29rWm43V25qNWcyODExWjVpUFh2MTFSN0FseFFERHk5ZEVlRlAteEFoTnZqdXN0UFduZzVISUpuZVpHOGt5UlBDUENMX2ZJSENydktNZFJLOVFZbjlrNFBrTS1lLTZqdlU2X2pwcFlRbW5UVjlNSEFKVGtzNHJldG1VaTJ2LUdJ?oc=5",
-      "published": "2026-11-19T08:23:31+00:00",
-      "category": "Firmen"
-    },
-    {
-      "id": "086af95badb92bbd",
-      "title": "Trends 2027: Vorsprung durch Governance - it-daily.net",
-      "excerpt": "Trends 2027: Vorsprung durch Governance it-daily.net",
-      "summary": "Trends 2027: Vorsprung durch Governance it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lVnRkTURlNkRfQ18zWGFnLXMtWEs1d09EVW54TFFFckE3NTJUbXVZVGNVMnVfc1ZfTzE5ZFhtUl9xNjVheTJ2ci0weTM3QUpqSWcwUl9sU0pubDQ2MFNQYjhxZ082ZjdTeFFJcGw0eVp2V1dYOFFEYmJBMEU3dmc?oc=5",
-      "published": "2026-11-19T04:08:28+00:00",
-      "category": "Trends"
     },
     {
       "id": "6a21a62621a19c6a",
@@ -341,6 +321,16 @@
       "category": "Firmen"
     },
     {
+      "id": "25637afc33f0cb3c",
+      "title": "AntiFox: Angreifer nutzen Pentest-Werkzeug gegen AWS - it-daily.net",
+      "excerpt": "AntiFox: Angreifer nutzen Pentest-Werkzeug gegen AWS it-daily.net",
+      "summary": "AntiFox: Angreifer nutzen Pentest-Werkzeug gegen AWS it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EZnNMc0hBZ25IdEItRm5LUERnVnRuYXhYb2loOHJSNHhGc3NNTlFJLVVydWN0dGl2NHBZMGRGaFBFZXAyNXZZTTFvWDdfS1FFaFFCZC1nTG8yZGZ3X2JnWFczSWI0UWV6dzVN?oc=5",
+      "published": "2026-11-18T06:39:34+00:00",
+      "category": "Cloud"
+    },
+    {
       "id": "00cd893bf9d183c4",
       "title": "\"Das Energiesystem der Zukunft braucht Daten\" - energate messenger Schweiz",
       "excerpt": "\"Das Energiesystem der Zukunft braucht Daten\" energate messenger Schweiz",
@@ -351,7 +341,7 @@
       "category": "Trends"
     }
   ],
-  "updatedAt": "2026-11-21T15:55:25.484766+00:00",
+  "updatedAt": "2026-11-21T16:55:51.958655+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -366,10 +356,10 @@
     "Microsoft 365": 5,
     "IT Schweiz": 5,
     "Cloud": 5,
-    "Trends": 5,
+    "Trends": 4,
     "Markt": 5,
     "Firmen": 5
   },
-  "warning": "",
+  "warning": "Nicht genügend passende aktuelle Meldungen: 1 × Trends. 1 von 29 RSS-Quellen waren nicht erreichbar.",
   "aiSummaries": false
 }
