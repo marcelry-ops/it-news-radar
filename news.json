@@ -81,6 +81,16 @@
       "category": "Trends"
     },
     {
+      "id": "62d2bef034da4f1a",
+      "title": "Cyberangriff auf Baselbieter Verwaltung führte zu Datenabfluss",
+      "excerpt": "Laut ersten forensischen Erkenntnissen wurden Personendaten von Grenzgängerinnen und Grenzgängern gestohlen.",
+      "summary": "Laut ersten forensischen Erkenntnissen wurden Personendaten von Grenzgängerinnen und Grenzgängern gestohlen.",
+      "source": "Inside IT",
+      "url": "https://www.inside-it.ch/cyberangriff-auf-baselbieter-verwaltung-fuehrte-zu-datenabfluss-20261120",
+      "published": "2026-11-20T15:07:34+00:00",
+      "category": "Security"
+    },
+    {
       "id": "725c28220385ba98",
       "title": "Sonoff Core im Test: Günstiges Thermostat für Fußbodenheizungen ohne Cloud-Zwang",
       "excerpt": "Lokale Zeitpläne, Radar-Präsenzsensor und potenzialfreier Kontakt: Wie sich das nur 40 Euro teure Sonoff Core an einer wassergeführten Fußbodenheizung schlägt.",
@@ -119,16 +129,6 @@
       "url": "https://www.inside-it.ch/naomi-mackenzie-ist-pioneer-of-the-year-20261120",
       "published": "2026-11-20T12:12:29+00:00",
       "category": "Trends"
-    },
-    {
-      "id": "a65811fbd8a8ffa4",
-      "title": "Angriffe seit September: Update für Zero-Day-Lücke in VMware vCenter verfügbar",
-      "excerpt": "Hacker können die Authentifizierung für VMware vCenter umgehen und erhalten Systemzugriff. ( Security , Virtualisierung )",
-      "summary": "Hacker können die Authentifizierung für VMware vCenter umgehen und erhalten Systemzugriff. ( Security , Virtualisierung )",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/angriffe-seit-september-update-fuer-zero-day-luecke-in-vmware-vcenter-verfuegbar-2611-215464.html",
-      "published": "2026-11-20T12:02:01+00:00",
-      "category": "Security"
     },
     {
       "id": "ac24fff683ce01ca",
@@ -191,16 +191,6 @@
       "category": "Firmen"
     },
     {
-      "id": "d21199013fb2ee2e",
-      "title": "Microsoft Teams: Support für iOS 17 endet, bestehende Apps laufen weiter",
-      "excerpt": "Microsoft Teams: Support für iOS 17 endet, bestehende Apps laufen weiter ad-hoc-news.de",
-      "summary": "Microsoft Teams: Support für iOS 17 endet, bestehende Apps laufen weiter ad-hoc-news.de",
-      "source": "ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVHpGSzNlTTk2aFJGMGNuSUxMeUd3blNwdTR2amZYLWh3QjhtLVFWZVMtenFfcU53MkxsU3BwaHItYlNoazBHRmtfU3h4Rm1sVXJ2XzA2QXIyNjEzdUdIYk1fZXZtVTV3TXBVYS1RY3ctNTRzeXJfal9ISGNkTUJETDdScW5tbGUtdncwT29KbTR0dU1yQWV2WVZpLTlXV0JSYmRqQVBnY2l1a0V5cGo3cGF6TWZlTElCaHhoMw?oc=5",
-      "published": "2026-11-20T03:32:30+00:00",
-      "category": "Microsoft 365"
-    },
-    {
       "id": "ad622efd91ceb59e",
       "title": "KI-Agenten in Microsoft 365: Wer hat Zugriff auf welche Daten? - Computerwoche",
       "excerpt": "KI-Agenten in Microsoft 365: Wer hat Zugriff auf welche Daten? Computerwoche",
@@ -258,7 +248,7 @@
       "source": "Inside IT",
       "url": "https://www.inside-it.ch/zug-will-vertrauliche-daten-verarbeiten-in-m365-20261119",
       "published": "2026-11-19T12:49:48+00:00",
-      "category": "IT Schweiz"
+      "category": "Microsoft 365"
     },
     {
       "id": "d1fdbbe90f0f90ba",
@@ -291,16 +281,6 @@
       "category": "Firmen"
     },
     {
-      "id": "086af95badb92bbd",
-      "title": "Trends 2027: Vorsprung durch Governance - it-daily.net",
-      "excerpt": "Trends 2027: Vorsprung durch Governance it-daily.net",
-      "summary": "Trends 2027: Vorsprung durch Governance it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lVnRkTURlNkRfQ18zWGFnLXMtWEs1d09EVW54TFFFckE3NTJUbXVZVGNVMnVfc1ZfTzE5ZFhtUl9xNjVheTJ2ci0weTM3QUpqSWcwUl9sU0pubDQ2MFNQYjhxZ082ZjdTeFFJcGw0eVp2V1dYOFFEYmJBMEU3dmc?oc=5",
-      "published": "2026-11-19T04:08:28+00:00",
-      "category": "Trends"
-    },
-    {
       "id": "6a21a62621a19c6a",
       "title": "MIND führt DLP-Integrationen für Microsoft Copilot und Microsoft 365 ein",
       "excerpt": "MIND führt DLP-Integrationen für Microsoft Copilot und Microsoft 365 ein Unite.AI",
@@ -321,13 +301,23 @@
       "category": "Firmen"
     },
     {
-      "id": "dbe6ab4b963da05e",
-      "title": "OpenSovereign: Fünf Schweizer IT-Firmen wollen digitale Unabhängigkeit stärken",
-      "excerpt": "OpenSovereign: Fünf Schweizer IT-Firmen wollen digitale Unabhängigkeit stärken ad-hoc-news.de",
-      "summary": "OpenSovereign: Fünf Schweizer IT-Firmen wollen digitale Unabhängigkeit stärken ad-hoc-news.de",
-      "source": "ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRDJzcjl5WjMwUThuUlpiaDZMODBkYUsxZ1hsck1VS2FaUnZFZExNR0R3Z3NqWnFlWlhHUTVPX0FIOVVIRDg5R0xVdEJYMUZVcmdkdnowQUczS0daZV9xalUzd0I5SFNKWjhaeDQ4MDdwRExheHZKbTF0VENDOENnNm5mTDlveEVyQmVoek5FM2diay1vVnlaellWdDVOcnY4ZEJaNlBmQ290ZEliUEhQRFFKdGk2ajBaQ2NIZnBVRHRxY05Fbk9BRQ?oc=5",
-      "published": "2026-11-18T10:54:47+00:00",
+      "id": "9bc402f990ce8639",
+      "title": "Schweizer Firmen gründen Allianz für digitale Souveränität",
+      "excerpt": "Mit Opensovereign wollen fünf Schweizer IT-Unternehmen Open-Source-Technologien als Alternative zu proprietären IT-Lösungen stärken.",
+      "summary": "Mit Opensovereign wollen fünf Schweizer IT-Unternehmen Open-Source-Technologien als Alternative zu proprietären IT-Lösungen stärken.",
+      "source": "Inside IT",
+      "url": "https://www.inside-it.ch/schweizer-firmen-gruenden-allianz-fuer-digitale-souveraenitaet-20261118",
+      "published": "2026-11-18T14:43:34+00:00",
+      "category": "IT Schweiz"
+    },
+    {
+      "id": "56afc9e17a1eed5b",
+      "title": "Neue Allianz für digitale Unabhängigkeit: Fünf Schweizer IT-Unternehmen gründen OpenSovereign",
+      "excerpt": "Neue Allianz für digitale Unabhängigkeit: Fünf Schweizer IT-Unternehmen gründen OpenSovereign Presseportal Schweiz",
+      "summary": "Neue Allianz für digitale Unabhängigkeit: Fünf Schweizer IT-Unternehmen gründen OpenSovereign Presseportal Schweiz",
+      "source": "Presseportal Schweiz",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVXRNWVMwMTEzQ293OTV6MHBLd2Rnal9PQUwydFN0SDZtSmFwd3JQU2lUZmR1Q1VTaUo1dDBBLU9mdWFUZFRpVlB0ekFXREVmRm80M0pZb1dySU9GSFhKN0RxSmhTZGlCRUJEakNFdzFhamFmMXhvTTFWcjdnM3ZUYVh6d0wtbHBjQUVRSkJ5eXEyY3NkNVQxUVFZOEZ0QmdSZVB6RmNYZWdpbU5Oc0ZmMXA1Ym94OFNtQzRNQk5Sb1BWN0hyWENBUndyYlNmTWvSAdQBQVVfeXFMTlh2MTNQU21yWFJ0LXZMLXRJWEZkQzlQN0l0OUlCRGtNVzNvWEhuUnV2X0JGdWRWWWhkeFV3b25HMklJNkFjaFBYY0o2cmxYVE9UYlZwZlVKdjR0ejhudWVZNnpXZy1VV1FLZFBvbnFNOGxLLTJzRlJGV0p3WEJVOF95QXF1U3NDMHc5MFhKUjhPYXR1a0ZRTDVPZHR5SDNFMmdidkFmSnRqcFFWYW1YWlp3UmdpU1dGX0MzUXAwemp2b0lHVEdMbzg2cFJPb1dub3diYmE?oc=5",
+      "published": "2026-11-18T07:50:10+00:00",
       "category": "Firmen"
     },
     {
@@ -341,7 +331,7 @@
       "category": "Trends"
     }
   ],
-  "updatedAt": "2026-11-21T09:56:07.334758+00:00",
+  "updatedAt": "2026-11-21T10:55:51.703477+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -356,10 +346,10 @@
     "Microsoft 365": 5,
     "IT Schweiz": 5,
     "Cloud": 5,
-    "Trends": 4,
+    "Trends": 3,
     "Markt": 5,
     "Firmen": 5
   },
-  "warning": "Nicht genügend passende aktuelle Meldungen: 1 × Trends.",
+  "warning": "Nicht genügend passende aktuelle Meldungen: 2 × Trends.",
   "aiSummaries": false
 }
