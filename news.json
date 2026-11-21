@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "86791593dbc569d5",
+      "title": "(g+) Kubernetes-Integrationstests: Wie Entwickler versteckte Kubernetes-Fehler vor dem ...",
+      "excerpt": "Mocks können Fehler im Zusammenspiel von Anwendung und Datenbank übersehen. Mit kind und Testcontainers lässt sich eine Bestell-API unter realistischen Kubernetes-Bedingungen prüfen. Ein Ratgebertext von Fabian Deitelhoff ( Softwareentwicklung , PostgreSQL )",
+      "summary": "Mocks können Fehler im Zusammenspiel von Anwendung und Datenbank übersehen. Mit kind und Testcontainers lässt sich eine Bestell-API unter realistischen Kubernetes-Bedingungen prüfen. Ein Ratgebertext von Fabian Deitelhoff ( Softwareentwicklung , PostgreSQL )",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/kubernetes-integrationstests-wie-entwickler-versteckte-kubernetes-fehler-vor-dem-deployment-finden-2611-215227.html",
+      "published": "2026-11-21T09:00:01+00:00",
+      "category": "Cloud"
+    },
+    {
       "id": "4dc6f0d684b0bc21",
       "title": "Developer-Häppchen: Agenten überwachen sich mit openchamber gegenseitig",
       "excerpt": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Auron, WordPress, MDASH, openchamber, Rust, Cloudflare und Azure.",
@@ -11,23 +21,13 @@
       "category": "Cloud"
     },
     {
-      "id": "a31ed4515686ebb9",
-      "title": "Elia Ferrari - IT-Markt",
-      "excerpt": "Elia Ferrari IT-Markt",
-      "summary": "Elia Ferrari IT-Markt",
-      "source": "IT-Markt",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDNGpGNmllQkVvX1BaXzJ6aWtvWUx4SWMtRHNEQmFEcXAtUVdfNjZXUkxYX08tUHBpRmRRNXFLbU96UlZjMU1FTC1qcHZKYm9JTS1v?oc=5",
-      "published": "2026-11-20T20:09:28+00:00",
-      "category": "Markt"
-    },
-    {
       "id": "128ef166f5d819c4",
       "title": "Elia Ferrari - IT-Markt",
       "excerpt": "Elia Ferrari IT-Markt",
       "summary": "Elia Ferrari IT-Markt",
       "source": "IT-Markt",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aaW5yVUdmSXZQS0RGVUdaLXRHWTVobWR5WTBzbVVzbHJrWERMRDZNbkdBeWFCamFvQ0UxcTdFOWN6bnctWmhIN3ZpRHVDY051MkRz?oc=5",
-      "published": "2026-11-20T19:41:38+00:00",
+      "published": "2026-11-20T19:40:29+00:00",
       "category": "Markt"
     },
     {
@@ -151,6 +151,16 @@
       "category": "Markt"
     },
     {
+      "id": "52bbed2a9b40349c",
+      "title": "Arrow erweitert ArrowSphere um Vertriebsportal",
+      "excerpt": "Arrow ergänzt ArrowSphere Cloud um ein Vertriebsportal für das Geschäft mit Microsoft und AWS. Zunächst erhalten ausgewählte Partner Zugang.",
+      "summary": "Arrow ergänzt ArrowSphere Cloud um ein Vertriebsportal für das Geschäft mit Microsoft und AWS. Zunächst erhalten ausgewählte Partner Zugang.",
+      "source": "IT Reseller",
+      "url": "https://www.itreseller.ch/Artikel/106655/Arrow_erweitert_ArrowSphere_um_Vertriebsportal.html",
+      "published": "2026-11-20T10:02:47+00:00",
+      "category": "Cloud"
+    },
+    {
       "id": "593b305001cf34f3",
       "title": "VMware vCenter – Zero-Day seit September aktiv ausgenutzt",
       "excerpt": "VMware vCenter – Zero-Day seit September aktiv ausgenutzt Meteora Web",
@@ -231,6 +241,16 @@
       "category": "Markt"
     },
     {
+      "id": "c94103493f0f95c3",
+      "title": "Auch Murmelis brauchen mal einen Spa-Tag - IT-Markt",
+      "excerpt": "Auch Murmelis brauchen mal einen Spa-Tag IT-Markt",
+      "summary": "Auch Murmelis brauchen mal einen Spa-Tag IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOamp1eDMyV1FHZ2MwTUxHc2t0S0FWdHdQSDlra1pPT0RPVkhPZng1NjVRRENETnJLcUsyTFRxRlBDZ1ZrZTJnRm5vR3pJTUhCbGlVUk5remVIcUdXLV9KUXhYOHlSOVEyckp1RkVSRlJZM1YxS1lPV2o1SVlkOF9heFZ6MFFra2tjb1pVbGt2Yw?oc=5",
+      "published": "2026-11-19T14:23:19+00:00",
+      "category": "Markt"
+    },
+    {
       "id": "8c9549db4184d79b",
       "title": "Zug will vertrauliche Daten verarbeiten in M365",
       "excerpt": "Die Mitarbeitenden der kantonalen Verwaltung können Microsoft 365 zukünftig nahezu uneingeschränkt nutzen. Lediglich geheime Dokumente wie Steuerunterlagen sind tabu.",
@@ -301,13 +321,13 @@
       "category": "Firmen"
     },
     {
-      "id": "56afc9e17a1eed5b",
-      "title": "Neue Allianz für digitale Unabhängigkeit: Fünf Schweizer IT-Unternehmen gründen OpenSovereign",
-      "excerpt": "Neue Allianz für digitale Unabhängigkeit: Fünf Schweizer IT-Unternehmen gründen OpenSovereign Presseportal Schweiz",
-      "summary": "Neue Allianz für digitale Unabhängigkeit: Fünf Schweizer IT-Unternehmen gründen OpenSovereign Presseportal Schweiz",
-      "source": "Presseportal Schweiz",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVXRNWVMwMTEzQ293OTV6MHBLd2Rnal9PQUwydFN0SDZtSmFwd3JQU2lUZmR1Q1VTaUo1dDBBLU9mdWFUZFRpVlB0ekFXREVmRm80M0pZb1dySU9GSFhKN0RxSmhTZGlCRUJEakNFdzFhamFmMXhvTTFWcjdnM3ZUYVh6d0wtbHBjQUVRSkJ5eXEyY3NkNVQxUVFZOEZ0QmdSZVB6RmNYZWdpbU5Oc0ZmMXA1Ym94OFNtQzRNQk5Sb1BWN0hyWENBUndyYlNmTWvSAdQBQVVfeXFMTlh2MTNQU21yWFJ0LXZMLXRJWEZkQzlQN0l0OUlCRGtNVzNvWEhuUnV2X0JGdWRWWWhkeFV3b25HMklJNkFjaFBYY0o2cmxYVE9UYlZwZlVKdjR0ejhudWVZNnpXZy1VV1FLZFBvbnFNOGxLLTJzRlJGV0p3WEJVOF95QXF1U3NDMHc5MFhKUjhPYXR1a0ZRTDVPZHR5SDNFMmdidkFmSnRqcFFWYW1YWlp3UmdpU1dGX0MzUXAwemp2b0lHVEdMbzg2cFJPb1dub3diYmE?oc=5",
-      "published": "2026-11-18T07:50:10+00:00",
+      "id": "dbe6ab4b963da05e",
+      "title": "OpenSovereign: Fünf Schweizer IT-Firmen wollen digitale Unabhängigkeit stärken",
+      "excerpt": "OpenSovereign: Fünf Schweizer IT-Firmen wollen digitale Unabhängigkeit stärken ad-hoc-news.de",
+      "summary": "OpenSovereign: Fünf Schweizer IT-Firmen wollen digitale Unabhängigkeit stärken ad-hoc-news.de",
+      "source": "ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRDJzcjl5WjMwUThuUlpiaDZMODBkYUsxZ1hsck1VS2FaUnZFZExNR0R3Z3NqWnFlWlhHUTVPX0FIOVVIRDg5R0xVdEJYMUZVcmdkdnowQUczS0daZV9xalUzd0I5SFNKWjhaeDQ4MDdwRExheHZKbTF0VENDOENnNm5mTDlveEVyQmVoek5FM2diay1vVnlaellWdDVOcnY4ZEJaNlBmQ290ZEliUEhQRFFKdGk2ajBaQ2NIZnBVRHRxY05Fbk9BRQ?oc=5",
+      "published": "2026-11-18T10:54:47+00:00",
       "category": "Firmen"
     },
     {
@@ -319,29 +339,9 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV3d5Nm5KYUpyRWRJRzRMYzc0eG1EejY0SUpybGFxWlBmV1dfUDh6UHJOaWRIX0k1dTlvQXpIZDBHY2RDSWdNRUpXclBneW1OTzhhYmw5VlJLVFQ5QmRjSFM2OWZ1VC00MzFfcWt4dXJNWFNJc3dVTTVLV0RYSnFOWmhkN015LUZnaTIyYzA1TnNJaDA?oc=5",
       "published": "2026-11-17T12:34:00+00:00",
       "category": "Trends"
-    },
-    {
-      "id": "9a2744fe4192dbea",
-      "title": "Banken und Versicherungen wollen KI-Agenten über die Cloud steuern - IT-Markt",
-      "excerpt": "Banken und Versicherungen wollen KI-Agenten über die Cloud steuern IT-Markt",
-      "summary": "Banken und Versicherungen wollen KI-Agenten über die Cloud steuern IT-Markt",
-      "source": "IT-Markt",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd1pvRU85b0pVMXFxVDhQbnh4V0dlMzdHMjNfWHRCYnN4MWtNLTEwellLZ1dDMi02MTdMZFl6dmpDWUgyeDZvaUNOTDVaVkdzZWo0VHltNFJ6aF9rMEVpU0g4d0lJaHptcmtYbnBmM3BDdHBSR0ZTeWNEaW0wdUc1WTBuQjJ4OVk5RHBQZlplQjVzVkhkY3BCR0praWZyalF2SlhFR1Q0R0FjaDg?oc=5",
-      "published": "2026-11-17T10:17:03+00:00",
-      "category": "Cloud"
-    },
-    {
-      "id": "2ee4038c6151a8e2",
-      "title": "Ohne technische Resilienz keine Cloud-Strategie: Lehren aus dem Microsoft-Ausfall - Computerwoche",
-      "excerpt": "Ohne technische Resilienz keine Cloud-Strategie: Lehren aus dem Microsoft-Ausfall Computerwoche",
-      "summary": "Ohne technische Resilienz keine Cloud-Strategie: Lehren aus dem Microsoft-Ausfall Computerwoche",
-      "source": "Computerwoche",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcDczLXE0UTZ6TC12dTFsd0tVeEFOSmtHbktDNnkzT2pFdlpXdnNxZXB2ZW1raWVWLWl2aVpnVHFqaThtLXBOSC10YWgtdjJVVnlndlcwYVRJSnkyWktuU0FrVVRlRS1ieDVYQmhLU1F2UUJlVWRzZlNjSEZmWm5LUGJqU2tRbWp2LTFiSUdzNDEtQ3lVNTFNdGw1UDJlRnMzSjk0ZUZtMnhUODRVZFYzZ0lhdWJZd3lrNFJzM3dDSDdJcFFUQVZ2T0N3?oc=5",
-      "published": "2026-11-17T08:00:00+00:00",
-      "category": "Cloud"
     }
   ],
-  "updatedAt": "2026-11-21T08:56:55.023253+00:00",
+  "updatedAt": "2026-11-21T09:56:07.334758+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
