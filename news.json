@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "4dc6f0d684b0bc21",
+      "title": "Developer-Häppchen: Agenten überwachen sich mit openchamber gegenseitig",
+      "excerpt": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Auron, WordPress, MDASH, openchamber, Rust, Cloudflare und Azure.",
+      "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Auron, WordPress, MDASH, openchamber, Rust, Cloudflare und Azure.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Developer-Haeppchen-Microsoft-Sicherheits-Scanner-Managed-Open-Shift-auf-Azure-11532884.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published": "2026-11-21T07:17:00+00:00",
+      "category": "Cloud"
+    },
+    {
+      "id": "a31ed4515686ebb9",
+      "title": "Elia Ferrari - IT-Markt",
+      "excerpt": "Elia Ferrari IT-Markt",
+      "summary": "Elia Ferrari IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDNGpGNmllQkVvX1BaXzJ6aWtvWUx4SWMtRHNEQmFEcXAtUVdfNjZXUkxYX08tUHBpRmRRNXFLbU96UlZjMU1FTC1qcHZKYm9JTS1v?oc=5",
+      "published": "2026-11-20T20:09:28+00:00",
+      "category": "Markt"
+    },
+    {
+      "id": "128ef166f5d819c4",
+      "title": "Elia Ferrari - IT-Markt",
+      "excerpt": "Elia Ferrari IT-Markt",
+      "summary": "Elia Ferrari IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aaW5yVUdmSXZQS0RGVUdaLXRHWTVobWR5WTBzbVVzbHJrWERMRDZNbkdBeWFCamFvQ0UxcTdFOWN6bnctWmhIN3ZpRHVDY051MkRz?oc=5",
+      "published": "2026-11-20T19:41:38+00:00",
+      "category": "Markt"
+    },
+    {
       "id": "8835d6abfc7de4d0",
       "title": "Digital Networks / Cyber Security Act: Telekom fordert Bundesregierung zum Widerstand gegen EU auf",
       "excerpt": "Die EU will Kupferleitungen abschalten und chinesische Technologieanbieter breitflächig ausschließen. Die Telekom hält das für rechtswidrig. ( Telekom , DSL )",
@@ -31,14 +61,24 @@
       "category": "Security"
     },
     {
-      "id": "62d2bef034da4f1a",
-      "title": "Cyberangriff auf Baselbieter Verwaltung führte zu Datenabfluss",
-      "excerpt": "Laut ersten forensischen Erkenntnissen wurden Personendaten von Grenzgängerinnen und Grenzgängern gestohlen.",
-      "summary": "Laut ersten forensischen Erkenntnissen wurden Personendaten von Grenzgängerinnen und Grenzgängern gestohlen.",
-      "source": "Inside IT",
-      "url": "https://www.inside-it.ch/cyberangriff-auf-baselbieter-verwaltung-fuehrte-zu-datenabfluss-20261120",
-      "published": "2026-11-20T15:07:34+00:00",
-      "category": "Security"
+      "id": "9f8722853ca30084",
+      "title": "Arrow lanciert Vertriebsportal für Cloud-Partner - IT-Markt",
+      "excerpt": "Arrow lanciert Vertriebsportal für Cloud-Partner IT-Markt",
+      "summary": "Arrow lanciert Vertriebsportal für Cloud-Partner IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUnptOFV1MmlXNXFoWXlDTURyZEQ5YlNja3dKN2VubHpvcWVoTTVMZ01nNHpHcGpxY2wtVFpkYkUxVU5zWHVxQlhIOGgzcGlCb2Q0WklMUVF5NWtMajB2MzNYTGZTRHRDcmJKTWVxWENqNWhQbF9FNklBWWNpdGMwUHp4VVZpdFh3QktvNHpSdGFJWU0?oc=5",
+      "published": "2026-11-20T15:21:31+00:00",
+      "category": "Cloud"
+    },
+    {
+      "id": "a2e59dfd78ce1c90",
+      "title": "Die Top 5 Technologie-Trends 2027 von Capgemini - Computerwoche",
+      "excerpt": "Die Top 5 Technologie-Trends 2027 von Capgemini Computerwoche",
+      "summary": "Die Top 5 Technologie-Trends 2027 von Capgemini Computerwoche",
+      "source": "Computerwoche",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTklka3k4Snp4bi1aaUhDT29rUGpOOVQyc0FGVkNoYm5majRLUEYzdDdFUDdnd3dseTVKMHdhUTJWZzNVUW45S3JOcG44YWdYeWZfdm5jR2dnVTZPMFJiRUNHUjA5NkdPajVobXpESUxQQmxZdnhLTXU3eTdlSlVYaVc5YXVDV1gtU0dMYjNOUWFtSXBmdUlUeEVWY3Fldw?oc=5",
+      "published": "2026-11-20T15:14:42+00:00",
+      "category": "Trends"
     },
     {
       "id": "725c28220385ba98",
@@ -51,34 +91,14 @@
       "category": "Cloud"
     },
     {
-      "id": "491f8ff93b9ba3ba",
-      "title": "Lieferkettensicherheit: Risiken in CI/CD-Pipelines minimieren",
-      "excerpt": "Angreifer kapern zunehmend CI/CD-Pipelines. iX-Autor Fabian Deitelhoff erklärt im Interview, wie Teams GitHub Actions absichern.",
-      "summary": "Angreifer kapern zunehmend CI/CD-Pipelines. iX-Autor Fabian Deitelhoff erklärt im Interview, wie Teams GitHub Actions absichern.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Lieferkettensicherheit-Risiken-in-CI-CD-Pipelines-minimieren-11533016.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published": "2026-11-20T14:50:00+00:00",
-      "category": "Microsoft 365"
-    },
-    {
-      "id": "9bf41ac1152e3c6c",
-      "title": "Muse: Metas KI-Agent liest Benachrichtigungen und verwechselt Nutzer",
-      "excerpt": "Metas KI-Agent Muse soll Unterhaltungen verschiedener Nutzer vermischt haben. Das Unternehmen spricht von Halluzinationen und Einzelfällen. ( Meta , KI )",
-      "summary": "Metas KI-Agent Muse soll Unterhaltungen verschiedener Nutzer vermischt haben. Das Unternehmen spricht von Halluzinationen und Einzelfällen. ( Meta , KI )",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/muse-metas-ki-agent-liest-benachrichtigungen-und-verwechselt-nutzer-2611-215480.html",
-      "published": "2026-11-20T14:33:02+00:00",
-      "category": "Firmen"
-    },
-    {
-      "id": "1f67e8de0b4227ba",
-      "title": "Vor EU-UK-Gipfel: KI-gestützter Cyberangriff auf EU-Kommission",
-      "excerpt": "Die EU-Kommission nimmt ihre Personalplattform vom Netz. Ob Daten abgeflossen sind, ist unklar. ( EU-Kommission , KI )",
-      "summary": "Die EU-Kommission nimmt ihre Personalplattform vom Netz. Ob Daten abgeflossen sind, ist unklar. ( EU-Kommission , KI )",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/vor-eu-uk-gipfel-ki-gestuetzter-cyberangriff-auf-eu-kommission-2611-215474.html",
-      "published": "2026-11-20T13:33:02+00:00",
-      "category": "Security"
+      "id": "54e6d0f6e6f2b4e5",
+      "title": "Königspinguine können nicht immer königlich sein - IT-Markt",
+      "excerpt": "Königspinguine können nicht immer königlich sein IT-Markt",
+      "summary": "Königspinguine können nicht immer königlich sein IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNEFyVzY5eU5MSmd6akI3VXVxcWtkZlYyanZRRS1vTmRYQXZTNERiemNQRkxoOXBPckNRQlNuR01hS3lHcGNTeExNdFBsOENfcHRkLV9VZk51RDNxWnVxYlBJRVNNQ2FaYkNaVURZajFySElCVFV3NnlqYkNGX3h0Mk5zWGU3dDRiTFpJeWoxVlJHWWZNbWdLNXdVbllSQQ?oc=5",
+      "published": "2026-11-20T13:19:27+00:00",
+      "category": "Markt"
     },
     {
       "id": "75881a21f4e69f5a",
@@ -121,14 +141,94 @@
       "category": "IT Schweiz"
     },
     {
-      "id": "b223cc4c07efcf02",
-      "title": "MongoDB kauft Firebolt und holt sich Echtzeitanalyse-Engine ins Haus",
-      "excerpt": "Einst als Milliarden-Start-up gehandelt, landet Firebolt nun bei MongoDB. Die Engine soll dort Analysen für Anwendungen und KI-Agenten beschleunigen.",
-      "summary": "Einst als Milliarden-Start-up gehandelt, landet Firebolt nun bei MongoDB. Die Engine soll dort Analysen für Anwendungen und KI-Agenten beschleunigen.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/MongoDB-kauft-Firebolt-und-holt-sich-Echtzeitanalyse-Engine-ins-Haus-11531590.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published": "2026-11-20T06:03:00+00:00",
+      "id": "ec528eefd543eb02",
+      "title": "Das sind die Gewinner der Digital Economy Awards - IT-Markt",
+      "excerpt": "Das sind die Gewinner der Digital Economy Awards IT-Markt",
+      "summary": "Das sind die Gewinner der Digital Economy Awards IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeENoMjBYWU5hUFBJanVnNlRhNEhTMDMzYjlxSkZ2NTlnR1NaZThnY2hIUkhUMGEzc203WWhWZkVQNTFFSlpud0tNLU5tQ2NWRTZWblVhRW8yZEdKSDRmQWktUmp6MEl5dUZhaHlNZU1Gc1ZIVndwT1dsLVJJVENXc0JMbEhwYkVicEFtaDB3UlZfZw?oc=5",
+      "published": "2026-11-20T11:13:24+00:00",
+      "category": "Markt"
+    },
+    {
+      "id": "593b305001cf34f3",
+      "title": "VMware vCenter – Zero-Day seit September aktiv ausgenutzt",
+      "excerpt": "VMware vCenter – Zero-Day seit September aktiv ausgenutzt Meteora Web",
+      "summary": "VMware vCenter – Zero-Day seit September aktiv ausgenutzt Meteora Web",
+      "source": "Meteora Web",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdkE4Y09xb3pFd3AxV3NjbVE2WGVwb3ZzTEs2MHhHVGV5VHc2NTAtV2pNUE1Ob3JDZWM5Q2VyZlV1YXNKaGRXcDk2aEtvdWpHVWlNMVp4eHFvN2ktUzdNcHF4ekdmTUVIVzhRNzJjT1JvM0N4VnZEdnlMbkZPTFlDX1NEdEp2SFhYWGo2STlNbGdlMkpaSVg1VHpfYmU?oc=5",
+      "published": "2026-11-20T09:16:22+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "b54a1ae6b4d85eed",
+      "title": "Microsoft Teams: Support für iOS 17 und iPadOS 17 endet",
+      "excerpt": "Microsoft Teams: Support für iOS 17 und iPadOS 17 endet Caschys Blog",
+      "summary": "Microsoft Teams: Support für iOS 17 und iPadOS 17 endet Caschys Blog",
+      "source": "Caschys Blog",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNjhabzU3UldaR3I2Uk5ZMUxsYlBGX1YyYnVWdzR1U0JTaGFSWm95SE4xVjNqMUF6bGQ2RVFtMlZ4Y00yZlFzcmlfRlJxSXdlVFk2VDJzMjhnQWZTWEExUVJGMlpuYnotblkwX0Y0U21WQTlUSU1EZEJoMjE5cWh2emZIN0xjWVlobkt2cnFn?oc=5",
+      "published": "2026-11-20T08:00:52+00:00",
+      "category": "Microsoft 365"
+    },
+    {
+      "id": "95685145073ca6e8",
+      "title": "Windows 11: Microsoft testet Fernsperre für gestohlene Firmen-PCs - it-daily.net",
+      "excerpt": "Windows 11: Microsoft testet Fernsperre für gestohlene Firmen-PCs it-daily.net",
+      "summary": "Windows 11: Microsoft testet Fernsperre für gestohlene Firmen-PCs it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lVE85Z0NOSUpxckpNemRWSUpTRHJfb01wYUxGdzB3bEI1WTMwTzFheDMzN3poR2R0M0pVQ29MUVRfcDk1UEJKVExXQ2hKbTl0aTBsSUxXLVpQSVNGTnN4THhYWWNQSTFtRVpJX1BRNGp1blZpMUE?oc=5",
+      "published": "2026-11-20T06:36:00+00:00",
       "category": "Firmen"
+    },
+    {
+      "id": "d21199013fb2ee2e",
+      "title": "Microsoft Teams: Support für iOS 17 endet, bestehende Apps laufen weiter",
+      "excerpt": "Microsoft Teams: Support für iOS 17 endet, bestehende Apps laufen weiter ad-hoc-news.de",
+      "summary": "Microsoft Teams: Support für iOS 17 endet, bestehende Apps laufen weiter ad-hoc-news.de",
+      "source": "ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVHpGSzNlTTk2aFJGMGNuSUxMeUd3blNwdTR2amZYLWh3QjhtLVFWZVMtenFfcU53MkxsU3BwaHItYlNoazBHRmtfU3h4Rm1sVXJ2XzA2QXIyNjEzdUdIYk1fZXZtVTV3TXBVYS1RY3ctNTRzeXJfal9ISGNkTUJETDdScW5tbGUtdncwT29KbTR0dU1yQWV2WVZpLTlXV0JSYmRqQVBnY2l1a0V5cGo3cGF6TWZlTElCaHhoMw?oc=5",
+      "published": "2026-11-20T03:32:30+00:00",
+      "category": "Microsoft 365"
+    },
+    {
+      "id": "ad622efd91ceb59e",
+      "title": "KI-Agenten in Microsoft 365: Wer hat Zugriff auf welche Daten? - Computerwoche",
+      "excerpt": "KI-Agenten in Microsoft 365: Wer hat Zugriff auf welche Daten? Computerwoche",
+      "summary": "KI-Agenten in Microsoft 365: Wer hat Zugriff auf welche Daten? Computerwoche",
+      "source": "Computerwoche",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWmRGUHhDQVJuX2hYcEJiZzZrWVludnY4N0JOLTRmb1NGVGIzZjBBMDVTcU4yMEZnbTFsb3RkdUZmLUh0bDg1Q0M3eHkycWc0dVJIR25yZDRtLXMwYzJnNld2S05XX3R3dDBSR1plbHh1MzVjZXJ5bUhnSXZtSUJnUXYxUFBjTlF6SHFpUVd1M3h3cS1FZDBzY1JNckJ5Z2lSazdKbU1aR3pVMVJHeC1F?oc=5",
+      "published": "2026-11-20T03:00:00+00:00",
+      "category": "Microsoft 365"
+    },
+    {
+      "id": "ae16ad384fd78c94",
+      "title": "Microsoft Copilot: Word, Excel und PowerPoint jetzt direkt im KI-Chat",
+      "excerpt": "Microsoft Copilot: Word, Excel und PowerPoint jetzt direkt im KI-Chat BornCity",
+      "summary": "Microsoft Copilot: Word, Excel und PowerPoint jetzt direkt im KI-Chat BornCity",
+      "source": "BornCity",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMU5rdGFFQW5JcUl2TW4tRmRnNEFJMkR5ckdmbjlsNVh4dEpiYmxtRkJLc0N4dmF5SExoU2l3WlZIdWRIUTZHVEpLZWRtdXRjbWc3dHhGcmZfMUdjS2FtaTIxajIyVjNLd2NhV3VzOS1OWURIMjczandsalZsTnBhc2RNZEFrQTJvdWpidUxuVGZWZTZzbUVsbkt3?oc=5",
+      "published": "2026-11-19T20:49:05+00:00",
+      "category": "Microsoft 365"
+    },
+    {
+      "id": "0c0430188e20acdf",
+      "title": "Cyberangriff auf EU-Kommission: Verdacht auf KI-Tool Artex, tagelange Ausfälle",
+      "excerpt": "Ein Cyberangriff legte Personalsysteme der EU-Kommission tagelang lahm. Grund ist offenbar der Missbrauch des KI-Tools Artex, vor dem CERT-EU gewarnt hatte.",
+      "summary": "Ein Cyberangriff legte Personalsysteme der EU-Kommission tagelang lahm. Grund ist offenbar der Missbrauch des KI-Tools Artex, vor dem CERT-EU gewarnt hatte.",
+      "source": "heise Security",
+      "url": "https://www.heise.de/news/Cyberangriff-auf-EU-Kommission-Verdacht-auf-KI-Tool-Artex-tagelange-Ausfaelle-11531596.html",
+      "published": "2026-11-19T16:27:00+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "46a591b1a67755ca",
+      "title": "Netsuisse nimmt Clavister ins Portfolio auf - IT-Markt",
+      "excerpt": "Netsuisse nimmt Clavister ins Portfolio auf IT-Markt",
+      "summary": "Netsuisse nimmt Clavister ins Portfolio auf IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbFJTM0o2SmhRdkVEUGVaa19rb2pITjlRR1dhMmpnQ1lqOHJnOFpTU1djT0pJSXM1dHFOclhZSXpkdzZacmNTNHJWZzFTRmRwaktWVlAwLXpXOWt4ZUsyZ1RYbGE2c2dIcXlVRTJVeEloNzFrME50bF85T1hyR0VQeEJLNFpoSHloM19z?oc=5",
+      "published": "2026-11-19T14:25:50+00:00",
+      "category": "Markt"
     },
     {
       "id": "8c9549db4184d79b",
@@ -138,27 +238,7 @@
       "source": "Inside IT",
       "url": "https://www.inside-it.ch/zug-will-vertrauliche-daten-verarbeiten-in-m365-20261119",
       "published": "2026-11-19T12:49:48+00:00",
-      "category": "Microsoft 365"
-    },
-    {
-      "id": "69a98a8fe605ab77",
-      "title": "Trotz KI-Skepsis: Anthropic mit Rekord-Börsengang",
-      "excerpt": "Die Nachfrage beim Börsengang war so gross, dass die KI-Firma sogar mehr Aktien als geplant verkauft hat.",
-      "summary": "Die Nachfrage beim Börsengang war so gross, dass die KI-Firma sogar mehr Aktien als geplant verkauft hat.",
-      "source": "Inside IT",
-      "url": "https://www.inside-it.ch/trotz-ki-skepsis-anthropic-mit-rekord-boersengang-20261119",
-      "published": "2026-11-19T10:58:29+00:00",
-      "category": "Markt"
-    },
-    {
-      "id": "3c8be4a2885aaa92",
-      "title": "Von Hensch zu Mensch: Nahtlos ausgefallen",
-      "excerpt": "Freitag, der 13.: Outlook fiel aus, die Sitzung wurde entschlussfreudiger. Das sagt mehr über uns als über Microsoft.",
-      "summary": "Freitag, der 13.: Outlook fiel aus, die Sitzung wurde entschlussfreudiger. Das sagt mehr über uns als über Microsoft.",
-      "source": "Inside IT",
-      "url": "https://www.inside-it.ch/von-hensch-zu-mensch-nahtlos-ausgefallen-20261119",
-      "published": "2026-11-19T10:14:35+00:00",
-      "category": "Microsoft 365"
+      "category": "IT Schweiz"
     },
     {
       "id": "d1fdbbe90f0f90ba",
@@ -181,37 +261,87 @@
       "category": "IT Schweiz"
     },
     {
-      "id": "9bc402f990ce8639",
-      "title": "Schweizer Firmen gründen Allianz für digitale Souveränität",
-      "excerpt": "Mit Opensovereign wollen fünf Schweizer IT-Unternehmen Open-Source-Technologien als Alternative zu proprietären IT-Lösungen stärken.",
-      "summary": "Mit Opensovereign wollen fünf Schweizer IT-Unternehmen Open-Source-Technologien als Alternative zu proprietären IT-Lösungen stärken.",
-      "source": "Inside IT",
-      "url": "https://www.inside-it.ch/schweizer-firmen-gruenden-allianz-fuer-digitale-souveraenitaet-20261118",
-      "published": "2026-11-18T14:43:34+00:00",
-      "category": "IT Schweiz"
+      "id": "621c230feeace24c",
+      "title": "E-Mail ausgefallen? Wie Behörden und Unternehmen ihre Handlungsfähigkeit sichern - it-daily.net",
+      "excerpt": "E-Mail ausgefallen? Wie Behörden und Unternehmen ihre Handlungsfähigkeit sichern it-daily.net",
+      "summary": "E-Mail ausgefallen? Wie Behörden und Unternehmen ihre Handlungsfähigkeit sichern it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWkJmOXBDcy1lRlRIMW5VR2tuYzY1Y1NaZ29rWm43V25qNWcyODExWjVpUFh2MTFSN0FseFFERHk5ZEVlRlAteEFoTnZqdXN0UFduZzVISUpuZVpHOGt5UlBDUENMX2ZJSENydktNZFJLOVFZbjlrNFBrTS1lLTZqdlU2X2pwcFlRbW5UVjlNSEFKVGtzNHJldG1VaTJ2LUdJ?oc=5",
+      "published": "2026-11-19T08:23:31+00:00",
+      "category": "Firmen"
     },
     {
-      "id": "95b8a7fc0f6de53d",
-      "title": "Microsoft bringt Mensch, KI und Geschäft zusammen",
-      "excerpt": "An der Hausmesse \"Ignite\" in San Francisco zeigte Microsoft neue Entwicklungen rund um Copilot, KI-Agenten, Sicherheit und Cloud-Infrastruktur.",
-      "summary": "An der Hausmesse \"Ignite\" in San Francisco zeigte Microsoft neue Entwicklungen rund um Copilot, KI-Agenten, Sicherheit und Cloud-Infrastruktur.",
-      "source": "Inside IT",
-      "url": "https://www.inside-it.ch/microsoft-bringt-mensch%252C-ki-und-geschaeft-zusammen-20261118",
-      "published": "2026-11-18T13:25:14+00:00",
+      "id": "086af95badb92bbd",
+      "title": "Trends 2027: Vorsprung durch Governance - it-daily.net",
+      "excerpt": "Trends 2027: Vorsprung durch Governance it-daily.net",
+      "summary": "Trends 2027: Vorsprung durch Governance it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lVnRkTURlNkRfQ18zWGFnLXMtWEs1d09EVW54TFFFckE3NTJUbXVZVGNVMnVfc1ZfTzE5ZFhtUl9xNjVheTJ2ci0weTM3QUpqSWcwUl9sU0pubDQ2MFNQYjhxZ082ZjdTeFFJcGw0eVp2V1dYOFFEYmJBMEU3dmc?oc=5",
+      "published": "2026-11-19T04:08:28+00:00",
+      "category": "Trends"
+    },
+    {
+      "id": "6a21a62621a19c6a",
+      "title": "MIND führt DLP-Integrationen für Microsoft Copilot und Microsoft 365 ein",
+      "excerpt": "MIND führt DLP-Integrationen für Microsoft Copilot und Microsoft 365 ein Unite.AI",
+      "summary": "MIND führt DLP-Integrationen für Microsoft Copilot und Microsoft 365 ein Unite.AI",
+      "source": "Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOXy1Vck43UDkyYkdETFBna3RqdjRmbXdsdjlwYXpJQ0FaSjl6TWJRcUNFNkV3YmVsWm9neTJBLU9BS3Z6WXpuUkVSMFFoU1hwcnhjaHZNYU8zUHp4cV93UldSV0kxYUM3cVFHeGZVVGlOb0Y4WEpiTllVY2Y3dHNBZUQ0b1l1U3hlRnNHNGtFeGJDSDQtLUxzdjl0OA?oc=5",
+      "published": "2026-11-18T18:09:03+00:00",
+      "category": "Microsoft 365"
+    },
+    {
+      "id": "23da7ac421f950e4",
+      "title": "Bronschhofer IT-Unternehmen expandiert nach Zürich",
+      "excerpt": "Bronschhofer IT-Unternehmen expandiert nach Zürich Wil24",
+      "summary": "Bronschhofer IT-Unternehmen expandiert nach Zürich Wil24",
+      "source": "Wil24",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWDQxemhkaHRqdGdLOUZPUFF3RkVTMVd0aU9ueE44c3Z1djY3cHpnVGtBbzFoN1NqNU1uZGNacG5KcE5NZXA4WFVNa0ZYXzlWNjJUdjdGNGpqNkJ2dEdILUJsSFVSMFZybTBKZU52WU83dGsyNFVValFxVDIwM24taUdNaDQzdmtLYmFSUg?oc=5",
+      "published": "2026-11-18T16:04:00+00:00",
+      "category": "Firmen"
+    },
+    {
+      "id": "56afc9e17a1eed5b",
+      "title": "Neue Allianz für digitale Unabhängigkeit: Fünf Schweizer IT-Unternehmen gründen OpenSovereign",
+      "excerpt": "Neue Allianz für digitale Unabhängigkeit: Fünf Schweizer IT-Unternehmen gründen OpenSovereign Presseportal Schweiz",
+      "summary": "Neue Allianz für digitale Unabhängigkeit: Fünf Schweizer IT-Unternehmen gründen OpenSovereign Presseportal Schweiz",
+      "source": "Presseportal Schweiz",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVXRNWVMwMTEzQ293OTV6MHBLd2Rnal9PQUwydFN0SDZtSmFwd3JQU2lUZmR1Q1VTaUo1dDBBLU9mdWFUZFRpVlB0ekFXREVmRm80M0pZb1dySU9GSFhKN0RxSmhTZGlCRUJEakNFdzFhamFmMXhvTTFWcjdnM3ZUYVh6d0wtbHBjQUVRSkJ5eXEyY3NkNVQxUVFZOEZ0QmdSZVB6RmNYZWdpbU5Oc0ZmMXA1Ym94OFNtQzRNQk5Sb1BWN0hyWENBUndyYlNmTWvSAdQBQVVfeXFMTlh2MTNQU21yWFJ0LXZMLXRJWEZkQzlQN0l0OUlCRGtNVzNvWEhuUnV2X0JGdWRWWWhkeFV3b25HMklJNkFjaFBYY0o2cmxYVE9UYlZwZlVKdjR0ejhudWVZNnpXZy1VV1FLZFBvbnFNOGxLLTJzRlJGV0p3WEJVOF95QXF1U3NDMHc5MFhKUjhPYXR1a0ZRTDVPZHR5SDNFMmdidkFmSnRqcFFWYW1YWlp3UmdpU1dGX0MzUXAwemp2b0lHVEdMbzg2cFJPb1dub3diYmE?oc=5",
+      "published": "2026-11-18T07:50:10+00:00",
+      "category": "Firmen"
+    },
+    {
+      "id": "00cd893bf9d183c4",
+      "title": "\"Das Energiesystem der Zukunft braucht Daten\" - energate messenger Schweiz",
+      "excerpt": "\"Das Energiesystem der Zukunft braucht Daten\" energate messenger Schweiz",
+      "summary": "\"Das Energiesystem der Zukunft braucht Daten\" energate messenger Schweiz",
+      "source": "energate messenger Schweiz",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV3d5Nm5KYUpyRWRJRzRMYzc0eG1EejY0SUpybGFxWlBmV1dfUDh6UHJOaWRIX0k1dTlvQXpIZDBHY2RDSWdNRUpXclBneW1OTzhhYmw5VlJLVFQ5QmRjSFM2OWZ1VC00MzFfcWt4dXJNWFNJc3dVTTVLV0RYSnFOWmhkN015LUZnaTIyYzA1TnNJaDA?oc=5",
+      "published": "2026-11-17T12:34:00+00:00",
+      "category": "Trends"
+    },
+    {
+      "id": "9a2744fe4192dbea",
+      "title": "Banken und Versicherungen wollen KI-Agenten über die Cloud steuern - IT-Markt",
+      "excerpt": "Banken und Versicherungen wollen KI-Agenten über die Cloud steuern IT-Markt",
+      "summary": "Banken und Versicherungen wollen KI-Agenten über die Cloud steuern IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd1pvRU85b0pVMXFxVDhQbnh4V0dlMzdHMjNfWHRCYnN4MWtNLTEwellLZ1dDMi02MTdMZFl6dmpDWUgyeDZvaUNOTDVaVkdzZWo0VHltNFJ6aF9rMEVpU0g4d0lJaHptcmtYbnBmM3BDdHBSR0ZTeWNEaW0wdUc1WTBuQjJ4OVk5RHBQZlplQjVzVkhkY3BCR0praWZyalF2SlhFR1Q0R0FjaDg?oc=5",
+      "published": "2026-11-17T10:17:03+00:00",
       "category": "Cloud"
     },
     {
-      "id": "f9ea533908e1c981",
-      "title": "Microsoft SharePoint: Angreifer können Code einschleusen und ausführen",
-      "excerpt": "Microsoft warnt vor Sicherheitslücken in der SharePoint Server Subscription Edition. Admins sollten das bereitstehende Update anwenden.",
-      "summary": "Microsoft warnt vor Sicherheitslücken in der SharePoint Server Subscription Edition. Admins sollten das bereitstehende Update anwenden.",
-      "source": "heise Security",
-      "url": "https://www.heise.de/news/Microsoft-SharePoint-Angreifer-koennen-Code-einschleusen-und-ausfuehren-11529556.html",
-      "published": "2026-11-18T13:05:00+00:00",
-      "category": "Microsoft 365"
+      "id": "2ee4038c6151a8e2",
+      "title": "Ohne technische Resilienz keine Cloud-Strategie: Lehren aus dem Microsoft-Ausfall - Computerwoche",
+      "excerpt": "Ohne technische Resilienz keine Cloud-Strategie: Lehren aus dem Microsoft-Ausfall Computerwoche",
+      "summary": "Ohne technische Resilienz keine Cloud-Strategie: Lehren aus dem Microsoft-Ausfall Computerwoche",
+      "source": "Computerwoche",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcDczLXE0UTZ6TC12dTFsd0tVeEFOSmtHbktDNnkzT2pFdlpXdnNxZXB2ZW1raWVWLWl2aVpnVHFqaThtLXBOSC10YWgtdjJVVnlndlcwYVRJSnkyWktuU0FrVVRlRS1ieDVYQmhLU1F2UUJlVWRzZlNjSEZmWm5LUGJqU2tRbWp2LTFiSUdzNDEtQ3lVNTFNdGw1UDJlRnMzSjk0ZUZtMnhUODRVZFYzZ0lhdWJZd3lrNFJzM3dDSDdJcFFUQVZ2T0N3?oc=5",
+      "published": "2026-11-17T08:00:00+00:00",
+      "category": "Cloud"
     }
   ],
-  "updatedAt": "2026-11-21T07:21:19.305526+00:00",
+  "updatedAt": "2026-11-21T08:56:55.023253+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -223,13 +353,13 @@
   },
   "counts": {
     "Security": 5,
-    "Microsoft 365": 4,
+    "Microsoft 365": 5,
     "IT Schweiz": 5,
-    "Cloud": 2,
-    "Trends": 1,
-    "Markt": 1,
-    "Firmen": 3
+    "Cloud": 5,
+    "Trends": 4,
+    "Markt": 5,
+    "Firmen": 5
   },
-  "warning": "Nicht genügend passende aktuelle Meldungen: 1 × Microsoft 365, 3 × Cloud, 4 × Trends, 4 × Markt, 2 × Firmen. 24 von 29 RSS-Quellen waren nicht erreichbar.",
+  "warning": "Nicht genügend passende aktuelle Meldungen: 1 × Trends.",
   "aiSummaries": false
 }
