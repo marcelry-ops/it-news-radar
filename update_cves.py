@@ -30,6 +30,18 @@ VENDOR_DISCOVERY_LIMIT = max(0, min(int(os.getenv("CVE_VENDOR_DISCOVERY_LIMIT", 
 # Gemeinsame Konfiguration fuer Frontend und Datenerzeugung.
 CONFIG_FILE = Path(__file__).with_name('priority_products.json')
 
+def valid_advisory_domain(domain):
+    """Nur DNS-Hostnamen, keine URL, Pfade, Wildcards oder lokalen Hosts."""
+    if not isinstance(domain, str) or len(domain) > 253:
+        return False
+    domain = domain.strip().lower()
+    if not re.fullmatch(r'[a-z0-9.-]+', domain) or '..' in domain:
+        return False
+    parts = domain.split('.')
+    return (len(parts) >= 2 and all(0 < len(p) <= 63 and
+            re.fullmatch(r'[a-z0-9](?:[a-z0-9-]*[a-z0-9])?', p) for p in parts)
+            and not parts[-1].isdigit())
+
 def load_priority_config(path=CONFIG_FILE):
     data = json.loads(Path(path).read_text(encoding='utf-8'))
     if not isinstance(data, dict) or not isinstance(data.get('products'), list):
@@ -50,6 +62,10 @@ def load_priority_config(path=CONFIG_FILE):
             if not isinstance(p, str) or len(p) > 180:
                 raise ValueError('Ungueltiger Regex fuer ' + name)
             re.compile(p)
+        domain = entry.get('advisoryDomain', '')
+        if domain is None: domain = ''
+        if not isinstance(domain, str) or (domain.strip() and not valid_advisory_domain(domain.strip().lower())):
+            raise ValueError('Ungueltige Herstellerdomain fuer ' + name)
         result[name] = patterns
         search.extend(str(s).strip() for s in searches if str(s).strip())
     return result, list(dict.fromkeys(search))
@@ -59,23 +75,8 @@ PRIORITY_TERMS, HISTORICAL_SEARCH_TERMS = load_priority_config()
 # Hersteller-/Produktdomains zur Erkennung offizieller Advisories im News-Suchindex.
 # Kein Hersteller bietet zwingend einen standardisierten, oeffentlichen CVE-Feed.
 # Die Domains sind Kandidaten fuer die Recherche, keine Zusicherung der Abdeckung.
-OFFICIAL_DOMAINS = {
-    'Windows': 'msrc.microsoft.com', 'SQL': 'msrc.microsoft.com',
-    'Oracle': 'oracle.com', 'VMware': 'support.broadcom.com',
-    'ExaGrid': 'exagrid.com', 'SAP': 'support.sap.com',
-    'Microsoft 365': 'msrc.microsoft.com', 'Salesforce': 'salesforce.com',
-    'ServiceNow': 'servicenow.com', 'SuccessFactors': 'sap.com',
-    'Signavio': 'sap.com', 'Omnissa': 'omnissa.com',
-    'CargoServer': None, 'ChatGPT': 'openai.com', 'PHP': 'php.net',
-    'Canon': 'canon-europe.com', 'Intune': 'msrc.microsoft.com',
-    'Kaba': 'dormakabagroup.com', 'Keeper': 'keepersecurity.com',
-    'MapEdit': 'mum.de', 'Adobe': 'helpx.adobe.com',
-    'Autodesk': 'autodesk.com', 'MobiCall': 'newvoiceinternational.com',
-    'NEPLAN': 'neplan.ch', 'Node-RED': 'nodered.org',
-    'OpenText': 'opentext.com', 'xECM': 'opentext.com',
-    'PRTG': 'paessler.com', 'ROKA': None,
-    'SEPPmail': 'seppmail.com', 'Microsoft Teams': 'msrc.microsoft.com',
-}
+# Herstellerdomains werden ausschliesslich in priority_products.json gepflegt.
+
 
 def discover_official_cve_ids(config, fetch=None):
     """Find CVE identifiers indexed for official vendor domains; verify later via NVD.
@@ -87,11 +88,11 @@ def discover_official_cve_ids(config, fetch=None):
     errors = []
     for entry in config.get('products', []):
         name = entry['name']
-        domain = entry.get('advisoryDomain') or OFFICIAL_DOMAINS.get(name)
+        domain = str(entry.get('advisoryDomain') or '').strip().lower()
         if not domain:
             errors.append(name + ': keine verifizierte offizielle Advisory-Domain konfiguriert')
             continue
-        if not re.fullmatch(r'[a-z0-9.-]+', domain):
+        if not valid_advisory_domain(domain):
             errors.append(name + ': ungueltige Domain')
             continue
         query = 'site:' + domain + ' CVE ' + name

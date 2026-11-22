@@ -7,7 +7,8 @@
       ],
       "searchTerms": [
         "Windows"
-      ]
+      ],
+      "advisoryDomain": "msrc.microsoft.com"
     },
     {
       "name": "SQL",
@@ -17,7 +18,8 @@
       ],
       "searchTerms": [
         "SQL Server"
-      ]
+      ],
+      "advisoryDomain": "msrc.microsoft.com"
     },
     {
       "name": "Oracle",
@@ -26,7 +28,8 @@
       ],
       "searchTerms": [
         "Oracle"
-      ]
+      ],
+      "advisoryDomain": "oracle.com"
     },
     {
       "name": "VMware",
@@ -37,7 +40,8 @@
       ],
       "searchTerms": [
         "VMware"
-      ]
+      ],
+      "advisoryDomain": "support.broadcom.com"
     },
     {
       "name": "ExaGrid",
@@ -46,7 +50,8 @@
       ],
       "searchTerms": [
         "ExaGrid"
-      ]
+      ],
+      "advisoryDomain": "exagrid.com"
     },
     {
       "name": "SAP",
@@ -55,7 +60,8 @@
       ],
       "searchTerms": [
         "SAP"
-      ]
+      ],
+      "advisoryDomain": "support.sap.com"
     },
     {
       "name": "Microsoft 365",
@@ -66,7 +72,8 @@
       ],
       "searchTerms": [
         "Microsoft 365"
-      ]
+      ],
+      "advisoryDomain": "msrc.microsoft.com"
     },
     {
       "name": "Salesforce",
@@ -75,7 +82,8 @@
       ],
       "searchTerms": [
         "Salesforce"
-      ]
+      ],
+      "advisoryDomain": "salesforce.com"
     },
     {
       "name": "ServiceNow",
@@ -84,7 +92,8 @@
       ],
       "searchTerms": [
         "ServiceNow"
-      ]
+      ],
+      "advisoryDomain": "servicenow.com"
     },
     {
       "name": "SuccessFactors",
@@ -93,7 +102,8 @@
       ],
       "searchTerms": [
         "SuccessFactors"
-      ]
+      ],
+      "advisoryDomain": "sap.com"
     },
     {
       "name": "Signavio",
@@ -102,7 +112,8 @@
       ],
       "searchTerms": [
         "Signavio"
-      ]
+      ],
+      "advisoryDomain": "sap.com"
     },
     {
       "name": "Omnissa",
@@ -111,7 +122,8 @@
       ],
       "searchTerms": [
         "Omnissa"
-      ]
+      ],
+      "advisoryDomain": "omnissa.com"
     },
     {
       "name": "CargoServer",
@@ -120,7 +132,8 @@
       ],
       "searchTerms": [
         "CargoServer"
-      ]
+      ],
+      "advisoryDomain": ""
     },
     {
       "name": "ChatGPT",
@@ -129,7 +142,8 @@
       ],
       "searchTerms": [
         "ChatGPT"
-      ]
+      ],
+      "advisoryDomain": "openai.com"
     },
     {
       "name": "PHP",
@@ -138,7 +152,8 @@
       ],
       "searchTerms": [
         "PHP"
-      ]
+      ],
+      "advisoryDomain": "php.net"
     },
     {
       "name": "Canon",
@@ -147,7 +162,8 @@
       ],
       "searchTerms": [
         "Canon"
-      ]
+      ],
+      "advisoryDomain": "canon-europe.com"
     },
     {
       "name": "Intune",
@@ -156,7 +172,8 @@
       ],
       "searchTerms": [
         "Intune"
-      ]
+      ],
+      "advisoryDomain": "msrc.microsoft.com"
     },
     {
       "name": "Kaba",
@@ -166,7 +183,8 @@
       ],
       "searchTerms": [
         "Kaba"
-      ]
+      ],
+      "advisoryDomain": "dormakabagroup.com"
     },
     {
       "name": "Keeper",
@@ -175,7 +193,8 @@
       ],
       "searchTerms": [
         "Keeper"
-      ]
+      ],
+      "advisoryDomain": "keepersecurity.com"
     },
     {
       "name": "MapEdit",
@@ -184,7 +203,8 @@
       ],
       "searchTerms": [
         "MapEdit"
-      ]
+      ],
+      "advisoryDomain": "mum.de"
     },
     {
       "name": "Adobe",
@@ -193,7 +213,8 @@
       ],
       "searchTerms": [
         "Adobe"
-      ]
+      ],
+      "advisoryDomain": "helpx.adobe.com"
     },
     {
       "name": "Autodesk",
@@ -202,7 +223,8 @@
       ],
       "searchTerms": [
         "Autodesk"
-      ]
+      ],
+      "advisoryDomain": "autodesk.com"
     },
     {
       "name": "MobiCall",
@@ -211,7 +233,8 @@
       ],
       "searchTerms": [
         "MobiCall"
-      ]
+      ],
+      "advisoryDomain": "newvoiceinternational.com"
     },
     {
       "name": "NEPLAN",
@@ -220,7 +243,8 @@
       ],
       "searchTerms": [
         "NEPLAN"
-      ]
+      ],
+      "advisoryDomain": "neplan.ch"
     },
     {
       "name": "Node-RED",
@@ -229,7 +253,8 @@
       ],
       "searchTerms": [
         "Node-RED"
-      ]
+      ],
+      "advisoryDomain": "nodered.org"
     },
     {
       "name": "OpenText",
@@ -238,7 +263,8 @@
       ],
       "searchTerms": [
         "OpenText"
-      ]
+      ],
+      "advisoryDomain": "opentext.com"
     },
     {
       "name": "xECM",
@@ -247,7 +273,8 @@
       ],
       "searchTerms": [
         "xECM"
-      ]
+      ],
+      "advisoryDomain": "opentext.com"
     },
     {
       "name": "PRTG",
@@ -256,7 +283,8 @@
       ],
       "searchTerms": [
         "PRTG"
-      ]
+      ],
+      "advisoryDomain": "paessler.com"
     },
     {
       "name": "ROKA",
@@ -265,7 +293,8 @@
       ],
       "searchTerms": [
         "ROKA"
-      ]
+      ],
+      "advisoryDomain": ""
     },
     {
       "name": "SEPPmail",
@@ -274,7 +303,8 @@
       ],
       "searchTerms": [
         "SEPPmail"
-      ]
+      ],
+      "advisoryDomain": "seppmail.com"
     },
     {
       "name": "Microsoft Teams",
@@ -284,7 +314,8 @@
       ],
       "searchTerms": [
         "Microsoft Teams"
-      ]
+      ],
+      "advisoryDomain": "msrc.microsoft.com"
     }
   ]
 }
