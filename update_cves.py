@@ -4,6 +4,8 @@ Only standard library; source failures are reported in cves.json.
 """
 import datetime as dt
 import json
+import html
+import logging
 import os
 import re
 import time
@@ -19,6 +21,93 @@ CVE_ORG = 'https://cveawg.mitre.org/api/cve/'
 DAYS = max(1, min(int(os.getenv('CVE_DAYS', '14')), 120))
 MAX_ITEMS = max(50, min(int(os.getenv('CVE_MAX_ITEMS', '2000')), 10000))
 TOP_CVES = 50
+
+# Relevance influences which records enter the Top 50, never the displayed sort.
+PRIORITY_TERMS = {
+ 'Windows': [r'\bwindows\b'], 'SQL': [r'\bsql server\b', r'\bmysql\b', r'\bpostgresql\b', r'\bsql\b'],
+ 'Oracle': [r'\boracle\b'], 'VMware': [r'\bvmware\b', r'\bvsphere\b', r'\besxi\b'],
+ 'ExaGrid': [r'\bexagrid\b'], 'SAP': [r'\bsap\b'],
+ 'Microsoft 365': [r'\bmicrosoft 365\b', r'\boffice 365\b', r'\bm365\b'],
+ 'Salesforce': [r'\bsalesforce\b'], 'ServiceNow': [r'\bservicenow\b'],
+ 'SuccessFactors': [r'\bsuccessfactors\b'], 'Signavio': [r'\bsignavio\b'],
+ 'Omnissa': [r'\bomnissa\b'], 'CargoServer': [r'\bcargoserver\b'],
+ 'ChatGPT': [r'\bchatgpt\b', r'\bopenai\b'], 'PHP': [r'\bphp\b'],
+ 'Canon': [r'\bcanon\b'], 'Intune': [r'\bintune\b'],
+ 'Kaba': [r'\bkaba\b', r'\bdormakaba\b'], 'Keeper': [r'\bkeeper\b'],
+ 'MapEdit': [r'\bmapedit\b'], 'Adobe': [r'\badobe\b'],
+ 'Autodesk': [r'\bautodesk\b'], 'MobiCall': [r'\bmobicall\b'],
+ 'NEPLAN': [r'\bneplan\b'], 'Node-RED': [r'\bnode[- ]red\b'],
+ 'OpenText': [r'\bopentext\b'], 'xECM': [r'\bxecm\b'],
+ 'PRTG': [r'\bprtg\b'], 'ROKA': [r'\broka\b'],
+ 'SEPPmail': [r'\bseppmail\b'], 'Microsoft Teams': [r'\bmicrosoft teams\b', r'\bms teams\b'],
+}
+
+def priority_products(item):
+    text = ' '.join([str(item.get('description', '')), ' '.join(item.get('products') or [])]).casefold()
+    return [name for name, patterns in PRIORITY_TERMS.items() if any(re.search(pattern, text, re.I) for pattern in patterns)]
+
+def short_title(text):
+    text = re.sub(r'\s+', ' ', html.unescape(str(text or ''))).strip()
+    first = re.split(r'(?<=[.!?])\s+', text, maxsplit=1)[0]
+    return first[:125].rstrip(' ,;:-') + ('…' if len(first) > 125 else '') if first else 'Schwachstelle ohne Titel'
+
+def dedupe_aliases(items):
+    # Prefer the CVE as canonical ID if an EUVD row names the same CVE.
+    by_id = {x['id']: x for x in items}
+    for euvd_id in [k for k in list(by_id) if k.startswith('EUVD-')]:
+        row = by_id.get(euvd_id)
+        if not row: continue
+        aliases = [x for x in row.get('aliases', []) if x.startswith('CVE-')]
+        canonical = next((x for x in aliases if x in by_id), None)
+        if canonical:
+            merge(by_id[canonical], row)
+            by_id[canonical]['aliases'] = list(dict.fromkeys(by_id[canonical].get('aliases', []) + [euvd_id]))
+            del by_id[euvd_id]
+    return list(by_id.values())
+
+def choose_top(items, limit=TOP_CVES):
+    ranked = rank(items)
+    priority = [x for x in ranked if x.get('priorityProducts')]
+    regular = [x for x in ranked if not x.get('priorityProducts')]
+    # Prefer relevant software in the 50-record selection, while still showing
+    # newest modified timestamp first and severity second in the final list.
+    return rank((priority + regular)[:limit])
+
+def translate_descriptions(items):
+    # Offline, no API key, no external transmission of article content.
+    # Requires argostranslate and en->de model preinstalled by the workflow.
+    try:
+        import argostranslate.translate as trans
+        installed = trans.get_installed_languages()
+        en = next((x for x in installed if x.code == 'en'), None)
+        de = next((x for x in installed if x.code == 'de'), None)
+        translator = en.get_translation(de) if en and de else None
+    except Exception as exc:
+        print('WARN: German translation unavailable:', str(exc)[:120])
+        translator = None
+    cache = {}
+    for item in items:
+        raw = item.get('description', '')
+        if not raw or raw == 'Keine Beschreibung vorhanden.':
+            item['language'] = 'unknown'; continue
+        # Source language metadata is often absent; attempt offline translation
+        # on English-looking text; do not label unverified output as translated.
+        english = bool(re.search(r'\b(the|allows|vulnerability|affected|could|remote|attacker|arbitrary)\b', raw, re.I))
+        if not english:
+            item['language'] = 'de'; continue
+        if translator:
+            try:
+                if raw not in cache: cache[raw] = translator.translate(raw[:1600])
+                if cache[raw] and cache[raw] != raw:
+                    item['descriptionOriginal'] = raw
+                    item['description'] = cache[raw]
+                    item['language'] = 'de'; continue
+            except Exception as exc:
+                print('WARN: translation failed:', str(exc)[:100])
+        item['language'] = 'en'
+    for item in items:
+        item['title'] = short_title(item.get('description'))
+
 PAGE_SIZE = 2000
 ID_RE = re.compile(r'\bCVE-\d{4}-\d{4,}\b', re.I)
 EUVD_RE = re.compile(r'\bEUVD-\d{4}-\d+\b', re.I)
@@ -105,7 +194,7 @@ def products(cve):
 def base(cve_id):
     return {'id': cve_id, 'score': None, 'severity': 'UNRATED', 'cvssVersion': None,
             'published': None, 'modified': None, 'description': 'Keine Beschreibung vorhanden.',
-            'products': [], 'references': [], 'sources': [],
+            'products': [], 'references': [], 'sources': [], 'aliases': [],
             'url': ('https://euvd.enisa.europa.eu/enisaid/' + urllib.parse.quote(cve_id)
                     if cve_id.startswith('EUVD-') else 'https://www.cve.org/CVERecord?id=' + cve_id)}
 
@@ -132,6 +221,7 @@ def merge(target, candidate):
         target['cvssVersion'] = candidate.get('cvssVersion')
     if target['description'] == 'Keine Beschreibung vorhanden.' and candidate.get('description') and candidate['description'] != 'Keine Beschreibung vorhanden.':
         target['description'] = candidate['description'][:5000]
+    target['aliases'] = list(dict.fromkeys(target.get('aliases', []) + candidate.get('aliases', [])))
     target['products'] = list(dict.fromkeys(target['products'] + candidate.get('products', [])))[:5]
     target['references'] = list(dict.fromkeys(target['references'] + candidate.get('references', [])))[:12]
     target['sources'] = list(dict.fromkeys(target['sources'] + candidate.get('sources', [])))
@@ -166,6 +256,7 @@ def euvd_candidates(payload):
         for identifier in dict.fromkeys(x for x in (euvd_id, cve_id) if x):
             item = base(identifier)
             item.update(sources=['ENISA EUVD'], published=published, modified=modified,
+                        aliases=[x for x in (euvd_id, cve_id) if x and x != identifier],
                         description=str(row.get('description') or item['description'])[:5000])
             if score is not None:
                 item['score'], item['severity'] = score, severity_for(score)
@@ -272,12 +363,16 @@ def build():
     selected = [x for x in entries.values() if
                 (x.get('modified') and x['modified'] >= threshold) or
                 (x.get('published') and x['published'] >= threshold)]
-    selected = rank(selected)[:TOP_CVES]
+    selected = dedupe_aliases(selected)
+    for item in selected:
+        item['priorityProducts'] = priority_products(item)
+    selected = choose_top(selected)
+    translate_descriptions(selected)
     payload = {'updatedAt': iso(now.isoformat()), 'windowDays': DAYS,
                'totalResultsNvd': total, 'count': len(selected),
                'truncated': start_index < (total or 0),
                'source': 'NVD, CVE.org, cve.now, ENISA EUVD',
-               'sort': 'modified_desc_score_desc',
+               'sort': 'modified_desc_score_desc', 'priorityMode': 'prefer_relevant_in_top50',
                'warning': ' | '.join(warnings) if warnings else None,
                'items': selected}
     Path('cves.json').write_text(json.dumps(payload, ensure_ascii=False, separators=(',', ':')), encoding='utf-8')
