@@ -231,16 +231,6 @@
       "category": "Cloud"
     },
     {
-      "id": "593b305001cf34f3",
-      "title": "VMware vCenter – Zero-Day seit September aktiv ausgenutzt",
-      "excerpt": "VMware vCenter – Zero-Day seit September aktiv ausgenutzt Meteora Web",
-      "summary": "VMware vCenter – Zero-Day seit September aktiv ausgenutzt Meteora Web",
-      "source": "Meteora Web",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdkE4Y09xb3pFd3AxV3NjbVE2WGVwb3ZzTEs2MHhHVGV5VHc2NTAtV2pNUE1Ob3JDZWM5Q2VyZlV1YXNKaGRXcDk2aEtvdWpHVWlNMVp4eHFvN2ktUzdNcHF4ekdmTUVIVzhRNzJjT1JvM0N4VnZEdnlMbkZPTFlDX1NEdEp2SFhYWGo2STlNbGdlMkpaSVg1VHpfYmU?oc=5",
-      "published": "2026-11-20T09:16:22+00:00",
-      "category": "Security"
-    },
-    {
       "id": "b54a1ae6b4d85eed",
       "title": "Microsoft Teams: Support für iOS 17 und iPadOS 17 endet",
       "excerpt": "Microsoft Teams: Support für iOS 17 und iPadOS 17 endet Caschys Blog",
@@ -279,6 +269,16 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMU5rdGFFQW5JcUl2TW4tRmRnNEFJMkR5ckdmbjlsNVh4dEpiYmxtRkJLc0N4dmF5SExoU2l3WlZIdWRIUTZHVEpLZWRtdXRjbWc3dHhGcmZfMUdjS2FtaTIxajIyVjNLd2NhV3VzOS1OWURIMjczandsalZsTnBhc2RNZEFrQTJvdWpidUxuVGZWZTZzbUVsbkt3?oc=5",
       "published": "2026-11-19T20:49:05+00:00",
       "category": "Microsoft 365"
+    },
+    {
+      "id": "0c0430188e20acdf",
+      "title": "Cyberangriff auf EU-Kommission: Verdacht auf KI-Tool Artex, tagelange Ausfälle",
+      "excerpt": "Ein Cyberangriff legte Personalsysteme der EU-Kommission tagelang lahm. Grund ist offenbar der Missbrauch des KI-Tools Artex, vor dem CERT-EU gewarnt hatte.",
+      "summary": "Ein Cyberangriff legte Personalsysteme der EU-Kommission tagelang lahm. Grund ist offenbar der Missbrauch des KI-Tools Artex, vor dem CERT-EU gewarnt hatte.",
+      "source": "heise Security",
+      "url": "https://www.heise.de/news/Cyberangriff-auf-EU-Kommission-Verdacht-auf-KI-Tool-Artex-tagelange-Ausfaelle-11531596.html",
+      "published": "2026-11-19T16:27:00+00:00",
+      "category": "Security"
     },
     {
       "id": "46a591b1a67755ca",
@@ -351,7 +351,7 @@
       "category": "Trends"
     }
   ],
-  "updatedAt": "2026-11-22T01:19:03.226193+00:00",
+  "updatedAt": "2026-11-22T02:57:51.373008+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
