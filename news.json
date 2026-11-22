@@ -1,13 +1,13 @@
 {
   "items": [
     {
-      "id": "64acb495ba78eec2",
-      "title": "Atlassian Williams F1 schützt Daten mit Keeper Security - it-daily.net",
-      "excerpt": "Atlassian Williams F1 schützt Daten mit Keeper Security it-daily.net",
-      "summary": "Atlassian Williams F1 schützt Daten mit Keeper Security it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5aMHZEcC1FWTVfU0hFM05qQWNQZk9TTVlzRXNTNUw5MGJCTnExcGl4Qk5SUFlxdXk3Q2IxWEJVazZYcWZWZzN4RkZHSFktejJXYWdvZGM2LV9hM2c0dThlTWdyUEhZcnJVY0FSUGs1SQ?oc=5",
-      "published": "2026-11-22T10:31:30+00:00",
+      "id": "6a13cf05ba534692",
+      "title": "E-Books und Bücher: Hackerangriff legt Hugendubel-Homepage und Tolino-Cloud lahm",
+      "excerpt": "Hugendubel ist Opfer eines Hackerangriffs geworden und hat etliche Systeme vom Netz genommen. Das hat auch Auswirkungen auf E-Book-Reader. ( Cybercrime , Mobil )",
+      "summary": "Hugendubel ist Opfer eines Hackerangriffs geworden und hat etliche Systeme vom Netz genommen. Das hat auch Auswirkungen auf E-Book-Reader. ( Cybercrime , Mobil )",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/e-books-und-buecher-hackerangriff-legt-hugendubel-homepage-und-tolino-cloud-lahm-2611-215513.html",
+      "published": "2026-11-22T10:58:02+00:00",
       "category": "Security"
     },
     {
@@ -19,6 +19,16 @@
       "url": "https://www.heise.de/news/GL-iNet-Schwachstelle-entdeckt-Patch-verfuegbar-11533722.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "published": "2026-11-22T10:02:00+00:00",
       "category": "Security"
+    },
+    {
+      "id": "ee88db8b22361297",
+      "title": "Gehirn in die Cloud laden: 6 Wege, wie Forscher unser Bewusstsein retten wollen - t3n",
+      "excerpt": "Gehirn in die Cloud laden: 6 Wege, wie Forscher unser Bewusstsein retten wollen t3n",
+      "summary": "Gehirn in die Cloud laden: 6 Wege, wie Forscher unser Bewusstsein retten wollen t3n",
+      "source": "t3n",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxMUFxcHVNTDRnT3dEU0h0R3dXdVRyYUZQUWM1ZWRPTDZIU1FidzB5anVNYUpTWUt2VlJPSXlZOGItUzY0VFpmWC1nRkYyakpBVzRlQlh4b1U3SkM2aFRJYnhSTVpmXzJUa1NPOVNBYlVoNGlfZmJfZg?oc=5",
+      "published": "2026-11-22T09:50:00+00:00",
+      "category": "Cloud"
     },
     {
       "id": "3c57d58204683fae",
@@ -61,24 +71,14 @@
       "category": "Security"
     },
     {
-      "id": "c1eb725427c7b6de",
-      "title": "KI-Phishing: Warum die alten Warnsignale nicht mehr reichen - it-daily.net",
-      "excerpt": "KI-Phishing: Warum die alten Warnsignale nicht mehr reichen it-daily.net",
-      "summary": "KI-Phishing: Warum die alten Warnsignale nicht mehr reichen it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNazJvSEhkOS1JbkFZaVdvcE9EdThpenJHNG1UbjVnZ2RuMVNJY0pEM1pzSDNBeExuTjc4RVdDZEZGcHh2a0VHRTFRLVVhcGlHSHBMelIyUnpCSHkzbXVSNzBaclE5cmVCS1JPQjJqN1FOQ19hSUttaWV1NUxkNTlFWkk5Rl9wdHVQZVE?oc=5",
-      "published": "2026-11-22T04:40:45+00:00",
-      "category": "Security"
-    },
-    {
-      "id": "71c451bd49cc233d",
-      "title": "KI-Agenten von Start-Up drangen in Anthropics Systeme ein - it-daily.net",
-      "excerpt": "KI-Agenten von Start-Up drangen in Anthropics Systeme ein it-daily.net",
-      "summary": "KI-Agenten von Start-Up drangen in Anthropics Systeme ein it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zM1pwZERWSk5RQnFkVFhOTHQtNDhJSmp1T09WQ2x5bDdTdVdKVDJoN1g3TXV5aW5hbjJEV2xpTWI5NlVkSGUxaDdwdndwZnl6TUVxekpyaEtiMWtBN0pGcFk4TGwwaUlRYTZ6X0ZCOUw5Zw?oc=5",
-      "published": "2026-11-21T17:44:31+00:00",
-      "category": "Firmen"
+      "id": "cbad23249b8728b6",
+      "title": "Neues Outlook für Windows: Microsoft bestätigt Fehler bei Dateianhängen",
+      "excerpt": "Neues Outlook für Windows: Microsoft bestätigt Fehler bei Dateianhängen ad-hoc-news.de",
+      "summary": "Neues Outlook für Windows: Microsoft bestätigt Fehler bei Dateianhängen ad-hoc-news.de",
+      "source": "ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOR2tGTW9XNDliV1gzYVhzREJqUVpoVTJ0Mm9uLTM4UG9qbXZFalpwaEFsZjM5NFJoTDBRZkd4WU1WbTBpTWpuekNFTTNKcWdKRG1GZGFzanhKNHBuQlc5SzhOYS1SRXJNbnJncnpfNUJzc0tUZmN0akl5OVVtTE9MYjZveHZQSUR1Ul9GZmE1MS11N093SW5MSUNFTVJTZE5IcHp6ZTJkR2pLSjZCdXdtSHVieG1OVVlBTndTbUJ1dw?oc=5",
+      "published": "2026-11-21T23:12:43+00:00",
+      "category": "Microsoft 365"
     },
     {
       "id": "b50b5168396c0e06",
@@ -99,6 +99,16 @@
       "url": "https://www.heise.de/news/Fuenf-EU-Staaten-wollen-Zentrum-fuer-KI-in-der-Verteidigung-gruenden-11533498.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "published": "2026-11-21T14:48:00+00:00",
       "category": "Trends"
+    },
+    {
+      "id": "970546e159f53de2",
+      "title": "Immobilienverwaltung: Hackerangriff auf Bundesagentur für Arbeit - it-daily.net",
+      "excerpt": "Immobilienverwaltung: Hackerangriff auf Bundesagentur für Arbeit it-daily.net",
+      "summary": "Immobilienverwaltung: Hackerangriff auf Bundesagentur für Arbeit it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPUnhKeHN4Mk9jTzRxX2NndldXOF96MnJnQ0ZxcE5NZ09vSTVJX3ZFaEQ3NWJCbjYwb1RhbTk5NnZKaGs2MHVyR01iZnd6aFNPcWcwR2kwZUlPYUkzbGtrRUhCSkxTVWQxTUJxeFF1SjVtdk4t?oc=5",
+      "published": "2026-11-21T10:38:14+00:00",
+      "category": "Security"
     },
     {
       "id": "86791593dbc569d5",
@@ -241,16 +251,6 @@
       "category": "Firmen"
     },
     {
-      "id": "52bbed2a9b40349c",
-      "title": "Arrow erweitert ArrowSphere um Vertriebsportal",
-      "excerpt": "Arrow ergänzt ArrowSphere Cloud um ein Vertriebsportal für das Geschäft mit Microsoft und AWS. Zunächst erhalten ausgewählte Partner Zugang.",
-      "summary": "Arrow ergänzt ArrowSphere Cloud um ein Vertriebsportal für das Geschäft mit Microsoft und AWS. Zunächst erhalten ausgewählte Partner Zugang.",
-      "source": "IT Reseller",
-      "url": "https://www.itreseller.ch/Artikel/106655/Arrow_erweitert_ArrowSphere_um_Vertriebsportal.html",
-      "published": "2026-11-20T10:02:47+00:00",
-      "category": "Cloud"
-    },
-    {
       "id": "593b305001cf34f3",
       "title": "VMware vCenter – Zero-Day seit September aktiv ausgenutzt",
       "excerpt": "VMware vCenter – Zero-Day seit September aktiv ausgenutzt Meteora Web",
@@ -259,16 +259,6 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdkE4Y09xb3pFd3AxV3NjbVE2WGVwb3ZzTEs2MHhHVGV5VHc2NTAtV2pNUE1Ob3JDZWM5Q2VyZlV1YXNKaGRXcDk2aEtvdWpHVWlNMVp4eHFvN2ktUzdNcHF4ekdmTUVIVzhRNzJjT1JvM0N4VnZEdnlMbkZPTFlDX1NEdEp2SFhYWGo2STlNbGdlMkpaSVg1VHpfYmU?oc=5",
       "published": "2026-11-20T09:16:22+00:00",
       "category": "Security"
-    },
-    {
-      "id": "95685145073ca6e8",
-      "title": "Windows 11: Microsoft testet Fernsperre für gestohlene Firmen-PCs - it-daily.net",
-      "excerpt": "Windows 11: Microsoft testet Fernsperre für gestohlene Firmen-PCs it-daily.net",
-      "summary": "Windows 11: Microsoft testet Fernsperre für gestohlene Firmen-PCs it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lVE85Z0NOSUpxckpNemRWSUpTRHJfb01wYUxGdzB3bEI1WTMwTzFheDMzN3poR2R0M0pVQ29MUVRfcDk1UEJKVExXQ2hKbTl0aTBsSUxXLVpQSVNGTnN4THhYWWNQSTFtRVpJX1BRNGp1blZpMUE?oc=5",
-      "published": "2026-11-20T06:36:00+00:00",
-      "category": "Firmen"
     },
     {
       "id": "ad622efd91ceb59e",
@@ -301,26 +291,6 @@
       "category": "Markt"
     },
     {
-      "id": "8c9549db4184d79b",
-      "title": "Zug will vertrauliche Daten verarbeiten in M365",
-      "excerpt": "Die Mitarbeitenden der kantonalen Verwaltung können Microsoft 365 zukünftig nahezu uneingeschränkt nutzen. Lediglich geheime Dokumente wie Steuerunterlagen sind tabu.",
-      "summary": "Die Mitarbeitenden der kantonalen Verwaltung können Microsoft 365 zukünftig nahezu uneingeschränkt nutzen. Lediglich geheime Dokumente wie Steuerunterlagen sind tabu.",
-      "source": "Inside IT",
-      "url": "https://www.inside-it.ch/zug-will-vertrauliche-daten-verarbeiten-in-m365-20261119",
-      "published": "2026-11-19T12:49:48+00:00",
-      "category": "Microsoft 365"
-    },
-    {
-      "id": "086af95badb92bbd",
-      "title": "Trends 2027: Vorsprung durch Governance - it-daily.net",
-      "excerpt": "Trends 2027: Vorsprung durch Governance it-daily.net",
-      "summary": "Trends 2027: Vorsprung durch Governance it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lVnRkTURlNkRfQ18zWGFnLXMtWEs1d09EVW54TFFFckE3NTJUbXVZVGNVMnVfc1ZfTzE5ZFhtUl9xNjVheTJ2ci0weTM3QUpqSWcwUl9sU0pubDQ2MFNQYjhxZ082ZjdTeFFJcGw0eVp2V1dYOFFEYmJBMEU3dmc?oc=5",
-      "published": "2026-11-19T04:08:28+00:00",
-      "category": "Trends"
-    },
-    {
       "id": "6a21a62621a19c6a",
       "title": "MIND führt DLP-Integrationen für Microsoft Copilot und Microsoft 365 ein",
       "excerpt": "MIND führt DLP-Integrationen für Microsoft Copilot und Microsoft 365 ein Unite.AI",
@@ -341,6 +311,26 @@
       "category": "Firmen"
     },
     {
+      "id": "9bc402f990ce8639",
+      "title": "Schweizer Firmen gründen Allianz für digitale Souveränität",
+      "excerpt": "Mit Opensovereign wollen fünf Schweizer IT-Unternehmen Open-Source-Technologien als Alternative zu proprietären IT-Lösungen stärken.",
+      "summary": "Mit Opensovereign wollen fünf Schweizer IT-Unternehmen Open-Source-Technologien als Alternative zu proprietären IT-Lösungen stärken.",
+      "source": "Inside IT",
+      "url": "https://www.inside-it.ch/schweizer-firmen-gruenden-allianz-fuer-digitale-souveraenitaet-20261118",
+      "published": "2026-11-18T14:43:34+00:00",
+      "category": "Firmen"
+    },
+    {
+      "id": "56afc9e17a1eed5b",
+      "title": "Neue Allianz für digitale Unabhängigkeit: Fünf Schweizer IT-Unternehmen gründen OpenSovereign",
+      "excerpt": "Neue Allianz für digitale Unabhängigkeit: Fünf Schweizer IT-Unternehmen gründen OpenSovereign Presseportal Schweiz",
+      "summary": "Neue Allianz für digitale Unabhängigkeit: Fünf Schweizer IT-Unternehmen gründen OpenSovereign Presseportal Schweiz",
+      "source": "Presseportal Schweiz",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVXRNWVMwMTEzQ293OTV6MHBLd2Rnal9PQUwydFN0SDZtSmFwd3JQU2lUZmR1Q1VTaUo1dDBBLU9mdWFUZFRpVlB0ekFXREVmRm80M0pZb1dySU9GSFhKN0RxSmhTZGlCRUJEakNFdzFhamFmMXhvTTFWcjdnM3ZUYVh6d0wtbHBjQUVRSkJ5eXEyY3NkNVQxUVFZOEZ0QmdSZVB6RmNYZWdpbU5Oc0ZmMXA1Ym94OFNtQzRNQk5Sb1BWN0hyWENBUndyYlNmTWvSAdQBQVVfeXFMTlh2MTNQU21yWFJ0LXZMLXRJWEZkQzlQN0l0OUlCRGtNVzNvWEhuUnV2X0JGdWRWWWhkeFV3b25HMklJNkFjaFBYY0o2cmxYVE9UYlZwZlVKdjR0ejhudWVZNnpXZy1VV1FLZFBvbnFNOGxLLTJzRlJGV0p3WEJVOF95QXF1U3NDMHc5MFhKUjhPYXR1a0ZRTDVPZHR5SDNFMmdidkFmSnRqcFFWYW1YWlp3UmdpU1dGX0MzUXAwemp2b0lHVEdMbzg2cFJPb1dub3diYmE?oc=5",
+      "published": "2026-11-18T07:50:10+00:00",
+      "category": "Firmen"
+    },
+    {
       "id": "00cd893bf9d183c4",
       "title": "\"Das Energiesystem der Zukunft braucht Daten\" - energate messenger Schweiz",
       "excerpt": "\"Das Energiesystem der Zukunft braucht Daten\" energate messenger Schweiz",
@@ -351,7 +341,7 @@
       "category": "Trends"
     }
   ],
-  "updatedAt": "2026-11-22T10:54:36.883288+00:00",
+  "updatedAt": "2026-11-22T11:52:22.056215+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -366,10 +356,10 @@
     "Microsoft 365": 5,
     "IT Schweiz": 5,
     "Cloud": 5,
-    "Trends": 5,
+    "Trends": 4,
     "Markt": 5,
     "Firmen": 5
   },
-  "warning": "",
+  "warning": "Nicht genügend passende aktuelle Meldungen: 1 × Trends.",
   "aiSummaries": false
 }
