@@ -35,14 +35,14 @@ HISTORICAL_SEARCH_TERMS = [
 
 # Relevance influences which records enter the Top 50, never the displayed sort.
 PRIORITY_TERMS = {
- 'Windows': [r'\bwindows\b'], 'SQL': [r'\bsql server\b', r'\bmysql\b', r'\bpostgresql\b', r'\bsql\b'],
+ 'Windows': [r'\bwindows\b'], 'SQL': [r'\bsql server\b', r'\bmicrosoft sql server\b'],
  'Oracle': [r'\boracle\b'], 'VMware': [r'\bvmware\b', r'\bvsphere\b', r'\besxi\b'],
  'ExaGrid': [r'\bexagrid\b'], 'SAP': [r'\bsap\b'],
  'Microsoft 365': [r'\bmicrosoft 365\b', r'\boffice 365\b', r'\bm365\b'],
  'Salesforce': [r'\bsalesforce\b'], 'ServiceNow': [r'\bservicenow\b'],
  'SuccessFactors': [r'\bsuccessfactors\b'], 'Signavio': [r'\bsignavio\b'],
  'Omnissa': [r'\bomnissa\b'], 'CargoServer': [r'\bcargoserver\b'],
- 'ChatGPT': [r'\bchatgpt\b', r'\bopenai\b'], 'PHP': [r'\bphp\b'],
+ 'ChatGPT': [r'\bchatgpt\b'], 'PHP': [r'\bphp\b'],
  'Canon': [r'\bcanon\b'], 'Intune': [r'\bintune\b'],
  'Kaba': [r'\bkaba\b', r'\bdormakaba\b'], 'Keeper': [r'\bkeeper\b'],
  'MapEdit': [r'\bmapedit\b'], 'Adobe': [r'\badobe\b'],
@@ -419,15 +419,22 @@ def build():
     selected = [x for x in selected if x.get('score') is not None and x['score'] >= MIN_CVSS]
     for item in selected:
         item['priorityProducts'] = priority_products(item)
-    selected = choose_top(selected)
-    translate_descriptions(selected)
+    # Independent top-50 pools, not limited to the global 50.
+    global_top = choose_top(selected)
+    product_pools = {name: rank([x for x in selected if name in x.get('priorityProducts', [])])[:TOP_CVES]
+                     for name in PRIORITY_TERMS}
+    unique = {x['id']: x for x in global_top}
+    for pool in product_pools.values():
+        unique.update((x['id'], x) for x in pool)
+    translate_descriptions(list(unique.values()))
+    selected = global_top
     payload = {'updatedAt': iso(now.isoformat()), 'windowDays': DAYS,
                'totalResultsNvd': total, 'count': len(selected),
                'truncated': start_index < (total or 0),
                'source': 'NVD, CVE.org, cve.now, ENISA EUVD',
                'sort': 'modified_desc_score_desc', 'priorityMode': 'prefer_relevant_in_top50', 'minimumCvss': MIN_CVSS,
                'warning': ' | '.join(warnings) if warnings else None,
-               'items': selected}
+               'items': selected, 'priorityItems': product_pools, 'priorityNames': list(PRIORITY_TERMS)}
     Path('cves.json').write_text(json.dumps(payload, ensure_ascii=False, separators=(',', ':')), encoding='utf-8')
     print(f'Wrote {len(selected)} CVEs from {len(entries)} unique candidates')
 
