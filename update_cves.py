@@ -11,6 +11,7 @@ import re
 import time
 import urllib.parse
 import urllib.request
+import xml.etree.ElementTree as ET
 from pathlib import Path
 
 UTC = dt.timezone.utc
@@ -23,7 +24,9 @@ MAX_ITEMS = max(50, min(int(os.getenv('CVE_MAX_ITEMS', '2000')), 10000))
 TOP_CVES = 50
 MIN_CVSS = 9.0
 # Separate bounded historical lookups for priority software.
-HISTORICAL_RESULTS_PER_TERM = 20
+HISTORICAL_RESULTS_PER_TERM = 100
+HISTORICAL_PAGES_PER_TERM = max(1, min(int(os.getenv("CVE_HISTORICAL_PAGES", "2")), 5))
+VENDOR_DISCOVERY_LIMIT = max(0, min(int(os.getenv("CVE_VENDOR_DISCOVERY_LIMIT", "90")), 300))
 # Gemeinsame Konfiguration fuer Frontend und Datenerzeugung.
 CONFIG_FILE = Path(__file__).with_name('priority_products.json')
 
@@ -52,6 +55,65 @@ def load_priority_config(path=CONFIG_FILE):
     return result, list(dict.fromkeys(search))
 
 PRIORITY_TERMS, HISTORICAL_SEARCH_TERMS = load_priority_config()
+
+# Hersteller-/Produktdomains zur Erkennung offizieller Advisories im News-Suchindex.
+# Kein Hersteller bietet zwingend einen standardisierten, oeffentlichen CVE-Feed.
+# Die Domains sind Kandidaten fuer die Recherche, keine Zusicherung der Abdeckung.
+OFFICIAL_DOMAINS = {
+    'Windows': 'msrc.microsoft.com', 'SQL': 'msrc.microsoft.com',
+    'Oracle': 'oracle.com', 'VMware': 'support.broadcom.com',
+    'ExaGrid': 'exagrid.com', 'SAP': 'support.sap.com',
+    'Microsoft 365': 'msrc.microsoft.com', 'Salesforce': 'salesforce.com',
+    'ServiceNow': 'servicenow.com', 'SuccessFactors': 'sap.com',
+    'Signavio': 'sap.com', 'Omnissa': 'omnissa.com',
+    'CargoServer': None, 'ChatGPT': 'openai.com', 'PHP': 'php.net',
+    'Canon': 'canon-europe.com', 'Intune': 'msrc.microsoft.com',
+    'Kaba': 'dormakabagroup.com', 'Keeper': 'keepersecurity.com',
+    'MapEdit': 'mum.de', 'Adobe': 'helpx.adobe.com',
+    'Autodesk': 'autodesk.com', 'MobiCall': 'newvoiceinternational.com',
+    'NEPLAN': 'neplan.ch', 'Node-RED': 'nodered.org',
+    'OpenText': 'opentext.com', 'xECM': 'opentext.com',
+    'PRTG': 'paessler.com', 'ROKA': None,
+    'SEPPmail': 'seppmail.com', 'Microsoft Teams': 'msrc.microsoft.com',
+}
+
+def discover_official_cve_ids(config, fetch=None):
+    """Find CVE identifiers indexed for official vendor domains; verify later via NVD.
+
+    This is discovery via Google News RSS, NOT a direct vendor advisory API.
+    """
+    fetch = fetch or get_xml
+    result = {}
+    errors = []
+    for entry in config.get('products', []):
+        name = entry['name']
+        domain = entry.get('advisoryDomain') or OFFICIAL_DOMAINS.get(name)
+        if not domain:
+            errors.append(name + ': keine verifizierte offizielle Advisory-Domain konfiguriert')
+            continue
+        if not re.fullmatch(r'[a-z0-9.-]+', domain):
+            errors.append(name + ': ungueltige Domain')
+            continue
+        query = 'site:' + domain + ' CVE ' + name
+        url = 'https://news.google.com/rss/search?' + urllib.parse.urlencode({'q': query, 'hl': 'en', 'gl': 'US', 'ceid': 'US:en'})
+        try:
+            xml_data = fetch(url)
+            root = ET.fromstring(xml_data)
+            ids = set()
+            for node in root.findall('.//item'):
+                text = ' '.join(node.findtext(k, '') for k in ('title', 'description', 'link'))
+                ids.update(x.upper() for x in ID_RE.findall(html.unescape(text)))
+            result[name] = sorted(ids)
+        except Exception as exc:
+            errors.append(name + ': ' + str(exc)[:100])
+    return result, errors
+
+def get_xml(url):
+    req = urllib.request.Request(url, headers={'User-Agent': 'ITNewsDashboard/1.0', 'Accept': 'application/rss+xml, application/xml'})
+    with urllib.request.urlopen(req, timeout=25) as response:
+        return response.read(1_500_000)
+
+
 
 def priority_products(item):
     text = ' '.join([str(item.get('description', '')), ' '.join(item.get('products') or [])]).casefold()
@@ -387,28 +449,63 @@ def build():
         except Exception:
             pass
 
-    # Historical searches cover priority software beyond the recent NVD window.
-    # NVD keyword search is not exhaustive and may omit vendor-only advisories.
-    for term in HISTORICAL_SEARCH_TERMS:
+    # Hersteller-Advisories: offizielle Domains ueber Suchindex entdecken, CVE-ID
+    # ausschliesslich ueber NVD validieren. Keine unbestaetigten Treffer anzeigen.
+    vendor_hits = {}
+    vendor_errors = []
+    if os.getenv('CVE_VENDOR_DISCOVERY', '1') == '1':
+        vendor_hits, vendor_errors = discover_official_cve_ids(
+            json.loads(CONFIG_FILE.read_text(encoding='utf-8')))
+    warnings.extend('Herstellerrecherche ' + x for x in vendor_errors)
+    discovered_ids = list(dict.fromkeys(cid for ids in vendor_hits.values() for cid in ids))
+    discovery_stats = {'discovered': len(discovered_ids), 'verified': 0,
+                       'notFoundOrUnrated': 0, 'byProduct': {k: len(v) for k, v in vendor_hits.items()}}
+    for cid in discovered_ids[:VENDOR_DISCOVERY_LIMIT]:
+        if cid in entries:
+            discovery_stats['verified'] += 1
+            continue
         try:
-            params = {'keywordSearch': term, 'resultsPerPage': HISTORICAL_RESULTS_PER_TERM}
-            page = get_json(NVD + '?' + urllib.parse.urlencode(params))
-            for row in page.get('vulnerabilities', []):
+            payload = get_json(NVD + '?' + urllib.parse.urlencode({'cveId': cid}), attempts=1)
+            for row in payload.get('vulnerabilities', []):
                 cve = row.get('cve') or {}
-                if not cve.get('id') or cve.get('vulnStatus') == 'Rejected':
+                if cve.get('id', '').upper() != cid or cve.get('vulnStatus') == 'Rejected':
                     continue
                 item = nvd_item(cve)
-                if item['score'] is None or item['score'] < MIN_CVSS:
-                    continue
-                if not priority_products(item):
-                    continue
-                if item['id'] in entries:
-                    merge(entries[item['id']], item)
-                else:
-                    entries[item['id']] = item
+                if item['score'] is not None and item['score'] >= MIN_CVSS:
+                    entries[cid] = item
+                    discovery_stats['verified'] += 1
+            if cid not in entries:
+                discovery_stats['notFoundOrUnrated'] += 1
+        except Exception as exc:
+            warnings.append('Hersteller-CVE ' + cid + ': ' + str(exc)[:70])
+        time.sleep(0.7)
+    # Historische NVD-Suche mit kontrollierter Pagination statt nur 20 Treffern.
+    # Begrenzt, da ein Vollarchiv fuer 31 Hersteller sehr gross sein kann.
+    for term in HISTORICAL_SEARCH_TERMS:
+        try:
+            for page_no in range(HISTORICAL_PAGES_PER_TERM):
+                params = {'keywordSearch': term, 'resultsPerPage': HISTORICAL_RESULTS_PER_TERM,
+                          'startIndex': page_no * HISTORICAL_RESULTS_PER_TERM}
+                page = get_json(NVD + '?' + urllib.parse.urlencode(params))
+                for row in page.get('vulnerabilities', []):
+                    cve = row.get('cve') or {}
+                    if not cve.get('id') or cve.get('vulnStatus') == 'Rejected':
+                        continue
+                    item = nvd_item(cve)
+                    if item['score'] is None or item['score'] < MIN_CVSS:
+                        continue
+                    if not priority_products(item):
+                        continue
+                    if item['id'] in entries:
+                        merge(entries[item['id']], item)
+                    else:
+                        entries[item['id']] = item
+                if (page_no + 1) * HISTORICAL_RESULTS_PER_TERM >= int(page.get('totalResults', 0)):
+                    break
+                time.sleep(6)
         except Exception as exc:
             warnings.append('Historische Suche ' + term + ': ' + str(exc)[:80])
-        time.sleep(6)
+        time.sleep(3)
 
     # Include recently modified entries as well as recently published entries.
     # Never substitute ingestion time for a missing source modification timestamp.
@@ -439,7 +536,8 @@ def build():
                'source': 'NVD, CVE.org, cve.now, ENISA EUVD',
                'sort': 'modified_desc_score_desc', 'priorityMode': 'prefer_relevant_in_top50', 'minimumCvss': MIN_CVSS,
                'warning': ' | '.join(warnings) if warnings else None,
-               'items': selected, 'priorityItems': product_pools, 'priorityNames': list(PRIORITY_TERMS)}
+               'items': selected, 'priorityItems': product_pools, 'priorityNames': list(PRIORITY_TERMS),
+               'vendorDiscovery': discovery_stats}
     Path('cves.json').write_text(json.dumps(payload, ensure_ascii=False, separators=(',', ':')), encoding='utf-8')
     print(f'Wrote {len(selected)} CVEs from {len(entries)} unique candidates')
 
