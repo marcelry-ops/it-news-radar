@@ -61,16 +61,6 @@
       "category": "Cloud"
     },
     {
-      "id": "1d71172d5e0f4565",
-      "title": "KI-Wettrüsten: Trump verbietet US-Firmen Bau von Rechenzentren im Ausland - ComputerBase",
-      "excerpt": "KI-Wettrüsten: Trump verbietet US-Firmen Bau von Rechenzentren im Ausland ComputerBase",
-      "summary": "KI-Wettrüsten: Trump verbietet US-Firmen Bau von Rechenzentren im Ausland ComputerBase",
-      "source": "ComputerBase",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMlVkSUhIa1pFMl9RcVBURUtTTEk5aXd4cDNhZ3hKR3A3Vk1rQUNaMUhIS1I3SzdMYWItcVVBX3o0dGdDTHNrTFp5OUl1Q010X01SSmY1UVpMem9FUFNXSHhZZGl1eXFlREMzM3NXTmVOdXV0UGtuV3dkaGFzckdHZXc1ZXBjb1NtTmRiOHBaMkF1SHZpWmdvT01OZGxDOGVCVzQtQ2hYaUlXU1JEVTRWZ2V1cnJhVTl3WUl2ZkhaRGpfZDQ?oc=5",
-      "published": "2026-11-20T20:30:00+00:00",
-      "category": "Firmen"
-    },
-    {
       "id": "a31ed4515686ebb9",
       "title": "Elia Ferrari - IT-Markt",
       "excerpt": "Elia Ferrari IT-Markt",
@@ -79,16 +69,6 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDNGpGNmllQkVvX1BaXzJ6aWtvWUx4SWMtRHNEQmFEcXAtUVdfNjZXUkxYX08tUHBpRmRRNXFLbU96UlZjMU1FTC1qcHZKYm9JTS1v?oc=5",
       "published": "2026-11-20T20:09:28+00:00",
       "category": "Markt"
-    },
-    {
-      "id": "077c1db9a8aa402f",
-      "title": "MIND meldet Copilot-DLP für Microsoft 365 als allgemein verfügbar",
-      "excerpt": "MIND meldet Copilot-DLP für Microsoft 365 als allgemein verfügbar NeoTeo",
-      "summary": "MIND meldet Copilot-DLP für Microsoft 365 als allgemein verfügbar NeoTeo",
-      "source": "NeoTeo",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdkRxeGhPRV8yZkk4RzF5MGNvanhyWkw0V1NRUTJUdUJuNWtNUGM3bDBFN2o3TXNReXJ5Tm9TY0tfQTBqNTRHN2FLUENyQ3Y3bkVNR091cFEwX0F0dExRR19fUDJQQ0dHNjZ0MndIcDgyejV6TVV3OGdhOVBjclRvQ1JQa3lzcXZKa2ZyamFVSm1SOF9MS0E?oc=5",
-      "published": "2026-11-20T20:00:21+00:00",
-      "category": "Microsoft 365"
     },
     {
       "id": "128ef166f5d819c4",
@@ -298,7 +278,7 @@
       "source": "Inside IT",
       "url": "https://www.inside-it.ch/zug-will-vertrauliche-daten-verarbeiten-in-m365-20261119",
       "published": "2026-11-19T12:49:48+00:00",
-      "category": "IT Schweiz"
+      "category": "Microsoft 365"
     },
     {
       "id": "d1fdbbe90f0f90ba",
@@ -341,6 +321,26 @@
       "category": "Microsoft 365"
     },
     {
+      "id": "23da7ac421f950e4",
+      "title": "Bronschhofer IT-Unternehmen expandiert nach Zürich",
+      "excerpt": "Bronschhofer IT-Unternehmen expandiert nach Zürich Wil24",
+      "summary": "Bronschhofer IT-Unternehmen expandiert nach Zürich Wil24",
+      "source": "Wil24",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWDQxemhkaHRqdGdLOUZPUFF3RkVTMVd0aU9ueE44c3Z1djY3cHpnVGtBbzFoN1NqNU1uZGNacG5KcE5NZXA4WFVNa0ZYXzlWNjJUdjdGNGpqNkJ2dEdILUJsSFVSMFZybTBKZU52WU83dGsyNFVValFxVDIwM24taUdNaDQzdmtLYmFSUg?oc=5",
+      "published": "2026-11-18T16:04:00+00:00",
+      "category": "Firmen"
+    },
+    {
+      "id": "9bc402f990ce8639",
+      "title": "Schweizer Firmen gründen Allianz für digitale Souveränität",
+      "excerpt": "Mit Opensovereign wollen fünf Schweizer IT-Unternehmen Open-Source-Technologien als Alternative zu proprietären IT-Lösungen stärken.",
+      "summary": "Mit Opensovereign wollen fünf Schweizer IT-Unternehmen Open-Source-Technologien als Alternative zu proprietären IT-Lösungen stärken.",
+      "source": "Inside IT",
+      "url": "https://www.inside-it.ch/schweizer-firmen-gruenden-allianz-fuer-digitale-souveraenitaet-20261118",
+      "published": "2026-11-18T14:43:34+00:00",
+      "category": "IT Schweiz"
+    },
+    {
       "id": "00cd893bf9d183c4",
       "title": "\"Das Energiesystem der Zukunft braucht Daten\" - energate messenger Schweiz",
       "excerpt": "\"Das Energiesystem der Zukunft braucht Daten\" energate messenger Schweiz",
@@ -351,7 +351,7 @@
       "category": "Trends"
     }
   ],
-  "updatedAt": "2026-11-22T02:57:51.373008+00:00",
+  "updatedAt": "2026-11-22T04:01:51.174420+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -370,6 +370,6 @@
     "Markt": 5,
     "Firmen": 5
   },
-  "warning": "",
+  "warning": "4 von 29 RSS-Quellen waren nicht erreichbar.",
   "aiSummaries": false
 }
