@@ -11,6 +11,8 @@ import re
 import time
 import urllib.parse
 import urllib.request
+import urllib.error
+import email.utils
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
@@ -25,8 +27,8 @@ TOP_CVES = 50
 MIN_CVSS = 9.0
 # Separate bounded historical lookups for priority software.
 HISTORICAL_RESULTS_PER_TERM = 100
-HISTORICAL_PAGES_PER_TERM = max(1, min(int(os.getenv("CVE_HISTORICAL_PAGES", "2")), 5))
-VENDOR_DISCOVERY_LIMIT = max(0, min(int(os.getenv("CVE_VENDOR_DISCOVERY_LIMIT", "90")), 300))
+HISTORICAL_PAGES_PER_TERM = max(0, min(int(os.getenv("CVE_HISTORICAL_PAGES", "1")), 5))
+VENDOR_DISCOVERY_LIMIT = max(0, min(int(os.getenv("CVE_VENDOR_DISCOVERY_LIMIT", "10")), 300))
 # Gemeinsame Konfiguration fuer Frontend und Datenerzeugung.
 CONFIG_FILE = Path(__file__).with_name('priority_products.json')
 
@@ -199,16 +201,40 @@ ID_RE = re.compile(r'\bCVE-\d{4}-\d{4,}\b', re.I)
 EUVD_RE = re.compile(r'\bEUVD-\d{4}-\d+\b', re.I)
 
 
-def get_json(url, attempts=2):
-    req = urllib.request.Request(url, headers={'User-Agent': 'ITNewsDashboard/1.0 (public vulnerability digest)', 'Accept': 'application/json'})
+# NVD limits requests without an API key. Apply a shared pace across all NVD calls.
+_LAST_NVD_REQUEST = 0.0
+_NVD_INTERVAL = max(6.0, float(os.getenv('CVE_NVD_INTERVAL', '7')))
+
+def get_json(url, attempts=3):
+    global _LAST_NVD_REQUEST
+    req = urllib.request.Request(url, headers={
+        'User-Agent': 'ITNewsDashboard/1.0 (public vulnerability digest)',
+        'Accept': 'application/json'})
     for n in range(attempts):
+        if url.startswith(NVD):
+            wait = _NVD_INTERVAL - (time.monotonic() - _LAST_NVD_REQUEST)
+            if wait > 0:
+                time.sleep(wait)
+            _LAST_NVD_REQUEST = time.monotonic()
         try:
             with urllib.request.urlopen(req, timeout=30) as response:
                 return json.load(response)
-        except Exception:
+        except urllib.error.HTTPError as exc:
+            if exc.code not in (429, 500, 502, 503, 504) or n == attempts - 1:
+                raise
+            raw = exc.headers.get('Retry-After', '')
+            try:
+                delay = float(raw)
+            except ValueError:
+                try:
+                    delay = (email.utils.parsedate_to_datetime(raw) - dt.datetime.now(UTC)).total_seconds()
+                except (ValueError, TypeError, OverflowError):
+                    delay = 10 * (2 ** n)
+            time.sleep(max(1, min(60, delay)))
+        except (TimeoutError, OSError):
             if n == attempts - 1:
                 raise
-            time.sleep(3 * (n + 1))
+            time.sleep(min(30, 3 * (2 ** n)))
 
 
 def iso(value):
@@ -457,10 +483,12 @@ def build():
     if os.getenv('CVE_VENDOR_DISCOVERY', '1') == '1':
         vendor_hits, vendor_errors = discover_official_cve_ids(
             json.loads(CONFIG_FILE.read_text(encoding='utf-8')))
-    warnings.extend('Herstellerrecherche ' + x for x in vendor_errors)
+    if vendor_errors:
+        warnings.append(f'Herstellerrecherche: {len(vendor_errors)} Quellen nicht erreichbar oder nicht konfiguriert')
     discovered_ids = list(dict.fromkeys(cid for ids in vendor_hits.values() for cid in ids))
     discovery_stats = {'discovered': len(discovered_ids), 'verified': 0,
                        'notFoundOrUnrated': 0, 'byProduct': {k: len(v) for k, v in vendor_hits.items()}}
+    vendor_failed = 0
     for cid in discovered_ids[:VENDOR_DISCOVERY_LIMIT]:
         if cid in entries:
             discovery_stats['verified'] += 1
@@ -478,10 +506,12 @@ def build():
             if cid not in entries:
                 discovery_stats['notFoundOrUnrated'] += 1
         except Exception as exc:
-            warnings.append('Hersteller-CVE ' + cid + ': ' + str(exc)[:70])
-        time.sleep(0.7)
+            vendor_failed += 1
+    if vendor_failed:
+        warnings.append(f'Hersteller-CVE-Abfragen: {vendor_failed} fehlgeschlagen')
     # Historische NVD-Suche mit kontrollierter Pagination statt nur 20 Treffern.
     # Begrenzt, da ein Vollarchiv fuer 31 Hersteller sehr gross sein kann.
+    historical_failed = 0
     for term in HISTORICAL_SEARCH_TERMS:
         try:
             for page_no in range(HISTORICAL_PAGES_PER_TERM):
@@ -505,8 +535,9 @@ def build():
                     break
                 time.sleep(6)
         except Exception as exc:
-            warnings.append('Historische Suche ' + term + ': ' + str(exc)[:80])
-        time.sleep(3)
+            historical_failed += 1
+    if historical_failed:
+        warnings.append(f'Historische NVD-Suche: {historical_failed} Suchbegriffe fehlgeschlagen')
 
     # Include recently modified entries as well as recently published entries.
     # Never substitute ingestion time for a missing source modification timestamp.
@@ -539,7 +570,13 @@ def build():
                'warning': ' | '.join(warnings) if warnings else None,
                'items': selected, 'priorityItems': product_pools, 'priorityNames': list(PRIORITY_TERMS),
                'vendorDiscovery': discovery_stats}
-    Path('cves.json').write_text(json.dumps(payload, ensure_ascii=False, separators=(',', ':')), encoding='utf-8')
+    # Never replace the last valid dataset with an empty/failed run.
+    if not selected:
+        raise RuntimeError('Keine gueltigen CVE-Daten; bestehende cves.json bleibt unveraendert')
+    destination = Path('cves.json')
+    temp = destination.with_suffix('.json.tmp')
+    temp.write_text(json.dumps(payload, ensure_ascii=False, separators=(',', ':')), encoding='utf-8')
+    temp.replace(destination)
     print(f'Wrote {len(selected)} CVEs from {len(entries)} unique candidates')
 
 
