@@ -311,16 +311,6 @@
       "category": "Firmen"
     },
     {
-      "id": "9bc402f990ce8639",
-      "title": "Schweizer Firmen gründen Allianz für digitale Souveränität",
-      "excerpt": "Mit Opensovereign wollen fünf Schweizer IT-Unternehmen Open-Source-Technologien als Alternative zu proprietären IT-Lösungen stärken.",
-      "summary": "Mit Opensovereign wollen fünf Schweizer IT-Unternehmen Open-Source-Technologien als Alternative zu proprietären IT-Lösungen stärken.",
-      "source": "Inside IT",
-      "url": "https://www.inside-it.ch/schweizer-firmen-gruenden-allianz-fuer-digitale-souveraenitaet-20261118",
-      "published": "2026-11-18T14:43:34+00:00",
-      "category": "Firmen"
-    },
-    {
       "id": "56afc9e17a1eed5b",
       "title": "Neue Allianz für digitale Unabhängigkeit: Fünf Schweizer IT-Unternehmen gründen OpenSovereign",
       "excerpt": "Neue Allianz für digitale Unabhängigkeit: Fünf Schweizer IT-Unternehmen gründen OpenSovereign Presseportal Schweiz",
@@ -339,9 +329,19 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV3d5Nm5KYUpyRWRJRzRMYzc0eG1EejY0SUpybGFxWlBmV1dfUDh6UHJOaWRIX0k1dTlvQXpIZDBHY2RDSWdNRUpXclBneW1OTzhhYmw5VlJLVFQ5QmRjSFM2OWZ1VC00MzFfcWt4dXJNWFNJc3dVTTVLV0RYSnFOWmhkN015LUZnaTIyYzA1TnNJaDA?oc=5",
       "published": "2026-11-17T12:34:00+00:00",
       "category": "Trends"
+    },
+    {
+      "id": "374221c6a4dc4194",
+      "title": "Die richtigen Unternehmen zur richtigen Zeit ansprechen",
+      "excerpt": "Die richtigen Unternehmen zur richtigen Zeit ansprechen IT-Markt",
+      "summary": "Die richtigen Unternehmen zur richtigen Zeit ansprechen IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVjFTenl6Q0NodkhHdFpQVTl5NG41ejREYUlMSV85LTZvMm9sSUxJdy1RN1J0NzQxRllPM0NPaEpON0h5OE43cGd3Q1dMTzA5Vm1uWnJucXhDbmxfU0UzVzE4bkZXZ09wd05rb3ZXVFNLbHpZRlFrRy13Z3VOaG9mbGhtOHBva2UzbnJZNDVtM0hJT3UwMDlfWHZwbw?oc=5",
+      "published": "2026-11-16T06:00:00+00:00",
+      "category": "Firmen"
     }
   ],
-  "updatedAt": "2026-11-22T11:52:22.056215+00:00",
+  "updatedAt": "2026-11-22T13:04:24.514020+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
