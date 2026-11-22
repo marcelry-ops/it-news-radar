@@ -2,318 +2,318 @@
   "products": [
     {
       "name": "Windows",
-      "patterns": [
-        "\\bwindows\\b"
-      ],
       "searchTerms": [
         "Windows"
+      ],
+      "patterns": [
+        "\\bwindows\\b"
       ],
       "advisoryDomain": "msrc.microsoft.com"
     },
     {
       "name": "SQL",
+      "searchTerms": [
+        "SQL Server"
+      ],
       "patterns": [
         "\\bsql server\\b",
         "\\bmicrosoft sql server\\b"
-      ],
-      "searchTerms": [
-        "SQL Server"
       ],
       "advisoryDomain": "msrc.microsoft.com"
     },
     {
       "name": "Oracle",
-      "patterns": [
-        "\\boracle\\b"
-      ],
       "searchTerms": [
         "Oracle"
+      ],
+      "patterns": [
+        "\\boracle\\b"
       ],
       "advisoryDomain": "oracle.com"
     },
     {
       "name": "VMware",
+      "searchTerms": [
+        "VMware"
+      ],
       "patterns": [
         "\\bvmware\\b",
         "\\bvsphere\\b",
         "\\besxi\\b"
       ],
-      "searchTerms": [
-        "VMware"
-      ],
       "advisoryDomain": "support.broadcom.com"
     },
     {
       "name": "ExaGrid",
-      "patterns": [
-        "\\bexagrid\\b"
-      ],
       "searchTerms": [
         "ExaGrid"
+      ],
+      "patterns": [
+        "\\bexagrid\\b"
       ],
       "advisoryDomain": "exagrid.com"
     },
     {
       "name": "SAP",
-      "patterns": [
-        "\\bsap\\b"
-      ],
       "searchTerms": [
         "SAP"
+      ],
+      "patterns": [
+        "\\bsap\\b"
       ],
       "advisoryDomain": "support.sap.com"
     },
     {
       "name": "Microsoft 365",
+      "searchTerms": [
+        "Microsoft 365"
+      ],
       "patterns": [
         "\\bmicrosoft 365\\b",
         "\\boffice 365\\b",
         "\\bm365\\b"
       ],
-      "searchTerms": [
-        "Microsoft 365"
-      ],
       "advisoryDomain": "msrc.microsoft.com"
     },
     {
       "name": "Salesforce",
-      "patterns": [
-        "\\bsalesforce\\b"
-      ],
       "searchTerms": [
         "Salesforce"
+      ],
+      "patterns": [
+        "\\bsalesforce\\b"
       ],
       "advisoryDomain": "salesforce.com"
     },
     {
       "name": "ServiceNow",
-      "patterns": [
-        "\\bservicenow\\b"
-      ],
       "searchTerms": [
         "ServiceNow"
+      ],
+      "patterns": [
+        "\\bservicenow\\b"
       ],
       "advisoryDomain": "servicenow.com"
     },
     {
       "name": "SuccessFactors",
-      "patterns": [
-        "\\bsuccessfactors\\b"
-      ],
       "searchTerms": [
         "SuccessFactors"
+      ],
+      "patterns": [
+        "\\bsuccessfactors\\b"
       ],
       "advisoryDomain": "sap.com"
     },
     {
       "name": "Signavio",
-      "patterns": [
-        "\\bsignavio\\b"
-      ],
       "searchTerms": [
         "Signavio"
+      ],
+      "patterns": [
+        "\\bsignavio\\b"
       ],
       "advisoryDomain": "sap.com"
     },
     {
       "name": "Omnissa",
-      "patterns": [
-        "\\bomnissa\\b"
-      ],
       "searchTerms": [
         "Omnissa"
+      ],
+      "patterns": [
+        "\\bomnissa\\b"
       ],
       "advisoryDomain": "omnissa.com"
     },
     {
       "name": "CargoServer",
-      "patterns": [
-        "\\bcargoserver\\b"
-      ],
       "searchTerms": [
         "CargoServer"
       ],
-      "advisoryDomain": ""
+      "patterns": [
+        "\\bcargoserver\\b"
+      ],
+      "advisoryDomain": "cargoserver.ch"
     },
     {
       "name": "ChatGPT",
-      "patterns": [
-        "\\bchatgpt\\b"
-      ],
       "searchTerms": [
         "ChatGPT"
+      ],
+      "patterns": [
+        "\\bchatgpt\\b"
       ],
       "advisoryDomain": "openai.com"
     },
     {
       "name": "PHP",
-      "patterns": [
-        "\\bphp\\b"
-      ],
       "searchTerms": [
         "PHP"
+      ],
+      "patterns": [
+        "\\bphp\\b"
       ],
       "advisoryDomain": "php.net"
     },
     {
       "name": "Canon",
-      "patterns": [
-        "\\bcanon\\b"
-      ],
       "searchTerms": [
         "Canon"
+      ],
+      "patterns": [
+        "\\bcanon\\b"
       ],
       "advisoryDomain": "canon-europe.com"
     },
     {
       "name": "Intune",
-      "patterns": [
-        "\\bintune\\b"
-      ],
       "searchTerms": [
         "Intune"
+      ],
+      "patterns": [
+        "\\bintune\\b"
       ],
       "advisoryDomain": "msrc.microsoft.com"
     },
     {
       "name": "Kaba",
+      "searchTerms": [
+        "Kaba"
+      ],
       "patterns": [
         "\\bkaba\\b",
         "\\bdormakaba\\b"
-      ],
-      "searchTerms": [
-        "Kaba"
       ],
       "advisoryDomain": "dormakabagroup.com"
     },
     {
       "name": "Keeper",
-      "patterns": [
-        "\\bkeeper\\b"
-      ],
       "searchTerms": [
         "Keeper"
+      ],
+      "patterns": [
+        "\\bkeeper\\b"
       ],
       "advisoryDomain": "keepersecurity.com"
     },
     {
       "name": "MapEdit",
-      "patterns": [
-        "\\bmapedit\\b"
-      ],
       "searchTerms": [
         "MapEdit"
+      ],
+      "patterns": [
+        "\\bmapedit\\b"
       ],
       "advisoryDomain": "mum.de"
     },
     {
       "name": "Adobe",
-      "patterns": [
-        "\\badobe\\b"
-      ],
       "searchTerms": [
         "Adobe"
+      ],
+      "patterns": [
+        "\\badobe\\b"
       ],
       "advisoryDomain": "helpx.adobe.com"
     },
     {
       "name": "Autodesk",
-      "patterns": [
-        "\\bautodesk\\b"
-      ],
       "searchTerms": [
         "Autodesk"
+      ],
+      "patterns": [
+        "\\bautodesk\\b"
       ],
       "advisoryDomain": "autodesk.com"
     },
     {
       "name": "MobiCall",
-      "patterns": [
-        "\\bmobicall\\b"
-      ],
       "searchTerms": [
         "MobiCall"
+      ],
+      "patterns": [
+        "\\bmobicall\\b"
       ],
       "advisoryDomain": "newvoiceinternational.com"
     },
     {
       "name": "NEPLAN",
-      "patterns": [
-        "\\bneplan\\b"
-      ],
       "searchTerms": [
         "NEPLAN"
+      ],
+      "patterns": [
+        "\\bneplan\\b"
       ],
       "advisoryDomain": "neplan.ch"
     },
     {
       "name": "Node-RED",
-      "patterns": [
-        "\\bnode[- ]red\\b"
-      ],
       "searchTerms": [
         "Node-RED"
+      ],
+      "patterns": [
+        "\\bnode[- ]red\\b"
       ],
       "advisoryDomain": "nodered.org"
     },
     {
       "name": "OpenText",
-      "patterns": [
-        "\\bopentext\\b"
-      ],
       "searchTerms": [
         "OpenText"
+      ],
+      "patterns": [
+        "\\bopentext\\b"
       ],
       "advisoryDomain": "opentext.com"
     },
     {
       "name": "xECM",
-      "patterns": [
-        "\\bxecm\\b"
-      ],
       "searchTerms": [
         "xECM"
+      ],
+      "patterns": [
+        "\\bxecm\\b"
       ],
       "advisoryDomain": "opentext.com"
     },
     {
       "name": "PRTG",
-      "patterns": [
-        "\\bprtg\\b"
-      ],
       "searchTerms": [
         "PRTG"
+      ],
+      "patterns": [
+        "\\bprtg\\b"
       ],
       "advisoryDomain": "paessler.com"
     },
     {
       "name": "ROKA",
-      "patterns": [
-        "\\broka\\b"
-      ],
       "searchTerms": [
         "ROKA"
       ],
-      "advisoryDomain": ""
+      "patterns": [
+        "\\broka\\b"
+      ],
+      "advisoryDomain": "roka3.de"
     },
     {
       "name": "SEPPmail",
-      "patterns": [
-        "\\bseppmail\\b"
-      ],
       "searchTerms": [
         "SEPPmail"
+      ],
+      "patterns": [
+        "\\bseppmail\\b"
       ],
       "advisoryDomain": "seppmail.com"
     },
     {
       "name": "Microsoft Teams",
+      "searchTerms": [
+        "Microsoft Teams"
+      ],
       "patterns": [
         "\\bmicrosoft teams\\b",
         "\\bms teams\\b"
-      ],
-      "searchTerms": [
-        "Microsoft Teams"
       ],
       "advisoryDomain": "msrc.microsoft.com"
     }

@@ -29,6 +29,8 @@ MIN_CVSS = 9.0
 HISTORICAL_RESULTS_PER_TERM = 100
 HISTORICAL_PAGES_PER_TERM = max(0, min(int(os.getenv("CVE_HISTORICAL_PAGES", "1")), 5))
 VENDOR_DISCOVERY_LIMIT = max(0, min(int(os.getenv("CVE_VENDOR_DISCOVERY_LIMIT", "10")), 300))
+# Explicit diagnostic lookups: independently of vendor search pagination.
+TARGETED_CVE_IDS = tuple(x.strip().upper() for x in os.getenv('CVE_TARGETED_IDS', 'CVE-2026-44756,CVE-2026-58240').split(',') if re.fullmatch(r'CVE-\d{4}-\d{4,}', x.strip(), re.I))
 # Gemeinsame Konfiguration fuer Frontend und Datenerzeugung.
 CONFIG_FILE = Path(__file__).with_name('priority_products.json')
 
@@ -306,7 +308,7 @@ def products(cve):
 def base(cve_id):
     return {'id': cve_id, 'score': None, 'severity': 'UNRATED', 'cvssVersion': None,
             'published': None, 'modified': None, 'description': 'Keine Beschreibung vorhanden.',
-            'products': [], 'references': [], 'sources': [], 'aliases': [], 'title': None,
+            'products': [], 'references': [], 'sources': [], 'aliases': [], 'title': None, 'scoreSource': None,
             'url': ('https://euvd.enisa.europa.eu/enisaid/' + urllib.parse.quote(cve_id)
                     if cve_id.startswith('EUVD-') else 'https://www.cve.org/CVERecord?id=' + cve_id)}
 
@@ -318,7 +320,7 @@ def nvd_item(cve):
                 published=iso(cve.get('published')), modified=iso(cve.get('lastModified')),
                 description=description(cve), products=products(cve),
                 references=[x.get('url') for x in cve.get('references', []) if str(x.get('url', '')).startswith('https://')][:8],
-                sources=['NVD'])
+                sources=['NVD'], scoreSource=('NVD' if score is not None else None))
     return item
 
 
@@ -331,6 +333,7 @@ def merge(target, candidate):
         target['score'] = candidate['score']
         target['severity'] = candidate['severity']
         target['cvssVersion'] = candidate.get('cvssVersion')
+        target['scoreSource'] = candidate.get('scoreSource')
     if not target.get('title') and candidate.get('title'):
         target['title'] = candidate['title']
     if target['description'] == 'Keine Beschreibung vorhanden.' and candidate.get('description') and candidate['description'] != 'Keine Beschreibung vorhanden.':
@@ -401,24 +404,60 @@ def cvenow_candidates(payload):
         yield item
 
 
-def cveorg_enrich(item):
-    record = get_json(CVE_ORG + urllib.parse.quote(item['id']), attempts=1)
-    meta = record.get('cveMetadata') or {}
-    if meta.get('state') != 'PUBLISHED':
-        return item
+def cna_cvss(record):
+    """Extract published CVSS base score from CNA/ADP CVE 5.x metrics."""
+    containers = record.get('containers') or {}
+    sources = [('CNA', containers.get('cna') or {})]
+    sources += [('ADP', obj) for obj in (containers.get('adp') or []) if isinstance(obj, dict)]
+    versions = (('cvssV4_0', 'CVSS 4.0'), ('cvssV3_1', 'CVSS 3.1'),
+                ('cvssV3_0', 'CVSS 3.0'))
+    for origin, container in sources:
+        for metric_row in container.get('metrics') or []:
+            if not isinstance(metric_row, dict):
+                continue
+            for field, version in versions:
+                value = metric_row.get(field) or {}
+                score = numeric_score(value.get('baseScore')) if isinstance(value, dict) else None
+                if score is not None:
+                    return score, severity_for(score), version, 'CVE.org ' + origin
+    return None, 'UNRATED', None, None
+
+
+def lookup_official_cve(cve_id, fetch=None):
+    """Fetch an official published record even if NVD has no CVSS score."""
+    fetch = fetch or get_json
+    record = fetch(CVE_ORG + urllib.parse.quote(cve_id))
+    metadata = record.get('cveMetadata') or {}
+    if metadata.get('state') != 'PUBLISHED' or metadata.get('cveId', '').upper() != cve_id.upper():
+        return None
     cna = (record.get('containers') or {}).get('cna') or {}
-    candidate = base(item['id'])
-    candidate['sources'] = ['CVE.org']
-    candidate['published'] = iso(meta.get('datePublished'))
-    candidate['modified'] = iso(meta.get('dateUpdated'))
+    item = base(cve_id)
+    item['sources'] = ['CVE.org']
+    item['published'] = iso(metadata.get('datePublished'))
+    item['modified'] = iso(metadata.get('dateUpdated'))
+    item['title'] = str(cna.get('title') or '').strip()[:300] or None
     for lang in ('de', 'en'):
-        desc = next((d.get('value') for d in cna.get('descriptions', []) if d.get('lang') == lang and d.get('value')), None)
+        desc = next((x.get('value') for x in cna.get('descriptions', [])
+                     if x.get('lang') == lang and x.get('value')), None)
         if desc:
-            candidate['description'] = desc[:5000]
+            item['description'] = desc[:5000]
             break
-    candidate['title'] = str(cna.get('title') or '').strip()[:300] or None
-    candidate['references'] = [r.get('url') for r in cna.get('references', []) if str(r.get('url', '')).startswith('https://')][:8]
-    return merge(item, candidate)
+    item['references'] = [x.get('url') for x in cna.get('references', [])
+                          if str(x.get('url', '')).startswith('https://')][:8]
+    item['products'] = list(dict.fromkeys(
+        str(x.get('product', '')).strip() for x in cna.get('affected', [])
+        if isinstance(x, dict) and x.get('product')))[:5]
+    score, severity, version, source = cna_cvss(record)
+    item.update(score=score, severity=severity, cvssVersion=version, scoreSource=source)
+    return item
+
+
+def cveorg_enrich(item):
+    official = lookup_official_cve(item['id'])
+    if official is None:
+        return item
+    return merge(item, official)
+
 
 
 def rank(items):
@@ -476,6 +515,25 @@ def build():
         except Exception:
             pass
 
+    # Explicit official lookups for historically missed high-impact vendor CVEs.
+    # Validate the CVE ID and published state, then accept CNA CVSS >= 9.
+    targeted_status = {}
+    for cid in TARGETED_CVE_IDS:
+        try:
+            official = lookup_official_cve(cid)
+            if official is None:
+                targeted_status[cid] = 'not_published_or_missing'
+                continue
+            if cid in entries:
+                merge(entries[cid], official)
+            else:
+                entries[cid] = official
+            row = entries[cid]
+            targeted_status[cid] = ('eligible' if row.get('score') is not None and
+                                    row['score'] >= MIN_CVSS else 'no_qualifying_cvss')
+        except Exception as exc:
+            targeted_status[cid] = 'lookup_failed:' + type(exc).__name__
+
     # Hersteller-Advisories: offizielle Domains ueber Suchindex entdecken, CVE-ID
     # ausschliesslich ueber NVD validieren. Keine unbestaetigten Treffer anzeigen.
     vendor_hits = {}
@@ -500,6 +558,13 @@ def build():
                 if cve.get('id', '').upper() != cid or cve.get('vulnStatus') == 'Rejected':
                     continue
                 item = nvd_item(cve)
+                if item['score'] is None:
+                    try:
+                        official = lookup_official_cve(cid)
+                        if official is not None:
+                            merge(item, official)
+                    except Exception:
+                        pass
                 if item['score'] is not None and item['score'] >= MIN_CVSS:
                     entries[cid] = item
                     discovery_stats['verified'] += 1
@@ -562,6 +627,11 @@ def build():
         unique.update((x['id'], x) for x in pool)
     translate_descriptions(list(unique.values()))
     selected = global_top
+    for cid in TARGETED_CVE_IDS:
+        if targeted_status.get(cid) == 'eligible':
+            targeted_status[cid] = ('in_global_top50' if any(x['id'] == cid for x in global_top)
+                                    else 'in_product_pool' if any(x['id'] == cid for pool in product_pools.values() for x in pool)
+                                    else 'excluded_by_top50')
     payload = {'updatedAt': iso(now.isoformat()), 'windowDays': DAYS,
                'totalResultsNvd': total, 'count': len(selected),
                'truncated': start_index < (total or 0),
@@ -569,7 +639,7 @@ def build():
                'sort': 'modified_desc_score_desc', 'priorityMode': 'prefer_relevant_in_top50', 'minimumCvss': MIN_CVSS,
                'warning': ' | '.join(warnings) if warnings else None,
                'items': selected, 'priorityItems': product_pools, 'priorityNames': list(PRIORITY_TERMS),
-               'vendorDiscovery': discovery_stats}
+               'vendorDiscovery': discovery_stats, 'targetedDiagnostics': targeted_status}
     # Never replace the last valid dataset with an empty/failed run.
     if not selected:
         raise RuntimeError('Keine gueltigen CVE-Daten; bestehende cves.json bleibt unveraendert')
