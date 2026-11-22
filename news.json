@@ -21,16 +21,6 @@
       "category": "Firmen"
     },
     {
-      "id": "b50b5168396c0e06",
-      "title": "Kann Nvidia KI-Chips orten? Das sagt das Unternehmen hinter verschlossenen Türen - t3n",
-      "excerpt": "Kann Nvidia KI-Chips orten? Das sagt das Unternehmen hinter verschlossenen Türen t3n",
-      "summary": "Kann Nvidia KI-Chips orten? Das sagt das Unternehmen hinter verschlossenen Türen t3n",
-      "source": "t3n",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzdXJ1OThjRGNFVDZ5VHp5dFZxVUx3czM3cUx1bVZGbEo5Qnh0SDhibFBQb1VlejJpb3JMYmRyMmNpNTBuM1BUYmZpN0NmRzhxZlFYcTBwWHBHbC05M1pr?oc=5",
-      "published": "2026-11-21T17:10:00+00:00",
-      "category": "Firmen"
-    },
-    {
       "id": "351e922d5e2b374f",
       "title": "Fünf EU-Staaten wollen Zentrum für KI in der Verteidigung gründen",
       "excerpt": "Deutschland, Frankreich, Italien, Polen und Schweden wollen gemeinsam ein internationales Zentrum für künstliche Intelligenz in der Verteidigung gründen.",
@@ -128,7 +118,7 @@
       "source": "Netzwoche",
       "url": "https://www.netzwoche.ch/news/2026-11-19/cyberkriminelle-greifen-it-des-kantons-basel-landschaft-an",
       "published": "2026-11-20T16:00:59+00:00",
-      "category": "Security"
+      "category": "IT Schweiz"
     },
     {
       "id": "9f8722853ca30084",
@@ -139,16 +129,6 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUnptOFV1MmlXNXFoWXlDTURyZEQ5YlNja3dKN2VubHpvcWVoTTVMZ01nNHpHcGpxY2wtVFpkYkUxVU5zWHVxQlhIOGgzcGlCb2Q0WklMUVF5NWtMajB2MzNYTGZTRHRDcmJKTWVxWENqNWhQbF9FNklBWWNpdGMwUHp4VVZpdFh3QktvNHpSdGFJWU0?oc=5",
       "published": "2026-11-20T15:21:31+00:00",
       "category": "Cloud"
-    },
-    {
-      "id": "a2e59dfd78ce1c90",
-      "title": "Die Top 5 Technologie-Trends 2027 von Capgemini - Computerwoche",
-      "excerpt": "Die Top 5 Technologie-Trends 2027 von Capgemini Computerwoche",
-      "summary": "Die Top 5 Technologie-Trends 2027 von Capgemini Computerwoche",
-      "source": "Computerwoche",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTklka3k4Snp4bi1aaUhDT29rUGpOOVQyc0FGVkNoYm5majRLUEYzdDdFUDdnd3dseTVKMHdhUTJWZzNVUW45S3JOcG44YWdYeWZfdm5jR2dnVTZPMFJiRUNHUjA5NkdPajVobXpESUxQQmxZdnhLTXU3eTdlSlVYaVc5YXVDV1gtU0dMYjNOUWFtSXBmdUlUeEVWY3Fldw?oc=5",
-      "published": "2026-11-20T15:14:42+00:00",
-      "category": "Trends"
     },
     {
       "id": "725c28220385ba98",
@@ -231,6 +211,16 @@
       "category": "Cloud"
     },
     {
+      "id": "593b305001cf34f3",
+      "title": "VMware vCenter – Zero-Day seit September aktiv ausgenutzt",
+      "excerpt": "VMware vCenter – Zero-Day seit September aktiv ausgenutzt Meteora Web",
+      "summary": "VMware vCenter – Zero-Day seit September aktiv ausgenutzt Meteora Web",
+      "source": "Meteora Web",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdkE4Y09xb3pFd3AxV3NjbVE2WGVwb3ZzTEs2MHhHVGV5VHc2NTAtV2pNUE1Ob3JDZWM5Q2VyZlV1YXNKaGRXcDk2aEtvdWpHVWlNMVp4eHFvN2ktUzdNcHF4ekdmTUVIVzhRNzJjT1JvM0N4VnZEdnlMbkZPTFlDX1NEdEp2SFhYWGo2STlNbGdlMkpaSVg1VHpfYmU?oc=5",
+      "published": "2026-11-20T09:16:22+00:00",
+      "category": "Security"
+    },
+    {
       "id": "b54a1ae6b4d85eed",
       "title": "Microsoft Teams: Support für iOS 17 und iPadOS 17 endet",
       "excerpt": "Microsoft Teams: Support für iOS 17 und iPadOS 17 endet Caschys Blog",
@@ -249,16 +239,6 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lVE85Z0NOSUpxckpNemRWSUpTRHJfb01wYUxGdzB3bEI1WTMwTzFheDMzN3poR2R0M0pVQ29MUVRfcDk1UEJKVExXQ2hKbTl0aTBsSUxXLVpQSVNGTnN4THhYWWNQSTFtRVpJX1BRNGp1blZpMUE?oc=5",
       "published": "2026-11-20T06:36:00+00:00",
       "category": "Firmen"
-    },
-    {
-      "id": "ad622efd91ceb59e",
-      "title": "KI-Agenten in Microsoft 365: Wer hat Zugriff auf welche Daten? - Computerwoche",
-      "excerpt": "KI-Agenten in Microsoft 365: Wer hat Zugriff auf welche Daten? Computerwoche",
-      "summary": "KI-Agenten in Microsoft 365: Wer hat Zugriff auf welche Daten? Computerwoche",
-      "source": "Computerwoche",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWmRGUHhDQVJuX2hYcEJiZzZrWVludnY4N0JOLTRmb1NGVGIzZjBBMDVTcU4yMEZnbTFsb3RkdUZmLUh0bDg1Q0M3eHkycWc0dVJIR25yZDRtLXMwYzJnNld2S05XX3R3dDBSR1plbHh1MzVjZXJ5bUhnSXZtSUJnUXYxUFBjTlF6SHFpUVd1M3h3cS1FZDBzY1JNckJ5Z2lSazdKbU1aR3pVMVJHeC1F?oc=5",
-      "published": "2026-11-20T03:00:00+00:00",
-      "category": "Microsoft 365"
     },
     {
       "id": "ae16ad384fd78c94",
@@ -331,14 +311,24 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "9bc402f990ce8639",
-      "title": "Schweizer Firmen gründen Allianz für digitale Souveränität",
-      "excerpt": "Mit Opensovereign wollen fünf Schweizer IT-Unternehmen Open-Source-Technologien als Alternative zu proprietären IT-Lösungen stärken.",
-      "summary": "Mit Opensovereign wollen fünf Schweizer IT-Unternehmen Open-Source-Technologien als Alternative zu proprietären IT-Lösungen stärken.",
-      "source": "Inside IT",
-      "url": "https://www.inside-it.ch/schweizer-firmen-gruenden-allianz-fuer-digitale-souveraenitaet-20261118",
-      "published": "2026-11-18T14:43:34+00:00",
-      "category": "IT Schweiz"
+      "id": "23da7ac421f950e4",
+      "title": "Bronschhofer IT-Unternehmen expandiert nach Zürich",
+      "excerpt": "Bronschhofer IT-Unternehmen expandiert nach Zürich Wil24",
+      "summary": "Bronschhofer IT-Unternehmen expandiert nach Zürich Wil24",
+      "source": "Wil24",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWDQxemhkaHRqdGdLOUZPUFF3RkVTMVd0aU9ueE44c3Z1djY3cHpnVGtBbzFoN1NqNU1uZGNacG5KcE5NZXA4WFVNa0ZYXzlWNjJUdjdGNGpqNkJ2dEdILUJsSFVSMFZybTBKZU52WU83dGsyNFVValFxVDIwM24taUdNaDQzdmtLYmFSUg?oc=5",
+      "published": "2026-11-18T16:04:00+00:00",
+      "category": "Firmen"
+    },
+    {
+      "id": "011a49bd505659d1",
+      "title": "Microsoft Copilot: Neue Credit-Abrechnung kommt für Partner erst 2027",
+      "excerpt": "Microsoft Copilot: Neue Credit-Abrechnung kommt für Partner erst 2027 BornCity",
+      "summary": "Microsoft Copilot: Neue Credit-Abrechnung kommt für Partner erst 2027 BornCity",
+      "source": "BornCity",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMXI4ckNvSHVlNnlrSVV6WHBiY0hoRU5IQkRwc3FsMFpKWVRMbEQ4NlkxaXN5bDNYSDkwZF9hbEJ5dE4zRTY4dm41RmtLX2xQamltcTRLUU5IUEdtQWJCVDRqSi00Wmlib044WE5EOFUwZWxzOFNTLWpVaGxwSy0tTWN6RUpaVGJGQVhodW91Wlg1a1cyNmUzTWtYU2Y?oc=5",
+      "published": "2026-11-18T05:00:08+00:00",
+      "category": "Microsoft 365"
     },
     {
       "id": "00cd893bf9d183c4",
@@ -351,7 +341,7 @@
       "category": "Trends"
     }
   ],
-  "updatedAt": "2026-11-22T06:05:15.137291+00:00",
+  "updatedAt": "2026-11-22T07:21:22.652084+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -366,10 +356,10 @@
     "Microsoft 365": 5,
     "IT Schweiz": 5,
     "Cloud": 5,
-    "Trends": 5,
+    "Trends": 4,
     "Markt": 5,
     "Firmen": 5
   },
-  "warning": "",
+  "warning": "Nicht genügend passende aktuelle Meldungen: 1 × Trends. 4 von 29 RSS-Quellen waren nicht erreichbar.",
   "aiSummaries": false
 }
