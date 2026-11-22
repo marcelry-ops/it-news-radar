@@ -271,6 +271,16 @@
       "category": "Firmen"
     },
     {
+      "id": "b54a1ae6b4d85eed",
+      "title": "Microsoft Teams: Support für iOS 17 und iPadOS 17 endet",
+      "excerpt": "Microsoft Teams: Support für iOS 17 und iPadOS 17 endet Caschys Blog",
+      "summary": "Microsoft Teams: Support für iOS 17 und iPadOS 17 endet Caschys Blog",
+      "source": "Caschys Blog",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNjhabzU3UldaR3I2Uk5ZMUxsYlBGX1YyYnVWdzR1U0JTaGFSWm95SE4xVjNqMUF6bGQ2RVFtMlZ4Y00yZlFzcmlfRlJxSXdlVFk2VDJzMjhnQWZTWEExUVJGMlpuYnotblkwX0Y0U21WQTlUSU1EZEJoMjE5cWh2emZIN0xjWVlobkt2cnFn?oc=5",
+      "published": "2026-11-20T08:00:52+00:00",
+      "category": "Microsoft 365"
+    },
+    {
       "id": "95685145073ca6e8",
       "title": "Windows 11: Microsoft testet Fernsperre für gestohlene Firmen-PCs - it-daily.net",
       "excerpt": "Windows 11: Microsoft testet Fernsperre für gestohlene Firmen-PCs it-daily.net",
@@ -279,16 +289,6 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lVE85Z0NOSUpxckpNemRWSUpTRHJfb01wYUxGdzB3bEI1WTMwTzFheDMzN3poR2R0M0pVQ29MUVRfcDk1UEJKVExXQ2hKbTl0aTBsSUxXLVpQSVNGTnN4THhYWWNQSTFtRVpJX1BRNGp1blZpMUE?oc=5",
       "published": "2026-11-20T06:36:00+00:00",
       "category": "Firmen"
-    },
-    {
-      "id": "ad622efd91ceb59e",
-      "title": "KI-Agenten in Microsoft 365: Wer hat Zugriff auf welche Daten? - Computerwoche",
-      "excerpt": "KI-Agenten in Microsoft 365: Wer hat Zugriff auf welche Daten? Computerwoche",
-      "summary": "KI-Agenten in Microsoft 365: Wer hat Zugriff auf welche Daten? Computerwoche",
-      "source": "Computerwoche",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWmRGUHhDQVJuX2hYcEJiZzZrWVludnY4N0JOLTRmb1NGVGIzZjBBMDVTcU4yMEZnbTFsb3RkdUZmLUh0bDg1Q0M3eHkycWc0dVJIR25yZDRtLXMwYzJnNld2S05XX3R3dDBSR1plbHh1MzVjZXJ5bUhnSXZtSUJnUXYxUFBjTlF6SHFpUVd1M3h3cS1FZDBzY1JNckJ5Z2lSazdKbU1aR3pVMVJHeC1F?oc=5",
-      "published": "2026-11-20T03:00:00+00:00",
-      "category": "Microsoft 365"
     },
     {
       "id": "ae16ad384fd78c94",
@@ -351,7 +351,7 @@
       "category": "Trends"
     }
   ],
-  "updatedAt": "2026-11-22T20:53:36.361073+00:00",
+  "updatedAt": "2026-11-22T21:53:08.517934+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -370,6 +370,6 @@
     "Markt": 5,
     "Firmen": 5
   },
-  "warning": "",
+  "warning": "1 von 29 RSS-Quellen waren nicht erreichbar.",
   "aiSummaries": false
 }
