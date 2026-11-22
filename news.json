@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "ee88db8b22361297",
+      "title": "Gehirn in die Cloud laden: 6 Wege, wie Forscher unser Bewusstsein retten wollen - t3n",
+      "excerpt": "Gehirn in die Cloud laden: 6 Wege, wie Forscher unser Bewusstsein retten wollen t3n",
+      "summary": "Gehirn in die Cloud laden: 6 Wege, wie Forscher unser Bewusstsein retten wollen t3n",
+      "source": "t3n",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxMUFxcHVNTDRnT3dEU0h0R3dXdVRyYUZQUWM1ZWRPTDZIU1FidzB5anVNYUpTWUt2VlJPSXlZOGItUzY0VFpmWC1nRkYyakpBVzRlQlh4b1U3SkM2aFRJYnhSTVpmXzJUa1NPOVNBYlVoNGlfZmJfZg?oc=5",
+      "published": "2026-11-22T09:50:00+00:00",
+      "category": "Cloud"
+    },
+    {
       "id": "3c57d58204683fae",
       "title": "KI macht komplexe Legierungen zugänglicher",
       "excerpt": "Materialinformatiker erstellen Modelle und Simulationen, die für die Entwicklung von komplexen Materialien unabdingbar sind. Forschende an der Empa in Thun haben nun ein auf KI basierendes Hilfsmittel entwickelt, das es Materialwissenschaftlern erlaubt, die komplexen Tools über einen einfachen Chat zu bedienen - eine Art ChatGPT für Materialien, der jedoch auf wissenschaftlichen Erkenntnissen beruht und auf dem Computer des Nutzers läuft.",
@@ -251,16 +261,6 @@
       "category": "Security"
     },
     {
-      "id": "b54a1ae6b4d85eed",
-      "title": "Microsoft Teams: Support für iOS 17 und iPadOS 17 endet",
-      "excerpt": "Microsoft Teams: Support für iOS 17 und iPadOS 17 endet Caschys Blog",
-      "summary": "Microsoft Teams: Support für iOS 17 und iPadOS 17 endet Caschys Blog",
-      "source": "Caschys Blog",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNjhabzU3UldaR3I2Uk5ZMUxsYlBGX1YyYnVWdzR1U0JTaGFSWm95SE4xVjNqMUF6bGQ2RVFtMlZ4Y00yZlFzcmlfRlJxSXdlVFk2VDJzMjhnQWZTWEExUVJGMlpuYnotblkwX0Y0U21WQTlUSU1EZEJoMjE5cWh2emZIN0xjWVlobkt2cnFn?oc=5",
-      "published": "2026-11-20T08:00:52+00:00",
-      "category": "Microsoft 365"
-    },
-    {
       "id": "95685145073ca6e8",
       "title": "Windows 11: Microsoft testet Fernsperre für gestohlene Firmen-PCs - it-daily.net",
       "excerpt": "Windows 11: Microsoft testet Fernsperre für gestohlene Firmen-PCs it-daily.net",
@@ -298,7 +298,7 @@
       "source": "Inside IT",
       "url": "https://www.inside-it.ch/zug-will-vertrauliche-daten-verarbeiten-in-m365-20261119",
       "published": "2026-11-19T12:49:48+00:00",
-      "category": "IT Schweiz"
+      "category": "Microsoft 365"
     },
     {
       "id": "086af95badb92bbd",
@@ -331,14 +331,14 @@
       "category": "Firmen"
     },
     {
-      "id": "ef34217f86d32cc5",
-      "title": "E-Mail-Sicherheit: Blinder Fleck in der Cloud - it-daily.net",
-      "excerpt": "E-Mail-Sicherheit: Blinder Fleck in der Cloud it-daily.net",
-      "summary": "E-Mail-Sicherheit: Blinder Fleck in der Cloud it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdXNsWlo4VXNFMmFsSzJPVWplRTFmcUVmOWlQRWpiUlFucmlzZ0daeWEzSEw3R3kyclZUTE40MjFPRC1hN041alNQYUNkaUdlVl9JT3JaTl9kRkY5X2d5alpuM0JJN2MtUU8ycVd5TkxGdWp3bHV3NER0eTZMR2NpdUhQZw?oc=5",
-      "published": "2026-11-18T06:26:26+00:00",
-      "category": "Cloud"
+      "id": "9bc402f990ce8639",
+      "title": "Schweizer Firmen gründen Allianz für digitale Souveränität",
+      "excerpt": "Mit Opensovereign wollen fünf Schweizer IT-Unternehmen Open-Source-Technologien als Alternative zu proprietären IT-Lösungen stärken.",
+      "summary": "Mit Opensovereign wollen fünf Schweizer IT-Unternehmen Open-Source-Technologien als Alternative zu proprietären IT-Lösungen stärken.",
+      "source": "Inside IT",
+      "url": "https://www.inside-it.ch/schweizer-firmen-gruenden-allianz-fuer-digitale-souveraenitaet-20261118",
+      "published": "2026-11-18T14:43:34+00:00",
+      "category": "IT Schweiz"
     },
     {
       "id": "00cd893bf9d183c4",
@@ -351,7 +351,7 @@
       "category": "Trends"
     }
   ],
-  "updatedAt": "2026-11-22T08:57:29.323413+00:00",
+  "updatedAt": "2026-11-22T09:55:59.784902+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -370,6 +370,6 @@
     "Markt": 5,
     "Firmen": 5
   },
-  "warning": "1 von 29 RSS-Quellen waren nicht erreichbar.",
+  "warning": "",
   "aiSummaries": false
 }
