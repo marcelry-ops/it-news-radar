@@ -21,6 +21,17 @@ CVE_ORG = 'https://cveawg.mitre.org/api/cve/'
 DAYS = max(1, min(int(os.getenv('CVE_DAYS', '14')), 120))
 MAX_ITEMS = max(50, min(int(os.getenv('CVE_MAX_ITEMS', '2000')), 10000))
 TOP_CVES = 50
+MIN_CVSS = 9.0
+# Separate bounded historical lookups for priority software.
+HISTORICAL_RESULTS_PER_TERM = 20
+HISTORICAL_SEARCH_TERMS = [
+    "Windows", "SQL Server", "Oracle", "VMware", "ExaGrid", "SAP",
+    "Microsoft 365", "Salesforce", "ServiceNow", "SuccessFactors",
+    "Signavio", "Omnissa", "CargoServer", "ChatGPT", "PHP", "Canon",
+    "Intune", "dormakaba", "Keeper", "MapEdit", "Adobe", "Autodesk",
+    "MobiCall", "NEPLAN", "Node-RED", "OpenText", "xECM", "PRTG",
+    "ROKA", "SEPPmail", "Microsoft Teams"
+]
 
 # Relevance influences which records enter the Top 50, never the displayed sort.
 PRIORITY_TERMS = {
@@ -106,7 +117,14 @@ def translate_descriptions(items):
                 print('WARN: translation failed:', str(exc)[:100])
         item['language'] = 'en'
     for item in items:
-        item['title'] = short_title(item.get('description'))
+        if not item.get('title'):
+            item['title'] = short_title(item.get('description'))
+        elif translator and re.search(r'\b(the|vulnerability|allows|remote|execution|injection|attacker)\b', item['title'], re.I):
+            try:
+                item['titleOriginal'] = item['title']
+                item['title'] = translator.translate(item['title'][:300])
+            except Exception:
+                pass
 
 PAGE_SIZE = 2000
 ID_RE = re.compile(r'\bCVE-\d{4}-\d{4,}\b', re.I)
@@ -194,7 +212,7 @@ def products(cve):
 def base(cve_id):
     return {'id': cve_id, 'score': None, 'severity': 'UNRATED', 'cvssVersion': None,
             'published': None, 'modified': None, 'description': 'Keine Beschreibung vorhanden.',
-            'products': [], 'references': [], 'sources': [], 'aliases': [],
+            'products': [], 'references': [], 'sources': [], 'aliases': [], 'title': None,
             'url': ('https://euvd.enisa.europa.eu/enisaid/' + urllib.parse.quote(cve_id)
                     if cve_id.startswith('EUVD-') else 'https://www.cve.org/CVERecord?id=' + cve_id)}
 
@@ -219,6 +237,8 @@ def merge(target, candidate):
         target['score'] = candidate['score']
         target['severity'] = candidate['severity']
         target['cvssVersion'] = candidate.get('cvssVersion')
+    if not target.get('title') and candidate.get('title'):
+        target['title'] = candidate['title']
     if target['description'] == 'Keine Beschreibung vorhanden.' and candidate.get('description') and candidate['description'] != 'Keine Beschreibung vorhanden.':
         target['description'] = candidate['description'][:5000]
     target['aliases'] = list(dict.fromkeys(target.get('aliases', []) + candidate.get('aliases', [])))
@@ -257,7 +277,8 @@ def euvd_candidates(payload):
             item = base(identifier)
             item.update(sources=['ENISA EUVD'], published=published, modified=modified,
                         aliases=[x for x in (euvd_id, cve_id) if x and x != identifier],
-                        description=str(row.get('description') or item['description'])[:5000])
+                        description=str(row.get('description') or item['description'])[:5000],
+                        title=str(row.get('title') or row.get('name') or '').strip()[:300] or None)
             if score is not None:
                 item['score'], item['severity'] = score, severity_for(score)
             if euvd_id and identifier != euvd_id:
@@ -276,6 +297,9 @@ def cvenow_candidates(payload):
             continue
         item = base(cid)
         item['sources'] = ['cve.now']
+        title = str(row.get('title') or '').strip()
+        if title and title.upper() != cid:
+            item['title'] = title[:300]
         item['description'] = str(row.get('summary') or row.get('content_text') or item['description'])[:5000]
         # Feed date_published is an entry date and may differ from CVE original publication date.
         item['published'] = iso(row.get('date_published'))
@@ -298,6 +322,7 @@ def cveorg_enrich(item):
         if desc:
             candidate['description'] = desc[:5000]
             break
+    candidate['title'] = str(cna.get('title') or '').strip()[:300] or None
     candidate['references'] = [r.get('url') for r in cna.get('references', []) if str(r.get('url', '')).startswith('https://')][:8]
     return merge(item, candidate)
 
@@ -357,13 +382,41 @@ def build():
         except Exception:
             pass
 
+    # Historical searches cover priority software beyond the recent NVD window.
+    # NVD keyword search is not exhaustive and may omit vendor-only advisories.
+    for term in HISTORICAL_SEARCH_TERMS:
+        try:
+            params = {'keywordSearch': term, 'resultsPerPage': HISTORICAL_RESULTS_PER_TERM}
+            page = get_json(NVD + '?' + urllib.parse.urlencode(params))
+            for row in page.get('vulnerabilities', []):
+                cve = row.get('cve') or {}
+                if not cve.get('id') or cve.get('vulnStatus') == 'Rejected':
+                    continue
+                item = nvd_item(cve)
+                if item['score'] is None or item['score'] < MIN_CVSS:
+                    continue
+                if not priority_products(item):
+                    continue
+                if item['id'] in entries:
+                    merge(entries[item['id']], item)
+                else:
+                    entries[item['id']] = item
+        except Exception as exc:
+            warnings.append('Historische Suche ' + term + ': ' + str(exc)[:80])
+        time.sleep(6)
+
     # Include recently modified entries as well as recently published entries.
     # Never substitute ingestion time for a missing source modification timestamp.
     threshold = iso(start.isoformat())
     selected = [x for x in entries.values() if
                 (x.get('modified') and x['modified'] >= threshold) or
                 (x.get('published') and x['published'] >= threshold)]
+    # Include historical matches only for the explicitly prioritised products.
+    selected_ids = {x['id'] for x in selected}
+    selected.extend(x for x in entries.values() if x['id'] not in selected_ids and
+                    x.get('score') is not None and x['score'] >= MIN_CVSS and priority_products(x))
     selected = dedupe_aliases(selected)
+    selected = [x for x in selected if x.get('score') is not None and x['score'] >= MIN_CVSS]
     for item in selected:
         item['priorityProducts'] = priority_products(item)
     selected = choose_top(selected)
@@ -372,7 +425,7 @@ def build():
                'totalResultsNvd': total, 'count': len(selected),
                'truncated': start_index < (total or 0),
                'source': 'NVD, CVE.org, cve.now, ENISA EUVD',
-               'sort': 'modified_desc_score_desc', 'priorityMode': 'prefer_relevant_in_top50',
+               'sort': 'modified_desc_score_desc', 'priorityMode': 'prefer_relevant_in_top50', 'minimumCvss': MIN_CVSS,
                'warning': ' | '.join(warnings) if warnings else None,
                'items': selected}
     Path('cves.json').write_text(json.dumps(payload, ensure_ascii=False, separators=(',', ':')), encoding='utf-8')
