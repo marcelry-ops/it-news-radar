@@ -211,6 +211,16 @@
       "category": "Markt"
     },
     {
+      "id": "91d4d60733e42050",
+      "title": "Phoeniqs-CEO Thomas Taroni: «Bei KI soll Europa nicht allein von Amerika und China abhängig sein»",
+      "excerpt": "Phoeniqs-CEO Thomas Taroni: «Bei KI soll Europa nicht allein von Amerika und China abhängig sein» Finanz und Wirtschaft",
+      "summary": "Phoeniqs-CEO Thomas Taroni: «Bei KI soll Europa nicht allein von Amerika und China abhängig sein» Finanz und Wirtschaft",
+      "source": "Finanz und Wirtschaft",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZFJVZUNJSUhxZDBSdVZoT3VVSFJkdnlvX19Ua1lCT0gtTTB1YjBvd3Q5RUZxRkI5ZnlCQ0hEMFpfNGNoRkNMdDdOQk9PTC13YlM2ZlRaaVlFRVdodDNTRXlZcmw5SGtXOUY4OVhIWkVHU19SSXotN0xScW4yVWp3S3hUYWQwcG9VemxTYkZzMlp1Qm1UeGc?oc=5",
+      "published": "2026-11-20T10:10:13+00:00",
+      "category": "Firmen"
+    },
+    {
       "id": "52bbed2a9b40349c",
       "title": "Arrow erweitert ArrowSphere um Vertriebsportal",
       "excerpt": "Arrow ergänzt ArrowSphere Cloud um ein Vertriebsportal für das Geschäft mit Microsoft und AWS. Zunächst erhalten ausgewählte Partner Zugang.",
@@ -331,16 +341,6 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "23da7ac421f950e4",
-      "title": "Bronschhofer IT-Unternehmen expandiert nach Zürich",
-      "excerpt": "Bronschhofer IT-Unternehmen expandiert nach Zürich Wil24",
-      "summary": "Bronschhofer IT-Unternehmen expandiert nach Zürich Wil24",
-      "source": "Wil24",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWDQxemhkaHRqdGdLOUZPUFF3RkVTMVd0aU9ueE44c3Z1djY3cHpnVGtBbzFoN1NqNU1uZGNacG5KcE5NZXA4WFVNa0ZYXzlWNjJUdjdGNGpqNkJ2dEdILUJsSFVSMFZybTBKZU52WU83dGsyNFVValFxVDIwM24taUdNaDQzdmtLYmFSUg?oc=5",
-      "published": "2026-11-18T16:04:00+00:00",
-      "category": "Firmen"
-    },
-    {
       "id": "00cd893bf9d183c4",
       "title": "\"Das Energiesystem der Zukunft braucht Daten\" - energate messenger Schweiz",
       "excerpt": "\"Das Energiesystem der Zukunft braucht Daten\" energate messenger Schweiz",
@@ -351,7 +351,7 @@
       "category": "Trends"
     }
   ],
-  "updatedAt": "2026-11-21T23:48:27.330842+00:00",
+  "updatedAt": "2026-11-22T01:19:03.226193+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
