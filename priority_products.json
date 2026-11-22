@@ -1,0 +1,290 @@
+{
+  "products": [
+    {
+      "name": "Windows",
+      "patterns": [
+        "\\bwindows\\b"
+      ],
+      "searchTerms": [
+        "Windows"
+      ]
+    },
+    {
+      "name": "SQL",
+      "patterns": [
+        "\\bsql server\\b",
+        "\\bmicrosoft sql server\\b"
+      ],
+      "searchTerms": [
+        "SQL Server"
+      ]
+    },
+    {
+      "name": "Oracle",
+      "patterns": [
+        "\\boracle\\b"
+      ],
+      "searchTerms": [
+        "Oracle"
+      ]
+    },
+    {
+      "name": "VMware",
+      "patterns": [
+        "\\bvmware\\b",
+        "\\bvsphere\\b",
+        "\\besxi\\b"
+      ],
+      "searchTerms": [
+        "VMware"
+      ]
+    },
+    {
+      "name": "ExaGrid",
+      "patterns": [
+        "\\bexagrid\\b"
+      ],
+      "searchTerms": [
+        "ExaGrid"
+      ]
+    },
+    {
+      "name": "SAP",
+      "patterns": [
+        "\\bsap\\b"
+      ],
+      "searchTerms": [
+        "SAP"
+      ]
+    },
+    {
+      "name": "Microsoft 365",
+      "patterns": [
+        "\\bmicrosoft 365\\b",
+        "\\boffice 365\\b",
+        "\\bm365\\b"
+      ],
+      "searchTerms": [
+        "Microsoft 365"
+      ]
+    },
+    {
+      "name": "Salesforce",
+      "patterns": [
+        "\\bsalesforce\\b"
+      ],
+      "searchTerms": [
+        "Salesforce"
+      ]
+    },
+    {
+      "name": "ServiceNow",
+      "patterns": [
+        "\\bservicenow\\b"
+      ],
+      "searchTerms": [
+        "ServiceNow"
+      ]
+    },
+    {
+      "name": "SuccessFactors",
+      "patterns": [
+        "\\bsuccessfactors\\b"
+      ],
+      "searchTerms": [
+        "SuccessFactors"
+      ]
+    },
+    {
+      "name": "Signavio",
+      "patterns": [
+        "\\bsignavio\\b"
+      ],
+      "searchTerms": [
+        "Signavio"
+      ]
+    },
+    {
+      "name": "Omnissa",
+      "patterns": [
+        "\\bomnissa\\b"
+      ],
+      "searchTerms": [
+        "Omnissa"
+      ]
+    },
+    {
+      "name": "CargoServer",
+      "patterns": [
+        "\\bcargoserver\\b"
+      ],
+      "searchTerms": [
+        "CargoServer"
+      ]
+    },
+    {
+      "name": "ChatGPT",
+      "patterns": [
+        "\\bchatgpt\\b"
+      ],
+      "searchTerms": [
+        "ChatGPT"
+      ]
+    },
+    {
+      "name": "PHP",
+      "patterns": [
+        "\\bphp\\b"
+      ],
+      "searchTerms": [
+        "PHP"
+      ]
+    },
+    {
+      "name": "Canon",
+      "patterns": [
+        "\\bcanon\\b"
+      ],
+      "searchTerms": [
+        "Canon"
+      ]
+    },
+    {
+      "name": "Intune",
+      "patterns": [
+        "\\bintune\\b"
+      ],
+      "searchTerms": [
+        "Intune"
+      ]
+    },
+    {
+      "name": "Kaba",
+      "patterns": [
+        "\\bkaba\\b",
+        "\\bdormakaba\\b"
+      ],
+      "searchTerms": [
+        "Kaba"
+      ]
+    },
+    {
+      "name": "Keeper",
+      "patterns": [
+        "\\bkeeper\\b"
+      ],
+      "searchTerms": [
+        "Keeper"
+      ]
+    },
+    {
+      "name": "MapEdit",
+      "patterns": [
+        "\\bmapedit\\b"
+      ],
+      "searchTerms": [
+        "MapEdit"
+      ]
+    },
+    {
+      "name": "Adobe",
+      "patterns": [
+        "\\badobe\\b"
+      ],
+      "searchTerms": [
+        "Adobe"
+      ]
+    },
+    {
+      "name": "Autodesk",
+      "patterns": [
+        "\\bautodesk\\b"
+      ],
+      "searchTerms": [
+        "Autodesk"
+      ]
+    },
+    {
+      "name": "MobiCall",
+      "patterns": [
+        "\\bmobicall\\b"
+      ],
+      "searchTerms": [
+        "MobiCall"
+      ]
+    },
+    {
+      "name": "NEPLAN",
+      "patterns": [
+        "\\bneplan\\b"
+      ],
+      "searchTerms": [
+        "NEPLAN"
+      ]
+    },
+    {
+      "name": "Node-RED",
+      "patterns": [
+        "\\bnode[- ]red\\b"
+      ],
+      "searchTerms": [
+        "Node-RED"
+      ]
+    },
+    {
+      "name": "OpenText",
+      "patterns": [
+        "\\bopentext\\b"
+      ],
+      "searchTerms": [
+        "OpenText"
+      ]
+    },
+    {
+      "name": "xECM",
+      "patterns": [
+        "\\bxecm\\b"
+      ],
+      "searchTerms": [
+        "xECM"
+      ]
+    },
+    {
+      "name": "PRTG",
+      "patterns": [
+        "\\bprtg\\b"
+      ],
+      "searchTerms": [
+        "PRTG"
+      ]
+    },
+    {
+      "name": "ROKA",
+      "patterns": [
+        "\\broka\\b"
+      ],
+      "searchTerms": [
+        "ROKA"
+      ]
+    },
+    {
+      "name": "SEPPmail",
+      "patterns": [
+        "\\bseppmail\\b"
+      ],
+      "searchTerms": [
+        "SEPPmail"
+      ]
+    },
+    {
+      "name": "Microsoft Teams",
+      "patterns": [
+        "\\bmicrosoft teams\\b",
+        "\\bms teams\\b"
+      ],
+      "searchTerms": [
+        "Microsoft Teams"
+      ]
+    }
+  ]
+}

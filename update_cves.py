@@ -24,34 +24,34 @@ TOP_CVES = 50
 MIN_CVSS = 9.0
 # Separate bounded historical lookups for priority software.
 HISTORICAL_RESULTS_PER_TERM = 20
-HISTORICAL_SEARCH_TERMS = [
-    "Windows", "SQL Server", "Oracle", "VMware", "ExaGrid", "SAP",
-    "Microsoft 365", "Salesforce", "ServiceNow", "SuccessFactors",
-    "Signavio", "Omnissa", "CargoServer", "ChatGPT", "PHP", "Canon",
-    "Intune", "dormakaba", "Keeper", "MapEdit", "Adobe", "Autodesk",
-    "MobiCall", "NEPLAN", "Node-RED", "OpenText", "xECM", "PRTG",
-    "ROKA", "SEPPmail", "Microsoft Teams"
-]
+# Gemeinsame Konfiguration fuer Frontend und Datenerzeugung.
+CONFIG_FILE = Path(__file__).with_name('priority_products.json')
 
-# Relevance influences which records enter the Top 50, never the displayed sort.
-PRIORITY_TERMS = {
- 'Windows': [r'\bwindows\b'], 'SQL': [r'\bsql server\b', r'\bmicrosoft sql server\b'],
- 'Oracle': [r'\boracle\b'], 'VMware': [r'\bvmware\b', r'\bvsphere\b', r'\besxi\b'],
- 'ExaGrid': [r'\bexagrid\b'], 'SAP': [r'\bsap\b'],
- 'Microsoft 365': [r'\bmicrosoft 365\b', r'\boffice 365\b', r'\bm365\b'],
- 'Salesforce': [r'\bsalesforce\b'], 'ServiceNow': [r'\bservicenow\b'],
- 'SuccessFactors': [r'\bsuccessfactors\b'], 'Signavio': [r'\bsignavio\b'],
- 'Omnissa': [r'\bomnissa\b'], 'CargoServer': [r'\bcargoserver\b'],
- 'ChatGPT': [r'\bchatgpt\b'], 'PHP': [r'\bphp\b'],
- 'Canon': [r'\bcanon\b'], 'Intune': [r'\bintune\b'],
- 'Kaba': [r'\bkaba\b', r'\bdormakaba\b'], 'Keeper': [r'\bkeeper\b'],
- 'MapEdit': [r'\bmapedit\b'], 'Adobe': [r'\badobe\b'],
- 'Autodesk': [r'\bautodesk\b'], 'MobiCall': [r'\bmobicall\b'],
- 'NEPLAN': [r'\bneplan\b'], 'Node-RED': [r'\bnode[- ]red\b'],
- 'OpenText': [r'\bopentext\b'], 'xECM': [r'\bxecm\b'],
- 'PRTG': [r'\bprtg\b'], 'ROKA': [r'\broka\b'],
- 'SEPPmail': [r'\bseppmail\b'], 'Microsoft Teams': [r'\bmicrosoft teams\b', r'\bms teams\b'],
-}
+def load_priority_config(path=CONFIG_FILE):
+    data = json.loads(Path(path).read_text(encoding='utf-8'))
+    if not isinstance(data, dict) or not isinstance(data.get('products'), list):
+        raise ValueError('priority_products.json: products muss eine Liste sein')
+    result = {}
+    search = []
+    for entry in data['products']:
+        name = str(entry.get('name', '')).strip()
+        patterns = entry.get('patterns', [])
+        searches = entry.get('searchTerms', [])
+        if not name or len(name) > 80 or name in result:
+            raise ValueError('Produktname fehlt, ist doppelt oder zu lang: ' + name)
+        if not isinstance(patterns, list) or not patterns or len(patterns) > 12:
+            raise ValueError('Ungueltige Muster fuer ' + name)
+        if not isinstance(searches, list) or not searches or len(searches) > 12:
+            raise ValueError('Ungueltige Suchbegriffe fuer ' + name)
+        for p in patterns:
+            if not isinstance(p, str) or len(p) > 180:
+                raise ValueError('Ungueltiger Regex fuer ' + name)
+            re.compile(p)
+        result[name] = patterns
+        search.extend(str(s).strip() for s in searches if str(s).strip())
+    return result, list(dict.fromkeys(search))
+
+PRIORITY_TERMS, HISTORICAL_SEARCH_TERMS = load_priority_config()
 
 def priority_products(item):
     text = ' '.join([str(item.get('description', '')), ' '.join(item.get('products') or [])]).casefold()
@@ -119,12 +119,17 @@ def translate_descriptions(items):
     for item in items:
         if not item.get('title'):
             item['title'] = short_title(item.get('description'))
-        elif translator and re.search(r'\b(the|vulnerability|allows|remote|execution|injection|attacker)\b', item['title'], re.I):
+            item['titleLanguage'] = item.get('language', 'unknown')
+        elif re.search(r'\b(the|vulnerability|allows|remote|execution|injection|attacker)\b', item['title'], re.I):
             try:
                 item['titleOriginal'] = item['title']
-                item['title'] = translator.translate(item['title'][:300])
+                if translator:
+                    item['title'] = translator.translate(item['title'][:300])
+                item['titleLanguage'] = 'de' if item['title'] != item['titleOriginal'] else 'en'
             except Exception:
-                pass
+                item['titleLanguage'] = 'en'
+        elif item.get('title'):
+            item['titleLanguage'] = 'de' if re.search(r'\b(und|eine|einer|schwachstelle|ermöglicht|nicht|fehler)\b', item['title'], re.I) else 'en'
 
 PAGE_SIZE = 2000
 ID_RE = re.compile(r'\bCVE-\d{4}-\d{4,}\b', re.I)
