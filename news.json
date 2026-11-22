@@ -31,6 +31,16 @@
       "category": "Security"
     },
     {
+      "id": "ee88db8b22361297",
+      "title": "Gehirn in die Cloud laden: 6 Wege, wie Forscher unser Bewusstsein retten wollen - t3n",
+      "excerpt": "Gehirn in die Cloud laden: 6 Wege, wie Forscher unser Bewusstsein retten wollen t3n",
+      "summary": "Gehirn in die Cloud laden: 6 Wege, wie Forscher unser Bewusstsein retten wollen t3n",
+      "source": "t3n",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxMUFxcHVNTDRnT3dEU0h0R3dXdVRyYUZQUWM1ZWRPTDZIU1FidzB5anVNYUpTWUt2VlJPSXlZOGItUzY0VFpmWC1nRkYyakpBVzRlQlh4b1U3SkM2aFRJYnhSTVpmXzJUa1NPOVNBYlVoNGlfZmJfZg?oc=5",
+      "published": "2026-11-22T09:50:00+00:00",
+      "category": "Cloud"
+    },
+    {
       "id": "3c57d58204683fae",
       "title": "KI macht komplexe Legierungen zugänglicher",
       "excerpt": "Materialinformatiker erstellen Modelle und Simulationen, die für die Entwicklung von komplexen Materialien unabdingbar sind. Forschende an der Empa in Thun haben nun ein auf KI basierendes Hilfsmittel entwickelt, das es Materialwissenschaftlern erlaubt, die komplexen Tools über einen einfachen Chat zu bedienen - eine Art ChatGPT für Materialien, der jedoch auf wissenschaftlichen Erkenntnissen beruht und auf dem Computer des Nutzers läuft.",
@@ -261,16 +271,6 @@
       "category": "Firmen"
     },
     {
-      "id": "52bbed2a9b40349c",
-      "title": "Arrow erweitert ArrowSphere um Vertriebsportal",
-      "excerpt": "Arrow ergänzt ArrowSphere Cloud um ein Vertriebsportal für das Geschäft mit Microsoft und AWS. Zunächst erhalten ausgewählte Partner Zugang.",
-      "summary": "Arrow ergänzt ArrowSphere Cloud um ein Vertriebsportal für das Geschäft mit Microsoft und AWS. Zunächst erhalten ausgewählte Partner Zugang.",
-      "source": "IT Reseller",
-      "url": "https://www.itreseller.ch/Artikel/106655/Arrow_erweitert_ArrowSphere_um_Vertriebsportal.html",
-      "published": "2026-11-20T10:02:47+00:00",
-      "category": "Cloud"
-    },
-    {
       "id": "95685145073ca6e8",
       "title": "Windows 11: Microsoft testet Fernsperre für gestohlene Firmen-PCs - it-daily.net",
       "excerpt": "Windows 11: Microsoft testet Fernsperre für gestohlene Firmen-PCs it-daily.net",
@@ -351,7 +351,7 @@
       "category": "Trends"
     }
   ],
-  "updatedAt": "2026-11-22T20:50:35.663384+00:00",
+  "updatedAt": "2026-11-22T20:53:36.361073+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
