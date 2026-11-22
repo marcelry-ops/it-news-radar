@@ -1,16 +1,6 @@
 {
   "items": [
     {
-      "id": "71c451bd49cc233d",
-      "title": "KI-Agenten von Start-Up drangen in Anthropics Systeme ein - it-daily.net",
-      "excerpt": "KI-Agenten von Start-Up drangen in Anthropics Systeme ein it-daily.net",
-      "summary": "KI-Agenten von Start-Up drangen in Anthropics Systeme ein it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zM1pwZERWSk5RQnFkVFhOTHQtNDhJSmp1T09WQ2x5bDdTdVdKVDJoN1g3TXV5aW5hbjJEV2xpTWI5NlVkSGUxaDdwdndwZnl6TUVxekpyaEtiMWtBN0pGcFk4TGwwaUlRYTZ6X0ZCOUw5Zw?oc=5",
-      "published": "2026-11-21T17:44:31+00:00",
-      "category": "Firmen"
-    },
-    {
       "id": "b50b5168396c0e06",
       "title": "Kann Nvidia KI-Chips orten? Das sagt das Unternehmen hinter verschlossenen Türen - t3n",
       "excerpt": "Kann Nvidia KI-Chips orten? Das sagt das Unternehmen hinter verschlossenen Türen t3n",
@@ -61,6 +51,16 @@
       "category": "Cloud"
     },
     {
+      "id": "1d71172d5e0f4565",
+      "title": "KI-Wettrüsten: Trump verbietet US-Firmen Bau von Rechenzentren im Ausland - ComputerBase",
+      "excerpt": "KI-Wettrüsten: Trump verbietet US-Firmen Bau von Rechenzentren im Ausland ComputerBase",
+      "summary": "KI-Wettrüsten: Trump verbietet US-Firmen Bau von Rechenzentren im Ausland ComputerBase",
+      "source": "ComputerBase",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMlVkSUhIa1pFMl9RcVBURUtTTEk5aXd4cDNhZ3hKR3A3Vk1rQUNaMUhIS1I3SzdMYWItcVVBX3o0dGdDTHNrTFp5OUl1Q010X01SSmY1UVpMem9FUFNXSHhZZGl1eXFlREMzM3NXTmVOdXV0UGtuV3dkaGFzckdHZXc1ZXBjb1NtTmRiOHBaMkF1SHZpWmdvT01OZGxDOGVCVzQtQ2hYaUlXU1JEVTRWZ2V1cnJhVTl3WUl2ZkhaRGpfZDQ?oc=5",
+      "published": "2026-11-20T20:30:00+00:00",
+      "category": "Firmen"
+    },
+    {
       "id": "a31ed4515686ebb9",
       "title": "Elia Ferrari - IT-Markt",
       "excerpt": "Elia Ferrari IT-Markt",
@@ -69,6 +69,16 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDNGpGNmllQkVvX1BaXzJ6aWtvWUx4SWMtRHNEQmFEcXAtUVdfNjZXUkxYX08tUHBpRmRRNXFLbU96UlZjMU1FTC1qcHZKYm9JTS1v?oc=5",
       "published": "2026-11-20T20:09:28+00:00",
       "category": "Markt"
+    },
+    {
+      "id": "077c1db9a8aa402f",
+      "title": "MIND meldet Copilot-DLP für Microsoft 365 als allgemein verfügbar",
+      "excerpt": "MIND meldet Copilot-DLP für Microsoft 365 als allgemein verfügbar NeoTeo",
+      "summary": "MIND meldet Copilot-DLP für Microsoft 365 als allgemein verfügbar NeoTeo",
+      "source": "NeoTeo",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdkRxeGhPRV8yZkk4RzF5MGNvanhyWkw0V1NRUTJUdUJuNWtNUGM3bDBFN2o3TXNReXJ5Tm9TY0tfQTBqNTRHN2FLUENyQ3Y3bkVNR091cFEwX0F0dExRR19fUDJQQ0dHNjZ0MndIcDgyejV6TVV3OGdhOVBjclRvQ1JQa3lzcXZKa2ZyamFVSm1SOF9MS0E?oc=5",
+      "published": "2026-11-20T20:00:21+00:00",
+      "category": "Microsoft 365"
     },
     {
       "id": "128ef166f5d819c4",
@@ -201,16 +211,6 @@
       "category": "Firmen"
     },
     {
-      "id": "52bbed2a9b40349c",
-      "title": "Arrow erweitert ArrowSphere um Vertriebsportal",
-      "excerpt": "Arrow ergänzt ArrowSphere Cloud um ein Vertriebsportal für das Geschäft mit Microsoft und AWS. Zunächst erhalten ausgewählte Partner Zugang.",
-      "summary": "Arrow ergänzt ArrowSphere Cloud um ein Vertriebsportal für das Geschäft mit Microsoft und AWS. Zunächst erhalten ausgewählte Partner Zugang.",
-      "source": "IT Reseller",
-      "url": "https://www.itreseller.ch/Artikel/106655/Arrow_erweitert_ArrowSphere_um_Vertriebsportal.html",
-      "published": "2026-11-20T10:02:47+00:00",
-      "category": "Cloud"
-    },
-    {
       "id": "b54a1ae6b4d85eed",
       "title": "Microsoft Teams: Support für iOS 17 und iPadOS 17 endet",
       "excerpt": "Microsoft Teams: Support für iOS 17 und iPadOS 17 endet Caschys Blog",
@@ -219,16 +219,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNjhabzU3UldaR3I2Uk5ZMUxsYlBGX1YyYnVWdzR1U0JTaGFSWm95SE4xVjNqMUF6bGQ2RVFtMlZ4Y00yZlFzcmlfRlJxSXdlVFk2VDJzMjhnQWZTWEExUVJGMlpuYnotblkwX0Y0U21WQTlUSU1EZEJoMjE5cWh2emZIN0xjWVlobkt2cnFn?oc=5",
       "published": "2026-11-20T08:00:52+00:00",
       "category": "Microsoft 365"
-    },
-    {
-      "id": "95685145073ca6e8",
-      "title": "Windows 11: Microsoft testet Fernsperre für gestohlene Firmen-PCs - it-daily.net",
-      "excerpt": "Windows 11: Microsoft testet Fernsperre für gestohlene Firmen-PCs it-daily.net",
-      "summary": "Windows 11: Microsoft testet Fernsperre für gestohlene Firmen-PCs it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lVE85Z0NOSUpxckpNemRWSUpTRHJfb01wYUxGdzB3bEI1WTMwTzFheDMzN3poR2R0M0pVQ29MUVRfcDk1UEJKVExXQ2hKbTl0aTBsSUxXLVpQSVNGTnN4THhYWWNQSTFtRVpJX1BRNGp1blZpMUE?oc=5",
-      "published": "2026-11-20T06:36:00+00:00",
-      "category": "Firmen"
     },
     {
       "id": "ad622efd91ceb59e",
@@ -278,7 +268,7 @@
       "source": "Inside IT",
       "url": "https://www.inside-it.ch/zug-will-vertrauliche-daten-verarbeiten-in-m365-20261119",
       "published": "2026-11-19T12:49:48+00:00",
-      "category": "Microsoft 365"
+      "category": "IT Schweiz"
     },
     {
       "id": "d1fdbbe90f0f90ba",
@@ -301,16 +291,6 @@
       "category": "IT Schweiz"
     },
     {
-      "id": "086af95badb92bbd",
-      "title": "Trends 2027: Vorsprung durch Governance - it-daily.net",
-      "excerpt": "Trends 2027: Vorsprung durch Governance it-daily.net",
-      "summary": "Trends 2027: Vorsprung durch Governance it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lVnRkTURlNkRfQ18zWGFnLXMtWEs1d09EVW54TFFFckE3NTJUbXVZVGNVMnVfc1ZfTzE5ZFhtUl9xNjVheTJ2ci0weTM3QUpqSWcwUl9sU0pubDQ2MFNQYjhxZ082ZjdTeFFJcGw0eVp2V1dYOFFEYmJBMEU3dmc?oc=5",
-      "published": "2026-11-19T04:08:28+00:00",
-      "category": "Trends"
-    },
-    {
       "id": "6a21a62621a19c6a",
       "title": "MIND führt DLP-Integrationen für Microsoft Copilot und Microsoft 365 ein",
       "excerpt": "MIND führt DLP-Integrationen für Microsoft Copilot und Microsoft 365 ein Unite.AI",
@@ -331,14 +311,24 @@
       "category": "Firmen"
     },
     {
-      "id": "9bc402f990ce8639",
-      "title": "Schweizer Firmen gründen Allianz für digitale Souveränität",
-      "excerpt": "Mit Opensovereign wollen fünf Schweizer IT-Unternehmen Open-Source-Technologien als Alternative zu proprietären IT-Lösungen stärken.",
-      "summary": "Mit Opensovereign wollen fünf Schweizer IT-Unternehmen Open-Source-Technologien als Alternative zu proprietären IT-Lösungen stärken.",
-      "source": "Inside IT",
-      "url": "https://www.inside-it.ch/schweizer-firmen-gruenden-allianz-fuer-digitale-souveraenitaet-20261118",
-      "published": "2026-11-18T14:43:34+00:00",
-      "category": "IT Schweiz"
+      "id": "56afc9e17a1eed5b",
+      "title": "Neue Allianz für digitale Unabhängigkeit: Fünf Schweizer IT-Unternehmen gründen OpenSovereign",
+      "excerpt": "Neue Allianz für digitale Unabhängigkeit: Fünf Schweizer IT-Unternehmen gründen OpenSovereign Presseportal Schweiz",
+      "summary": "Neue Allianz für digitale Unabhängigkeit: Fünf Schweizer IT-Unternehmen gründen OpenSovereign Presseportal Schweiz",
+      "source": "Presseportal Schweiz",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVXRNWVMwMTEzQ293OTV6MHBLd2Rnal9PQUwydFN0SDZtSmFwd3JQU2lUZmR1Q1VTaUo1dDBBLU9mdWFUZFRpVlB0ekFXREVmRm80M0pZb1dySU9GSFhKN0RxSmhTZGlCRUJEakNFdzFhamFmMXhvTTFWcjdnM3ZUYVh6d0wtbHBjQUVRSkJ5eXEyY3NkNVQxUVFZOEZ0QmdSZVB6RmNYZWdpbU5Oc0ZmMXA1Ym94OFNtQzRNQk5Sb1BWN0hyWENBUndyYlNmTWvSAdQBQVVfeXFMTlh2MTNQU21yWFJ0LXZMLXRJWEZkQzlQN0l0OUlCRGtNVzNvWEhuUnV2X0JGdWRWWWhkeFV3b25HMklJNkFjaFBYY0o2cmxYVE9UYlZwZlVKdjR0ejhudWVZNnpXZy1VV1FLZFBvbnFNOGxLLTJzRlJGV0p3WEJVOF95QXF1U3NDMHc5MFhKUjhPYXR1a0ZRTDVPZHR5SDNFMmdidkFmSnRqcFFWYW1YWlp3UmdpU1dGX0MzUXAwemp2b0lHVEdMbzg2cFJPb1dub3diYmE?oc=5",
+      "published": "2026-11-18T07:50:10+00:00",
+      "category": "Firmen"
+    },
+    {
+      "id": "25637afc33f0cb3c",
+      "title": "AntiFox: Angreifer nutzen Pentest-Werkzeug gegen AWS - it-daily.net",
+      "excerpt": "AntiFox: Angreifer nutzen Pentest-Werkzeug gegen AWS it-daily.net",
+      "summary": "AntiFox: Angreifer nutzen Pentest-Werkzeug gegen AWS it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EZnNMc0hBZ25IdEItRm5LUERnVnRuYXhYb2loOHJSNHhGc3NNTlFJLVVydWN0dGl2NHBZMGRGaFBFZXAyNXZZTTFvWDdfS1FFaFFCZC1nTG8yZGZ3X2JnWFczSWI0UWV6dzVN?oc=5",
+      "published": "2026-11-18T06:39:34+00:00",
+      "category": "Cloud"
     },
     {
       "id": "00cd893bf9d183c4",
@@ -351,7 +341,7 @@
       "category": "Trends"
     }
   ],
-  "updatedAt": "2026-11-22T04:01:51.174420+00:00",
+  "updatedAt": "2026-11-22T05:07:29.146587+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -366,10 +356,10 @@
     "Microsoft 365": 5,
     "IT Schweiz": 5,
     "Cloud": 5,
-    "Trends": 5,
+    "Trends": 4,
     "Markt": 5,
     "Firmen": 5
   },
-  "warning": "4 von 29 RSS-Quellen waren nicht erreichbar.",
+  "warning": "Nicht genügend passende aktuelle Meldungen: 1 × Trends. 1 von 29 RSS-Quellen waren nicht erreichbar.",
   "aiSummaries": false
 }
