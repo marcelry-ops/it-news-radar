@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "id": "cafe2150ada18e0e",
+      "title": "Künstliche Intelligenz: Wie KI-Assistenten verschlüsselte Messenger unsicher machen - Netzpolitik.org",
+      "excerpt": "Künstliche Intelligenz: Wie KI-Assistenten verschlüsselte Messenger unsicher machen Netzpolitik.org",
+      "summary": "Künstliche Intelligenz: Wie KI-Assistenten verschlüsselte Messenger unsicher machen Netzpolitik.org",
+      "source": "netzpolitik.org",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbGxLcnFDNC1ScTh0OG9LcUVMQXFEeXc1NGZ2a0djYmV2c3dVNGVFdXhIVGJzUEkwZzBlZGpMSFVaUHl2N1N0amFldFdDdllzU0lVbXF4TmdBMlBMT0xmSlJaclRtZWt2Wi1PX1lFT2ZpdU9JLWViWGJEYWs0dXFKZUFqSWlhcUt2V2ZHVmU2ajlkZlhic3lCTEpVVFBNWE56dWowS1c4bU9UdnlSaHNmQXd2V0I?oc=5",
+      "published": "2026-11-23T15:08:04+00:00",
+      "category": "Trends"
+    },
+    {
+      "id": "12f7300b32e31e35",
+      "title": "Beide Basel sehen KI an Schulen kritisch",
+      "excerpt": "Lehrpersonen aus der Region Basel befürchten, dass die KI-Nutzung die Lernleistung und das eigenständige Denken der Schülerinnen und Schüler beeinträchtigen könnte.",
+      "summary": "Lehrpersonen aus der Region Basel befürchten, dass die KI-Nutzung die Lernleistung und das eigenständige Denken der Schülerinnen und Schüler beeinträchtigen könnte.",
+      "source": "Inside IT",
+      "url": "https://www.inside-it.ch/beide-basel-sehen-ki-an-schulen-kritisch-20261123",
+      "published": "2026-11-23T14:56:36+00:00",
+      "category": "IT Schweiz"
+    },
+    {
+      "id": "eb53cd74c8cb756b",
+      "title": "Weihnachtliche Bieber-Hilfe - IT-Markt",
+      "excerpt": "Weihnachtliche Bieber-Hilfe IT-Markt",
+      "summary": "Weihnachtliche Bieber-Hilfe IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiMVdBdGVGNDExWXFWaDI4cVRsLVZZNU8xdHZXamFWZjV3VVVoRHpWN3BoYzNOQ05neWFuR1VfRmpjN0VuX1NidjVRcXYzcGZfTk9BcGlwZUQzRVN4cnFXWEZaSmhWTkFWbW01d3ctS090YkdXbnlOcGV2Z2lQZw?oc=5",
+      "published": "2026-11-23T14:51:29+00:00",
+      "category": "Markt"
+    },
+    {
+      "id": "49c7b6fb915a220e",
+      "title": "Jahrhundertdeal: Crowdstrike kauft Zscaler für 44 Milliarden Dollar und fordert Microsoft heraus",
+      "excerpt": "Der Milliardendeal vereint Endgeräte- und Cloud-Sicherheit unter einem Dach. Microsoft und Palo Alto Networks bekommen einen mächtigen Rivalen. ( Crowdstrike , Security )",
+      "summary": "Der Milliardendeal vereint Endgeräte- und Cloud-Sicherheit unter einem Dach. Microsoft und Palo Alto Networks bekommen einen mächtigen Rivalen. ( Crowdstrike , Security )",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/jahrhundertdeal-crowdstrike-uebernimmt-zscaler-fuer-44-milliarden-us-dollar-2611-215542.html",
+      "published": "2026-11-23T14:30:02+00:00",
+      "category": "Cloud"
+    },
+    {
       "id": "d2595e4f0dbd9ec7",
       "title": "Audi connected work: Sprachsteuerung für Outlook und Teams startet im November - BornCity",
       "excerpt": "Audi connected work: Sprachsteuerung für Outlook und Teams startet im November BornCity",
@@ -31,13 +71,13 @@
       "category": "IT Schweiz"
     },
     {
-      "id": "fbc7816f508556a5",
-      "title": "Aktuelle Studie: Sophos State of Ransomware in Retail 2026",
-      "excerpt": "Aktuelle Studie: Sophos State of Ransomware in Retail 2026 All About SECURITY",
-      "summary": "Aktuelle Studie: Sophos State of Ransomware in Retail 2026 All About SECURITY",
-      "source": "All About SECURITY",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOckl4YTQtRzFtMEdXU1ZYYlJQaDFVd2J4SjlkbWNtRWxzM0NLRWhhYjR4ZU5tQm5NTUNzLVk4aU82MzJzQThMMEdQaDJyXzNSQ1puUE1SUnpxeEg1THFlUHVKbjlTMUlrUVg0eGlRM09RaGtaTWZ2aWRPZFE5ZmJyakliSHpRUTlMTjZHLWNLOV9KWUtXTTFN?oc=5",
-      "published": "2026-11-23T13:16:55+00:00",
+      "id": "370e743d1d7fbe01",
+      "title": "(g+) Intune, Defender und Co.: Warum teure Security-Lizenzen allein nicht schützen",
+      "excerpt": "Intune, Defender und Co. sind aktiviert - trotzdem können Sicherheitslücken bleiben. Entscheidend ist die richtige Konfiguration. Ein Ratgebertext von Aaron Siller ( Security , Windows Intune )",
+      "summary": "Intune, Defender und Co. sind aktiviert - trotzdem können Sicherheitslücken bleiben. Entscheidend ist die richtige Konfiguration. Ein Ratgebertext von Aaron Siller ( Security , Windows Intune )",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/intune-defender-und-co-warum-teure-security-lizenzen-allein-nicht-schuetzen-2611-215531.html",
+      "published": "2026-11-23T12:30:01+00:00",
       "category": "Security"
     },
     {
@@ -51,13 +91,13 @@
       "category": "IT Schweiz"
     },
     {
-      "id": "7ae4c01eb1149cee",
-      "title": "Ransomware-Schutz muss mit den Angriffen Schritt halten",
-      "excerpt": "Ransomware-Schutz muss mit den Angriffen Schritt halten B2B Cyber Security",
-      "summary": "Ransomware-Schutz muss mit den Angriffen Schritt halten B2B Cyber Security",
-      "source": "B2B Cyber Security",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSlBBcmx0RHd2S3BJUUNVd3kwaWRBRVlpdGtCcUp4Uk5SVTFCbE5kUU94UmpVTnlPV3VFTDA0OU0zZnYzLXZpN0pXSHhnS2tpUkJuYWw5UjJjZ0VaeEM3UnFHWGppTlY2c1hyckNDb2lxTjBxUnFkR3RQYzJXUDBiZzNkeWVWdlhDaDdsQ2otMA?oc=5",
-      "published": "2026-11-23T11:44:46+00:00",
+      "id": "301ab4dba4cbf89f",
+      "title": "Daten abgeflossen: Microsoft gesteht Datenpanne bei Entra Connect Health",
+      "excerpt": "Angreifer haben über eine Sicherheitslücke bei Microsoft Entra Connect Health Daten von On-Premises-Systemen abgegriffen. Betroffene werden informiert. ( Sicherheitslücke , Microsoft )",
+      "summary": "Angreifer haben über eine Sicherheitslücke bei Microsoft Entra Connect Health Daten von On-Premises-Systemen abgegriffen. Betroffene werden informiert. ( Sicherheitslücke , Microsoft )",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/daten-abgeflossen-microsoft-gesteht-datenpanne-bei-entra-connect-health-2611-215534.html",
+      "published": "2026-11-23T11:56:01+00:00",
       "category": "Security"
     },
     {
@@ -101,26 +141,6 @@
       "category": "Security"
     },
     {
-      "id": "0fd1708e5fc3ec11",
-      "title": "So hilft KI beim Onlineshopping - aber auch beim Betrug",
-      "excerpt": "KI wird in der Schweiz zunehmend zur Einkaufshilfe. KI-Agenten finden Schnäppchen, erkennen unseriöse Angebote oder ermöglichen virtuelle Anproben. Händler nutzen KI, um ihre Shops anzupassen. Konsumentenschützer warnen jedoch vor fehlerhaften Vorschlägen, gefälschten KI-Werbungen und Fake-Shops.",
-      "summary": "KI wird in der Schweiz zunehmend zur Einkaufshilfe. KI-Agenten finden Schnäppchen, erkennen unseriöse Angebote oder ermöglichen virtuelle Anproben. Händler nutzen KI, um ihre Shops anzupassen. Konsumentenschützer warnen jedoch vor fehlerhaften Vorschlägen, gef",
-      "source": "Netzwoche",
-      "url": "https://www.netzwoche.ch/news/2026-11-23/so-hilft-ki-beim-onlineshopping-aber-auch-beim-betrug",
-      "published": "2026-11-23T10:20:33+00:00",
-      "category": "IT Schweiz"
-    },
-    {
-      "id": "c8d9b1f029050077",
-      "title": "Nestlé setzt in Fabriken auf Roboterhunde und KI",
-      "excerpt": "Im neuen Deep Tech Center in Waadt entwickelt der Lebensmittelkonzern Technologien, um die Produktion mithilfe von Sensoren, Robotern und KI zu beschleunigen.",
-      "summary": "Im neuen Deep Tech Center in Waadt entwickelt der Lebensmittelkonzern Technologien, um die Produktion mithilfe von Sensoren, Robotern und KI zu beschleunigen.",
-      "source": "Inside IT",
-      "url": "https://www.inside-it.ch/nestle-setzt-in-fabriken-auf-roboterhunde-und-ki-20261123",
-      "published": "2026-11-23T10:17:20+00:00",
-      "category": "IT Schweiz"
-    },
-    {
       "id": "b407dca5f06acd23",
       "title": "GL.iNet: Unzählige Router über Cloud des Herstellers kompromittiert",
       "excerpt": "Angreifer haben über die Cloud von GL.iNet Malware auf Router und KVM-Geräte geschleust. Die Updates des Herstellers helfen wohl nur teilweise. ( Sicherheitslücke , Virus )",
@@ -161,6 +181,36 @@
       "category": "Security"
     },
     {
+      "id": "4ac2f942ae3ee867",
+      "title": "Bund beauftragt Elca mit Deepfake-Erkennung für die E-ID",
+      "excerpt": "Der Bund will die Identitätsprüfung für die Schweizer E-ID gegen KI-generierte Videos absichern. Den Auftrag für ein zusätzliches Softwaremodul über 4,44 Millionen Franken vergibt er freihändig an Elca. Das Unternehmen liefert bereits das zugrunde liegende Prüfsystem.",
+      "summary": "Der Bund will die Identitätsprüfung für die Schweizer E-ID gegen KI-generierte Videos absichern. Den Auftrag für ein zusätzliches Softwaremodul über 4,44 Millionen Franken vergibt er freihändig an Elca. Das Unternehmen liefert bereits das zugrunde liegende Prü",
+      "source": "Netzwoche",
+      "url": "https://www.netzwoche.ch/news/2026-11-23/bund-beauftragt-elca-mit-deepfake-erkennung-fuer-die-e-id",
+      "published": "2026-11-23T08:53:32+00:00",
+      "category": "Firmen"
+    },
+    {
+      "id": "b6c1346d9938306d",
+      "title": "Google baut KI-Suche mit Gemini 4 Hydrogen aus – was sich für Schweizer Unternehmen und KMU ändert",
+      "excerpt": "Google baut KI-Suche mit Gemini 4 Hydrogen aus – was sich für Schweizer Unternehmen und KMU ändert Swiss-Press.com",
+      "summary": "Google baut KI-Suche mit Gemini 4 Hydrogen aus – was sich für Schweizer Unternehmen und KMU ändert Swiss-Press.com",
+      "source": "Swiss-Press.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUm5TV2JpbnBlamcyaXA5Wk85SGp2M3ViNkU0YXQ0R1RGU0dKLWNfcGtZMGxCeHdZY05LOHFqdU1jWFllZUctYm41V3piODY1MkJBdE9IZkxkTEtvNF9sQUJnLUxEWGJ5SWt2Wk9jU2dJLV8wYUV1d1h4ODlKS1l5a05yeC1oRnZ6THc?oc=5",
+      "published": "2026-11-23T07:59:07+00:00",
+      "category": "IT Schweiz"
+    },
+    {
+      "id": "b3334a2282260aff",
+      "title": "Bechtle kaut mit HET IT weiter in Europa zu",
+      "excerpt": "Bechtle übernimmt mit HET IT einen niederländischen IT-Spezialisten für den Public Sector. Es ist bereits die vierte europäische Akquisition seit Anfang November.",
+      "summary": "Bechtle übernimmt mit HET IT einen niederländischen IT-Spezialisten für den Public Sector. Es ist bereits die vierte europäische Akquisition seit Anfang November.",
+      "source": "IT Reseller",
+      "url": "https://www.itreseller.ch/Artikel/106661/Bechtle_kaut_mit_HET_IT_weiter_in_Europa_zu.html",
+      "published": "2026-11-23T07:04:57+00:00",
+      "category": "Firmen"
+    },
+    {
       "id": "b5a5510cf36a8571",
       "title": "Lenovo vernetzt den modernen Arbeitsplatz - IT-Markt",
       "excerpt": "Lenovo vernetzt den modernen Arbeitsplatz IT-Markt",
@@ -169,16 +219,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY1BPejNBWlJvM09sLTJoRWlQbHhCS0RWZ3d5MUFETG1PVkdYNTROZW1PZTBmQjFYelVUaTlFbUxqQjh5UGVnTUhxdXBZZ20wOVh0TFgzTUpTR29QMENfYzVJa1NLdU9QRkF3YUV4b1JXOVducUR5TnUyT1BfQVQtX2ZNUk03Z2Fi?oc=5",
       "published": "2026-11-23T06:00:00+00:00",
       "category": "Markt"
-    },
-    {
-      "id": "d123e74e3a04d147",
-      "title": "KI-Agenten in Unternehmen: 29 Prozent entdecken unbekannte Systeme im Betrieb - BornCity",
-      "excerpt": "KI-Agenten in Unternehmen: 29 Prozent entdecken unbekannte Systeme im Betrieb BornCity",
-      "summary": "KI-Agenten in Unternehmen: 29 Prozent entdecken unbekannte Systeme im Betrieb BornCity",
-      "source": "BornCity / Microsoft To Do",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObk93UFU2RXAxck81RkJSWTlWUmVzRFdYWlgwWnZXci1yNmJ4UnZPSmZVM3hFZkkwckprNVM0eFB2blFOb3dwQ2RkLUdWRFdTWUFNX2JjZlZOdFNCeDBnVS1FX0RpTnl5TUJmbFlUY1JWQ2QtQW85OEh4Wkk3RFhJdmNCYWRrclN6TUtwazVGaFBJWW0yV1V2RXlXV3hDSVF2X3ZWWnlR?oc=5",
-      "published": "2026-11-23T05:14:05+00:00",
-      "category": "Firmen"
     },
     {
       "id": "0cd4839278601052",
@@ -241,16 +281,6 @@
       "category": "Markt"
     },
     {
-      "id": "71c451bd49cc233d",
-      "title": "KI-Agenten von Start-Up drangen in Anthropics Systeme ein - it-daily.net",
-      "excerpt": "KI-Agenten von Start-Up drangen in Anthropics Systeme ein it-daily.net",
-      "summary": "KI-Agenten von Start-Up drangen in Anthropics Systeme ein it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zM1pwZERWSk5RQnFkVFhOTHQtNDhJSmp1T09WQ2x5bDdTdVdKVDJoN1g3TXV5aW5hbjJEV2xpTWI5NlVkSGUxaDdwdndwZnl6TUVxekpyaEtiMWtBN0pGcFk4TGwwaUlRYTZ6X0ZCOUw5Zw?oc=5",
-      "published": "2026-11-21T17:44:31+00:00",
-      "category": "Firmen"
-    },
-    {
       "id": "b50b5168396c0e06",
       "title": "Kann Nvidia KI-Chips orten? Das sagt das Unternehmen hinter verschlossenen Türen - t3n",
       "excerpt": "Kann Nvidia KI-Chips orten? Das sagt das Unternehmen hinter verschlossenen Türen t3n",
@@ -291,16 +321,6 @@
       "category": "Markt"
     },
     {
-      "id": "9f8722853ca30084",
-      "title": "Arrow lanciert Vertriebsportal für Cloud-Partner - IT-Markt",
-      "excerpt": "Arrow lanciert Vertriebsportal für Cloud-Partner IT-Markt",
-      "summary": "Arrow lanciert Vertriebsportal für Cloud-Partner IT-Markt",
-      "source": "IT-Markt",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUnptOFV1MmlXNXFoWXlDTURyZEQ5YlNja3dKN2VubHpvcWVoTTVMZ01nNHpHcGpxY2wtVFpkYkUxVU5zWHVxQlhIOGgzcGlCb2Q0WklMUVF5NWtMajB2MzNYTGZTRHRDcmJKTWVxWENqNWhQbF9FNklBWWNpdGMwUHp4VVZpdFh3QktvNHpSdGFJWU0?oc=5",
-      "published": "2026-11-20T15:21:31+00:00",
-      "category": "Cloud"
-    },
-    {
       "id": "a2e59dfd78ce1c90",
       "title": "Die Top 5 Technologie-Trends 2027 von Capgemini - Computerwoche",
       "excerpt": "Die Top 5 Technologie-Trends 2027 von Capgemini Computerwoche",
@@ -308,26 +328,6 @@
       "source": "Computerwoche",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTklka3k4Snp4bi1aaUhDT29rUGpOOVQyc0FGVkNoYm5majRLUEYzdDdFUDdnd3dseTVKMHdhUTJWZzNVUW45S3JOcG44YWdYeWZfdm5jR2dnVTZPMFJiRUNHUjA5NkdPajVobXpESUxQQmxZdnhLTXU3eTdlSlVYaVc5YXVDV1gtU0dMYjNOUWFtSXBmdUlUeEVWY3Fldw?oc=5",
       "published": "2026-11-20T15:14:42+00:00",
-      "category": "Trends"
-    },
-    {
-      "id": "54e6d0f6e6f2b4e5",
-      "title": "Königspinguine können nicht immer königlich sein - IT-Markt",
-      "excerpt": "Königspinguine können nicht immer königlich sein IT-Markt",
-      "summary": "Königspinguine können nicht immer königlich sein IT-Markt",
-      "source": "IT-Markt",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNEFyVzY5eU5MSmd6akI3VXVxcWtkZlYyanZRRS1vTmRYQXZTNERiemNQRkxoOXBPckNRQlNuR01hS3lHcGNTeExNdFBsOENfcHRkLV9VZk51RDNxWnVxYlBJRVNNQ2FaYkNaVURZajFySElCVFV3NnlqYkNGX3h0Mk5zWGU3dDRiTFpJeWoxVlJHWWZNbWdLNXdVbllSQQ?oc=5",
-      "published": "2026-11-20T13:19:27+00:00",
-      "category": "Markt"
-    },
-    {
-      "id": "fefa89614d8ef522",
-      "title": "Naomi MacKenzie ist Pioneer of the Year",
-      "excerpt": "Auch zur diesjährigen 20. Ausgabe des Digital Economy Awards zeichnet die IT-Branche Innovation und Nachwuchs aus.",
-      "summary": "Auch zur diesjährigen 20. Ausgabe des Digital Economy Awards zeichnet die IT-Branche Innovation und Nachwuchs aus.",
-      "source": "Inside IT",
-      "url": "https://www.inside-it.ch/naomi-mackenzie-ist-pioneer-of-the-year-20261120",
-      "published": "2026-11-20T12:12:29+00:00",
       "category": "Trends"
     },
     {
@@ -351,7 +351,7 @@
       "category": "Trends"
     }
   ],
-  "updatedAt": "2026-11-23T14:23:05.176626+00:00",
+  "updatedAt": "2026-11-23T15:16:24.947953+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -370,6 +370,6 @@
     "Markt": 5,
     "Firmen": 5
   },
-  "warning": "",
+  "warning": "2 von 32 RSS-Quellen waren nicht erreichbar.",
   "aiSummaries": false
 }
