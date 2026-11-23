@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "93f78af4a6bd1526",
+      "title": "Drei Mini-PCs, ein KI-Modell: Microsoft vernetzt Windows per USB4 - ComputerBase",
+      "excerpt": "Drei Mini-PCs, ein KI-Modell: Microsoft vernetzt Windows per USB4 ComputerBase",
+      "summary": "Drei Mini-PCs, ein KI-Modell: Microsoft vernetzt Windows per USB4 ComputerBase",
+      "source": "ComputerBase",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc3RXcWhJV0tmSkRheFdkb1RNM0tJRHI5U0t1djA2a3paSjlWMTJ4RGVrZGxKTDFnUXY1NVdQWFhRV2ZNQWt2WERiNkwwS3lIamhsWFBCWUZzSTd1Q3J4dkctXzRwYzcyVTdJZ3VBLUVhbzJ2YVQwWUc2bndPMWhPQmJNUWUxM2tETGY4UEJBZkZJd0NHX3JsNFZpbzhSQ0FWVDZfNzdZdTRGQWFWMEJWQ1pmQnNQNUd4VWFCNA?oc=5",
+      "published": "2026-11-23T20:45:00+00:00",
+      "category": "Trends"
+    },
+    {
       "id": "5314d99468a1fb0b",
       "title": "Microsoft To Do: Die App wird am 30. Juni 2027 abgeschaltet",
       "excerpt": "Microsoft To Do: Die App wird am 30. Juni 2027 abgeschaltet BornCity",
@@ -111,16 +121,6 @@
       "category": "Markt"
     },
     {
-      "id": "984dc5cc6fee348d",
-      "title": "Outlook-Lücke CVE-2026-124194: Angreifer greifen NTLMv2-Daten aktiv ab - BornCity",
-      "excerpt": "Outlook-Lücke CVE-2026-124194: Angreifer greifen NTLMv2-Daten aktiv ab BornCity",
-      "summary": "Outlook-Lücke CVE-2026-124194: Angreifer greifen NTLMv2-Daten aktiv ab BornCity",
-      "source": "BornCity / Microsoft To Do",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSklvMEpPaTI5TVpYdTRXYldMZTRWM2V2dmVJc25PS1htYXBfSm1RX2FqU1VaQm53RzVqZWp6ODlMVmNzTno4V0pSM1RTZXpfZm9BY21YUnRhTWN2bEpWbG9tbGYwTVNGNjRnSGwtdng1Z3JOZC00b3VjS1RUTmFEbUtOMFZYVl9hZll1MGdXLV9vekxNVkJsOUh3SVc4Zw?oc=5",
-      "published": "2026-11-23T14:31:04+00:00",
-      "category": "Security"
-    },
-    {
       "id": "49c7b6fb915a220e",
       "title": "Jahrhundertdeal: Crowdstrike kauft Zscaler für 44 Milliarden Dollar und fordert Microsoft heraus",
       "excerpt": "Der Milliardendeal vereint Endgeräte- und Cloud-Sicherheit unter einem Dach. Microsoft und Palo Alto Networks bekommen einen mächtigen Rivalen. ( Crowdstrike , Security )",
@@ -161,6 +161,16 @@
       "category": "Security"
     },
     {
+      "id": "70cbe49446144ac9",
+      "title": "Armee-Software sagt Satellitenüberflüge vorher",
+      "excerpt": "Mit einer eigens entwickelten Webanwendung will die Armee künftig vorhersagen können, wann ein Gebiet von Satelliten erfasst wird. So sollen Truppen vor Angriffen geschützt werden.",
+      "summary": "Mit einer eigens entwickelten Webanwendung will die Armee künftig vorhersagen können, wann ein Gebiet von Satelliten erfasst wird. So sollen Truppen vor Angriffen geschützt werden.",
+      "source": "Inside IT",
+      "url": "https://www.inside-it.ch/armee-software-sagt-satellitenueberfluege-vorher-20261123",
+      "published": "2026-11-23T12:09:21+00:00",
+      "category": "IT Schweiz"
+    },
+    {
       "id": "7ae4c01eb1149cee",
       "title": "Ransomware-Schutz muss mit den Angriffen Schritt halten",
       "excerpt": "Ransomware-Schutz muss mit den Angriffen Schritt halten B2B Cyber Security",
@@ -171,14 +181,14 @@
       "category": "Security"
     },
     {
-      "id": "d5bd4c00e2201a60",
-      "title": "KI-Governance: IEEE 2863 setzt 17 Prinzipien für Unternehmen fest - BornCity",
-      "excerpt": "KI-Governance: IEEE 2863 setzt 17 Prinzipien für Unternehmen fest BornCity",
-      "summary": "KI-Governance: IEEE 2863 setzt 17 Prinzipien für Unternehmen fest BornCity",
-      "source": "BornCity / Microsoft To Do",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZTFnUGp6R3hPVmhCY2kzc1ZmRTRobUxORm90SnR0T3pweDZNRXVwc0kyVzdNUUhjS2VKRU4tX29wSFAyTG9SbGdaUWF1XzQ5UUdjcWdJRUI2MGViT2NBQmRxZUFGV3ZkXzlHYTVJM1czWFdMajFwUHB1OXE4Q0tZbjRlcUN5M2g0VWJPZ3hhRklZb0NKaGtR?oc=5",
-      "published": "2026-11-23T11:04:04+00:00",
-      "category": "Firmen"
+      "id": "912b778c07c60f33",
+      "title": "BSI: IT-Sicherheitslage in Deutschland angespannt bis kritisch",
+      "excerpt": "BSI: IT-Sicherheitslage in Deutschland angespannt bis kritisch B2B Cyber Security",
+      "summary": "BSI: IT-Sicherheitslage in Deutschland angespannt bis kritisch B2B Cyber Security",
+      "source": "B2B Cyber Security",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYUw3d0NSUnJFNndkdk1IQzdvU3h5VDVEQVpaVllBdl9FaXZLQnJfZEhGY2xvZ3ZHYV9ZUHJHeEVpS0locXVkcGZhZEt3ejJPN0hEdmtEWERrS1BkMklVdXc2aE1aLTZwa0Q0eW5ZWlg5cTVqTzEzVVBuNzBDby13ZHpzZmdPb0RZb2NPUjhCemtPaXFFak5F?oc=5",
+      "published": "2026-11-23T11:44:46+00:00",
+      "category": "Security"
     },
     {
       "id": "4b01dff127f91010",
@@ -209,16 +219,6 @@
       "url": "https://www.golem.de/news/gl-inet-unzaehlige-router-ueber-cloud-des-herstellers-kompromittiert-2611-215523.html",
       "published": "2026-11-23T10:15:02+00:00",
       "category": "Cloud"
-    },
-    {
-      "id": "5a1c47d505285f51",
-      "title": "Novistore gehört zu den ersten Schweizer Onlineshops, die direkt im KI-Assistenten einkaufen lassen",
-      "excerpt": "Novistore gehört zu den ersten Schweizer Onlineshops, die direkt im KI-Assistenten einkaufen lassen Presseportal Schweiz",
-      "summary": "Novistore gehört zu den ersten Schweizer Onlineshops, die direkt im KI-Assistenten einkaufen lassen Presseportal Schweiz",
-      "source": "Presseportal Schweiz",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZVI0Q2VZbVpIUDZYRkNMbFJVa0ZKZWpkeXlvZl9LODNSSkRFYzBjenNBTGFXQjdJRXROSGlTT1VTaUNSWUZ3WDR4MDJzeFhKVTFpa0Q4RV9WYUlNNWpDOGE0Vi1xSDRuMjZIWi1jLUlDc3lET1h2RFh5VjJZZ01DcjVQcmFXMmlQclJHLVpDay1nNmxmbTdvNU5EMDY3SWc1aHZEWG1RYWZXOERKZ1VfQ0VDTXNmbUFhWDRFLWxxWWNJY1J5TG01RnpiTlpTZ2fSAdQBQVVfeXFMUE40Q0dKd3NIa09QUTAyREkyc2JXTHU1YUdFZXBYMTk2NTVnSk16S2w1cVJIQ1JHV09HVkQzNERoUEgzTTUxcEc3V1lrVG9nX3FqbTkyUGRYZ0MxUWgyVEN1Q21DdFhVQVdhRTcyV0M1ajNRbE9Va0RmNkstV0YzcXVlblk3cnItUl80TjhVQ0JHQUpOMlNhREdTMEJ0eFZxT2dQVWdaMHFVbExSZUlwbGg2clFfTlE0Zzc3WVNqeF9fQWo0SFhqOHc1N0tvVGZ4ODlrcWM?oc=5",
-      "published": "2026-11-23T10:14:29+00:00",
-      "category": "IT Schweiz"
     },
     {
       "id": "01cdd634233519df",
@@ -285,10 +285,20 @@
       "title": "GhostScript Schwachstelle Upload2Shell (CVE-2026-125396) gefährdet Apps und Webseiten - BornCity",
       "excerpt": "GhostScript Schwachstelle Upload2Shell (CVE-2026-125396) gefährdet Apps und Webseiten BornCity",
       "summary": "GhostScript Schwachstelle Upload2Shell (CVE-2026-125396) gefährdet Apps und Webseiten BornCity",
-      "source": "BornCity / Microsoft To Do",
+      "source": "BornCity",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa3ZUWm5IdkJ2azlqdnpWMXU3N2VINk92Y21HYUhqLXpTbncxZU1NTm1MOGVpRm5Gck9JQmxBZVprNHplamVrQ0lHRzcwYWtESVdldWV6OE5aTlE1QjhMaGdWdkFjR05pbEwyRU83NjB0MUJxNC1CTFdxeTcyLW9HMlo4cC1kQ3ZfQXFhdDRR?oc=5",
       "published": "2026-11-22T23:46:07+00:00",
       "category": "Security"
+    },
+    {
+      "id": "9b4971c080b66f67",
+      "title": "GL.iNet-Sicherheitsvorfall bei Cloud-Fernverwaltung – Schadsoftware auf Routern - BornCity",
+      "excerpt": "GL.iNet-Sicherheitsvorfall bei Cloud-Fernverwaltung – Schadsoftware auf Routern BornCity",
+      "summary": "GL.iNet-Sicherheitsvorfall bei Cloud-Fernverwaltung – Schadsoftware auf Routern BornCity",
+      "source": "BornCity",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMklBQUQ2SklqVWVJUEpmWDQ4clpyWWYwX3NoYXZZakRMWnVhSGNIT01SN3dVS3pXNE0taV9jM1k0clhmenVTei1oc2pJZXJkdU9XemgxNXV1aV96TkRzMk5kaGh0dVNrMlh5RDhQMERLV0Y5aGNpZUZyYWpoTDYxeDR1OXhHaHBlaUVueEJqODg2NjgyS3FQeEFEQkoyNWlHNTlnRVNhOEo3aU1EckhObGt0Vi1LQQ?oc=5",
+      "published": "2026-11-22T11:26:15+00:00",
+      "category": "Cloud"
     },
     {
       "id": "8be660a91783b732",
@@ -299,6 +309,16 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTjZNZmxydXcybk1wYkoyb2VXd0xiZm1wcEFqajloUVhLWHhsRjFhZE84c0NCcEN1RU9JWjRVTE9JblhHQV9RWFdMcmNIaUJGUkZwVXA3eUtKUkE4ZDlHdWJMT0phaFlwU3ZzNE9PNHJFajRjN0VhSDR0alBkQ2VJY1l3Z08yZ0ctMFhZ?oc=5",
       "published": "2026-11-22T08:00:00+00:00",
       "category": "Markt"
+    },
+    {
+      "id": "b50b5168396c0e06",
+      "title": "Kann Nvidia KI-Chips orten? Das sagt das Unternehmen hinter verschlossenen Türen - t3n",
+      "excerpt": "Kann Nvidia KI-Chips orten? Das sagt das Unternehmen hinter verschlossenen Türen t3n",
+      "summary": "Kann Nvidia KI-Chips orten? Das sagt das Unternehmen hinter verschlossenen Türen t3n",
+      "source": "t3n",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzdXJ1OThjRGNFVDZ5VHp5dFZxVUx3czM3cUx1bVZGbEo5Qnh0SDhibFBQb1VlejJpb3JMYmRyMmNpNTBuM1BUYmZpN0NmRzhxZlFYcTBwWHBHbC05M1pr?oc=5",
+      "published": "2026-11-21T17:10:00+00:00",
+      "category": "Firmen"
     },
     {
       "id": "f61d26a4181fe567",
@@ -321,16 +341,6 @@
       "category": "Markt"
     },
     {
-      "id": "9f8722853ca30084",
-      "title": "Arrow lanciert Vertriebsportal für Cloud-Partner - IT-Markt",
-      "excerpt": "Arrow lanciert Vertriebsportal für Cloud-Partner IT-Markt",
-      "summary": "Arrow lanciert Vertriebsportal für Cloud-Partner IT-Markt",
-      "source": "IT-Markt",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUnptOFV1MmlXNXFoWXlDTURyZEQ5YlNja3dKN2VubHpvcWVoTTVMZ01nNHpHcGpxY2wtVFpkYkUxVU5zWHVxQlhIOGgzcGlCb2Q0WklMUVF5NWtMajB2MzNYTGZTRHRDcmJKTWVxWENqNWhQbF9FNklBWWNpdGMwUHp4VVZpdFh3QktvNHpSdGFJWU0?oc=5",
-      "published": "2026-11-20T15:21:31+00:00",
-      "category": "Cloud"
-    },
-    {
       "id": "a2e59dfd78ce1c90",
       "title": "Die Top 5 Technologie-Trends 2027 von Capgemini - Computerwoche",
       "excerpt": "Die Top 5 Technologie-Trends 2027 von Capgemini Computerwoche",
@@ -339,19 +349,9 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTklka3k4Snp4bi1aaUhDT29rUGpOOVQyc0FGVkNoYm5majRLUEYzdDdFUDdnd3dseTVKMHdhUTJWZzNVUW45S3JOcG44YWdYeWZfdm5jR2dnVTZPMFJiRUNHUjA5NkdPajVobXpESUxQQmxZdnhLTXU3eTdlSlVYaVc5YXVDV1gtU0dMYjNOUWFtSXBmdUlUeEVWY3Fldw?oc=5",
       "published": "2026-11-20T15:14:42+00:00",
       "category": "Trends"
-    },
-    {
-      "id": "086af95badb92bbd",
-      "title": "Trends 2027: Vorsprung durch Governance - it-daily.net",
-      "excerpt": "Trends 2027: Vorsprung durch Governance it-daily.net",
-      "summary": "Trends 2027: Vorsprung durch Governance it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lVnRkTURlNkRfQ18zWGFnLXMtWEs1d09EVW54TFFFckE3NTJUbXVZVGNVMnVfc1ZfTzE5ZFhtUl9xNjVheTJ2ci0weTM3QUpqSWcwUl9sU0pubDQ2MFNQYjhxZ082ZjdTeFFJcGw0eVp2V1dYOFFEYmJBMEU3dmc?oc=5",
-      "published": "2026-11-19T04:08:28+00:00",
-      "category": "Trends"
     }
   ],
-  "updatedAt": "2026-11-23T23:01:57.994861+00:00",
+  "updatedAt": "2026-11-23T23:58:11.255129+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -370,6 +370,6 @@
     "Markt": 5,
     "Firmen": 5
   },
-  "warning": "7 von 32 RSS-Quellen waren nicht erreichbar.",
+  "warning": "",
   "aiSummaries": false
 }
