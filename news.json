@@ -11,6 +11,16 @@
       "category": "IT Schweiz"
     },
     {
+      "id": "fbc7816f508556a5",
+      "title": "Aktuelle Studie: Sophos State of Ransomware in Retail 2026",
+      "excerpt": "Aktuelle Studie: Sophos State of Ransomware in Retail 2026 All About SECURITY",
+      "summary": "Aktuelle Studie: Sophos State of Ransomware in Retail 2026 All About SECURITY",
+      "source": "All About SECURITY",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOckl4YTQtRzFtMEdXU1ZYYlJQaDFVd2J4SjlkbWNtRWxzM0NLRWhhYjR4ZU5tQm5NTUNzLVk4aU82MzJzQThMMEdQaDJyXzNSQ1puUE1SUnpxeEg1THFlUHVKbjlTMUlrUVg0eGlRM09RaGtaTWZ2aWRPZFE5ZmJyakliSHpRUTlMTjZHLWNLOV9KWUtXTTFN?oc=5",
+      "published": "2026-11-23T13:16:55+00:00",
+      "category": "Security"
+    },
+    {
       "id": "370e743d1d7fbe01",
       "title": "(g+) Intune, Defender und Co.: Warum teure Security-Lizenzen allein nicht schützen",
       "excerpt": "Intune, Defender und Co. sind aktiviert - trotzdem können Sicherheitslücken bleiben. Entscheidend ist die richtige Konfiguration. Ein Ratgebertext von Aaron Siller ( Security , Windows Intune )",
@@ -18,7 +28,7 @@
       "source": "Golem.de",
       "url": "https://www.golem.de/news/intune-defender-und-co-warum-teure-security-lizenzen-allein-nicht-schuetzen-2611-215531.html",
       "published": "2026-11-23T12:30:01+00:00",
-      "category": "Security"
+      "category": "Microsoft 365"
     },
     {
       "id": "70cbe49446144ac9",
@@ -47,16 +57,6 @@
       "summary": "Ransomware-Schutz muss mit den Angriffen Schritt halten B2B Cyber Security",
       "source": "B2B Cyber Security",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSlBBcmx0RHd2S3BJUUNVd3kwaWRBRVlpdGtCcUp4Uk5SVTFCbE5kUU94UmpVTnlPV3VFTDA0OU0zZnYzLXZpN0pXSHhnS2tpUkJuYWw5UjJjZ0VaeEM3UnFHWGppTlY2c1hyckNDb2lxTjBxUnFkR3RQYzJXUDBiZzNkeWVWdlhDaDdsQ2otMA?oc=5",
-      "published": "2026-11-23T11:44:46+00:00",
-      "category": "Security"
-    },
-    {
-      "id": "912b778c07c60f33",
-      "title": "BSI: IT-Sicherheitslage in Deutschland angespannt bis kritisch",
-      "excerpt": "BSI: IT-Sicherheitslage in Deutschland angespannt bis kritisch B2B Cyber Security",
-      "summary": "BSI: IT-Sicherheitslage in Deutschland angespannt bis kritisch B2B Cyber Security",
-      "source": "B2B Cyber Security",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYUw3d0NSUnJFNndkdk1IQzdvU3h5VDVEQVpaVllBdl9FaXZLQnJfZEhGY2xvZ3ZHYV9ZUHJHeEVpS0locXVkcGZhZEt3ejJPN0hEdmtEWERrS1BkMklVdXc2aE1aLTZwa0Q0eW5ZWlg5cTVqTzEzVVBuNzBDby13ZHpzZmdPb0RZb2NPUjhCemtPaXFFak5F?oc=5",
       "published": "2026-11-23T11:44:46+00:00",
       "category": "Security"
     },
@@ -211,6 +211,26 @@
       "category": "Trends"
     },
     {
+      "id": "a92e9b9368b7d647",
+      "title": "GhostScript Schwachstelle Upload2Shell (CVE-2026-125396) gefährdet Apps und Webseiten - BornCity",
+      "excerpt": "GhostScript Schwachstelle Upload2Shell (CVE-2026-125396) gefährdet Apps und Webseiten BornCity",
+      "summary": "GhostScript Schwachstelle Upload2Shell (CVE-2026-125396) gefährdet Apps und Webseiten BornCity",
+      "source": "BornCity",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa3ZUWm5IdkJ2azlqdnpWMXU3N2VINk92Y21HYUhqLXpTbncxZU1NTm1MOGVpRm5Gck9JQmxBZVprNHplamVrQ0lHRzcwYWtESVdldWV6OE5aTlE1QjhMaGdWdkFjR05pbEwyRU83NjB0MUJxNC1CTFdxeTcyLW9HMlo4cC1kQ3ZfQXFhdDRR?oc=5",
+      "published": "2026-11-22T23:46:07+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "9b4971c080b66f67",
+      "title": "GL.iNet-Sicherheitsvorfall bei Cloud-Fernverwaltung – Schadsoftware auf Routern - BornCity",
+      "excerpt": "GL.iNet-Sicherheitsvorfall bei Cloud-Fernverwaltung – Schadsoftware auf Routern BornCity",
+      "summary": "GL.iNet-Sicherheitsvorfall bei Cloud-Fernverwaltung – Schadsoftware auf Routern BornCity",
+      "source": "BornCity",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMklBQUQ2SklqVWVJUEpmWDQ4clpyWWYwX3NoYXZZakRMWnVhSGNIT01SN3dVS3pXNE0taV9jM1k0clhmenVTei1oc2pJZXJkdU9XemgxNXV1aV96TkRzMk5kaGh0dVNrMlh5RDhQMERLV0Y5aGNpZUZyYWpoTDYxeDR1OXhHaHBlaUVueEJqODg2NjgyS3FQeEFEQkoyNWlHNTlnRVNhOEo3aU1EckhObGt0Vi1LQQ?oc=5",
+      "published": "2026-11-22T11:26:15+00:00",
+      "category": "Cloud"
+    },
+    {
       "id": "6a13cf05ba534692",
       "title": "E-Books und Bücher: Hackerangriff legt Hugendubel-Homepage und Tolino-Cloud lahm",
       "excerpt": "Hugendubel ist Opfer eines Hackerangriffs geworden und hat etliche Systeme vom Netz genommen. Das hat auch Auswirkungen auf E-Book-Reader. ( Cybercrime , Mobil )",
@@ -221,13 +241,13 @@
       "category": "Cloud"
     },
     {
-      "id": "c7cdfd4b1f09b3a1",
-      "title": "Abschottung führt auf den digitalen Holzweg​",
-      "excerpt": "Die EU will Cloud-Anbieter aus Drittstaaten bei sensiblen öffentlichen Aufträgen weitgehend fernhalten, auch jene aus der Schweiz. Die Herkunft eines Anbieters sagt wenig über die Datensicherheit aus, wie das Beispiel Dänemark zeigt. Die Swiss Government Cloud zeigt den besseren Weg.",
-      "summary": "Die EU will Cloud-Anbieter aus Drittstaaten bei sensiblen öffentlichen Aufträgen weitgehend fernhalten, auch jene aus der Schweiz. Die Herkunft eines Anbieters sagt wenig über die Datensicherheit aus, wie das Beispiel Dänemark zeigt. Die Swiss Government Cloud",
-      "source": "Netzwoche",
-      "url": "https://www.netzwoche.ch/news/2026-11-22/abschottung-fuehrt-auf-den-digitalen-holzweg",
-      "published": "2026-11-22T08:00:00+00:00",
+      "id": "ee88db8b22361297",
+      "title": "Gehirn in die Cloud laden: 6 Wege, wie Forscher unser Bewusstsein retten wollen - t3n",
+      "excerpt": "Gehirn in die Cloud laden: 6 Wege, wie Forscher unser Bewusstsein retten wollen t3n",
+      "summary": "Gehirn in die Cloud laden: 6 Wege, wie Forscher unser Bewusstsein retten wollen t3n",
+      "source": "t3n",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxMUFxcHVNTDRnT3dEU0h0R3dXdVRyYUZQUWM1ZWRPTDZIU1FidzB5anVNYUpTWUt2VlJPSXlZOGItUzY0VFpmWC1nRkYyakpBVzRlQlh4b1U3SkM2aFRJYnhSTVpmXzJUa1NPOVNBYlVoNGlfZmJfZg?oc=5",
+      "published": "2026-11-22T09:50:00+00:00",
       "category": "Cloud"
     },
     {
@@ -251,6 +271,16 @@
       "category": "Firmen"
     },
     {
+      "id": "b50b5168396c0e06",
+      "title": "Kann Nvidia KI-Chips orten? Das sagt das Unternehmen hinter verschlossenen Türen - t3n",
+      "excerpt": "Kann Nvidia KI-Chips orten? Das sagt das Unternehmen hinter verschlossenen Türen t3n",
+      "summary": "Kann Nvidia KI-Chips orten? Das sagt das Unternehmen hinter verschlossenen Türen t3n",
+      "source": "t3n",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzdXJ1OThjRGNFVDZ5VHp5dFZxVUx3czM3cUx1bVZGbEo5Qnh0SDhibFBQb1VlejJpb3JMYmRyMmNpNTBuM1BUYmZpN0NmRzhxZlFYcTBwWHBHbC05M1pr?oc=5",
+      "published": "2026-11-21T17:10:00+00:00",
+      "category": "Firmen"
+    },
+    {
       "id": "351e922d5e2b374f",
       "title": "Fünf EU-Staaten wollen Zentrum für KI in der Verteidigung gründen",
       "excerpt": "Deutschland, Frankreich, Italien, Polen und Schweden wollen gemeinsam ein internationales Zentrum für künstliche Intelligenz in der Verteidigung gründen.",
@@ -259,6 +289,16 @@
       "url": "https://www.heise.de/news/Fuenf-EU-Staaten-wollen-Zentrum-fuer-KI-in-der-Verteidigung-gruenden-11533498.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "published": "2026-11-21T14:48:00+00:00",
       "category": "Trends"
+    },
+    {
+      "id": "f92e5c97a10fa90d",
+      "title": "US-Präsident Trump verbietet US-Firmen Bau ausländischer (KI-) Rechenzentren - BornCity",
+      "excerpt": "US-Präsident Trump verbietet US-Firmen Bau ausländischer (KI-) Rechenzentren BornCity",
+      "summary": "US-Präsident Trump verbietet US-Firmen Bau ausländischer (KI-) Rechenzentren BornCity",
+      "source": "BornCity",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVTBzSEVaVnRWbFFpX0VmcEpoTjNENWs5VG5NY2UyVzUzTnF6ZG5hRE9kWDNvdTFyd1gyX2hBYkJReFZvVG9PU1NsSzdPaWdtcHlSUS00ZmQ4QXhtdjFfVnJRNXJtZzBVMWx0TjlyemdFNnp2Rk9IVDRvaks4UHpQQTNSZFdTUXFRQmN1S2hYQ3lwN3RmXy1HQXBIOF9fQlNLeVJhc3RVeFZhRUtWNVRXZTN0Yw?oc=5",
+      "published": "2026-11-21T01:08:51+00:00",
+      "category": "Firmen"
     },
     {
       "id": "a31ed4515686ebb9",
@@ -271,16 +311,6 @@
       "category": "Markt"
     },
     {
-      "id": "077c1db9a8aa402f",
-      "title": "MIND meldet Copilot-DLP für Microsoft 365 als allgemein verfügbar",
-      "excerpt": "MIND meldet Copilot-DLP für Microsoft 365 als allgemein verfügbar NeoTeo",
-      "summary": "MIND meldet Copilot-DLP für Microsoft 365 als allgemein verfügbar NeoTeo",
-      "source": "NeoTeo",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdkRxeGhPRV8yZkk4RzF5MGNvanhyWkw0V1NRUTJUdUJuNWtNUGM3bDBFN2o3TXNReXJ5Tm9TY0tfQTBqNTRHN2FLUENyQ3Y3bkVNR091cFEwX0F0dExRR19fUDJQQ0dHNjZ0MndIcDgyejV6TVV3OGdhOVBjclRvQ1JQa3lzcXZKa2ZyamFVSm1SOF9MS0E?oc=5",
-      "published": "2026-11-20T20:00:21+00:00",
-      "category": "Microsoft 365"
-    },
-    {
       "id": "9f8722853ca30084",
       "title": "Arrow lanciert Vertriebsportal für Cloud-Partner - IT-Markt",
       "excerpt": "Arrow lanciert Vertriebsportal für Cloud-Partner IT-Markt",
@@ -288,7 +318,7 @@
       "source": "IT-Markt",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUnptOFV1MmlXNXFoWXlDTURyZEQ5YlNja3dKN2VubHpvcWVoTTVMZ01nNHpHcGpxY2wtVFpkYkUxVU5zWHVxQlhIOGgzcGlCb2Q0WklMUVF5NWtMajB2MzNYTGZTRHRDcmJKTWVxWENqNWhQbF9FNklBWWNpdGMwUHp4VVZpdFh3QktvNHpSdGFJWU0?oc=5",
       "published": "2026-11-20T15:21:31+00:00",
-      "category": "Cloud"
+      "category": "Markt"
     },
     {
       "id": "a2e59dfd78ce1c90",
@@ -299,26 +329,6 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTklka3k4Snp4bi1aaUhDT29rUGpOOVQyc0FGVkNoYm5majRLUEYzdDdFUDdnd3dseTVKMHdhUTJWZzNVUW45S3JOcG44YWdYeWZfdm5jR2dnVTZPMFJiRUNHUjA5NkdPajVobXpESUxQQmxZdnhLTXU3eTdlSlVYaVc5YXVDV1gtU0dMYjNOUWFtSXBmdUlUeEVWY3Fldw?oc=5",
       "published": "2026-11-20T15:14:42+00:00",
       "category": "Trends"
-    },
-    {
-      "id": "54e6d0f6e6f2b4e5",
-      "title": "Königspinguine können nicht immer königlich sein - IT-Markt",
-      "excerpt": "Königspinguine können nicht immer königlich sein IT-Markt",
-      "summary": "Königspinguine können nicht immer königlich sein IT-Markt",
-      "source": "IT-Markt",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNEFyVzY5eU5MSmd6akI3VXVxcWtkZlYyanZRRS1vTmRYQXZTNERiemNQRkxoOXBPckNRQlNuR01hS3lHcGNTeExNdFBsOENfcHRkLV9VZk51RDNxWnVxYlBJRVNNQ2FaYkNaVURZajFySElCVFV3NnlqYkNGX3h0Mk5zWGU3dDRiTFpJeWoxVlJHWWZNbWdLNXdVbllSQQ?oc=5",
-      "published": "2026-11-20T13:19:27+00:00",
-      "category": "Markt"
-    },
-    {
-      "id": "f54c953af1041f65",
-      "title": "Palo Alto Networks übernimmt KI-Start-up für 4,5 Milliarden Dollar",
-      "excerpt": "Palo Alto Networks will den KI-Spezialisten Applied Compute übernehmen. Mit der Akquisition verstärkt der Security-Anbieter sein Portfolio um eine Plattform für das Training und den sicheren Betrieb von KI-Modellen.",
-      "summary": "Palo Alto Networks will den KI-Spezialisten Applied Compute übernehmen. Mit der Akquisition verstärkt der Security-Anbieter sein Portfolio um eine Plattform für das Training und den sicheren Betrieb von KI-Modellen.",
-      "source": "IT Reseller",
-      "url": "https://www.itreseller.ch/Artikel/106656/Palo_Alto_Networks_uebernimmt_KI-Start-up_fuer_45_Milliarden_Dollar.html",
-      "published": "2026-11-20T13:14:26+00:00",
-      "category": "Firmen"
     },
     {
       "id": "fefa89614d8ef522",
@@ -339,19 +349,9 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lVnRkTURlNkRfQ18zWGFnLXMtWEs1d09EVW54TFFFckE3NTJUbXVZVGNVMnVfc1ZfTzE5ZFhtUl9xNjVheTJ2ci0weTM3QUpqSWcwUl9sU0pubDQ2MFNQYjhxZ082ZjdTeFFJcGw0eVp2V1dYOFFEYmJBMEU3dmc?oc=5",
       "published": "2026-11-19T04:08:28+00:00",
       "category": "Trends"
-    },
-    {
-      "id": "56afc9e17a1eed5b",
-      "title": "Neue Allianz für digitale Unabhängigkeit: Fünf Schweizer IT-Unternehmen gründen OpenSovereign",
-      "excerpt": "Neue Allianz für digitale Unabhängigkeit: Fünf Schweizer IT-Unternehmen gründen OpenSovereign Presseportal Schweiz",
-      "summary": "Neue Allianz für digitale Unabhängigkeit: Fünf Schweizer IT-Unternehmen gründen OpenSovereign Presseportal Schweiz",
-      "source": "Presseportal Schweiz",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVXRNWVMwMTEzQ293OTV6MHBLd2Rnal9PQUwydFN0SDZtSmFwd3JQU2lUZmR1Q1VTaUo1dDBBLU9mdWFUZFRpVlB0ekFXREVmRm80M0pZb1dySU9GSFhKN0RxSmhTZGlCRUJEakNFdzFhamFmMXhvTTFWcjdnM3ZUYVh6d0wtbHBjQUVRSkJ5eXEyY3NkNVQxUVFZOEZ0QmdSZVB6RmNYZWdpbU5Oc0ZmMXA1Ym94OFNtQzRNQk5Sb1BWN0hyWENBUndyYlNmTWvSAdQBQVVfeXFMTlh2MTNQU21yWFJ0LXZMLXRJWEZkQzlQN0l0OUlCRGtNVzNvWEhuUnV2X0JGdWRWWWhkeFV3b25HMklJNkFjaFBYY0o2cmxYVE9UYlZwZlVKdjR0ejhudWVZNnpXZy1VV1FLZFBvbnFNOGxLLTJzRlJGV0p3WEJVOF95QXF1U3NDMHc5MFhKUjhPYXR1a0ZRTDVPZHR5SDNFMmdidkFmSnRqcFFWYW1YWlp3UmdpU1dGX0MzUXAwemp2b0lHVEdMbzg2cFJPb1dub3diYmE?oc=5",
-      "published": "2026-11-18T07:50:10+00:00",
-      "category": "Firmen"
     }
   ],
-  "updatedAt": "2026-11-23T13:31:59.002389+00:00",
+  "updatedAt": "2026-11-23T14:15:05.645124+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -370,6 +370,6 @@
     "Markt": 5,
     "Firmen": 5
   },
-  "warning": "3 von 29 RSS-Quellen waren nicht erreichbar.",
+  "warning": "3 von 31 RSS-Quellen waren nicht erreichbar.",
   "aiSummaries": false
 }
