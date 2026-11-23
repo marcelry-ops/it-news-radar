@@ -351,7 +351,7 @@
       "category": "Trends"
     }
   ],
-  "updatedAt": "2026-11-23T03:05:37.032076+00:00",
+  "updatedAt": "2026-11-23T04:18:31.292549+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -370,6 +370,6 @@
     "Markt": 5,
     "Firmen": 5
   },
-  "warning": "",
+  "warning": "1 von 29 RSS-Quellen waren nicht erreichbar.",
   "aiSummaries": false
 }
