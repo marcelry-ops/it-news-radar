@@ -27,10 +27,12 @@ TOP_CVES = 50
 MIN_CVSS = 9.0
 # Separate bounded historical lookups for priority software.
 HISTORICAL_RESULTS_PER_TERM = 100
-HISTORICAL_PAGES_PER_TERM = max(0, min(int(os.getenv("CVE_HISTORICAL_PAGES", "1")), 5))
-VENDOR_DISCOVERY_LIMIT = max(0, min(int(os.getenv("CVE_VENDOR_DISCOVERY_LIMIT", "10")), 300))
+HISTORICAL_PAGES_PER_TERM = max(0, min(int(os.getenv("CVE_HISTORICAL_PAGES", "3")), 10))
+HISTORICAL_REQUEST_BUDGET = max(0, min(int(os.getenv("CVE_HISTORICAL_REQUEST_BUDGET", "35")), 200))
+CVEORG_LOOKUP_BUDGET = max(0, min(int(os.getenv("CVEORG_LOOKUP_BUDGET", "110")), 300))
+VENDOR_DISCOVERY_LIMIT = max(0, min(int(os.getenv("CVE_VENDOR_DISCOVERY_LIMIT", "110")), 300))
 # Explicit diagnostic lookups: independently of vendor search pagination.
-TARGETED_CVE_IDS = tuple(x.strip().upper() for x in os.getenv('CVE_TARGETED_IDS', 'CVE-2026-44756,CVE-2026-58240').split(',') if re.fullmatch(r'CVE-\d{4}-\d{4,}', x.strip(), re.I))
+TARGETED_CVE_IDS = tuple(x.strip().upper() for x in os.getenv('CVE_TARGETED_IDS', 'CVE-2026-44756,CVE-2026-58240,CVE-2026-19707').split(',') if re.fullmatch(r'CVE-\d{4}-\d{4,}', x.strip(), re.I))
 # Gemeinsame Konfiguration fuer Frontend und Datenerzeugung.
 CONFIG_FILE = Path(__file__).with_name('priority_products.json')
 
@@ -445,6 +447,24 @@ def cvenow_candidates(payload):
         yield item
 
 
+def safe_cveorg_lookup(cve_id, fetch=None):
+    """Rate-limited CVE.org lookup with a per-run cache and request budget."""
+    if cve_id in _CVEORG_CACHE:
+        return _CVEORG_CACHE[cve_id]
+    if len(_CVEORG_CACHE) >= CVEORG_LOOKUP_BUDGET:
+        raise RuntimeError('CVE.org request budget exhausted')
+    global _LAST_CVEORG_REQUEST
+    delay = 1.0 - (time.monotonic() - _LAST_CVEORG_REQUEST)
+    if delay > 0:
+        time.sleep(delay)
+    _LAST_CVEORG_REQUEST = time.monotonic()
+    value = lookup_official_cve(cve_id, fetch=fetch)
+    _CVEORG_CACHE[cve_id] = value
+    return value
+
+_CVEORG_CACHE = {}
+_LAST_CVEORG_REQUEST = 0.0
+
 def cna_cvss(record):
     """Extract published CVSS base score from CNA/ADP CVE 5.x metrics."""
     containers = record.get('containers') or {}
@@ -494,7 +514,7 @@ def lookup_official_cve(cve_id, fetch=None):
 
 
 def cveorg_enrich(item):
-    official = lookup_official_cve(item['id'])
+    official = safe_cveorg_lookup(item['id'])
     if official is None:
         return item
     return merge(item, official)
@@ -552,20 +572,12 @@ def build():
         except Exception as exc:
             warnings.append(label + ' nicht erreichbar: ' + str(exc)[:120])
 
-    # Enrich a small selection of newest CVE entries using authoritative CVE.org records.
-    # Keep requests bounded and do not block a successful NVD/EUVD result on failure.
-    for item in ([x for x in rank(entries.values()) if x['id'].startswith('CVE-')][:20] if 'cveorg' in enabled_sources else []):
-        try:
-            cveorg_enrich(item)
-        except Exception:
-            pass
-
     # Explicit official lookups for historically missed high-impact vendor CVEs.
     # Validate the CVE ID and published state, then accept CNA CVSS >= 9.
     targeted_status = {}
     for cid in (TARGETED_CVE_IDS if 'cveorg' in enabled_sources else []):
         try:
-            official = lookup_official_cve(cid)
+            official = safe_cveorg_lookup(cid)
             if official is None:
                 targeted_status[cid] = 'not_published_or_missing'
                 continue
@@ -579,6 +591,7 @@ def build():
         except Exception as exc:
             targeted_status[cid] = 'lookup_failed:' + type(exc).__name__
 
+
     # Hersteller-Advisories: offizielle Domains ueber Suchindex entdecken, CVE-ID
     # ausschliesslich ueber NVD validieren. Keine unbestaetigten Treffer anzeigen.
     vendor_hits = {}
@@ -588,54 +601,68 @@ def build():
             json.loads(CONFIG_FILE.read_text(encoding='utf-8')))
     if vendor_errors:
         warnings.append(f'Herstellerrecherche: {len(vendor_errors)} Quellen nicht erreichbar oder nicht konfiguriert')
+    # Prefer known CVEs and recent vendor discoveries. Never silently discard the
+    # rest: diagnostics report how many candidates were deferred by the budget.
     discovered_ids = list(dict.fromkeys(cid for ids in vendor_hits.values() for cid in ids))
+    discovered_ids = sorted(discovered_ids, reverse=True)
     discovery_stats = {'discovered': len(discovered_ids), 'verified': 0,
-                       'notFoundOrUnrated': 0, 'byProduct': {k: len(v) for k, v in vendor_hits.items()}}
+                       'notFoundOrUnrated': 0, 'deferred': 0,
+                       'byProduct': {k: len(v) for k, v in vendor_hits.items()}}
     vendor_failed = 0
-    for cid in discovered_ids[:VENDOR_DISCOVERY_LIMIT]:
-        if cid in entries:
+    for cid in discovered_ids:
+        if cid in entries and entries[cid].get('score') is not None:
             discovery_stats['verified'] += 1
             continue
+        if discovery_stats['verified'] + discovery_stats['notFoundOrUnrated'] + vendor_failed >= VENDOR_DISCOVERY_LIMIT:
+            discovery_stats['deferred'] += 1
+            continue
         try:
-            payload = get_json(NVD + '?' + urllib.parse.urlencode({'cveId': cid}), attempts=1)
-            for row in payload.get('vulnerabilities', []):
-                cve = row.get('cve') or {}
-                if cve.get('id', '').upper() != cid or cve.get('vulnStatus') == 'Rejected':
-                    continue
-                item = nvd_item(cve)
-                if item['score'] is None and 'cveorg' in enabled_sources:
-                    try:
-                        official = lookup_official_cve(cid)
-                        if official is not None:
-                            merge(item, official)
-                    except Exception:
-                        pass
-                if item['score'] is not None and item['score'] >= MIN_CVSS:
-                    entries[cid] = item
-                    discovery_stats['verified'] += 1
-            if cid not in entries:
+            # CNA-first for missing NVD scores; do not require NVD enrichment.
+            official = safe_cveorg_lookup(cid) if 'cveorg' in enabled_sources else None
+            if official is not None:
+                entries[cid] = merge(entries[cid], official) if cid in entries else official
+            row = entries.get(cid)
+            if row is not None and row.get('score') is not None and row['score'] >= MIN_CVSS:
+                discovery_stats['verified'] += 1
+            else:
                 discovery_stats['notFoundOrUnrated'] += 1
-        except Exception as exc:
+        except Exception:
             vendor_failed += 1
     if vendor_failed:
         warnings.append(f'Hersteller-CVE-Abfragen: {vendor_failed} fehlgeschlagen')
-    # Historische NVD-Suche mit kontrollierter Pagination statt nur 20 Treffern.
-    # Begrenzt, da ein Vollarchiv fuer 31 Hersteller sehr gross sein kann.
+    if discovery_stats['deferred']:
+        warnings.append(f'Hersteller-CVE-Abfragen: {discovery_stats["deferred"]} auf spaeter verschoben')
+
+    # Historical NVD search: bounded pages and total request budget, with
+    # CNA fallback for unscored records relevant to prioritised products.
     historical_failed = 0
+    historical_requests = 0
+    historical_deferred = 0
     for term in (HISTORICAL_SEARCH_TERMS if 'nvd' in enabled_sources else []):
-        try:
-            for page_no in range(HISTORICAL_PAGES_PER_TERM):
+        for page_no in range(HISTORICAL_PAGES_PER_TERM):
+            if historical_requests >= HISTORICAL_REQUEST_BUDGET:
+                historical_deferred += 1
+                break
+            try:
                 params = {'keywordSearch': term, 'resultsPerPage': HISTORICAL_RESULTS_PER_TERM,
                           'startIndex': page_no * HISTORICAL_RESULTS_PER_TERM}
+                historical_requests += 1
                 page = get_json(NVD + '?' + urllib.parse.urlencode(params))
-                for row in page.get('vulnerabilities', []):
-                    cve = row.get('cve') or {}
+                for record in page.get('vulnerabilities', []):
+                    cve = record.get('cve') or {}
                     if not cve.get('id') or cve.get('vulnStatus') == 'Rejected':
                         continue
                     item = nvd_item(cve)
-                    if item['score'] is None or item['score'] < MIN_CVSS:
-                        continue
                     if not priority_products(item):
+                        continue
+                    if item['score'] is None and 'cveorg' in enabled_sources:
+                        try:
+                            official = safe_cveorg_lookup(item['id'])
+                            if official:
+                                merge(item, official)
+                        except Exception:
+                            pass
+                    if item['score'] is None or item['score'] < MIN_CVSS:
                         continue
                     if item['id'] in entries:
                         merge(entries[item['id']], item)
@@ -643,11 +670,20 @@ def build():
                         entries[item['id']] = item
                 if (page_no + 1) * HISTORICAL_RESULTS_PER_TERM >= int(page.get('totalResults', 0)):
                     break
-                time.sleep(6)
-        except Exception as exc:
-            historical_failed += 1
+            except Exception:
+                historical_failed += 1
+                break
     if historical_failed:
         warnings.append(f'Historische NVD-Suche: {historical_failed} Suchbegriffe fehlgeschlagen')
+    if historical_deferred:
+        warnings.append('Historische NVD-Suche: Anfragebudget erreicht')
+    # Enrich a small selection of newest CVE entries using authoritative CVE.org records.
+    # Keep requests bounded and do not block a successful NVD/EUVD result on failure.
+    for item in ([x for x in rank(entries.values()) if x['id'].startswith('CVE-') and x.get('score') is None][:20] if 'cveorg' in enabled_sources else []):
+        try:
+            cveorg_enrich(item)
+        except Exception:
+            pass
 
     # Include recently modified entries as well as recently published entries.
     # Never substitute ingestion time for a missing source modification timestamp.
@@ -685,7 +721,12 @@ def build():
                'sort': 'modified_desc_score_desc', 'priorityMode': 'prefer_relevant_in_top50', 'minimumCvss': MIN_CVSS,
                'warning': ' | '.join(warnings) if warnings else None,
                'items': selected, 'priorityItems': product_pools, 'priorityNames': list(PRIORITY_TERMS),
-               'vendorDiscovery': discovery_stats, 'targetedDiagnostics': targeted_status}
+               'vendorDiscovery': discovery_stats, 'targetedDiagnostics': targeted_status,
+                'retrievalDiagnostics': {'historicalRequests': historical_requests,
+                                         'historicalFailures': historical_failed,
+                                         'historicalBudget': HISTORICAL_REQUEST_BUDGET,
+                                         'cveorgRequests': len(_CVEORG_CACHE),
+                                         'cveorgBudget': CVEORG_LOOKUP_BUDGET}}
     # Never replace the last valid dataset with an empty/failed run.
     if not selected:
         raise RuntimeError('Keine gueltigen CVE-Daten; bestehende cves.json bleibt unveraendert')
