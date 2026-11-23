@@ -7,8 +7,7 @@
       ],
       "patterns": [
         "\\bwindows\\b"
-      ],
-      "advisoryDomain": "msrc.microsoft.com"
+      ]
     },
     {
       "name": "SQL",
@@ -18,8 +17,7 @@
       "patterns": [
         "\\bsql server\\b",
         "\\bmicrosoft sql server\\b"
-      ],
-      "advisoryDomain": "msrc.microsoft.com"
+      ]
     },
     {
       "name": "Oracle",
@@ -28,8 +26,7 @@
       ],
       "patterns": [
         "\\boracle\\b"
-      ],
-      "advisoryDomain": "oracle.com"
+      ]
     },
     {
       "name": "VMware",
@@ -40,8 +37,7 @@
         "\\bvmware\\b",
         "\\bvsphere\\b",
         "\\besxi\\b"
-      ],
-      "advisoryDomain": "support.broadcom.com"
+      ]
     },
     {
       "name": "ExaGrid",
@@ -50,8 +46,7 @@
       ],
       "patterns": [
         "\\bexagrid\\b"
-      ],
-      "advisoryDomain": "exagrid.com"
+      ]
     },
     {
       "name": "SAP",
@@ -60,8 +55,7 @@
       ],
       "patterns": [
         "\\bsap\\b"
-      ],
-      "advisoryDomain": "support.sap.com"
+      ]
     },
     {
       "name": "Microsoft 365",
@@ -72,8 +66,7 @@
         "\\bmicrosoft 365\\b",
         "\\boffice 365\\b",
         "\\bm365\\b"
-      ],
-      "advisoryDomain": "msrc.microsoft.com"
+      ]
     },
     {
       "name": "Salesforce",
@@ -82,8 +75,7 @@
       ],
       "patterns": [
         "\\bsalesforce\\b"
-      ],
-      "advisoryDomain": "salesforce.com"
+      ]
     },
     {
       "name": "ServiceNow",
@@ -92,8 +84,7 @@
       ],
       "patterns": [
         "\\bservicenow\\b"
-      ],
-      "advisoryDomain": "servicenow.com"
+      ]
     },
     {
       "name": "SuccessFactors",
@@ -102,8 +93,7 @@
       ],
       "patterns": [
         "\\bsuccessfactors\\b"
-      ],
-      "advisoryDomain": "sap.com"
+      ]
     },
     {
       "name": "Signavio",
@@ -112,8 +102,7 @@
       ],
       "patterns": [
         "\\bsignavio\\b"
-      ],
-      "advisoryDomain": "sap.com"
+      ]
     },
     {
       "name": "Omnissa",
@@ -122,8 +111,7 @@
       ],
       "patterns": [
         "\\bomnissa\\b"
-      ],
-      "advisoryDomain": "omnissa.com"
+      ]
     },
     {
       "name": "CargoServer",
@@ -132,8 +120,7 @@
       ],
       "patterns": [
         "\\bcargoserver\\b"
-      ],
-      "advisoryDomain": "cargoserver.ch"
+      ]
     },
     {
       "name": "ChatGPT",
@@ -142,8 +129,7 @@
       ],
       "patterns": [
         "\\bchatgpt\\b"
-      ],
-      "advisoryDomain": "openai.com"
+      ]
     },
     {
       "name": "PHP",
@@ -152,8 +138,7 @@
       ],
       "patterns": [
         "\\bphp\\b"
-      ],
-      "advisoryDomain": "php.net"
+      ]
     },
     {
       "name": "Canon",
@@ -162,8 +147,7 @@
       ],
       "patterns": [
         "\\bcanon\\b"
-      ],
-      "advisoryDomain": "canon-europe.com"
+      ]
     },
     {
       "name": "Intune",
@@ -172,8 +156,7 @@
       ],
       "patterns": [
         "\\bintune\\b"
-      ],
-      "advisoryDomain": "msrc.microsoft.com"
+      ]
     },
     {
       "name": "Kaba",
@@ -183,8 +166,7 @@
       "patterns": [
         "\\bkaba\\b",
         "\\bdormakaba\\b"
-      ],
-      "advisoryDomain": "dormakabagroup.com"
+      ]
     },
     {
       "name": "Keeper",
@@ -193,8 +175,7 @@
       ],
       "patterns": [
         "\\bkeeper\\b"
-      ],
-      "advisoryDomain": "keepersecurity.com"
+      ]
     },
     {
       "name": "MapEdit",
@@ -203,8 +184,7 @@
       ],
       "patterns": [
         "\\bmapedit\\b"
-      ],
-      "advisoryDomain": "mum.de"
+      ]
     },
     {
       "name": "Adobe",
@@ -213,8 +193,7 @@
       ],
       "patterns": [
         "\\badobe\\b"
-      ],
-      "advisoryDomain": "helpx.adobe.com"
+      ]
     },
     {
       "name": "Autodesk",
@@ -223,8 +202,7 @@
       ],
       "patterns": [
         "\\bautodesk\\b"
-      ],
-      "advisoryDomain": "autodesk.com"
+      ]
     },
     {
       "name": "MobiCall",
@@ -233,18 +211,7 @@
       ],
       "patterns": [
         "\\bmobicall\\b"
-      ],
-      "advisoryDomain": "newvoiceinternational.com"
-    },
-    {
-      "name": "NEPLAN",
-      "searchTerms": [
-        "NEPLAN"
-      ],
-      "patterns": [
-        "\\bneplan\\b"
-      ],
-      "advisoryDomain": "neplan.ch"
+      ]
     },
     {
       "name": "Node-RED",
@@ -253,8 +220,7 @@
       ],
       "patterns": [
         "\\bnode[- ]red\\b"
-      ],
-      "advisoryDomain": "nodered.org"
+      ]
     },
     {
       "name": "OpenText",
@@ -263,8 +229,7 @@
       ],
       "patterns": [
         "\\bopentext\\b"
-      ],
-      "advisoryDomain": "opentext.com"
+      ]
     },
     {
       "name": "xECM",
@@ -273,8 +238,7 @@
       ],
       "patterns": [
         "\\bxecm\\b"
-      ],
-      "advisoryDomain": "opentext.com"
+      ]
     },
     {
       "name": "PRTG",
@@ -283,18 +247,7 @@
       ],
       "patterns": [
         "\\bprtg\\b"
-      ],
-      "advisoryDomain": "paessler.com"
-    },
-    {
-      "name": "ROKA",
-      "searchTerms": [
-        "ROKA"
-      ],
-      "patterns": [
-        "\\broka\\b"
-      ],
-      "advisoryDomain": "roka3.de"
+      ]
     },
     {
       "name": "SEPPmail",
@@ -303,8 +256,7 @@
       ],
       "patterns": [
         "\\bseppmail\\b"
-      ],
-      "advisoryDomain": "seppmail.com"
+      ]
     },
     {
       "name": "Microsoft Teams",
@@ -314,8 +266,16 @@
       "patterns": [
         "\\bmicrosoft teams\\b",
         "\\bms teams\\b"
+      ]
+    },
+    {
+      "name": "Microsoft Server",
+      "searchTerms": [
+        "Microsoft Server"
       ],
-      "advisoryDomain": "msrc.microsoft.com"
+      "patterns": [
+        "\\bmicrosoft server\\b"
+      ]
     }
   ]
 }
