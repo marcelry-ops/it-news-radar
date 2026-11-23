@@ -26,7 +26,7 @@ RSS_NS = '{http://purl.org/rss/1.0/modules/content/}'
 # RSS search availability and results are controlled by the external provider.
 SEARCHES = {
  'Security': ['Cybersecurity Sicherheitslücke Ransomware Angriff IT Sicherheit', 'CVE Schwachstelle Patch aktiv ausgenutzt'],
- 'Microsoft 365': ['Microsoft 365 Teams SharePoint Exchange Entra Copilot Update', 'Microsoft 365 Administration neue Funktionen'],
+ 'Microsoft 365': ['Microsoft 365 Teams SharePoint Exchange Entra Copilot Update', 'Microsoft 365 Administration neue Funktionen', 'Microsoft To Do Planner Einstellung Abschaltung Aufgabenverwaltung'],
  'IT Schweiz': ['Schweiz IT Unternehmen Digitalisierung Informatik', 'Schweizer IT Markt Technologie ICT Unternehmen'],
  'Cloud': ['Azure AWS Cloud Kubernetes Rechenzentrum neue Funktionen'],
  'Trends': ['IT Trends KI Innovation Technologie Digitalisierung Zukunft', 'Technologietrends Forschung Innovation Schweiz Deutschland'],
@@ -61,6 +61,7 @@ ADDITIONAL_SITES = [
  ('IT-Markt', 'it-markt.ch'),
  ('IT-Daily', 'it-daily.net'),
  ('netzpolitik.org', 'netzpolitik.org'),
+ ('BornCity', 'borncity.com'),
 ]
 FEEDS += [(publisher, google_rss('site:' + site), None)
           for publisher, site in ADDITIONAL_SITES]
@@ -68,7 +69,7 @@ FEEDS += [(publisher, google_rss('site:' + site), None)
 
 BAD = re.compile(r'\b(anzeige|advertorial|sponsored|werbung|promotion|webinar|workshop|seminar|schulung|kurs|ticket|gewinnspiel|rabatt|gutschein|stellenangebot|jobangebot|whitepaper|event-tipp|messe-ticket|partnerinhalt|powered by)\b|\b(?:jetzt anmelden|jetzt buchen|kostenlos anmelden|hier registrieren)\b', re.I)
 SECURITY = re.compile(r'\b(cve[- ]?\d{4}|sicherheitslücke|schwachstelle|ransomware|phishing|cyberangriff|cyberattacke|malware|zero.day|exploit|datenleck|datenpanne|hackerangriff|patchday|sicherheitsupdate|ddos|botnetz|security|it.sicherheit|cybersicherheit)\b', re.I)
-M365 = re.compile(r'\b(microsoft 365|office 365|m365|teams|sharepoint|exchange online|exchange server|outlook|onedrive|entra(?: id)?|intune|microsoft copilot|copilot studio|power platform|power automate|power apps|purview|defender for office)\b', re.I)
+M365 = re.compile(r'\b(microsoft 365|office 365|m365|teams|sharepoint|exchange online|exchange server|outlook|onedrive|entra(?: id)?|intune|microsoft copilot|copilot studio|microsoft to[ -]?do|microsoft planner|power platform|power automate|power apps|purview|defender for office)\b', re.I)
 CLOUD = re.compile(r'\b(cloud|azure|aws|amazon web services|google cloud|kubernetes|containerplattform|hyperscaler|rechenzentrum|cloudplattform|cloud.infrastruktur)\b', re.I)
 CH = re.compile(r'\b(schweiz|schweizer|schweizerisch|schweizerische|schweizerischen|swiss|zürich|zuerich|bern|basel|genf|lausanne|luzern|st\. gallen|zug|aargau|bundesrat|bundesverwaltung|sbb|swisscom|postfinance|ruag|eth zürich|epfl|ictswitzerland|swico|chf|kanton|kantone)\b', re.I)
 TRENDS = re.compile(r'\b(trend|trends|innovation|forschung|zukunft|technologiewandel|kuenstliche intelligenz|künstliche intelligenz|generative ki|ki-modell|robotik|quantentechnologie|automatisierung|digitalisierung)\b', re.I)
