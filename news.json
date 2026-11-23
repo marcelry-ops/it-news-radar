@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "93f78af4a6bd1526",
+      "title": "Drei Mini-PCs, ein KI-Modell: Microsoft vernetzt Windows per USB4 - ComputerBase",
+      "excerpt": "Drei Mini-PCs, ein KI-Modell: Microsoft vernetzt Windows per USB4 ComputerBase",
+      "summary": "Drei Mini-PCs, ein KI-Modell: Microsoft vernetzt Windows per USB4 ComputerBase",
+      "source": "ComputerBase",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc3RXcWhJV0tmSkRheFdkb1RNM0tJRHI5U0t1djA2a3paSjlWMTJ4RGVrZGxKTDFnUXY1NVdQWFhRV2ZNQWt2WERiNkwwS3lIamhsWFBCWUZzSTd1Q3J4dkctXzRwYzcyVTdJZ3VBLUVhbzJ2YVQwWUc2bndPMWhPQmJNUWUxM2tETGY4UEJBZkZJd0NHX3JsNFZpbzhSQ0FWVDZfNzdZdTRGQWFWMEJWQ1pmQnNQNUd4VWFCNA?oc=5",
+      "published": "2026-11-23T20:45:00+00:00",
+      "category": "Trends"
+    },
+    {
       "id": "5314d99468a1fb0b",
       "title": "Microsoft To Do: Die App wird am 30. Juni 2027 abgeschaltet",
       "excerpt": "Microsoft To Do: Die App wird am 30. Juni 2027 abgeschaltet BornCity",
@@ -111,14 +121,14 @@
       "category": "Markt"
     },
     {
-      "id": "617e896ac37ff862",
-      "title": "Wird Arm-Chef Haas der neue Nvidia-CEO? - it-daily.net",
-      "excerpt": "Wird Arm-Chef Haas der neue Nvidia-CEO? it-daily.net",
-      "summary": "Wird Arm-Chef Haas der neue Nvidia-CEO? it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50cTV5YU4tRk13V0pkQ0VEWm9KMGxZVm1rYVdFeS1SQ0ptUVBLcXhraTY2eC1SSG1yZ05Gcmt5QUpueTNzTE1IQ1FoVmZZaU53UmpPenpmWW5Od3h5ZlNrYmFrNUxwZ1c0eUh0NVRaVTJOQQ?oc=5",
-      "published": "2026-11-23T14:32:43+00:00",
-      "category": "Firmen"
+      "id": "984dc5cc6fee348d",
+      "title": "Outlook-Lücke CVE-2026-124194: Angreifer greifen NTLMv2-Daten aktiv ab - BornCity",
+      "excerpt": "Outlook-Lücke CVE-2026-124194: Angreifer greifen NTLMv2-Daten aktiv ab BornCity",
+      "summary": "Outlook-Lücke CVE-2026-124194: Angreifer greifen NTLMv2-Daten aktiv ab BornCity",
+      "source": "BornCity / Microsoft To Do",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSklvMEpPaTI5TVpYdTRXYldMZTRWM2V2dmVJc25PS1htYXBfSm1RX2FqU1VaQm53RzVqZWp6ODlMVmNzTno4V0pSM1RTZXpfZm9BY21YUnRhTWN2bEpWbG9tbGYwTVNGNjRnSGwtdng1Z3JOZC00b3VjS1RUTmFEbUtOMFZYVl9hZll1MGdXLV9vekxNVkJsOUh3SVc4Zw?oc=5",
+      "published": "2026-11-23T14:31:04+00:00",
+      "category": "Security"
     },
     {
       "id": "7752aea542c6aa6e",
@@ -149,6 +159,16 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOckl4YTQtRzFtMEdXU1ZYYlJQaDFVd2J4SjlkbWNtRWxzM0NLRWhhYjR4ZU5tQm5NTUNzLVk4aU82MzJzQThMMEdQaDJyXzNSQ1puUE1SUnpxeEg1THFlUHVKbjlTMUlrUVg0eGlRM09RaGtaTWZ2aWRPZFE5ZmJyakliSHpRUTlMTjZHLWNLOV9KWUtXTTFN?oc=5",
       "published": "2026-11-23T13:16:55+00:00",
       "category": "Security"
+    },
+    {
+      "id": "70cbe49446144ac9",
+      "title": "Armee-Software sagt Satellitenüberflüge vorher",
+      "excerpt": "Mit einer eigens entwickelten Webanwendung will die Armee künftig vorhersagen können, wann ein Gebiet von Satelliten erfasst wird. So sollen Truppen vor Angriffen geschützt werden.",
+      "summary": "Mit einer eigens entwickelten Webanwendung will die Armee künftig vorhersagen können, wann ein Gebiet von Satelliten erfasst wird. So sollen Truppen vor Angriffen geschützt werden.",
+      "source": "Inside IT",
+      "url": "https://www.inside-it.ch/armee-software-sagt-satellitenueberfluege-vorher-20261123",
+      "published": "2026-11-23T12:09:21+00:00",
+      "category": "IT Schweiz"
     },
     {
       "id": "7ae4c01eb1149cee",
@@ -201,16 +221,6 @@
       "category": "Cloud"
     },
     {
-      "id": "5a1c47d505285f51",
-      "title": "Novistore gehört zu den ersten Schweizer Onlineshops, die direkt im KI-Assistenten einkaufen lassen",
-      "excerpt": "Novistore gehört zu den ersten Schweizer Onlineshops, die direkt im KI-Assistenten einkaufen lassen Presseportal Schweiz",
-      "summary": "Novistore gehört zu den ersten Schweizer Onlineshops, die direkt im KI-Assistenten einkaufen lassen Presseportal Schweiz",
-      "source": "Presseportal Schweiz",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZVI0Q2VZbVpIUDZYRkNMbFJVa0ZKZWpkeXlvZl9LODNSSkRFYzBjenNBTGFXQjdJRXROSGlTT1VTaUNSWUZ3WDR4MDJzeFhKVTFpa0Q4RV9WYUlNNWpDOGE0Vi1xSDRuMjZIWi1jLUlDc3lET1h2RFh5VjJZZ01DcjVQcmFXMmlQclJHLVpDay1nNmxmbTdvNU5EMDY3SWc1aHZEWG1RYWZXOERKZ1VfQ0VDTXNmbUFhWDRFLWxxWWNJY1J5TG01RnpiTlpTZ2fSAdQBQVVfeXFMUE40Q0dKd3NIa09QUTAyREkyc2JXTHU1YUdFZXBYMTk2NTVnSk16S2w1cVJIQ1JHV09HVkQzNERoUEgzTTUxcEc3V1lrVG9nX3FqbTkyUGRYZ0MxUWgyVEN1Q21DdFhVQVdhRTcyV0M1ajNRbE9Va0RmNkstV0YzcXVlblk3cnItUl80TjhVQ0JHQUpOMlNhREdTMEJ0eFZxT2dQVWdaMHFVbExSZUlwbGg2clFfTlE0Zzc3WVNqeF9fQWo0SFhqOHc1N0tvVGZ4ODlrcWM?oc=5",
-      "published": "2026-11-23T10:14:29+00:00",
-      "category": "IT Schweiz"
-    },
-    {
       "id": "01cdd634233519df",
       "title": "Angreifer lesen Konfigurationsdaten von Microsoft-Kunden aus - IT-Markt",
       "excerpt": "Angreifer lesen Konfigurationsdaten von Microsoft-Kunden aus IT-Markt",
@@ -241,6 +251,16 @@
       "category": "Security"
     },
     {
+      "id": "617e896ac37ff862",
+      "title": "Wird Arm-Chef Haas der neue Nvidia-CEO? - it-daily.net",
+      "excerpt": "Wird Arm-Chef Haas der neue Nvidia-CEO? it-daily.net",
+      "summary": "Wird Arm-Chef Haas der neue Nvidia-CEO? it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50cTV5YU4tRk13V0pkQ0VEWm9KMGxZVm1rYVdFeS1SQ0ptUVBLcXhraTY2eC1SSG1yZ05Gcmt5QUpueTNzTE1IQ1FoVmZZaU53UmpPenpmWW5Od3h5ZlNrYmFrNUxwZ1c0eUh0NVRaVTJOQQ?oc=5",
+      "published": "2026-11-23T08:47:00+00:00",
+      "category": "Firmen"
+    },
+    {
       "id": "b6c1346d9938306d",
       "title": "Google baut KI-Suche mit Gemini 4 Hydrogen aus – was sich für Schweizer Unternehmen und KMU ändert",
       "excerpt": "Google baut KI-Suche mit Gemini 4 Hydrogen aus – was sich für Schweizer Unternehmen und KMU ändert Swiss-Press.com",
@@ -269,16 +289,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRWI5WFVUSUhWMTVGNGdhRk1wWExPUnlkMjhIR1JzNjFmQkpTTmZfblhCVHE1OExaTGxaZEVubTdlZXBVcVk5Zjkxb1N3bjg5c2ROY1pDcC0xbzMwMS11MGUzSWljTnlkcHMwd1c2bTNvS1QwcXhBOEhEcTdWYzV5Z1pYQU9HTkY2UGF4bUtB?oc=5",
       "published": "2026-11-23T04:00:00+00:00",
       "category": "Trends"
-    },
-    {
-      "id": "a92e9b9368b7d647",
-      "title": "GhostScript Schwachstelle Upload2Shell (CVE-2026-125396) gefährdet Apps und Webseiten - BornCity",
-      "excerpt": "GhostScript Schwachstelle Upload2Shell (CVE-2026-125396) gefährdet Apps und Webseiten BornCity",
-      "summary": "GhostScript Schwachstelle Upload2Shell (CVE-2026-125396) gefährdet Apps und Webseiten BornCity",
-      "source": "BornCity",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa3ZUWm5IdkJ2azlqdnpWMXU3N2VINk92Y21HYUhqLXpTbncxZU1NTm1MOGVpRm5Gck9JQmxBZVprNHplamVrQ0lHRzcwYWtESVdldWV6OE5aTlE1QjhMaGdWdkFjR05pbEwyRU83NjB0MUJxNC1CTFdxeTcyLW9HMlo4cC1kQ3ZfQXFhdDRR?oc=5",
-      "published": "2026-11-22T23:46:07+00:00",
-      "category": "Security"
     },
     {
       "id": "9b4971c080b66f67",
@@ -339,19 +349,9 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTklka3k4Snp4bi1aaUhDT29rUGpOOVQyc0FGVkNoYm5majRLUEYzdDdFUDdnd3dseTVKMHdhUTJWZzNVUW45S3JOcG44YWdYeWZfdm5jR2dnVTZPMFJiRUNHUjA5NkdPajVobXpESUxQQmxZdnhLTXU3eTdlSlVYaVc5YXVDV1gtU0dMYjNOUWFtSXBmdUlUeEVWY3Fldw?oc=5",
       "published": "2026-11-20T15:14:42+00:00",
       "category": "Trends"
-    },
-    {
-      "id": "086af95badb92bbd",
-      "title": "Trends 2027: Vorsprung durch Governance - it-daily.net",
-      "excerpt": "Trends 2027: Vorsprung durch Governance it-daily.net",
-      "summary": "Trends 2027: Vorsprung durch Governance it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lVnRkTURlNkRfQ18zWGFnLXMtWEs1d09EVW54TFFFckE3NTJUbXVZVGNVMnVfc1ZfTzE5ZFhtUl9xNjVheTJ2ci0weTM3QUpqSWcwUl9sU0pubDQ2MFNQYjhxZ082ZjdTeFFJcGw0eVp2V1dYOFFEYmJBMEU3dmc?oc=5",
-      "published": "2026-11-19T04:08:28+00:00",
-      "category": "Trends"
     }
   ],
-  "updatedAt": "2026-11-23T20:12:33.863915+00:00",
+  "updatedAt": "2026-11-23T21:00:30.005398+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
