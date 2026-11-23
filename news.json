@@ -1,16 +1,6 @@
 {
   "items": [
     {
-      "id": "93f78af4a6bd1526",
-      "title": "Drei Mini-PCs, ein KI-Modell: Microsoft vernetzt Windows per USB4 - ComputerBase",
-      "excerpt": "Drei Mini-PCs, ein KI-Modell: Microsoft vernetzt Windows per USB4 ComputerBase",
-      "summary": "Drei Mini-PCs, ein KI-Modell: Microsoft vernetzt Windows per USB4 ComputerBase",
-      "source": "ComputerBase",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc3RXcWhJV0tmSkRheFdkb1RNM0tJRHI5U0t1djA2a3paSjlWMTJ4RGVrZGxKTDFnUXY1NVdQWFhRV2ZNQWt2WERiNkwwS3lIamhsWFBCWUZzSTd1Q3J4dkctXzRwYzcyVTdJZ3VBLUVhbzJ2YVQwWUc2bndPMWhPQmJNUWUxM2tETGY4UEJBZkZJd0NHX3JsNFZpbzhSQ0FWVDZfNzdZdTRGQWFWMEJWQ1pmQnNQNUd4VWFCNA?oc=5",
-      "published": "2026-11-23T20:45:00+00:00",
-      "category": "Trends"
-    },
-    {
       "id": "5314d99468a1fb0b",
       "title": "Microsoft To Do: Die App wird am 30. Juni 2027 abgeschaltet",
       "excerpt": "Microsoft To Do: Die App wird am 30. Juni 2027 abgeschaltet BornCity",
@@ -251,13 +241,13 @@
       "category": "Cloud"
     },
     {
-      "id": "617e896ac37ff862",
-      "title": "Wird Arm-Chef Haas der neue Nvidia-CEO? - it-daily.net",
-      "excerpt": "Wird Arm-Chef Haas der neue Nvidia-CEO? it-daily.net",
-      "summary": "Wird Arm-Chef Haas der neue Nvidia-CEO? it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50cTV5YU4tRk13V0pkQ0VEWm9KMGxZVm1rYVdFeS1SQ0ptUVBLcXhraTY2eC1SSG1yZ05Gcmt5QUpueTNzTE1IQ1FoVmZZaU53UmpPenpmWW5Od3h5ZlNrYmFrNUxwZ1c0eUh0NVRaVTJOQQ?oc=5",
-      "published": "2026-11-23T08:47:00+00:00",
+      "id": "4ac2f942ae3ee867",
+      "title": "Bund beauftragt Elca mit Deepfake-Erkennung für die E-ID",
+      "excerpt": "Der Bund will die Identitätsprüfung für die Schweizer E-ID gegen KI-generierte Videos absichern. Den Auftrag für ein zusätzliches Softwaremodul über 4,44 Millionen Franken vergibt er freihändig an Elca. Das Unternehmen liefert bereits das zugrunde liegende Prüfsystem.",
+      "summary": "Der Bund will die Identitätsprüfung für die Schweizer E-ID gegen KI-generierte Videos absichern. Den Auftrag für ein zusätzliches Softwaremodul über 4,44 Millionen Franken vergibt er freihändig an Elca. Das Unternehmen liefert bereits das zugrunde liegende Prü",
+      "source": "Netzwoche",
+      "url": "https://www.netzwoche.ch/news/2026-11-23/bund-beauftragt-elca-mit-deepfake-erkennung-fuer-die-e-id",
+      "published": "2026-11-23T08:53:32+00:00",
       "category": "Firmen"
     },
     {
@@ -295,20 +285,10 @@
       "title": "GhostScript Schwachstelle Upload2Shell (CVE-2026-125396) gefährdet Apps und Webseiten - BornCity",
       "excerpt": "GhostScript Schwachstelle Upload2Shell (CVE-2026-125396) gefährdet Apps und Webseiten BornCity",
       "summary": "GhostScript Schwachstelle Upload2Shell (CVE-2026-125396) gefährdet Apps und Webseiten BornCity",
-      "source": "BornCity",
+      "source": "BornCity / Microsoft To Do",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa3ZUWm5IdkJ2azlqdnpWMXU3N2VINk92Y21HYUhqLXpTbncxZU1NTm1MOGVpRm5Gck9JQmxBZVprNHplamVrQ0lHRzcwYWtESVdldWV6OE5aTlE1QjhMaGdWdkFjR05pbEwyRU83NjB0MUJxNC1CTFdxeTcyLW9HMlo4cC1kQ3ZfQXFhdDRR?oc=5",
       "published": "2026-11-22T23:46:07+00:00",
       "category": "Security"
-    },
-    {
-      "id": "9b4971c080b66f67",
-      "title": "GL.iNet-Sicherheitsvorfall bei Cloud-Fernverwaltung – Schadsoftware auf Routern - BornCity",
-      "excerpt": "GL.iNet-Sicherheitsvorfall bei Cloud-Fernverwaltung – Schadsoftware auf Routern BornCity",
-      "summary": "GL.iNet-Sicherheitsvorfall bei Cloud-Fernverwaltung – Schadsoftware auf Routern BornCity",
-      "source": "BornCity",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMklBQUQ2SklqVWVJUEpmWDQ4clpyWWYwX3NoYXZZakRMWnVhSGNIT01SN3dVS3pXNE0taV9jM1k0clhmenVTei1oc2pJZXJkdU9XemgxNXV1aV96TkRzMk5kaGh0dVNrMlh5RDhQMERLV0Y5aGNpZUZyYWpoTDYxeDR1OXhHaHBlaUVueEJqODg2NjgyS3FQeEFEQkoyNWlHNTlnRVNhOEo3aU1EckhObGt0Vi1LQQ?oc=5",
-      "published": "2026-11-22T11:26:15+00:00",
-      "category": "Cloud"
     },
     {
       "id": "8be660a91783b732",
@@ -341,6 +321,16 @@
       "category": "Markt"
     },
     {
+      "id": "9f8722853ca30084",
+      "title": "Arrow lanciert Vertriebsportal für Cloud-Partner - IT-Markt",
+      "excerpt": "Arrow lanciert Vertriebsportal für Cloud-Partner IT-Markt",
+      "summary": "Arrow lanciert Vertriebsportal für Cloud-Partner IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUnptOFV1MmlXNXFoWXlDTURyZEQ5YlNja3dKN2VubHpvcWVoTTVMZ01nNHpHcGpxY2wtVFpkYkUxVU5zWHVxQlhIOGgzcGlCb2Q0WklMUVF5NWtMajB2MzNYTGZTRHRDcmJKTWVxWENqNWhQbF9FNklBWWNpdGMwUHp4VVZpdFh3QktvNHpSdGFJWU0?oc=5",
+      "published": "2026-11-20T15:21:31+00:00",
+      "category": "Cloud"
+    },
+    {
       "id": "a2e59dfd78ce1c90",
       "title": "Die Top 5 Technologie-Trends 2027 von Capgemini - Computerwoche",
       "excerpt": "Die Top 5 Technologie-Trends 2027 von Capgemini Computerwoche",
@@ -349,9 +339,19 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTklka3k4Snp4bi1aaUhDT29rUGpOOVQyc0FGVkNoYm5majRLUEYzdDdFUDdnd3dseTVKMHdhUTJWZzNVUW45S3JOcG44YWdYeWZfdm5jR2dnVTZPMFJiRUNHUjA5NkdPajVobXpESUxQQmxZdnhLTXU3eTdlSlVYaVc5YXVDV1gtU0dMYjNOUWFtSXBmdUlUeEVWY3Fldw?oc=5",
       "published": "2026-11-20T15:14:42+00:00",
       "category": "Trends"
+    },
+    {
+      "id": "086af95badb92bbd",
+      "title": "Trends 2027: Vorsprung durch Governance - it-daily.net",
+      "excerpt": "Trends 2027: Vorsprung durch Governance it-daily.net",
+      "summary": "Trends 2027: Vorsprung durch Governance it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lVnRkTURlNkRfQ18zWGFnLXMtWEs1d09EVW54TFFFckE3NTJUbXVZVGNVMnVfc1ZfTzE5ZFhtUl9xNjVheTJ2ci0weTM3QUpqSWcwUl9sU0pubDQ2MFNQYjhxZ082ZjdTeFFJcGw0eVp2V1dYOFFEYmJBMEU3dmc?oc=5",
+      "published": "2026-11-19T04:08:28+00:00",
+      "category": "Trends"
     }
   ],
-  "updatedAt": "2026-11-23T21:59:43.326546+00:00",
+  "updatedAt": "2026-11-23T23:01:57.994861+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -370,6 +370,6 @@
     "Markt": 5,
     "Firmen": 5
   },
-  "warning": "",
+  "warning": "7 von 32 RSS-Quellen waren nicht erreichbar.",
   "aiSummaries": false
 }
