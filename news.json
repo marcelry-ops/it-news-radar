@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "85a56d4fbf975bdb",
+      "title": "Leistungsfähige KI – ohne Kompromisse bei der Datenhoheit",
+      "excerpt": "naroa.ai und cloud37 automatisieren das Finden und Beantworten von Ausschreibungen mit lokalen KI-Modellen und kontrollierter Datenverarbeitung. naroa.bids automatisiert die Bearbeitung von Ausschreibungen. naroa.tenders identifiziert und bewertet passende öffentliche Ausschreibungen. cloud37 ist exklusiver Beratungs- und Implementierungspartner für beide Lösungen.",
+      "summary": "naroa.ai und cloud37 automatisieren das Finden und Beantworten von Ausschreibungen mit lokalen KI-Modellen und kontrollierter Datenverarbeitung. naroa.bids automatisiert die Bearbeitung von Ausschreibungen. naroa.tenders identifiziert und bewertet passende öff",
+      "source": "Netzwoche",
+      "url": "https://www.netzwoche.ch/news/2026-11-23/leistungsfaehige-ki-ohne-kompromisse-bei-der-datenhoheit",
+      "published": "2026-11-23T06:00:00+00:00",
+      "category": "IT Schweiz"
+    },
+    {
+      "id": "b5a5510cf36a8571",
+      "title": "Lenovo vernetzt den modernen Arbeitsplatz - IT-Markt",
+      "excerpt": "Lenovo vernetzt den modernen Arbeitsplatz IT-Markt",
+      "summary": "Lenovo vernetzt den modernen Arbeitsplatz IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY1BPejNBWlJvM09sLTJoRWlQbHhCS0RWZ3d5MUFETG1PVkdYNTROZW1PZTBmQjFYelVUaTlFbUxqQjh5UGVnTUhxdXBZZ20wOVh0TFgzTUpTR29QMENfYzVJa1NLdU9QRkF3YUV4b1JXOVducUR5TnUyT1BfQVQtX2ZNUk03Z2Fi?oc=5",
+      "published": "2026-11-23T06:00:00+00:00",
+      "category": "Markt"
+    },
+    {
+      "id": "0cd4839278601052",
+      "title": "Outlook-Gruppen: Warum jede Microsoft 365 Group zwei Besitzer braucht",
+      "excerpt": "Outlook-Gruppen: Warum jede Microsoft 365 Group zwei Besitzer braucht BornCity",
+      "summary": "Outlook-Gruppen: Warum jede Microsoft 365 Group zwei Besitzer braucht BornCity",
+      "source": "BornCity",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWWV1ak5wb2RRTlphVDlKaWFaYnl4eHdLNksycUdVdGZ2OUp0dEZLOGNBNTZaYWhLWURJb1RiNnVfRHhLXzc3TzlOeUNLMDRFLXFsRVEwbm9GWGtQRGNjQl95dWFOeDg5TU5ieWNiYk5GaGl5WGFmWXk5S3h4Sy13LVFJRkFlQ05hLXRFbWFWWGswWVlKWkh0Tjh2cw?oc=5",
+      "published": "2026-11-23T05:07:05+00:00",
+      "category": "Microsoft 365"
+    },
+    {
       "id": "6a13cf05ba534692",
       "title": "E-Books und Bücher: Hackerangriff legt Hugendubel-Homepage und Tolino-Cloud lahm",
       "excerpt": "Hugendubel ist Opfer eines Hackerangriffs geworden und hat etliche Systeme vom Netz genommen. Das hat auch Auswirkungen auf E-Book-Reader. ( Cybercrime , Mobil )",
@@ -58,7 +88,7 @@
       "source": "Netzwoche",
       "url": "https://www.netzwoche.ch/news/2026-11-22/abschottung-fuehrt-auf-den-digitalen-holzweg",
       "published": "2026-11-22T08:00:00+00:00",
-      "category": "IT Schweiz"
+      "category": "Cloud"
     },
     {
       "id": "8be660a91783b732",
@@ -89,16 +119,6 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdTdnVFpkWXJjcHJuR0k5UkhNZHNxcDBDMDdGa3RveXM0R0l1QjJySk9hTTh1R3BCQkRZRWlOQkY1Zjd5cUplUGVtSTdZRURubXlFcFA2YlQ4dUw0SHhqMmNVUE1UaGc2dldYM0owM2VmWjM2YzBYZGVKdXZKdEhhaXh5ZDB3TjhXMVRZYUlpaVhZemZCQkJKaTQ0MA?oc=5",
       "published": "2026-11-22T06:31:29+00:00",
       "category": "Security"
-    },
-    {
-      "id": "cbad23249b8728b6",
-      "title": "Neues Outlook für Windows: Microsoft bestätigt Fehler bei Dateianhängen",
-      "excerpt": "Neues Outlook für Windows: Microsoft bestätigt Fehler bei Dateianhängen ad-hoc-news.de",
-      "summary": "Neues Outlook für Windows: Microsoft bestätigt Fehler bei Dateianhängen ad-hoc-news.de",
-      "source": "ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOR2tGTW9XNDliV1gzYVhzREJqUVpoVTJ0Mm9uLTM4UG9qbXZFalpwaEFsZjM5NFJoTDBRZkd4WU1WbTBpTWpuekNFTTNKcWdKRG1GZGFzanhKNHBuQlc5SzhOYS1SRXJNbnJncnpfNUJzc0tUZmN0akl5OVVtTE9MYjZveHZQSUR1Ul9GZmE1MS11N093SW5MSUNFTVJTZE5IcHp6ZTJkR2pLSjZCdXdtSHVieG1OVVlBTndTbUJ1dw?oc=5",
-      "published": "2026-11-21T23:12:43+00:00",
-      "category": "Microsoft 365"
     },
     {
       "id": "71c451bd49cc233d",
@@ -138,16 +158,6 @@
       "source": "Golem.de",
       "url": "https://www.golem.de/news/kubernetes-integrationstests-wie-entwickler-versteckte-kubernetes-fehler-vor-dem-deployment-finden-2611-215227.html",
       "published": "2026-11-21T09:00:01+00:00",
-      "category": "Cloud"
-    },
-    {
-      "id": "4dc6f0d684b0bc21",
-      "title": "Developer-Häppchen: Agenten überwachen sich mit openchamber gegenseitig",
-      "excerpt": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Auron, WordPress, MDASH, openchamber, Rust, Cloudflare und Azure.",
-      "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Auron, WordPress, MDASH, openchamber, Rust, Cloudflare und Azure.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Developer-Haeppchen-Microsoft-Sicherheits-Scanner-Managed-Open-Shift-auf-Azure-11532884.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published": "2026-11-21T07:17:00+00:00",
       "category": "Cloud"
     },
     {
@@ -301,16 +311,6 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "46a591b1a67755ca",
-      "title": "Netsuisse nimmt Clavister ins Portfolio auf - IT-Markt",
-      "excerpt": "Netsuisse nimmt Clavister ins Portfolio auf IT-Markt",
-      "summary": "Netsuisse nimmt Clavister ins Portfolio auf IT-Markt",
-      "source": "IT-Markt",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbFJTM0o2SmhRdkVEUGVaa19rb2pITjlRR1dhMmpnQ1lqOHJnOFpTU1djT0pJSXM1dHFOclhZSXpkdzZacmNTNHJWZzFTRmRwaktWVlAwLXpXOWt4ZUsyZ1RYbGE2c2dIcXlVRTJVeEloNzFrME50bF85T1hyR0VQeEJLNFpoSHloM19z?oc=5",
-      "published": "2026-11-19T14:25:50+00:00",
-      "category": "Markt"
-    },
-    {
       "id": "9030ca55abe28013",
       "title": "Microsoft 365: Apps und KI-Agenten seit 18. November zentral verwalten",
       "excerpt": "Microsoft 365: Apps und KI-Agenten seit 18. November zentral verwalten BornCity",
@@ -351,7 +351,7 @@
       "category": "Trends"
     }
   ],
-  "updatedAt": "2026-11-23T04:18:31.292549+00:00",
+  "updatedAt": "2026-11-23T06:15:30.707380+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -370,6 +370,6 @@
     "Markt": 5,
     "Firmen": 5
   },
-  "warning": "1 von 29 RSS-Quellen waren nicht erreichbar.",
+  "warning": "",
   "aiSummaries": false
 }
