@@ -1,12 +1,32 @@
 {
   "items": [
     {
+      "id": "7ae4c01eb1149cee",
+      "title": "Ransomware-Schutz muss mit den Angriffen Schritt halten",
+      "excerpt": "Ransomware-Schutz muss mit den Angriffen Schritt halten B2B Cyber Security",
+      "summary": "Ransomware-Schutz muss mit den Angriffen Schritt halten B2B Cyber Security",
+      "source": "B2B Cyber Security",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSlBBcmx0RHd2S3BJUUNVd3kwaWRBRVlpdGtCcUp4Uk5SVTFCbE5kUU94UmpVTnlPV3VFTDA0OU0zZnYzLXZpN0pXSHhnS2tpUkJuYWw5UjJjZ0VaeEM3UnFHWGppTlY2c1hyckNDb2lxTjBxUnFkR3RQYzJXUDBiZzNkeWVWdlhDaDdsQ2otMA?oc=5",
+      "published": "2026-11-23T07:19:36+00:00",
+      "category": "Security"
+    },
+    {
       "id": "85a56d4fbf975bdb",
       "title": "Leistungsfähige KI – ohne Kompromisse bei der Datenhoheit",
       "excerpt": "naroa.ai und cloud37 automatisieren das Finden und Beantworten von Ausschreibungen mit lokalen KI-Modellen und kontrollierter Datenverarbeitung. naroa.bids automatisiert die Bearbeitung von Ausschreibungen. naroa.tenders identifiziert und bewertet passende öffentliche Ausschreibungen. cloud37 ist exklusiver Beratungs- und Implementierungspartner für beide Lösungen.",
       "summary": "naroa.ai und cloud37 automatisieren das Finden und Beantworten von Ausschreibungen mit lokalen KI-Modellen und kontrollierter Datenverarbeitung. naroa.bids automatisiert die Bearbeitung von Ausschreibungen. naroa.tenders identifiziert und bewertet passende öff",
       "source": "Netzwoche",
       "url": "https://www.netzwoche.ch/news/2026-11-23/leistungsfaehige-ki-ohne-kompromisse-bei-der-datenhoheit",
+      "published": "2026-11-23T06:00:00+00:00",
+      "category": "IT Schweiz"
+    },
+    {
+      "id": "c4a695ac0fabc9bc",
+      "title": "Technologie allein reicht nicht: Warum es jetzt AI Leadership braucht",
+      "excerpt": "AI Leadership wird im KI-Zeitalter zu einer der wichtigsten Zukunftskompetenzen. Angela Taverna und Christoph Hess, Trainerin und Trainer bei digicomp, wissen, worauf es bei der Kombination aus künstlicher Intelligenz und Führung ankommt.",
+      "summary": "AI Leadership wird im KI-Zeitalter zu einer der wichtigsten Zukunftskompetenzen. Angela Taverna und Christoph Hess, Trainerin und Trainer bei digicomp, wissen, worauf es bei der Kombination aus künstlicher Intelligenz und Führung ankommt.",
+      "source": "Netzwoche",
+      "url": "https://www.netzwoche.ch/news/2026-11-23/technologie-allein-reicht-nicht-warum-es-jetzt-ai-leadership-braucht",
       "published": "2026-11-23T06:00:00+00:00",
       "category": "IT Schweiz"
     },
@@ -71,16 +91,6 @@
       "category": "Cloud"
     },
     {
-      "id": "3c57d58204683fae",
-      "title": "KI macht komplexe Legierungen zugänglicher",
-      "excerpt": "Materialinformatiker erstellen Modelle und Simulationen, die für die Entwicklung von komplexen Materialien unabdingbar sind. Forschende an der Empa in Thun haben nun ein auf KI basierendes Hilfsmittel entwickelt, das es Materialwissenschaftlern erlaubt, die komplexen Tools über einen einfachen Chat zu bedienen - eine Art ChatGPT für Materialien, der jedoch auf wissenschaftlichen Erkenntnissen beruht und auf dem Computer des Nutzers läuft.",
-      "summary": "Materialinformatiker erstellen Modelle und Simulationen, die für die Entwicklung von komplexen Materialien unabdingbar sind. Forschende an der Empa in Thun haben nun ein auf KI basierendes Hilfsmittel entwickelt, das es Materialwissenschaftlern erlaubt, die ko",
-      "source": "Netzwoche",
-      "url": "https://www.netzwoche.ch/news/2026-11-22/ki-macht-komplexe-legierungen-zugaenglicher",
-      "published": "2026-11-22T08:00:00+00:00",
-      "category": "IT Schweiz"
-    },
-    {
       "id": "c7cdfd4b1f09b3a1",
       "title": "Abschottung führt auf den digitalen Holzweg​",
       "excerpt": "Die EU will Cloud-Anbieter aus Drittstaaten bei sensiblen öffentlichen Aufträgen weitgehend fernhalten, auch jene aus der Schweiz. Die Herkunft eines Anbieters sagt wenig über die Datensicherheit aus, wie das Beispiel Dänemark zeigt. Die Swiss Government Cloud zeigt den besseren Weg.",
@@ -99,16 +109,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTjZNZmxydXcybk1wYkoyb2VXd0xiZm1wcEFqajloUVhLWHhsRjFhZE84c0NCcEN1RU9JWjRVTE9JblhHQV9RWFdMcmNIaUJGUkZwVXA3eUtKUkE4ZDlHdWJMT0phaFlwU3ZzNE9PNHJFajRjN0VhSDR0alBkQ2VJY1l3Z08yZ0ctMFhZ?oc=5",
       "published": "2026-11-22T08:00:00+00:00",
       "category": "Markt"
-    },
-    {
-      "id": "e65b0784dc3099ea",
-      "title": "Telegram-Widgets: RCE-Demos und Malware-Warnung nach Start - it-daily.net",
-      "excerpt": "Telegram-Widgets: RCE-Demos und Malware-Warnung nach Start it-daily.net",
-      "summary": "Telegram-Widgets: RCE-Demos und Malware-Warnung nach Start it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB1c1FHZmVScF8tTEhHWW9BQWx5ajZvQmNTRXZHY1V0bTFoRGZFX3lDNjMyUmMyWHprd3d6MXhZclg3REVXV0I3RExMSG0yUW5PajYyQThnRGRha3llY3B4UVNZZzludFN2SC1WbmZvSTVpRTNxX3Nv?oc=5",
-      "published": "2026-11-22T06:59:54+00:00",
-      "category": "Security"
     },
     {
       "id": "93535b01b2e24e13",
@@ -351,7 +351,7 @@
       "category": "Trends"
     }
   ],
-  "updatedAt": "2026-11-23T06:15:30.707380+00:00",
+  "updatedAt": "2026-11-23T07:53:25.286935+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -370,6 +370,6 @@
     "Markt": 5,
     "Firmen": 5
   },
-  "warning": "",
+  "warning": "1 von 29 RSS-Quellen waren nicht erreichbar.",
   "aiSummaries": false
 }
