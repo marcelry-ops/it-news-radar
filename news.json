@@ -1,6 +1,76 @@
 {
   "items": [
     {
+      "id": "4b01dff127f91010",
+      "title": "Robotik-Startup Coprod erhält 6 Millionen",
+      "excerpt": "Die Coprod-Plattform soll die Entwicklung spezialisierter Roboter vereinfachen. Während die Entwicklung in Lausanne geschehen soll, ist die Fertigung in China und den USA geplant.",
+      "summary": "Die Coprod-Plattform soll die Entwicklung spezialisierter Roboter vereinfachen. Während die Entwicklung in Lausanne geschehen soll, ist die Fertigung in China und den USA geplant.",
+      "source": "Inside IT",
+      "url": "https://www.inside-it.ch/robotik-startup-coprod-erhaelt-6-millionen-20261123",
+      "published": "2026-11-23T11:00:04+00:00",
+      "category": "IT Schweiz"
+    },
+    {
+      "id": "0fd1708e5fc3ec11",
+      "title": "So hilft KI beim Onlineshopping - aber auch beim Betrug",
+      "excerpt": "KI wird in der Schweiz vermehrt zur Einkaufshilfe. Dabei finden KI-Agenten Schnäppchen, erkennen unseriöse Angebote oder ermöglichen eine virtuelle Anprobe von Produkten. Auch Händler nutzen KI, um etwa ihre Shops anzupassen. Konsumentenschützer warnen jedoch vor fehlerhaften KI-Empfehlungen aufgrund gefälschter Werbeanzeigen und Fake-Webshops.",
+      "summary": "KI wird in der Schweiz vermehrt zur Einkaufshilfe. Dabei finden KI-Agenten Schnäppchen, erkennen unseriöse Angebote oder ermöglichen eine virtuelle Anprobe von Produkten. Auch Händler nutzen KI, um etwa ihre Shops anzupassen. Konsumentenschützer warnen jedoch ",
+      "source": "Netzwoche",
+      "url": "https://www.netzwoche.ch/news/2026-11-23/so-hilft-ki-beim-onlineshopping-aber-auch-beim-betrug",
+      "published": "2026-11-23T10:20:33+00:00",
+      "category": "IT Schweiz"
+    },
+    {
+      "id": "c8d9b1f029050077",
+      "title": "Nestlé setzt in Fabriken auf Roboterhunde und KI",
+      "excerpt": "Im neuen Deep Tech Center in Waadt entwickelt der Lebensmittelkonzern Technologien, um die Produktion mithilfe von Sensoren, Robotern und KI zu beschleunigen.",
+      "summary": "Im neuen Deep Tech Center in Waadt entwickelt der Lebensmittelkonzern Technologien, um die Produktion mithilfe von Sensoren, Robotern und KI zu beschleunigen.",
+      "source": "Inside IT",
+      "url": "https://www.inside-it.ch/nestle-setzt-in-fabriken-auf-roboterhunde-und-ki-20261123",
+      "published": "2026-11-23T10:17:20+00:00",
+      "category": "IT Schweiz"
+    },
+    {
+      "id": "b407dca5f06acd23",
+      "title": "GL.iNet: Unzählige Router über Cloud des Herstellers kompromittiert",
+      "excerpt": "Angreifer haben über die Cloud von GL.iNet Malware auf Router und KVM-Geräte geschleust. Die Updates des Herstellers helfen wohl nur teilweise. ( Sicherheitslücke , Virus )",
+      "summary": "Angreifer haben über die Cloud von GL.iNet Malware auf Router und KVM-Geräte geschleust. Die Updates des Herstellers helfen wohl nur teilweise. ( Sicherheitslücke , Virus )",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/gl-inet-unzaehlige-router-ueber-cloud-des-herstellers-kompromittiert-2611-215523.html",
+      "published": "2026-11-23T10:15:02+00:00",
+      "category": "Cloud"
+    },
+    {
+      "id": "01cdd634233519df",
+      "title": "Angreifer lesen Konfigurationsdaten von Microsoft-Kunden aus - IT-Markt",
+      "excerpt": "Angreifer lesen Konfigurationsdaten von Microsoft-Kunden aus IT-Markt",
+      "summary": "Angreifer lesen Konfigurationsdaten von Microsoft-Kunden aus IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVlptWFJsZ0szWGpiX2k5cG9haVBHLTE1dkU4ZVE4M0ZHdXUwZkpiUUNYNFNaT05WdGU4cTVkRFBIQ0EwUFBrR0VpdlcwWUpGTDhqM29NaWYtQkVmSG9MU3hLbm96UFhPcmNnUGF3TkpEODlxYVlmUFRfalBHTmpQa1NhRm1tTXJlbmpyblNvSXg5UVFtX2dYclZ6bEVwQjZnVVE?oc=5",
+      "published": "2026-11-23T10:02:13+00:00",
+      "category": "Markt"
+    },
+    {
+      "id": "14ffd0bcee2dafea",
+      "title": "Angreifer lesen Konfigurationsdaten von Microsoft-Kunden aus",
+      "excerpt": "Unbekannte haben eine Sicherheitslücke in Microsoft Entra Connect Health ausgenutzt, um Kontakt- und Konfigurationsdaten von Kunden auszulesen. Microsoft hat den Fehler inzwischen behoben. Wie viele Organisationen betroffen sind, bleibt unklar.",
+      "summary": "Unbekannte haben eine Sicherheitslücke in Microsoft Entra Connect Health ausgenutzt, um Kontakt- und Konfigurationsdaten von Kunden auszulesen. Microsoft hat den Fehler inzwischen behoben. Wie viele Organisationen betroffen sind, bleibt unklar.",
+      "source": "Netzwoche",
+      "url": "https://www.netzwoche.ch/news/2026-11-23/angreifer-lesen-konfigurationsdaten-von-microsoft-kunden-aus",
+      "published": "2026-11-23T10:00:11+00:00",
+      "category": "Microsoft 365"
+    },
+    {
+      "id": "2744679f1077fe84",
+      "title": "Cyberangriff legt Hugendubel, Tolino-Cloud und eBook.de lahm",
+      "excerpt": "Die Webseiten von Hugendubel, Tolino-Cloud und eBook.de sind derzeit im Wartungsmodus. Ursache ist offenbar ein Cyberangriff.",
+      "summary": "Die Webseiten von Hugendubel, Tolino-Cloud und eBook.de sind derzeit im Wartungsmodus. Ursache ist offenbar ein Cyberangriff.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Nach-Cyberangriff-Hugendubel-Tolino-Cloud-und-eBook-de-gestoert-11534213.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published": "2026-11-23T09:49:00+00:00",
+      "category": "Security"
+    },
+    {
       "id": "19652f921f14491f",
       "title": "Zero Day bei Windows: Sprachausgabe umgeht Sperrbildschirm - it-daily.net",
       "excerpt": "Zero Day bei Windows: Sprachausgabe umgeht Sperrbildschirm it-daily.net",
@@ -61,16 +131,6 @@
       "category": "IT Schweiz"
     },
     {
-      "id": "c4a695ac0fabc9bc",
-      "title": "Technologie allein reicht nicht: Warum es jetzt AI Leadership braucht",
-      "excerpt": "AI Leadership wird im KI-Zeitalter zu einer der wichtigsten Zukunftskompetenzen. Angela Taverna und Christoph Hess, Trainerin und Trainer bei digicomp, wissen, worauf es bei der Kombination aus künstlicher Intelligenz und Führung ankommt.",
-      "summary": "AI Leadership wird im KI-Zeitalter zu einer der wichtigsten Zukunftskompetenzen. Angela Taverna und Christoph Hess, Trainerin und Trainer bei digicomp, wissen, worauf es bei der Kombination aus künstlicher Intelligenz und Führung ankommt.",
-      "source": "Netzwoche",
-      "url": "https://www.netzwoche.ch/news/2026-11-23/technologie-allein-reicht-nicht-warum-es-jetzt-ai-leadership-braucht",
-      "published": "2026-11-23T06:00:00+00:00",
-      "category": "IT Schweiz"
-    },
-    {
       "id": "b5a5510cf36a8571",
       "title": "Lenovo vernetzt den modernen Arbeitsplatz - IT-Markt",
       "excerpt": "Lenovo vernetzt den modernen Arbeitsplatz IT-Markt",
@@ -89,6 +149,16 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWWV1ak5wb2RRTlphVDlKaWFaYnl4eHdLNksycUdVdGZ2OUp0dEZLOGNBNTZaYWhLWURJb1RiNnVfRHhLXzc3TzlOeUNLMDRFLXFsRVEwbm9GWGtQRGNjQl95dWFOeDg5TU5ieWNiYk5GaGl5WGFmWXk5S3h4Sy13LVFJRkFlQ05hLXRFbWFWWGswWVlKWkh0Tjh2cw?oc=5",
       "published": "2026-11-23T05:07:05+00:00",
       "category": "Microsoft 365"
+    },
+    {
+      "id": "24e193167274acb8",
+      "title": "Sechs Trends, die laut Gartner das Software Engineering jetzt prägen - it-daily.net",
+      "excerpt": "Sechs Trends, die laut Gartner das Software Engineering jetzt prägen it-daily.net",
+      "summary": "Sechs Trends, die laut Gartner das Software Engineering jetzt prägen it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRWI5WFVUSUhWMTVGNGdhRk1wWExPUnlkMjhIR1JzNjFmQkpTTmZfblhCVHE1OExaTGxaZEVubTdlZXBVcVk5Zjkxb1N3bjg5c2ROY1pDcC0xbzMwMS11MGUzSWljTnlkcHMwd1c2bTNvS1QwcXhBOEhEcTdWYzV5Z1pYQU9HTkY2UGF4bUtB?oc=5",
+      "published": "2026-11-23T04:00:00+00:00",
+      "category": "Trends"
     },
     {
       "id": "6a13cf05ba534692",
@@ -121,16 +191,6 @@
       "category": "Markt"
     },
     {
-      "id": "93535b01b2e24e13",
-      "title": "Ghostscript-Sicherheitslücke Upload2Shell: Wer betroffen ist",
-      "excerpt": "Ghostscript-Sicherheitslücke Upload2Shell: Wer betroffen ist All About SECURITY",
-      "summary": "Ghostscript-Sicherheitslücke Upload2Shell: Wer betroffen ist All About SECURITY",
-      "source": "All About SECURITY",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdTdnVFpkWXJjcHJuR0k5UkhNZHNxcDBDMDdGa3RveXM0R0l1QjJySk9hTTh1R3BCQkRZRWlOQkY1Zjd5cUplUGVtSTdZRURubXlFcFA2YlQ4dUw0SHhqMmNVUE1UaGc2dldYM0owM2VmWjM2YzBYZGVKdXZKdEhhaXh5ZDB3TjhXMVRZYUlpaVhZemZCQkJKaTQ0MA?oc=5",
-      "published": "2026-11-22T06:31:29+00:00",
-      "category": "Security"
-    },
-    {
       "id": "71c451bd49cc233d",
       "title": "KI-Agenten von Start-Up drangen in Anthropics Systeme ein - it-daily.net",
       "excerpt": "KI-Agenten von Start-Up drangen in Anthropics Systeme ein it-daily.net",
@@ -161,16 +221,6 @@
       "category": "Trends"
     },
     {
-      "id": "86791593dbc569d5",
-      "title": "(g+) Kubernetes-Integrationstests: Wie Entwickler versteckte Kubernetes-Fehler vor dem ...",
-      "excerpt": "Mocks können Fehler im Zusammenspiel von Anwendung und Datenbank übersehen. Mit kind und Testcontainers lässt sich eine Bestell-API unter realistischen Kubernetes-Bedingungen prüfen. Ein Ratgebertext von Fabian Deitelhoff ( Softwareentwicklung , PostgreSQL )",
-      "summary": "Mocks können Fehler im Zusammenspiel von Anwendung und Datenbank übersehen. Mit kind und Testcontainers lässt sich eine Bestell-API unter realistischen Kubernetes-Bedingungen prüfen. Ein Ratgebertext von Fabian Deitelhoff ( Softwareentwicklung , PostgreSQL )",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/kubernetes-integrationstests-wie-entwickler-versteckte-kubernetes-fehler-vor-dem-deployment-finden-2611-215227.html",
-      "published": "2026-11-21T09:00:01+00:00",
-      "category": "Cloud"
-    },
-    {
       "id": "a31ed4515686ebb9",
       "title": "Elia Ferrari - IT-Markt",
       "excerpt": "Elia Ferrari IT-Markt",
@@ -189,26 +239,6 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdkRxeGhPRV8yZkk4RzF5MGNvanhyWkw0V1NRUTJUdUJuNWtNUGM3bDBFN2o3TXNReXJ5Tm9TY0tfQTBqNTRHN2FLUENyQ3Y3bkVNR091cFEwX0F0dExRR19fUDJQQ0dHNjZ0MndIcDgyejV6TVV3OGdhOVBjclRvQ1JQa3lzcXZKa2ZyamFVSm1SOF9MS0E?oc=5",
       "published": "2026-11-20T20:00:21+00:00",
       "category": "Microsoft 365"
-    },
-    {
-      "id": "ae4dcc43a3740e88",
-      "title": "Swiss Made Software erhöht die Preise",
-      "excerpt": "Die Labelträger müssen vom neuen Jahr an mehr Geld zahlen für das Gütesiegel Swiss Made Software. Mehr Dienstleistungen und mehr Sichtbarkeit gibt es als Gegenleistung.",
-      "summary": "Die Labelträger müssen vom neuen Jahr an mehr Geld zahlen für das Gütesiegel Swiss Made Software. Mehr Dienstleistungen und mehr Sichtbarkeit gibt es als Gegenleistung.",
-      "source": "Inside IT",
-      "url": "https://www.inside-it.ch/swiss-made-software-erhoeht-die-preise-20261120",
-      "published": "2026-11-20T16:15:46+00:00",
-      "category": "IT Schweiz"
-    },
-    {
-      "id": "2ce5f825fa132128",
-      "title": "Update: Kanton Basel-Landschaft meldet Datenabfluss nach Cyberattacke",
-      "excerpt": "Unbekannte haben die IT-Infrastruktur des Kantons Basel-Landschaft angegriffen. Dabei wurden auch zahlreiche Datensätze mit persönlichen Informationen von Grenzgängerinnen und Grenzgänger entwendet. Der Kanton warnt vor Phishing und Identitätsdiebstahl.",
-      "summary": "Unbekannte haben die IT-Infrastruktur des Kantons Basel-Landschaft angegriffen. Dabei wurden auch zahlreiche Datensätze mit persönlichen Informationen von Grenzgängerinnen und Grenzgänger entwendet. Der Kanton warnt vor Phishing und Identitätsdiebstahl.",
-      "source": "Netzwoche",
-      "url": "https://www.netzwoche.ch/news/2026-11-19/cyberkriminelle-greifen-it-des-kantons-basel-landschaft-an",
-      "published": "2026-11-20T16:00:59+00:00",
-      "category": "IT Schweiz"
     },
     {
       "id": "9f8722853ca30084",
@@ -251,6 +281,16 @@
       "category": "Markt"
     },
     {
+      "id": "f54c953af1041f65",
+      "title": "Palo Alto Networks übernimmt KI-Start-up für 4,5 Milliarden Dollar",
+      "excerpt": "Palo Alto Networks will den KI-Spezialisten Applied Compute übernehmen. Mit der Akquisition verstärkt der Security-Anbieter sein Portfolio um eine Plattform für das Training und den sicheren Betrieb von KI-Modellen.",
+      "summary": "Palo Alto Networks will den KI-Spezialisten Applied Compute übernehmen. Mit der Akquisition verstärkt der Security-Anbieter sein Portfolio um eine Plattform für das Training und den sicheren Betrieb von KI-Modellen.",
+      "source": "IT Reseller",
+      "url": "https://www.itreseller.ch/Artikel/106656/Palo_Alto_Networks_uebernimmt_KI-Start-up_fuer_45_Milliarden_Dollar.html",
+      "published": "2026-11-20T13:14:26+00:00",
+      "category": "Firmen"
+    },
+    {
       "id": "fefa89614d8ef522",
       "title": "Naomi MacKenzie ist Pioneer of the Year",
       "excerpt": "Auch zur diesjährigen 20. Ausgabe des Digital Economy Awards zeichnet die IT-Branche Innovation und Nachwuchs aus.",
@@ -259,26 +299,6 @@
       "url": "https://www.inside-it.ch/naomi-mackenzie-ist-pioneer-of-the-year-20261120",
       "published": "2026-11-20T12:12:29+00:00",
       "category": "Trends"
-    },
-    {
-      "id": "ec528eefd543eb02",
-      "title": "Das sind die Gewinner der Digital Economy Awards - IT-Markt",
-      "excerpt": "Das sind die Gewinner der Digital Economy Awards IT-Markt",
-      "summary": "Das sind die Gewinner der Digital Economy Awards IT-Markt",
-      "source": "IT-Markt",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeENoMjBYWU5hUFBJanVnNlRhNEhTMDMzYjlxSkZ2NTlnR1NaZThnY2hIUkhUMGEzc203WWhWZkVQNTFFSlpud0tNLU5tQ2NWRTZWblVhRW8yZEdKSDRmQWktUmp6MEl5dUZhaHlNZU1Gc1ZIVndwT1dsLVJJVENXc0JMbEhwYkVicEFtaDB3UlZfZw?oc=5",
-      "published": "2026-11-20T11:13:24+00:00",
-      "category": "Markt"
-    },
-    {
-      "id": "91d4d60733e42050",
-      "title": "Phoeniqs-CEO Thomas Taroni: «Bei KI soll Europa nicht allein von Amerika und China abhängig sein»",
-      "excerpt": "Phoeniqs-CEO Thomas Taroni: «Bei KI soll Europa nicht allein von Amerika und China abhängig sein» Finanz und Wirtschaft",
-      "summary": "Phoeniqs-CEO Thomas Taroni: «Bei KI soll Europa nicht allein von Amerika und China abhängig sein» Finanz und Wirtschaft",
-      "source": "Finanz und Wirtschaft",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZFJVZUNJSUhxZDBSdVZoT3VVSFJkdnlvX19Ua1lCT0gtTTB1YjBvd3Q5RUZxRkI5ZnlCQ0hEMFpfNGNoRkNMdDdOQk9PTC13YlM2ZlRaaVlFRVdodDNTRXlZcmw5SGtXOUY4OVhIWkVHU19SSXotN0xScW4yVWp3S3hUYWQwcG9VemxTYkZzMlp1Qm1UeGc?oc=5",
-      "published": "2026-11-20T10:10:13+00:00",
-      "category": "Firmen"
     },
     {
       "id": "b54a1ae6b4d85eed",
@@ -311,16 +331,6 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "9030ca55abe28013",
-      "title": "Microsoft 365: Apps und KI-Agenten seit 18. November zentral verwalten",
-      "excerpt": "Microsoft 365: Apps und KI-Agenten seit 18. November zentral verwalten BornCity",
-      "summary": "Microsoft 365: Apps und KI-Agenten seit 18. November zentral verwalten BornCity",
-      "source": "BornCity",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObnMxVUFKaFlqY1l1azZhal8tRldLeTdyaDZYS3pTTjAxcXNldFlwT1ZmdGtUaUItSU5odXJiZ1VUazMtWGNkbVpoWWlIMU5zNmRYMndJZElmSGZZcFVWaUxlNTFhVHhGM1hBMUFiT1ltSTJGaVdXck9FMzI0MDZ2MXhyMUNvcmpWakJOMkVIMDFpTDNpUDQ0Z3J1UQ?oc=5",
-      "published": "2026-11-19T06:44:05+00:00",
-      "category": "Microsoft 365"
-    },
-    {
       "id": "086af95badb92bbd",
       "title": "Trends 2027: Vorsprung durch Governance - it-daily.net",
       "excerpt": "Trends 2027: Vorsprung durch Governance it-daily.net",
@@ -339,19 +349,9 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWDQxemhkaHRqdGdLOUZPUFF3RkVTMVd0aU9ueE44c3Z1djY3cHpnVGtBbzFoN1NqNU1uZGNacG5KcE5NZXA4WFVNa0ZYXzlWNjJUdjdGNGpqNkJ2dEdILUJsSFVSMFZybTBKZU52WU83dGsyNFVValFxVDIwM24taUdNaDQzdmtLYmFSUg?oc=5",
       "published": "2026-11-18T16:04:00+00:00",
       "category": "Firmen"
-    },
-    {
-      "id": "00cd893bf9d183c4",
-      "title": "\"Das Energiesystem der Zukunft braucht Daten\" - energate messenger Schweiz",
-      "excerpt": "\"Das Energiesystem der Zukunft braucht Daten\" energate messenger Schweiz",
-      "summary": "\"Das Energiesystem der Zukunft braucht Daten\" energate messenger Schweiz",
-      "source": "energate messenger Schweiz",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV3d5Nm5KYUpyRWRJRzRMYzc0eG1EejY0SUpybGFxWlBmV1dfUDh6UHJOaWRIX0k1dTlvQXpIZDBHY2RDSWdNRUpXclBneW1OTzhhYmw5VlJLVFQ5QmRjSFM2OWZ1VC00MzFfcWt4dXJNWFNJc3dVTTVLV0RYSnFOWmhkN015LUZnaTIyYzA1TnNJaDA?oc=5",
-      "published": "2026-11-17T12:34:00+00:00",
-      "category": "Trends"
     }
   ],
-  "updatedAt": "2026-11-23T09:34:36.087142+00:00",
+  "updatedAt": "2026-11-23T11:15:41.208207+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
