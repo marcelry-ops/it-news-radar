@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "22cf533ddeab4744",
+      "title": "Hermes Enterprise: Nous Research bringt KI-Agenten direkt in Microsoft Teams - BornCity",
+      "excerpt": "Hermes Enterprise: Nous Research bringt KI-Agenten direkt in Microsoft Teams BornCity",
+      "summary": "Hermes Enterprise: Nous Research bringt KI-Agenten direkt in Microsoft Teams BornCity",
+      "source": "BornCity / Microsoft To Do",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcWRzYkV6eGk0T1llNG1xOWlIcDF3NVg5d2Y3QzI4NllxSXozYWRLUHZHV0xTRGlYdWZCRlRkR1owWDJYQkt1Z3k2anhBRFNjb3BfcXczWDN4YndLT0YtY0pSVm5rbVNDeDF4VjRqSi1FRWtpNUlRZGwxbnQ2UU5HbmFBRGpvdktBSTc2c19qeWNpNE1lNVZUZmZMeWloSThOMjEzLQ?oc=5",
+      "published": "2026-11-23T18:19:04+00:00",
+      "category": "Microsoft 365"
+    },
+    {
       "id": "e5ffd55eceb877c7",
       "title": "AWS Trainium: Amazon kauft KI-Chip-Optimierung von Decart AI für 7,5 Milliarden US-Dollar",
       "excerpt": "Statt einer klassischen Firmenübernahme holt sich Amazon die Kern-Software und rund 100 Entwickler des KI-Startups Decart AI ins Haus. ( Amazon , Cuda )",
@@ -11,16 +21,6 @@
       "category": "Cloud"
     },
     {
-      "id": "e4056e07dbc00292",
-      "title": "KI-Agenten sicher autorisieren: Wie Unternehmen Befugnisse begrenzen und Handlungen nachvollziehbar machen - it-daily.net",
-      "excerpt": "KI-Agenten sicher autorisieren: Wie Unternehmen Befugnisse begrenzen und Handlungen nachvollziehbar machen it-daily.net",
-      "summary": "KI-Agenten sicher autorisieren: Wie Unternehmen Befugnisse begrenzen und Handlungen nachvollziehbar machen it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDctX3M4UnRnNGtPS25Xa29OMEhpakhEalg4dHhlbUlyZ1VKamdvemg1dmhqV1pCTXVCYUVoeExrV3RvcUhXc3FJV0sxTUlXTGQ0dnVKX0FUcnJfWG9mMExQNHVNb0xNa1phNHRRbzdDOW0tR2FHV2xyV3JFZzIzV0hteURhbUdab2FZWQ?oc=5",
-      "published": "2026-11-23T17:33:46+00:00",
-      "category": "Firmen"
-    },
-    {
       "id": "6e489559cfaf96ee",
       "title": "NameDrop: US-Start-up verklagt Apple in Indien auf 160 Millionen Dollar",
       "excerpt": "Die Firma hinter der App StayTouch sieht durch Apples NameDrop ein indisches Patent verletzt. Sie fordert Schadenersatz und will die Funktion stoppen lassen.",
@@ -29,16 +29,6 @@
       "url": "https://www.heise.de/news/NameDrop-US-Start-up-verklagt-Apple-in-Indien-auf-160-Millionen-Dollar-11535196.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "published": "2026-11-23T17:25:00+00:00",
       "category": "Firmen"
-    },
-    {
-      "id": "9624aa60b122d1e4",
-      "title": "Levenza-KI-Agenten: Assistenten starten weltweit in Teams, Slack und Outlook - BornCity",
-      "excerpt": "Levenza-KI-Agenten: Assistenten starten weltweit in Teams, Slack und Outlook BornCity",
-      "summary": "Levenza-KI-Agenten: Assistenten starten weltweit in Teams, Slack und Outlook BornCity",
-      "source": "BornCity / Microsoft To Do",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTDViTVV4T2lKcEVMd25wYlRiVW0wS2MtZ0xTVVhJZVlPc21hUVRIbGxvdFhkYm50NTJIVFhkdkNpSWdtTGRERV9VRVpoeUc4NURRTmV5eFhuRExsTnJObzhfRzdRLXJLT1Bkb3hzSjZPUzdYUUpVN2Rhak9ZQ1kyV1NXcEVFX3p5cHRTQnRqRTI0U2FaM3owYm9nU1hVaGFOQlFJ?oc=5",
-      "published": "2026-11-23T16:49:06+00:00",
-      "category": "Microsoft 365"
     },
     {
       "id": "fc8c2c649c9ea353",
@@ -151,6 +141,16 @@
       "category": "Security"
     },
     {
+      "id": "912b778c07c60f33",
+      "title": "BSI: IT-Sicherheitslage in Deutschland angespannt bis kritisch",
+      "excerpt": "BSI: IT-Sicherheitslage in Deutschland angespannt bis kritisch B2B Cyber Security",
+      "summary": "BSI: IT-Sicherheitslage in Deutschland angespannt bis kritisch B2B Cyber Security",
+      "source": "B2B Cyber Security",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYUw3d0NSUnJFNndkdk1IQzdvU3h5VDVEQVpaVllBdl9FaXZLQnJfZEhGY2xvZ3ZHYV9ZUHJHeEVpS0locXVkcGZhZEt3ejJPN0hEdmtEWERrS1BkMklVdXc2aE1aLTZwa0Q0eW5ZWlg5cTVqTzEzVVBuNzBDby13ZHpzZmdPb0RZb2NPUjhCemtPaXFFak5F?oc=5",
+      "published": "2026-11-23T11:44:46+00:00",
+      "category": "Security"
+    },
+    {
       "id": "d5bd4c00e2201a60",
       "title": "KI-Governance: IEEE 2863 setzt 17 Prinzipien für Unternehmen fest - BornCity",
       "excerpt": "KI-Governance: IEEE 2863 setzt 17 Prinzipien für Unternehmen fest BornCity",
@@ -211,14 +211,14 @@
       "category": "Cloud"
     },
     {
-      "id": "19652f921f14491f",
-      "title": "Zero Day bei Windows: Sprachausgabe umgeht Sperrbildschirm - it-daily.net",
-      "excerpt": "Zero Day bei Windows: Sprachausgabe umgeht Sperrbildschirm it-daily.net",
-      "summary": "Zero Day bei Windows: Sprachausgabe umgeht Sperrbildschirm it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VMUVYTlhHdjNpS2Y1X1hxODE5ekFDcU93THlfQjhuTnNMZ0IxQWRGNG9wdGRIOEFCOVJpalFub0tYc2JfYkdPUG9xbFdOX2R5QXhsZmhTbGJBaUU4OXI1ZFlRb0JQRlBXcHZCSjg5LVplZkFORHZlNW1KRQ?oc=5",
-      "published": "2026-11-23T09:09:00+00:00",
-      "category": "Security"
+      "id": "4ac2f942ae3ee867",
+      "title": "Bund beauftragt Elca mit Deepfake-Erkennung für die E-ID",
+      "excerpt": "Der Bund will die Identitätsprüfung für die Schweizer E-ID gegen KI-generierte Videos absichern. Den Auftrag für ein zusätzliches Softwaremodul über 4,44 Millionen Franken vergibt er freihändig an Elca. Das Unternehmen liefert bereits das zugrunde liegende Prüfsystem.",
+      "summary": "Der Bund will die Identitätsprüfung für die Schweizer E-ID gegen KI-generierte Videos absichern. Den Auftrag für ein zusätzliches Softwaremodul über 4,44 Millionen Franken vergibt er freihändig an Elca. Das Unternehmen liefert bereits das zugrunde liegende Prü",
+      "source": "Netzwoche",
+      "url": "https://www.netzwoche.ch/news/2026-11-23/bund-beauftragt-elca-mit-deepfake-erkennung-fuer-die-e-id",
+      "published": "2026-11-23T08:53:32+00:00",
+      "category": "Firmen"
     },
     {
       "id": "b6c1346d9938306d",
@@ -251,26 +251,6 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "219b00f443235a58",
-      "title": "WhatsApp-Backups: Eigene Cloud startet mit 2 GB kostenlosem Speicher - BornCity",
-      "excerpt": "WhatsApp-Backups: Eigene Cloud startet mit 2 GB kostenlosem Speicher BornCity",
-      "summary": "WhatsApp-Backups: Eigene Cloud startet mit 2 GB kostenlosem Speicher BornCity",
-      "source": "BornCity / Microsoft To Do",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ05jVEV5TjNOUWo2QmVJM3Z0SEk0cVVUbGtGZDl6Uzg4dzV3NjZHUXBoRDN6a2oyajEyamcxRkZGdm5EWURCT0tZWjZOak5nazNoSEJ6cThiNDhHNHE0eWFZemVtTUJIb09Fcnp3bk52YVN6LTFOODV4YlFQeU5NVW1GblBUN0s1ZTVvaWlaYmdaYXZsMlhGd293?oc=5",
-      "published": "2026-11-23T04:47:05+00:00",
-      "category": "Cloud"
-    },
-    {
-      "id": "24e193167274acb8",
-      "title": "Sechs Trends, die laut Gartner das Software Engineering jetzt prägen - it-daily.net",
-      "excerpt": "Sechs Trends, die laut Gartner das Software Engineering jetzt prägen it-daily.net",
-      "summary": "Sechs Trends, die laut Gartner das Software Engineering jetzt prägen it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRWI5WFVUSUhWMTVGNGdhRk1wWExPUnlkMjhIR1JzNjFmQkpTTmZfblhCVHE1OExaTGxaZEVubTdlZXBVcVk5Zjkxb1N3bjg5c2ROY1pDcC0xbzMwMS11MGUzSWljTnlkcHMwd1c2bTNvS1QwcXhBOEhEcTdWYzV5Z1pYQU9HTkY2UGF4bUtB?oc=5",
-      "published": "2026-11-23T04:00:00+00:00",
-      "category": "Trends"
-    },
-    {
       "id": "a92e9b9368b7d647",
       "title": "GhostScript Schwachstelle Upload2Shell (CVE-2026-125396) gefährdet Apps und Webseiten - BornCity",
       "excerpt": "GhostScript Schwachstelle Upload2Shell (CVE-2026-125396) gefährdet Apps und Webseiten BornCity",
@@ -298,6 +278,16 @@
       "source": "BornCity",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMklBQUQ2SklqVWVJUEpmWDQ4clpyWWYwX3NoYXZZakRMWnVhSGNIT01SN3dVS3pXNE0taV9jM1k0clhmenVTei1oc2pJZXJkdU9XemgxNXV1aV96TkRzMk5kaGh0dVNrMlh5RDhQMERLV0Y5aGNpZUZyYWpoTDYxeDR1OXhHaHBlaUVueEJqODg2NjgyS3FQeEFEQkoyNWlHNTlnRVNhOEo3aU1EckhObGt0Vi1LQQ?oc=5",
       "published": "2026-11-22T11:26:15+00:00",
+      "category": "Cloud"
+    },
+    {
+      "id": "ee88db8b22361297",
+      "title": "Gehirn in die Cloud laden: 6 Wege, wie Forscher unser Bewusstsein retten wollen - t3n",
+      "excerpt": "Gehirn in die Cloud laden: 6 Wege, wie Forscher unser Bewusstsein retten wollen t3n",
+      "summary": "Gehirn in die Cloud laden: 6 Wege, wie Forscher unser Bewusstsein retten wollen t3n",
+      "source": "t3n",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxMUFxcHVNTDRnT3dEU0h0R3dXdVRyYUZQUWM1ZWRPTDZIU1FidzB5anVNYUpTWUt2VlJPSXlZOGItUzY0VFpmWC1nRkYyakpBVzRlQlh4b1U3SkM2aFRJYnhSTVpmXzJUa1NPOVNBYlVoNGlfZmJfZg?oc=5",
+      "published": "2026-11-22T09:50:00+00:00",
       "category": "Cloud"
     },
     {
@@ -349,9 +339,19 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTklka3k4Snp4bi1aaUhDT29rUGpOOVQyc0FGVkNoYm5majRLUEYzdDdFUDdnd3dseTVKMHdhUTJWZzNVUW45S3JOcG44YWdYeWZfdm5jR2dnVTZPMFJiRUNHUjA5NkdPajVobXpESUxQQmxZdnhLTXU3eTdlSlVYaVc5YXVDV1gtU0dMYjNOUWFtSXBmdUlUeEVWY3Fldw?oc=5",
       "published": "2026-11-20T15:14:42+00:00",
       "category": "Trends"
+    },
+    {
+      "id": "00cd893bf9d183c4",
+      "title": "\"Das Energiesystem der Zukunft braucht Daten\" - energate messenger Schweiz",
+      "excerpt": "\"Das Energiesystem der Zukunft braucht Daten\" energate messenger Schweiz",
+      "summary": "\"Das Energiesystem der Zukunft braucht Daten\" energate messenger Schweiz",
+      "source": "energate messenger Schweiz",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV3d5Nm5KYUpyRWRJRzRMYzc0eG1EejY0SUpybGFxWlBmV1dfUDh6UHJOaWRIX0k1dTlvQXpIZDBHY2RDSWdNRUpXclBneW1OTzhhYmw5VlJLVFQ5QmRjSFM2OWZ1VC00MzFfcWt4dXJNWFNJc3dVTTVLV0RYSnFOWmhkN015LUZnaTIyYzA1TnNJaDA?oc=5",
+      "published": "2026-11-17T12:34:00+00:00",
+      "category": "Trends"
     }
   ],
-  "updatedAt": "2026-11-23T18:09:20.228468+00:00",
+  "updatedAt": "2026-11-23T19:12:36.703811+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
