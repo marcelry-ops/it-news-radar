@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "id": "70cbe49446144ac9",
+      "title": "Armee-Software sagt Satellitenüberflüge vorher",
+      "excerpt": "Mit einer eigens entwickelten Webanwendung will die Armee künftig vorhersagen können, wann ein Gebiet von Satelliten erfasst wird. So sollen Truppen vor Angriffen geschützt werden.",
+      "summary": "Mit einer eigens entwickelten Webanwendung will die Armee künftig vorhersagen können, wann ein Gebiet von Satelliten erfasst wird. So sollen Truppen vor Angriffen geschützt werden.",
+      "source": "Inside IT",
+      "url": "https://www.inside-it.ch/armee-software-sagt-satellitenueberfluege-vorher-20261123",
+      "published": "2026-11-23T12:09:21+00:00",
+      "category": "IT Schweiz"
+    },
+    {
+      "id": "301ab4dba4cbf89f",
+      "title": "Daten abgeflossen: Microsoft gesteht Datenpanne bei Entra Connect Health",
+      "excerpt": "Angreifer haben über eine Sicherheitslücke bei Microsoft Entra Connect Health Daten von On-Premises-Systemen abgegriffen. Betroffene werden informiert. ( Sicherheitslücke , Microsoft )",
+      "summary": "Angreifer haben über eine Sicherheitslücke bei Microsoft Entra Connect Health Daten von On-Premises-Systemen abgegriffen. Betroffene werden informiert. ( Sicherheitslücke , Microsoft )",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/daten-abgeflossen-microsoft-gesteht-datenpanne-bei-entra-connect-health-2611-215534.html",
+      "published": "2026-11-23T11:56:01+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "e4056e07dbc00292",
+      "title": "KI-Agenten sicher autorisieren: Wie Unternehmen Befugnisse begrenzen und Handlungen nachvollziehbar machen - it-daily.net",
+      "excerpt": "KI-Agenten sicher autorisieren: Wie Unternehmen Befugnisse begrenzen und Handlungen nachvollziehbar machen it-daily.net",
+      "summary": "KI-Agenten sicher autorisieren: Wie Unternehmen Befugnisse begrenzen und Handlungen nachvollziehbar machen it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDctX3M4UnRnNGtPS25Xa29OMEhpakhEalg4dHhlbUlyZ1VKamdvemg1dmhqV1pCTXVCYUVoeExrV3RvcUhXc3FJV0sxTUlXTGQ0dnVKX0FUcnJfWG9mMExQNHVNb0xNa1phNHRRbzdDOW0tR2FHV2xyV3JFZzIzV0hteURhbUdab2FZWQ?oc=5",
+      "published": "2026-11-23T11:33:46+00:00",
+      "category": "Firmen"
+    },
+    {
+      "id": "f87aca36b0f52010",
+      "title": "Entra Connect Health: Lücke legte Admin-Adressen offen - it-daily.net",
+      "excerpt": "Entra Connect Health: Lücke legte Admin-Adressen offen it-daily.net",
+      "summary": "Entra Connect Health: Lücke legte Admin-Adressen offen it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnVWM3SmZZc3FvT0gwZjJxR184QUJkejJRM2J5OTlqTG9DamZOdkdIUGlLT2pKMW1ra2FrUHdDU1dCMFJTc0E4UGlOREkxaFQwSTVsNmdIM3VTSk9BLU1acHhrck1rQzBNbWpwMUIzbw?oc=5",
+      "published": "2026-11-23T11:16:13+00:00",
+      "category": "Microsoft 365"
+    },
+    {
       "id": "4b01dff127f91010",
       "title": "Robotik-Startup Coprod erhält 6 Millionen",
       "excerpt": "Die Coprod-Plattform soll die Entwicklung spezialisierter Roboter vereinfachen. Während die Entwicklung in Lausanne geschehen soll, ist die Fertigung in China und den USA geplant.",
@@ -11,10 +51,20 @@
       "category": "IT Schweiz"
     },
     {
+      "id": "962bf9e2dbaf4de1",
+      "title": "WhatsApp für Android, CVE-2026-23871 wird aktiv ausgenutzt und legt die IP-Adresse offen",
+      "excerpt": "WhatsApp für Android, CVE-2026-23871 wird aktiv ausgenutzt und legt die IP-Adresse offen Meteora Web",
+      "summary": "WhatsApp für Android, CVE-2026-23871 wird aktiv ausgenutzt und legt die IP-Adresse offen Meteora Web",
+      "source": "Meteora Web",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON3RLVS1vemZQajNIMklEVWdEa0Z2MFoxVGRPWTBhN0l3UlNPdUZvLVY0R3hJV0RvOW9SeXp1cnRVTUdoX09rS0RiX1dlcks0WFk0TXJxNmgyc3FNWVNQX0FxSnRkeDZOTXdsdF9Vb3B6dVowdkJOLWNSQmQwZWFqclo3LW5GLTFORzVaQ2JkWkxLZ0k?oc=5",
+      "published": "2026-11-23T10:34:40+00:00",
+      "category": "Security"
+    },
+    {
       "id": "0fd1708e5fc3ec11",
       "title": "So hilft KI beim Onlineshopping - aber auch beim Betrug",
-      "excerpt": "KI wird in der Schweiz vermehrt zur Einkaufshilfe. Dabei finden KI-Agenten Schnäppchen, erkennen unseriöse Angebote oder ermöglichen eine virtuelle Anprobe von Produkten. Auch Händler nutzen KI, um etwa ihre Shops anzupassen. Konsumentenschützer warnen jedoch vor fehlerhaften KI-Empfehlungen aufgrund gefälschter Werbeanzeigen und Fake-Webshops.",
-      "summary": "KI wird in der Schweiz vermehrt zur Einkaufshilfe. Dabei finden KI-Agenten Schnäppchen, erkennen unseriöse Angebote oder ermöglichen eine virtuelle Anprobe von Produkten. Auch Händler nutzen KI, um etwa ihre Shops anzupassen. Konsumentenschützer warnen jedoch ",
+      "excerpt": "KI wird in der Schweiz zunehmend zur Einkaufshilfe. KI-Agenten finden Schnäppchen, erkennen unseriöse Angebote oder ermöglichen virtuelle Anproben. Händler nutzen KI, um ihre Shops anzupassen. Konsumentenschützer warnen jedoch vor fehlerhaften Vorschlägen, gefälschten KI-Werbungen und Fake-Shops.",
+      "summary": "KI wird in der Schweiz zunehmend zur Einkaufshilfe. KI-Agenten finden Schnäppchen, erkennen unseriöse Angebote oder ermöglichen virtuelle Anproben. Händler nutzen KI, um ihre Shops anzupassen. Konsumentenschützer warnen jedoch vor fehlerhaften Vorschlägen, gef",
       "source": "Netzwoche",
       "url": "https://www.netzwoche.ch/news/2026-11-23/so-hilft-ki-beim-onlineshopping-aber-auch-beim-betrug",
       "published": "2026-11-23T10:20:33+00:00",
@@ -68,7 +118,7 @@
       "source": "heise online",
       "url": "https://www.heise.de/news/Nach-Cyberangriff-Hugendubel-Tolino-Cloud-und-eBook-de-gestoert-11534213.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "published": "2026-11-23T09:49:00+00:00",
-      "category": "Security"
+      "category": "Cloud"
     },
     {
       "id": "19652f921f14491f",
@@ -78,16 +128,6 @@
       "source": "IT-Daily",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VMUVYTlhHdjNpS2Y1X1hxODE5ekFDcU93THlfQjhuTnNMZ0IxQWRGNG9wdGRIOEFCOVJpalFub0tYc2JfYkdPUG9xbFdOX2R5QXhsZmhTbGJBaUU4OXI1ZFlRb0JQRlBXcHZCSjg5LVplZkFORHZlNW1KRQ?oc=5",
       "published": "2026-11-23T09:09:00+00:00",
-      "category": "Security"
-    },
-    {
-      "id": "72547660a52447c5",
-      "title": "heise-Angebot: Weiterbildung: IT-Sicherheit in Produktionsanlagen von der Hochschule Hannover",
-      "excerpt": "Der Kurs vermittelt Grundlagen der IT- und OT-Security sowie Kenntnisse zu geltenden Standards und Normen für ein sicheres Anlagendesign.",
-      "summary": "Der Kurs vermittelt Grundlagen der IT- und OT-Security sowie Kenntnisse zu geltenden Standards und Normen für ein sicheres Anlagendesign.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Weiterbildung-IT-Sicherheit-in-Produktionsanlagen-von-der-Hochschule-Hannover-11515706.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published": "2026-11-23T09:00:00+00:00",
       "category": "Security"
     },
     {
@@ -119,16 +159,6 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYUw3d0NSUnJFNndkdk1IQzdvU3h5VDVEQVpaVllBdl9FaXZLQnJfZEhGY2xvZ3ZHYV9ZUHJHeEVpS0locXVkcGZhZEt3ejJPN0hEdmtEWERrS1BkMklVdXc2aE1aLTZwa0Q0eW5ZWlg5cTVqTzEzVVBuNzBDby13ZHpzZmdPb0RZb2NPUjhCemtPaXFFak5F?oc=5",
       "published": "2026-11-23T07:19:36+00:00",
       "category": "Security"
-    },
-    {
-      "id": "85a56d4fbf975bdb",
-      "title": "Leistungsfähige KI – ohne Kompromisse bei der Datenhoheit",
-      "excerpt": "naroa.ai und cloud37 automatisieren das Finden und Beantworten von Ausschreibungen mit lokalen KI-Modellen und kontrollierter Datenverarbeitung. naroa.bids automatisiert die Bearbeitung von Ausschreibungen. naroa.tenders identifiziert und bewertet passende öffentliche Ausschreibungen. cloud37 ist exklusiver Beratungs- und Implementierungspartner für beide Lösungen.",
-      "summary": "naroa.ai und cloud37 automatisieren das Finden und Beantworten von Ausschreibungen mit lokalen KI-Modellen und kontrollierter Datenverarbeitung. naroa.bids automatisiert die Bearbeitung von Ausschreibungen. naroa.tenders identifiziert und bewertet passende öff",
-      "source": "Netzwoche",
-      "url": "https://www.netzwoche.ch/news/2026-11-23/leistungsfaehige-ki-ohne-kompromisse-bei-der-datenhoheit",
-      "published": "2026-11-23T06:00:00+00:00",
-      "category": "IT Schweiz"
     },
     {
       "id": "b5a5510cf36a8571",
@@ -261,16 +291,6 @@
       "category": "Trends"
     },
     {
-      "id": "725c28220385ba98",
-      "title": "Sonoff Core im Test: Günstiges Thermostat für Fußbodenheizungen ohne Cloud-Zwang",
-      "excerpt": "Lokale Zeitpläne, Radar-Präsenzsensor und potenzialfreier Kontakt: Wie sich das nur 40 Euro teure Sonoff Core an einer wassergeführten Fußbodenheizung schlägt.",
-      "summary": "Lokale Zeitpläne, Radar-Präsenzsensor und potenzialfreier Kontakt: Wie sich das nur 40 Euro teure Sonoff Core an einer wassergeführten Fußbodenheizung schlägt.",
-      "source": "heise online",
-      "url": "https://www.heise.de/bestenlisten/testbericht/sonoff-core-im-test-guenstiges-thermostat-fuer-fussbodenheizungen-ohne-cloud-zwang/22dck5w?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published": "2026-11-20T15:00:00+00:00",
-      "category": "Cloud"
-    },
-    {
       "id": "54e6d0f6e6f2b4e5",
       "title": "Königspinguine können nicht immer königlich sein - IT-Markt",
       "excerpt": "Königspinguine können nicht immer königlich sein IT-Markt",
@@ -321,16 +341,6 @@
       "category": "Firmen"
     },
     {
-      "id": "ae16ad384fd78c94",
-      "title": "Microsoft Copilot: Word, Excel und PowerPoint jetzt direkt im KI-Chat",
-      "excerpt": "Microsoft Copilot: Word, Excel und PowerPoint jetzt direkt im KI-Chat BornCity",
-      "summary": "Microsoft Copilot: Word, Excel und PowerPoint jetzt direkt im KI-Chat BornCity",
-      "source": "BornCity",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMU5rdGFFQW5JcUl2TW4tRmRnNEFJMkR5ckdmbjlsNVh4dEpiYmxtRkJLc0N4dmF5SExoU2l3WlZIdWRIUTZHVEpLZWRtdXRjbWc3dHhGcmZfMUdjS2FtaTIxajIyVjNLd2NhV3VzOS1OWURIMjczandsalZsTnBhc2RNZEFrQTJvdWpidUxuVGZWZTZzbUVsbkt3?oc=5",
-      "published": "2026-11-19T20:49:05+00:00",
-      "category": "Microsoft 365"
-    },
-    {
       "id": "086af95badb92bbd",
       "title": "Trends 2027: Vorsprung durch Governance - it-daily.net",
       "excerpt": "Trends 2027: Vorsprung durch Governance it-daily.net",
@@ -339,19 +349,9 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lVnRkTURlNkRfQ18zWGFnLXMtWEs1d09EVW54TFFFckE3NTJUbXVZVGNVMnVfc1ZfTzE5ZFhtUl9xNjVheTJ2ci0weTM3QUpqSWcwUl9sU0pubDQ2MFNQYjhxZ082ZjdTeFFJcGw0eVp2V1dYOFFEYmJBMEU3dmc?oc=5",
       "published": "2026-11-19T04:08:28+00:00",
       "category": "Trends"
-    },
-    {
-      "id": "23da7ac421f950e4",
-      "title": "Bronschhofer IT-Unternehmen expandiert nach Zürich",
-      "excerpt": "Bronschhofer IT-Unternehmen expandiert nach Zürich Wil24",
-      "summary": "Bronschhofer IT-Unternehmen expandiert nach Zürich Wil24",
-      "source": "Wil24",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWDQxemhkaHRqdGdLOUZPUFF3RkVTMVd0aU9ueE44c3Z1djY3cHpnVGtBbzFoN1NqNU1uZGNacG5KcE5NZXA4WFVNa0ZYXzlWNjJUdjdGNGpqNkJ2dEdILUJsSFVSMFZybTBKZU52WU83dGsyNFVValFxVDIwM24taUdNaDQzdmtLYmFSUg?oc=5",
-      "published": "2026-11-18T16:04:00+00:00",
-      "category": "Firmen"
     }
   ],
-  "updatedAt": "2026-11-23T11:15:41.208207+00:00",
+  "updatedAt": "2026-11-23T12:12:36.199620+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
