@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": "nvd",
+      "name": "NVD",
+      "type": "nvd",
+      "enabled": true
+    },
+    {
+      "id": "cveorg",
+      "name": "CVE.org",
+      "type": "cveorg",
+      "enabled": true
+    },
+    {
+      "id": "euvd",
+      "name": "ENISA EUVD",
+      "type": "euvd",
+      "enabled": true
+    },
+    {
+      "id": "cvenow",
+      "name": "cve.now",
+      "type": "cvenow",
+      "enabled": true
+    }
+  ]
+}

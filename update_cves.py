@@ -76,6 +76,47 @@ def load_priority_config(path=CONFIG_FILE):
 
 PRIORITY_TERMS, HISTORICAL_SEARCH_TERMS = load_priority_config()
 
+# Konfigurierbare Datenquellen: nur fest definierte Adapter und sichere
+# Herstellerrecherche via Google News. Keine beliebigen Server-URL-Aufrufe.
+SOURCES_FILE = Path(__file__).with_name('cve_sources.json')
+SOURCE_TYPES = {'nvd', 'cveorg', 'euvd', 'cvenow', 'vendor_search'}
+
+def load_sources(path=SOURCES_FILE):
+    data = json.loads(Path(path).read_text(encoding='utf-8'))
+    rows = data.get('sources')
+    if not isinstance(rows, list) or not rows or len(rows) > 100:
+        raise ValueError('cve_sources.json: ungueltige Quellenliste')
+    seen, validated = set(), []
+    for row in rows:
+        if not isinstance(row, dict):
+            raise ValueError('Ungueltiger Quelleneintrag')
+        ident = row.get('id')
+        typ = row.get('type')
+        name = row.get('name')
+        if not isinstance(ident, str) or not re.fullmatch(r'[a-z0-9_-]{2,50}', ident) or ident in seen:
+            raise ValueError('Doppelte/ungueltige Quellen-ID')
+        if typ not in SOURCE_TYPES or not isinstance(name, str) or not name.strip() or len(name) > 90:
+            raise ValueError('Unbekannter Adapter oder Quellenname: ' + ident)
+        if not isinstance(row.get('enabled'), bool):
+            raise ValueError('enabled muss true/false sein: ' + ident)
+        if typ == 'vendor_search' and not valid_advisory_domain(row.get('domain', '')):
+            raise ValueError('Ungueltige Domain: ' + ident)
+        if typ != 'vendor_search' and ident != {'nvd':'nvd','cveorg':'cveorg','euvd':'euvd','cvenow':'cvenow'}[typ]:
+            raise ValueError('Systemadapter haben feste IDs: ' + typ)
+        seen.add(ident)
+        validated.append(row)
+    return validated
+
+def active_sources(rows):
+    return {x['type'] for x in rows if x['enabled']}
+
+def discover_extra_sources(rows, fetch=None):
+    # Ausschliesslich Google News wird abgerufen, die Herstellerdomain ist ein Suchfilter.
+    vendor = [{'name': x['name'], 'advisoryDomain': x['domain']} for x in rows
+              if x['enabled'] and x['type'] == 'vendor_search']
+    return discover_official_cve_ids({'products': vendor}, fetch=fetch) if vendor else ({}, [])
+
+
 # Hersteller-/Produktdomains zur Erkennung offizieller Advisories im News-Suchindex.
 # Kein Hersteller bietet zwingend einen standardisierten, oeffentlichen CVE-Feed.
 # Die Domains sind Kandidaten fuer die Recherche, keine Zusicherung der Abdeckung.
@@ -467,6 +508,10 @@ def rank(items):
 
 
 def build():
+    source_rows = load_sources()
+    enabled_sources = active_sources(source_rows)
+    if not enabled_sources.intersection({'nvd', 'cveorg', 'euvd', 'cvenow'}):
+        raise RuntimeError('Mindestens eine strukturierte CVE-Datenquelle muss aktiv sein')
     now = dt.datetime.now(UTC)
     start = now - dt.timedelta(days=DAYS)
     qs = {'pubStartDate': start.strftime('%Y-%m-%dT%H:%M:%S.000'),
@@ -476,7 +521,7 @@ def build():
     total = None
     start_index = 0
     try:
-        while start_index < MAX_ITEMS:
+        while 'nvd' in enabled_sources and start_index < MAX_ITEMS:
             page = get_json(NVD + '?' + urllib.parse.urlencode({**qs, 'startIndex': start_index}))
             total = int(page.get('totalResults', 0))
             batch = page.get('vulnerabilities', [])
@@ -495,8 +540,8 @@ def build():
         warnings.append('NVD nicht vollständig erreichbar: ' + str(exc)[:120])
 
     for label, url, parser in (
-        ('ENISA EUVD', EUVD + '?page=0&size=100', euvd_candidates),
-        ('cve.now', NOW, cvenow_candidates),
+        *((('ENISA EUVD', EUVD + '?page=0&size=100', euvd_candidates),) if 'euvd' in enabled_sources else ()),
+        *((('cve.now', NOW, cvenow_candidates),) if 'cvenow' in enabled_sources else ()),
     ):
         try:
             for item in parser(get_json(url)):
@@ -509,7 +554,7 @@ def build():
 
     # Enrich a small selection of newest CVE entries using authoritative CVE.org records.
     # Keep requests bounded and do not block a successful NVD/EUVD result on failure.
-    for item in [x for x in rank(entries.values()) if x['id'].startswith('CVE-')][:20]:
+    for item in ([x for x in rank(entries.values()) if x['id'].startswith('CVE-')][:20] if 'cveorg' in enabled_sources else []):
         try:
             cveorg_enrich(item)
         except Exception:
@@ -518,7 +563,7 @@ def build():
     # Explicit official lookups for historically missed high-impact vendor CVEs.
     # Validate the CVE ID and published state, then accept CNA CVSS >= 9.
     targeted_status = {}
-    for cid in TARGETED_CVE_IDS:
+    for cid in (TARGETED_CVE_IDS if 'cveorg' in enabled_sources else []):
         try:
             official = lookup_official_cve(cid)
             if official is None:
@@ -538,7 +583,7 @@ def build():
     # ausschliesslich ueber NVD validieren. Keine unbestaetigten Treffer anzeigen.
     vendor_hits = {}
     vendor_errors = []
-    if os.getenv('CVE_VENDOR_DISCOVERY', '1') == '1':
+    if 'nvd' in enabled_sources and os.getenv('CVE_VENDOR_DISCOVERY', '1') == '1':
         vendor_hits, vendor_errors = discover_official_cve_ids(
             json.loads(CONFIG_FILE.read_text(encoding='utf-8')))
     if vendor_errors:
@@ -558,7 +603,7 @@ def build():
                 if cve.get('id', '').upper() != cid or cve.get('vulnStatus') == 'Rejected':
                     continue
                 item = nvd_item(cve)
-                if item['score'] is None:
+                if item['score'] is None and 'cveorg' in enabled_sources:
                     try:
                         official = lookup_official_cve(cid)
                         if official is not None:
@@ -577,7 +622,7 @@ def build():
     # Historische NVD-Suche mit kontrollierter Pagination statt nur 20 Treffern.
     # Begrenzt, da ein Vollarchiv fuer 31 Hersteller sehr gross sein kann.
     historical_failed = 0
-    for term in HISTORICAL_SEARCH_TERMS:
+    for term in (HISTORICAL_SEARCH_TERMS if 'nvd' in enabled_sources else []):
         try:
             for page_no in range(HISTORICAL_PAGES_PER_TERM):
                 params = {'keywordSearch': term, 'resultsPerPage': HISTORICAL_RESULTS_PER_TERM,
@@ -627,7 +672,7 @@ def build():
         unique.update((x['id'], x) for x in pool)
     translate_descriptions(list(unique.values()))
     selected = global_top
-    for cid in TARGETED_CVE_IDS:
+    for cid in (TARGETED_CVE_IDS if 'cveorg' in enabled_sources else []):
         if targeted_status.get(cid) == 'eligible':
             targeted_status[cid] = ('in_global_top50' if any(x['id'] == cid for x in global_top)
                                     else 'in_product_pool' if any(x['id'] == cid for pool in product_pools.values() for x in pool)
@@ -635,7 +680,8 @@ def build():
     payload = {'updatedAt': iso(now.isoformat()), 'windowDays': DAYS,
                'totalResultsNvd': total, 'count': len(selected),
                'truncated': start_index < (total or 0),
-               'source': 'NVD, CVE.org, cve.now, ENISA EUVD',
+               'source': ', '.join(x['name'] for x in source_rows if x['enabled']),
+               'activeSources': [x['id'] for x in source_rows if x['enabled']],
                'sort': 'modified_desc_score_desc', 'priorityMode': 'prefer_relevant_in_top50', 'minimumCvss': MIN_CVSS,
                'warning': ' | '.join(warnings) if warnings else None,
                'items': selected, 'priorityItems': product_pools, 'priorityNames': list(PRIORITY_TERMS),
