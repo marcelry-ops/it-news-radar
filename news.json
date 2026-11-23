@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "id": "fc8c2c649c9ea353",
+      "title": "Update: Nvidia holt Jensen Huang zurück als CEO",
+      "excerpt": "Nach elf Tagen Absenz ernennt der Chip-Riese Nvidia seinen Mitgründer Jensen Huang erneut zum CEO des Unternehmens. Die Entscheidung erfolgt aufgrund von steigendem Druck von innerhalb und ausserhalb des Unternehmens.",
+      "summary": "Nach elf Tagen Absenz ernennt der Chip-Riese Nvidia seinen Mitgründer Jensen Huang erneut zum CEO des Unternehmens. Die Entscheidung erfolgt aufgrund von steigendem Druck von innerhalb und ausserhalb des Unternehmens.",
+      "source": "Netzwoche",
+      "url": "https://www.netzwoche.ch/news/2026-11-10/nvidia-ceo-steht-nach-affaere-mit-mutmasslicher-spionin-in-der-kritik",
+      "published": "2026-11-23T15:21:06+00:00",
+      "category": "IT Schweiz"
+    },
+    {
+      "id": "8295ff16d5fb241e",
+      "title": "Jensen Huang: Nvidia-Aktie springt nach Huang-Rückkehr um 30 Prozent",
+      "excerpt": "Die Rückkehr von Jensen Huang als Nvidias CEO verschafft der Aktie Aufwind: Zum Handelsstart steigt sie stark. ( Nvidia , KI )",
+      "summary": "Die Rückkehr von Jensen Huang als Nvidias CEO verschafft der Aktie Aufwind: Zum Handelsstart steigt sie stark. ( Nvidia , KI )",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/jensen-huang-nvidia-aktie-springt-nach-huang-rueckkehr-um-30-prozent-2611-215550.html",
+      "published": "2026-11-23T15:20:01+00:00",
+      "category": "Firmen"
+    },
+    {
       "id": "cafe2150ada18e0e",
       "title": "Künstliche Intelligenz: Wie KI-Assistenten verschlüsselte Messenger unsicher machen - Netzpolitik.org",
       "excerpt": "Künstliche Intelligenz: Wie KI-Assistenten verschlüsselte Messenger unsicher machen Netzpolitik.org",
@@ -71,13 +91,13 @@
       "category": "IT Schweiz"
     },
     {
-      "id": "370e743d1d7fbe01",
-      "title": "(g+) Intune, Defender und Co.: Warum teure Security-Lizenzen allein nicht schützen",
-      "excerpt": "Intune, Defender und Co. sind aktiviert - trotzdem können Sicherheitslücken bleiben. Entscheidend ist die richtige Konfiguration. Ein Ratgebertext von Aaron Siller ( Security , Windows Intune )",
-      "summary": "Intune, Defender und Co. sind aktiviert - trotzdem können Sicherheitslücken bleiben. Entscheidend ist die richtige Konfiguration. Ein Ratgebertext von Aaron Siller ( Security , Windows Intune )",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/intune-defender-und-co-warum-teure-security-lizenzen-allein-nicht-schuetzen-2611-215531.html",
-      "published": "2026-11-23T12:30:01+00:00",
+      "id": "fbc7816f508556a5",
+      "title": "Aktuelle Studie: Sophos State of Ransomware in Retail 2026",
+      "excerpt": "Aktuelle Studie: Sophos State of Ransomware in Retail 2026 All About SECURITY",
+      "summary": "Aktuelle Studie: Sophos State of Ransomware in Retail 2026 All About SECURITY",
+      "source": "All About SECURITY",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOckl4YTQtRzFtMEdXU1ZYYlJQaDFVd2J4SjlkbWNtRWxzM0NLRWhhYjR4ZU5tQm5NTUNzLVk4aU82MzJzQThMMEdQaDJyXzNSQ1puUE1SUnpxeEg1THFlUHVKbjlTMUlrUVg0eGlRM09RaGtaTWZ2aWRPZFE5ZmJyakliSHpRUTlMTjZHLWNLOV9KWUtXTTFN?oc=5",
+      "published": "2026-11-23T13:16:55+00:00",
       "category": "Security"
     },
     {
@@ -91,13 +111,13 @@
       "category": "IT Schweiz"
     },
     {
-      "id": "301ab4dba4cbf89f",
-      "title": "Daten abgeflossen: Microsoft gesteht Datenpanne bei Entra Connect Health",
-      "excerpt": "Angreifer haben über eine Sicherheitslücke bei Microsoft Entra Connect Health Daten von On-Premises-Systemen abgegriffen. Betroffene werden informiert. ( Sicherheitslücke , Microsoft )",
-      "summary": "Angreifer haben über eine Sicherheitslücke bei Microsoft Entra Connect Health Daten von On-Premises-Systemen abgegriffen. Betroffene werden informiert. ( Sicherheitslücke , Microsoft )",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/daten-abgeflossen-microsoft-gesteht-datenpanne-bei-entra-connect-health-2611-215534.html",
-      "published": "2026-11-23T11:56:01+00:00",
+      "id": "7ae4c01eb1149cee",
+      "title": "Ransomware-Schutz muss mit den Angriffen Schritt halten",
+      "excerpt": "Ransomware-Schutz muss mit den Angriffen Schritt halten B2B Cyber Security",
+      "summary": "Ransomware-Schutz muss mit den Angriffen Schritt halten B2B Cyber Security",
+      "source": "B2B Cyber Security",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSlBBcmx0RHd2S3BJUUNVd3kwaWRBRVlpdGtCcUp4Uk5SVTFCbE5kUU94UmpVTnlPV3VFTDA0OU0zZnYzLXZpN0pXSHhnS2tpUkJuYWw5UjJjZ0VaeEM3UnFHWGppTlY2c1hyckNDb2lxTjBxUnFkR3RQYzJXUDBiZzNkeWVWdlhDaDdsQ2otMA?oc=5",
+      "published": "2026-11-23T11:44:46+00:00",
       "category": "Security"
     },
     {
@@ -128,7 +148,7 @@
       "source": "Inside IT",
       "url": "https://www.inside-it.ch/robotik-startup-coprod-erhaelt-6-millionen-20261123",
       "published": "2026-11-23T11:00:04+00:00",
-      "category": "IT Schweiz"
+      "category": "Trends"
     },
     {
       "id": "962bf9e2dbaf4de1",
@@ -201,16 +221,6 @@
       "category": "IT Schweiz"
     },
     {
-      "id": "b3334a2282260aff",
-      "title": "Bechtle kaut mit HET IT weiter in Europa zu",
-      "excerpt": "Bechtle übernimmt mit HET IT einen niederländischen IT-Spezialisten für den Public Sector. Es ist bereits die vierte europäische Akquisition seit Anfang November.",
-      "summary": "Bechtle übernimmt mit HET IT einen niederländischen IT-Spezialisten für den Public Sector. Es ist bereits die vierte europäische Akquisition seit Anfang November.",
-      "source": "IT Reseller",
-      "url": "https://www.itreseller.ch/Artikel/106661/Bechtle_kaut_mit_HET_IT_weiter_in_Europa_zu.html",
-      "published": "2026-11-23T07:04:57+00:00",
-      "category": "Firmen"
-    },
-    {
       "id": "b5a5510cf36a8571",
       "title": "Lenovo vernetzt den modernen Arbeitsplatz - IT-Markt",
       "excerpt": "Lenovo vernetzt den modernen Arbeitsplatz IT-Markt",
@@ -251,6 +261,16 @@
       "category": "Security"
     },
     {
+      "id": "3c84e00fb0e41aa4",
+      "title": "KI-Automatisierung: Sieben Einsatzfelder für Unternehmen – mit menschlicher Freigabe - BornCity",
+      "excerpt": "KI-Automatisierung: Sieben Einsatzfelder für Unternehmen – mit menschlicher Freigabe BornCity",
+      "summary": "KI-Automatisierung: Sieben Einsatzfelder für Unternehmen – mit menschlicher Freigabe BornCity",
+      "source": "BornCity / Microsoft To Do",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVlJja3QyNGd6anZhdzZJTXoweWJ5ZUhibDlvdVl5R05PRHpRQlRQMWpLVGkyQnR3RlljRGlmcHFVblVZb0tiR2J5U0tTMmp0dU5UVUNwdjg2UnRUOFhmNEtjRDNMQ0JpZnExdm16RjQ1VDNSNU5kTnNHWkMtSGFvV19kLTFUZWNpdXJBeGFaWGdVOVVteWxLRnVnc3d0RDE4cHpNbkVHNWM0YmxDS1E?oc=5",
+      "published": "2026-11-22T18:06:06+00:00",
+      "category": "Trends"
+    },
+    {
       "id": "9b4971c080b66f67",
       "title": "GL.iNet-Sicherheitsvorfall bei Cloud-Fernverwaltung – Schadsoftware auf Routern - BornCity",
       "excerpt": "GL.iNet-Sicherheitsvorfall bei Cloud-Fernverwaltung – Schadsoftware auf Routern BornCity",
@@ -258,16 +278,6 @@
       "source": "BornCity",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMklBQUQ2SklqVWVJUEpmWDQ4clpyWWYwX3NoYXZZakRMWnVhSGNIT01SN3dVS3pXNE0taV9jM1k0clhmenVTei1oc2pJZXJkdU9XemgxNXV1aV96TkRzMk5kaGh0dVNrMlh5RDhQMERLV0Y5aGNpZUZyYWpoTDYxeDR1OXhHaHBlaUVueEJqODg2NjgyS3FQeEFEQkoyNWlHNTlnRVNhOEo3aU1EckhObGt0Vi1LQQ?oc=5",
       "published": "2026-11-22T11:26:15+00:00",
-      "category": "Cloud"
-    },
-    {
-      "id": "6a13cf05ba534692",
-      "title": "E-Books und Bücher: Hackerangriff legt Hugendubel-Homepage und Tolino-Cloud lahm",
-      "excerpt": "Hugendubel ist Opfer eines Hackerangriffs geworden und hat etliche Systeme vom Netz genommen. Das hat auch Auswirkungen auf E-Book-Reader. ( Cybercrime , Mobil )",
-      "summary": "Hugendubel ist Opfer eines Hackerangriffs geworden und hat etliche Systeme vom Netz genommen. Das hat auch Auswirkungen auf E-Book-Reader. ( Cybercrime , Mobil )",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/e-books-und-buecher-hackerangriff-legt-hugendubel-homepage-und-tolino-cloud-lahm-2611-215513.html",
-      "published": "2026-11-22T10:58:02+00:00",
       "category": "Cloud"
     },
     {
@@ -291,16 +301,6 @@
       "category": "Firmen"
     },
     {
-      "id": "351e922d5e2b374f",
-      "title": "Fünf EU-Staaten wollen Zentrum für KI in der Verteidigung gründen",
-      "excerpt": "Deutschland, Frankreich, Italien, Polen und Schweden wollen gemeinsam ein internationales Zentrum für künstliche Intelligenz in der Verteidigung gründen.",
-      "summary": "Deutschland, Frankreich, Italien, Polen und Schweden wollen gemeinsam ein internationales Zentrum für künstliche Intelligenz in der Verteidigung gründen.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Fuenf-EU-Staaten-wollen-Zentrum-fuer-KI-in-der-Verteidigung-gruenden-11533498.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published": "2026-11-21T14:48:00+00:00",
-      "category": "Trends"
-    },
-    {
       "id": "f61d26a4181fe567",
       "title": "Microsoft To Do: Apps werden am 30. Juni 2027 vollständig eingestellt - BornCity",
       "excerpt": "Microsoft To Do: Apps werden am 30. Juni 2027 vollständig eingestellt BornCity",
@@ -321,6 +321,16 @@
       "category": "Markt"
     },
     {
+      "id": "9f8722853ca30084",
+      "title": "Arrow lanciert Vertriebsportal für Cloud-Partner - IT-Markt",
+      "excerpt": "Arrow lanciert Vertriebsportal für Cloud-Partner IT-Markt",
+      "summary": "Arrow lanciert Vertriebsportal für Cloud-Partner IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUnptOFV1MmlXNXFoWXlDTURyZEQ5YlNja3dKN2VubHpvcWVoTTVMZ01nNHpHcGpxY2wtVFpkYkUxVU5zWHVxQlhIOGgzcGlCb2Q0WklMUVF5NWtMajB2MzNYTGZTRHRDcmJKTWVxWENqNWhQbF9FNklBWWNpdGMwUHp4VVZpdFh3QktvNHpSdGFJWU0?oc=5",
+      "published": "2026-11-20T15:21:31+00:00",
+      "category": "Cloud"
+    },
+    {
       "id": "a2e59dfd78ce1c90",
       "title": "Die Top 5 Technologie-Trends 2027 von Capgemini - Computerwoche",
       "excerpt": "Die Top 5 Technologie-Trends 2027 von Capgemini Computerwoche",
@@ -339,19 +349,9 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRlB1WmV3S2VsMFJrenMxLXRncmh1dDFqTTVFUmJrTDFsT2ZPbWhiWG5BTjBSRnJ6U25FTFliT0N0YzJWbXlTLUhna3plRUpDR1VuYkRvRjBUamJTaDlTd0lqeDNMWWRPVlQtZkpvQWJpMnV4QUNGQ0YzUUNfUWNRMnlLSzhycGRtNHRsZlBabFV1VVNmdnlhbHlzZXlxU1k?oc=5",
       "published": "2026-11-19T16:35:25+00:00",
       "category": "Microsoft 365"
-    },
-    {
-      "id": "086af95badb92bbd",
-      "title": "Trends 2027: Vorsprung durch Governance - it-daily.net",
-      "excerpt": "Trends 2027: Vorsprung durch Governance it-daily.net",
-      "summary": "Trends 2027: Vorsprung durch Governance it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lVnRkTURlNkRfQ18zWGFnLXMtWEs1d09EVW54TFFFckE3NTJUbXVZVGNVMnVfc1ZfTzE5ZFhtUl9xNjVheTJ2ci0weTM3QUpqSWcwUl9sU0pubDQ2MFNQYjhxZ082ZjdTeFFJcGw0eVp2V1dYOFFEYmJBMEU3dmc?oc=5",
-      "published": "2026-11-19T04:08:28+00:00",
-      "category": "Trends"
     }
   ],
-  "updatedAt": "2026-11-23T15:16:24.947953+00:00",
+  "updatedAt": "2026-11-23T16:23:30.465794+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -370,6 +370,6 @@
     "Markt": 5,
     "Firmen": 5
   },
-  "warning": "2 von 32 RSS-Quellen waren nicht erreichbar.",
+  "warning": "",
   "aiSummaries": false
 }
