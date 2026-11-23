@@ -24,6 +24,13 @@
       "name": "cve.now",
       "type": "cvenow",
       "enabled": true
+    },
+    {
+      "id": "vendor_k7ou8oe1",
+      "name": "Infoguard Labs",
+      "type": "vendor_search",
+      "enabled": true,
+      "domain": "labs.infoguard.ch"
     }
   ]
 }
