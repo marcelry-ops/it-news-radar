@@ -96,15 +96,6 @@
       ]
     },
     {
-      "name": "Signavio",
-      "searchTerms": [
-        "Signavio"
-      ],
-      "patterns": [
-        "\\bsignavio\\b"
-      ]
-    },
-    {
       "name": "Omnissa",
       "searchTerms": [
         "Omnissa"
