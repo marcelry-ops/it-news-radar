@@ -1,12 +1,52 @@
 {
   "items": [
     {
+      "id": "19652f921f14491f",
+      "title": "Zero Day bei Windows: Sprachausgabe umgeht Sperrbildschirm - it-daily.net",
+      "excerpt": "Zero Day bei Windows: Sprachausgabe umgeht Sperrbildschirm it-daily.net",
+      "summary": "Zero Day bei Windows: Sprachausgabe umgeht Sperrbildschirm it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VMUVYTlhHdjNpS2Y1X1hxODE5ekFDcU93THlfQjhuTnNMZ0IxQWRGNG9wdGRIOEFCOVJpalFub0tYc2JfYkdPUG9xbFdOX2R5QXhsZmhTbGJBaUU4OXI1ZFlRb0JQRlBXcHZCSjg5LVplZkFORHZlNW1KRQ?oc=5",
+      "published": "2026-11-23T09:09:00+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "72547660a52447c5",
+      "title": "heise-Angebot: Weiterbildung: IT-Sicherheit in Produktionsanlagen von der Hochschule Hannover",
+      "excerpt": "Der Kurs vermittelt Grundlagen der IT- und OT-Security sowie Kenntnisse zu geltenden Standards und Normen für ein sicheres Anlagendesign.",
+      "summary": "Der Kurs vermittelt Grundlagen der IT- und OT-Security sowie Kenntnisse zu geltenden Standards und Normen für ein sicheres Anlagendesign.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Weiterbildung-IT-Sicherheit-in-Produktionsanlagen-von-der-Hochschule-Hannover-11515706.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published": "2026-11-23T09:00:00+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "4ac2f942ae3ee867",
+      "title": "Bund beauftragt Elca mit Deepfake-Erkennung für die E-ID",
+      "excerpt": "Der Bund will die Identitätsprüfung für die Schweizer E-ID gegen KI-generierte Videos absichern. Den Auftrag für ein zusätzliches Softwaremodul über 4,44 Millionen Franken vergibt er freihändig an Elca. Das Unternehmen liefert bereits das zugrunde liegende Prüfsystem.",
+      "summary": "Der Bund will die Identitätsprüfung für die Schweizer E-ID gegen KI-generierte Videos absichern. Den Auftrag für ein zusätzliches Softwaremodul über 4,44 Millionen Franken vergibt er freihändig an Elca. Das Unternehmen liefert bereits das zugrunde liegende Prü",
+      "source": "Netzwoche",
+      "url": "https://www.netzwoche.ch/news/2026-11-23/bund-beauftragt-elca-mit-deepfake-erkennung-fuer-die-e-id",
+      "published": "2026-11-23T08:53:32+00:00",
+      "category": "IT Schweiz"
+    },
+    {
       "id": "7ae4c01eb1149cee",
       "title": "Ransomware-Schutz muss mit den Angriffen Schritt halten",
       "excerpt": "Ransomware-Schutz muss mit den Angriffen Schritt halten B2B Cyber Security",
       "summary": "Ransomware-Schutz muss mit den Angriffen Schritt halten B2B Cyber Security",
       "source": "B2B Cyber Security",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSlBBcmx0RHd2S3BJUUNVd3kwaWRBRVlpdGtCcUp4Uk5SVTFCbE5kUU94UmpVTnlPV3VFTDA0OU0zZnYzLXZpN0pXSHhnS2tpUkJuYWw5UjJjZ0VaeEM3UnFHWGppTlY2c1hyckNDb2lxTjBxUnFkR3RQYzJXUDBiZzNkeWVWdlhDaDdsQ2otMA?oc=5",
+      "published": "2026-11-23T07:19:36+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "912b778c07c60f33",
+      "title": "BSI: IT-Sicherheitslage in Deutschland angespannt bis kritisch",
+      "excerpt": "BSI: IT-Sicherheitslage in Deutschland angespannt bis kritisch B2B Cyber Security",
+      "summary": "BSI: IT-Sicherheitslage in Deutschland angespannt bis kritisch B2B Cyber Security",
+      "source": "B2B Cyber Security",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYUw3d0NSUnJFNndkdk1IQzdvU3h5VDVEQVpaVllBdl9FaXZLQnJfZEhGY2xvZ3ZHYV9ZUHJHeEVpS0locXVkcGZhZEt3ejJPN0hEdmtEWERrS1BkMklVdXc2aE1aLTZwa0Q0eW5ZWlg5cTVqTzEzVVBuNzBDby13ZHpzZmdPb0RZb2NPUjhCemtPaXFFak5F?oc=5",
       "published": "2026-11-23T07:19:36+00:00",
       "category": "Security"
     },
@@ -58,27 +98,7 @@
       "source": "Golem.de",
       "url": "https://www.golem.de/news/e-books-und-buecher-hackerangriff-legt-hugendubel-homepage-und-tolino-cloud-lahm-2611-215513.html",
       "published": "2026-11-22T10:58:02+00:00",
-      "category": "Security"
-    },
-    {
-      "id": "64acb495ba78eec2",
-      "title": "Atlassian Williams F1 schützt Daten mit Keeper Security - it-daily.net",
-      "excerpt": "Atlassian Williams F1 schützt Daten mit Keeper Security it-daily.net",
-      "summary": "Atlassian Williams F1 schützt Daten mit Keeper Security it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5aMHZEcC1FWTVfU0hFM05qQWNQZk9TTVlzRXNTNUw5MGJCTnExcGl4Qk5SUFlxdXk3Q2IxWEJVazZYcWZWZzN4RkZHSFktejJXYWdvZGM2LV9hM2c0dThlTWdyUEhZcnJVY0FSUGs1SQ?oc=5",
-      "published": "2026-11-22T10:31:30+00:00",
-      "category": "Security"
-    },
-    {
-      "id": "cc1cfddc5f6b0dd1",
-      "title": "GL.iNet: Schwachstelle entdeckt, Patch verfügbar",
-      "excerpt": "Eine Lücke in den cloudbasierten Fernverwaltungsdiensten wird bereits ausgenutzt. Admins sollten schnell handeln.",
-      "summary": "Eine Lücke in den cloudbasierten Fernverwaltungsdiensten wird bereits ausgenutzt. Admins sollten schnell handeln.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/GL-iNet-Schwachstelle-entdeckt-Patch-verfuegbar-11533722.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published": "2026-11-22T10:02:00+00:00",
-      "category": "Security"
+      "category": "Cloud"
     },
     {
       "id": "ee88db8b22361297",
@@ -88,16 +108,6 @@
       "source": "t3n",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxMUFxcHVNTDRnT3dEU0h0R3dXdVRyYUZQUWM1ZWRPTDZIU1FidzB5anVNYUpTWUt2VlJPSXlZOGItUzY0VFpmWC1nRkYyakpBVzRlQlh4b1U3SkM2aFRJYnhSTVpmXzJUa1NPOVNBYlVoNGlfZmJfZg?oc=5",
       "published": "2026-11-22T09:50:00+00:00",
-      "category": "Cloud"
-    },
-    {
-      "id": "c7cdfd4b1f09b3a1",
-      "title": "Abschottung führt auf den digitalen Holzweg​",
-      "excerpt": "Die EU will Cloud-Anbieter aus Drittstaaten bei sensiblen öffentlichen Aufträgen weitgehend fernhalten, auch jene aus der Schweiz. Die Herkunft eines Anbieters sagt wenig über die Datensicherheit aus, wie das Beispiel Dänemark zeigt. Die Swiss Government Cloud zeigt den besseren Weg.",
-      "summary": "Die EU will Cloud-Anbieter aus Drittstaaten bei sensiblen öffentlichen Aufträgen weitgehend fernhalten, auch jene aus der Schweiz. Die Herkunft eines Anbieters sagt wenig über die Datensicherheit aus, wie das Beispiel Dänemark zeigt. Die Swiss Government Cloud",
-      "source": "Netzwoche",
-      "url": "https://www.netzwoche.ch/news/2026-11-22/abschottung-fuehrt-auf-den-digitalen-holzweg",
-      "published": "2026-11-22T08:00:00+00:00",
       "category": "Cloud"
     },
     {
@@ -251,16 +261,6 @@
       "category": "Trends"
     },
     {
-      "id": "ac24fff683ce01ca",
-      "title": "KI ist omnipräsent im Schweizer Arbeitsalltag",
-      "excerpt": "Schweizer Angestellte berichten von massiven Zeiteinsparungen durch den Einsatz von KI. Dafür muss aber das Zusammenspiel zwischen Mensch und Maschine eingeübt sein.",
-      "summary": "Schweizer Angestellte berichten von massiven Zeiteinsparungen durch den Einsatz von KI. Dafür muss aber das Zusammenspiel zwischen Mensch und Maschine eingeübt sein.",
-      "source": "Inside IT",
-      "url": "https://www.inside-it.ch/ki-ist-omnipraesent-im-schweizer-arbeitsalltag-20261120",
-      "published": "2026-11-20T11:58:36+00:00",
-      "category": "IT Schweiz"
-    },
-    {
       "id": "ec528eefd543eb02",
       "title": "Das sind die Gewinner der Digital Economy Awards - IT-Markt",
       "excerpt": "Das sind die Gewinner der Digital Economy Awards IT-Markt",
@@ -351,7 +351,7 @@
       "category": "Trends"
     }
   ],
-  "updatedAt": "2026-11-23T07:53:25.286935+00:00",
+  "updatedAt": "2026-11-23T09:34:36.087142+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -370,6 +370,6 @@
     "Markt": 5,
     "Firmen": 5
   },
-  "warning": "1 von 29 RSS-Quellen waren nicht erreichbar.",
+  "warning": "",
   "aiSummaries": false
 }
