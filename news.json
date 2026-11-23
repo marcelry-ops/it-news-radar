@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "id": "25ef254a2236d2c7",
+      "title": "Crowdstrike übernimmt Zscaler für knapp 44 Milliarden",
+      "excerpt": "Mit dem Zusammenschluss will Crowdstrike seine Falcon-Plattform um Netzwerk- und Zero-Trust-Sicherheit erweitern.",
+      "summary": "Mit dem Zusammenschluss will Crowdstrike seine Falcon-Plattform um Netzwerk- und Zero-Trust-Sicherheit erweitern.",
+      "source": "Inside IT",
+      "url": "https://www.inside-it.ch/crowdstrike-uebernimmt-zscaler-fuer-knapp-44-milliarden-20261123",
+      "published": "2026-11-23T13:17:10+00:00",
+      "category": "IT Schweiz"
+    },
+    {
+      "id": "370e743d1d7fbe01",
+      "title": "(g+) Intune, Defender und Co.: Warum teure Security-Lizenzen allein nicht schützen",
+      "excerpt": "Intune, Defender und Co. sind aktiviert - trotzdem können Sicherheitslücken bleiben. Entscheidend ist die richtige Konfiguration. Ein Ratgebertext von Aaron Siller ( Security , Windows Intune )",
+      "summary": "Intune, Defender und Co. sind aktiviert - trotzdem können Sicherheitslücken bleiben. Entscheidend ist die richtige Konfiguration. Ein Ratgebertext von Aaron Siller ( Security , Windows Intune )",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/intune-defender-und-co-warum-teure-security-lizenzen-allein-nicht-schuetzen-2611-215531.html",
+      "published": "2026-11-23T12:30:01+00:00",
+      "category": "Security"
+    },
+    {
       "id": "70cbe49446144ac9",
       "title": "Armee-Software sagt Satellitenüberflüge vorher",
       "excerpt": "Mit einer eigens entwickelten Webanwendung will die Armee künftig vorhersagen können, wann ein Gebiet von Satelliten erfasst wird. So sollen Truppen vor Angriffen geschützt werden.",
@@ -18,6 +38,26 @@
       "source": "Golem.de",
       "url": "https://www.golem.de/news/daten-abgeflossen-microsoft-gesteht-datenpanne-bei-entra-connect-health-2611-215534.html",
       "published": "2026-11-23T11:56:01+00:00",
+      "category": "Microsoft 365"
+    },
+    {
+      "id": "7ae4c01eb1149cee",
+      "title": "Ransomware-Schutz muss mit den Angriffen Schritt halten",
+      "excerpt": "Ransomware-Schutz muss mit den Angriffen Schritt halten B2B Cyber Security",
+      "summary": "Ransomware-Schutz muss mit den Angriffen Schritt halten B2B Cyber Security",
+      "source": "B2B Cyber Security",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSlBBcmx0RHd2S3BJUUNVd3kwaWRBRVlpdGtCcUp4Uk5SVTFCbE5kUU94UmpVTnlPV3VFTDA0OU0zZnYzLXZpN0pXSHhnS2tpUkJuYWw5UjJjZ0VaeEM3UnFHWGppTlY2c1hyckNDb2lxTjBxUnFkR3RQYzJXUDBiZzNkeWVWdlhDaDdsQ2otMA?oc=5",
+      "published": "2026-11-23T11:44:46+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "912b778c07c60f33",
+      "title": "BSI: IT-Sicherheitslage in Deutschland angespannt bis kritisch",
+      "excerpt": "BSI: IT-Sicherheitslage in Deutschland angespannt bis kritisch B2B Cyber Security",
+      "summary": "BSI: IT-Sicherheitslage in Deutschland angespannt bis kritisch B2B Cyber Security",
+      "source": "B2B Cyber Security",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYUw3d0NSUnJFNndkdk1IQzdvU3h5VDVEQVpaVllBdl9FaXZLQnJfZEhGY2xvZ3ZHYV9ZUHJHeEVpS0locXVkcGZhZEt3ejJPN0hEdmtEWERrS1BkMklVdXc2aE1aLTZwa0Q0eW5ZWlg5cTVqTzEzVVBuNzBDby13ZHpzZmdPb0RZb2NPUjhCemtPaXFFak5F?oc=5",
+      "published": "2026-11-23T11:44:46+00:00",
       "category": "Security"
     },
     {
@@ -101,16 +141,6 @@
       "category": "Markt"
     },
     {
-      "id": "14ffd0bcee2dafea",
-      "title": "Angreifer lesen Konfigurationsdaten von Microsoft-Kunden aus",
-      "excerpt": "Unbekannte haben eine Sicherheitslücke in Microsoft Entra Connect Health ausgenutzt, um Kontakt- und Konfigurationsdaten von Kunden auszulesen. Microsoft hat den Fehler inzwischen behoben. Wie viele Organisationen betroffen sind, bleibt unklar.",
-      "summary": "Unbekannte haben eine Sicherheitslücke in Microsoft Entra Connect Health ausgenutzt, um Kontakt- und Konfigurationsdaten von Kunden auszulesen. Microsoft hat den Fehler inzwischen behoben. Wie viele Organisationen betroffen sind, bleibt unklar.",
-      "source": "Netzwoche",
-      "url": "https://www.netzwoche.ch/news/2026-11-23/angreifer-lesen-konfigurationsdaten-von-microsoft-kunden-aus",
-      "published": "2026-11-23T10:00:11+00:00",
-      "category": "Microsoft 365"
-    },
-    {
       "id": "2744679f1077fe84",
       "title": "Cyberangriff legt Hugendubel, Tolino-Cloud und eBook.de lahm",
       "excerpt": "Die Webseiten von Hugendubel, Tolino-Cloud und eBook.de sind derzeit im Wartungsmodus. Ursache ist offenbar ein Cyberangriff.",
@@ -138,27 +168,17 @@
       "source": "Netzwoche",
       "url": "https://www.netzwoche.ch/news/2026-11-23/bund-beauftragt-elca-mit-deepfake-erkennung-fuer-die-e-id",
       "published": "2026-11-23T08:53:32+00:00",
-      "category": "IT Schweiz"
+      "category": "Firmen"
     },
     {
-      "id": "7ae4c01eb1149cee",
-      "title": "Ransomware-Schutz muss mit den Angriffen Schritt halten",
-      "excerpt": "Ransomware-Schutz muss mit den Angriffen Schritt halten B2B Cyber Security",
-      "summary": "Ransomware-Schutz muss mit den Angriffen Schritt halten B2B Cyber Security",
-      "source": "B2B Cyber Security",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSlBBcmx0RHd2S3BJUUNVd3kwaWRBRVlpdGtCcUp4Uk5SVTFCbE5kUU94UmpVTnlPV3VFTDA0OU0zZnYzLXZpN0pXSHhnS2tpUkJuYWw5UjJjZ0VaeEM3UnFHWGppTlY2c1hyckNDb2lxTjBxUnFkR3RQYzJXUDBiZzNkeWVWdlhDaDdsQ2otMA?oc=5",
-      "published": "2026-11-23T07:19:36+00:00",
-      "category": "Security"
-    },
-    {
-      "id": "912b778c07c60f33",
-      "title": "BSI: IT-Sicherheitslage in Deutschland angespannt bis kritisch",
-      "excerpt": "BSI: IT-Sicherheitslage in Deutschland angespannt bis kritisch B2B Cyber Security",
-      "summary": "BSI: IT-Sicherheitslage in Deutschland angespannt bis kritisch B2B Cyber Security",
-      "source": "B2B Cyber Security",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYUw3d0NSUnJFNndkdk1IQzdvU3h5VDVEQVpaVllBdl9FaXZLQnJfZEhGY2xvZ3ZHYV9ZUHJHeEVpS0locXVkcGZhZEt3ejJPN0hEdmtEWERrS1BkMklVdXc2aE1aLTZwa0Q0eW5ZWlg5cTVqTzEzVVBuNzBDby13ZHpzZmdPb0RZb2NPUjhCemtPaXFFak5F?oc=5",
-      "published": "2026-11-23T07:19:36+00:00",
-      "category": "Security"
+      "id": "13b22283563eb6ef",
+      "title": "Outlook-Ausfall hat doch E-Mails gekostet - it-daily.net",
+      "excerpt": "Outlook-Ausfall hat doch E-Mails gekostet it-daily.net",
+      "summary": "Outlook-Ausfall hat doch E-Mails gekostet it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90V2ZVWkN3OEJ2SjlJbVAyOGxJajBpRHFaQWRsaERfdzJ3c1dsYWZ3ZFRObVRRdGc5WWxCMkdKMkw4WXcxTkk4U0N0WW5ISzdNUUpFQ25LQklXQUFqMElvbkpHVFJWM3QwQ05XMndDRmpTTFpqM0E?oc=5",
+      "published": "2026-11-23T07:06:00+00:00",
+      "category": "Microsoft 365"
     },
     {
       "id": "b5a5510cf36a8571",
@@ -201,13 +221,13 @@
       "category": "Cloud"
     },
     {
-      "id": "ee88db8b22361297",
-      "title": "Gehirn in die Cloud laden: 6 Wege, wie Forscher unser Bewusstsein retten wollen - t3n",
-      "excerpt": "Gehirn in die Cloud laden: 6 Wege, wie Forscher unser Bewusstsein retten wollen t3n",
-      "summary": "Gehirn in die Cloud laden: 6 Wege, wie Forscher unser Bewusstsein retten wollen t3n",
-      "source": "t3n",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxMUFxcHVNTDRnT3dEU0h0R3dXdVRyYUZQUWM1ZWRPTDZIU1FidzB5anVNYUpTWUt2VlJPSXlZOGItUzY0VFpmWC1nRkYyakpBVzRlQlh4b1U3SkM2aFRJYnhSTVpmXzJUa1NPOVNBYlVoNGlfZmJfZg?oc=5",
-      "published": "2026-11-22T09:50:00+00:00",
+      "id": "c7cdfd4b1f09b3a1",
+      "title": "Abschottung führt auf den digitalen Holzweg​",
+      "excerpt": "Die EU will Cloud-Anbieter aus Drittstaaten bei sensiblen öffentlichen Aufträgen weitgehend fernhalten, auch jene aus der Schweiz. Die Herkunft eines Anbieters sagt wenig über die Datensicherheit aus, wie das Beispiel Dänemark zeigt. Die Swiss Government Cloud zeigt den besseren Weg.",
+      "summary": "Die EU will Cloud-Anbieter aus Drittstaaten bei sensiblen öffentlichen Aufträgen weitgehend fernhalten, auch jene aus der Schweiz. Die Herkunft eines Anbieters sagt wenig über die Datensicherheit aus, wie das Beispiel Dänemark zeigt. Die Swiss Government Cloud",
+      "source": "Netzwoche",
+      "url": "https://www.netzwoche.ch/news/2026-11-22/abschottung-fuehrt-auf-den-digitalen-holzweg",
+      "published": "2026-11-22T08:00:00+00:00",
       "category": "Cloud"
     },
     {
@@ -228,16 +248,6 @@
       "source": "IT-Daily",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zM1pwZERWSk5RQnFkVFhOTHQtNDhJSmp1T09WQ2x5bDdTdVdKVDJoN1g3TXV5aW5hbjJEV2xpTWI5NlVkSGUxaDdwdndwZnl6TUVxekpyaEtiMWtBN0pGcFk4TGwwaUlRYTZ6X0ZCOUw5Zw?oc=5",
       "published": "2026-11-21T17:44:31+00:00",
-      "category": "Firmen"
-    },
-    {
-      "id": "b50b5168396c0e06",
-      "title": "Kann Nvidia KI-Chips orten? Das sagt das Unternehmen hinter verschlossenen Türen - t3n",
-      "excerpt": "Kann Nvidia KI-Chips orten? Das sagt das Unternehmen hinter verschlossenen Türen t3n",
-      "summary": "Kann Nvidia KI-Chips orten? Das sagt das Unternehmen hinter verschlossenen Türen t3n",
-      "source": "t3n",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzdXJ1OThjRGNFVDZ5VHp5dFZxVUx3czM3cUx1bVZGbEo5Qnh0SDhibFBQb1VlejJpb3JMYmRyMmNpNTBuM1BUYmZpN0NmRzhxZlFYcTBwWHBHbC05M1pr?oc=5",
-      "published": "2026-11-21T17:10:00+00:00",
       "category": "Firmen"
     },
     {
@@ -321,26 +331,6 @@
       "category": "Trends"
     },
     {
-      "id": "b54a1ae6b4d85eed",
-      "title": "Microsoft Teams: Support für iOS 17 und iPadOS 17 endet",
-      "excerpt": "Microsoft Teams: Support für iOS 17 und iPadOS 17 endet Caschys Blog",
-      "summary": "Microsoft Teams: Support für iOS 17 und iPadOS 17 endet Caschys Blog",
-      "source": "Caschys Blog",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNjhabzU3UldaR3I2Uk5ZMUxsYlBGX1YyYnVWdzR1U0JTaGFSWm95SE4xVjNqMUF6bGQ2RVFtMlZ4Y00yZlFzcmlfRlJxSXdlVFk2VDJzMjhnQWZTWEExUVJGMlpuYnotblkwX0Y0U21WQTlUSU1EZEJoMjE5cWh2emZIN0xjWVlobkt2cnFn?oc=5",
-      "published": "2026-11-20T08:00:52+00:00",
-      "category": "Microsoft 365"
-    },
-    {
-      "id": "95685145073ca6e8",
-      "title": "Windows 11: Microsoft testet Fernsperre für gestohlene Firmen-PCs - it-daily.net",
-      "excerpt": "Windows 11: Microsoft testet Fernsperre für gestohlene Firmen-PCs it-daily.net",
-      "summary": "Windows 11: Microsoft testet Fernsperre für gestohlene Firmen-PCs it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lVE85Z0NOSUpxckpNemRWSUpTRHJfb01wYUxGdzB3bEI1WTMwTzFheDMzN3poR2R0M0pVQ29MUVRfcDk1UEJKVExXQ2hKbTl0aTBsSUxXLVpQSVNGTnN4THhYWWNQSTFtRVpJX1BRNGp1blZpMUE?oc=5",
-      "published": "2026-11-20T06:36:00+00:00",
-      "category": "Firmen"
-    },
-    {
       "id": "086af95badb92bbd",
       "title": "Trends 2027: Vorsprung durch Governance - it-daily.net",
       "excerpt": "Trends 2027: Vorsprung durch Governance it-daily.net",
@@ -349,9 +339,19 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lVnRkTURlNkRfQ18zWGFnLXMtWEs1d09EVW54TFFFckE3NTJUbXVZVGNVMnVfc1ZfTzE5ZFhtUl9xNjVheTJ2ci0weTM3QUpqSWcwUl9sU0pubDQ2MFNQYjhxZ082ZjdTeFFJcGw0eVp2V1dYOFFEYmJBMEU3dmc?oc=5",
       "published": "2026-11-19T04:08:28+00:00",
       "category": "Trends"
+    },
+    {
+      "id": "56afc9e17a1eed5b",
+      "title": "Neue Allianz für digitale Unabhängigkeit: Fünf Schweizer IT-Unternehmen gründen OpenSovereign",
+      "excerpt": "Neue Allianz für digitale Unabhängigkeit: Fünf Schweizer IT-Unternehmen gründen OpenSovereign Presseportal Schweiz",
+      "summary": "Neue Allianz für digitale Unabhängigkeit: Fünf Schweizer IT-Unternehmen gründen OpenSovereign Presseportal Schweiz",
+      "source": "Presseportal Schweiz",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVXRNWVMwMTEzQ293OTV6MHBLd2Rnal9PQUwydFN0SDZtSmFwd3JQU2lUZmR1Q1VTaUo1dDBBLU9mdWFUZFRpVlB0ekFXREVmRm80M0pZb1dySU9GSFhKN0RxSmhTZGlCRUJEakNFdzFhamFmMXhvTTFWcjdnM3ZUYVh6d0wtbHBjQUVRSkJ5eXEyY3NkNVQxUVFZOEZ0QmdSZVB6RmNYZWdpbU5Oc0ZmMXA1Ym94OFNtQzRNQk5Sb1BWN0hyWENBUndyYlNmTWvSAdQBQVVfeXFMTlh2MTNQU21yWFJ0LXZMLXRJWEZkQzlQN0l0OUlCRGtNVzNvWEhuUnV2X0JGdWRWWWhkeFV3b25HMklJNkFjaFBYY0o2cmxYVE9UYlZwZlVKdjR0ejhudWVZNnpXZy1VV1FLZFBvbnFNOGxLLTJzRlJGV0p3WEJVOF95QXF1U3NDMHc5MFhKUjhPYXR1a0ZRTDVPZHR5SDNFMmdidkFmSnRqcFFWYW1YWlp3UmdpU1dGX0MzUXAwemp2b0lHVEdMbzg2cFJPb1dub3diYmE?oc=5",
+      "published": "2026-11-18T07:50:10+00:00",
+      "category": "Firmen"
     }
   ],
-  "updatedAt": "2026-11-23T12:12:36.199620+00:00",
+  "updatedAt": "2026-11-23T13:31:59.002389+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -370,6 +370,6 @@
     "Markt": 5,
     "Firmen": 5
   },
-  "warning": "",
+  "warning": "3 von 29 RSS-Quellen waren nicht erreichbar.",
   "aiSummaries": false
 }
