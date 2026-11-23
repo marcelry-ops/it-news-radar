@@ -65,6 +65,8 @@ ADDITIONAL_SITES = [
 ]
 FEEDS += [(publisher, google_rss('site:' + site), None)
           for publisher, site in ADDITIONAL_SITES]
+# Focused discovery for major Microsoft product lifecycle announcements.
+FEEDS.append(('BornCity / Microsoft To Do', google_rss('site:borncity.com \"Microsoft To Do\" eingestellt'), 'Microsoft 365'))
 
 
 BAD = re.compile(r'\b(anzeige|advertorial|sponsored|werbung|promotion|webinar|workshop|seminar|schulung|kurs|ticket|gewinnspiel|rabatt|gutschein|stellenangebot|jobangebot|whitepaper|event-tipp|messe-ticket|partnerinhalt|powered by)\b|\b(?:jetzt anmelden|jetzt buchen|kostenlos anmelden|hier registrieren)\b', re.I)
@@ -158,6 +160,8 @@ def score(item, category):
  if item['feedHint'] == category: points += 14
  if category == 'IT Schweiz' and CH.search(title): points += 35
  if category == 'Microsoft 365' and M365.search(title): points += 30
+ # Product retirement/deprecation is an operationally important M365 change.
+ if category == 'Microsoft 365' and re.search(r'\b(microsoft to[ -]?do|microsoft planner)\b', title, re.I) and re.search(r'\b(eingestellt|einstellung|abschaltung|abgek[uü]ndigt|ende|retired|retirement|discontinued)\b', text, re.I): points += 45
  if category == 'Security' and SECURITY.search(title): points += 22
  if category == 'Cloud' and CLOUD.search(title): points += 25
  if category == 'Trends' and TRENDS.search(title): points += 25
