@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "d313b1ced464cbe1",
+      "title": "heise+ | Interview mit Scott Sellers: Die Zukunft von KI-Anwendungen heißt Java",
+      "excerpt": "JavaSPEKTRUM sprach mit Scott Sellers, CEO und Co-Founder von Azul über die Rolle von Java bei der Zukunft von KI. Das Interview führe Michael Stal in München.",
+      "summary": "JavaSPEKTRUM sprach mit Scott Sellers, CEO und Co-Founder von Azul über die Rolle von Java bei der Zukunft von KI. Das Interview führe Michael Stal in München.",
+      "source": "heise online",
+      "url": "https://www.heise.de/hintergrund/Interview-mit-Scott-Sellers-Die-Zukunft-von-KI-Anwendungen-heisst-Java-11533136.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published": "2026-11-24T15:15:00+00:00",
+      "category": "Trends"
+    },
+    {
       "id": "e30f25ce6b51a75d",
       "title": "Bending Spoons kauft Mailchimp",
       "excerpt": "Das italienische Technologieunternehmen übernimmt die E-Mail-Marketing-Plattform von Intuit für rund 3,7 Milliarden Dollar.",
@@ -81,6 +91,16 @@
       "category": "Trends"
     },
     {
+      "id": "49c7429e8b02a3d6",
+      "title": "Europas IT-Ausgaben steigen 2027 um knapp 10 Prozent",
+      "excerpt": "Die IT-Ausgaben in Europa werden laut Gartner 2027 um 9,9 Prozent auf 1,57 Billionen Dollar steigen. Die grössten Wachstumstreiber bleiben Rechenzentrumsinfrastruktur und Software, wobei wenig überraschend insbesondere Investitionen in KI die Nachfrage befeuern.",
+      "summary": "Die IT-Ausgaben in Europa werden laut Gartner 2027 um 9,9 Prozent auf 1,57 Billionen Dollar steigen. Die grössten Wachstumstreiber bleiben Rechenzentrumsinfrastruktur und Software, wobei wenig überraschend insbesondere Investitionen in KI die Nachfrage befeuer",
+      "source": "IT Reseller",
+      "url": "https://www.itreseller.ch/Artikel/106671/Europas_IT-Ausgaben_steigen_2027_um_knapp_10_Prozent.html",
+      "published": "2026-11-24T09:28:38+00:00",
+      "category": "Markt"
+    },
+    {
       "id": "8a632caa85e696dd",
       "title": "Schweizer Armee sagt Satellitenüberflüge mit eigener Software voraus",
       "excerpt": "Mit der neuen OSIRIS-Software kann die Schweizer Armee vorhersagen, wann Satelliten bestimmte Gebiete überfliegen. Die vom Kompetenzzentrum Weltraum selbst entwickelte Anwendung ist Teil des Ausbaus der Weltraumfähigkeiten der Armee und unterstützt den Eigenschutz der Truppen.",
@@ -159,16 +179,6 @@
       "url": "https://www.heise.de/news/Cloud-und-KI-Gesetz-Positionsentwurf-des-Europaparlaments-liegt-endlich-vor-11535512.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "published": "2026-11-24T07:19:00+00:00",
       "category": "Cloud"
-    },
-    {
-      "id": "154a0622ab6b2b10",
-      "title": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse - Swiss IT Reseller",
-      "excerpt": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse Swiss IT Reseller",
-      "summary": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse Swiss IT Reseller",
-      "source": "IT Reseller / Firmen",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY3JBZmg3bDJmVlJjSXVCZmlSUWdNNkcyVUhjWDQ5eFJYcWZQZGowcUtJQlRaVGwweDBLOVc1c1g1YkVSeTRzZDhNZUJWclQycy1VRzBtM2hEN012dzdJTTZSWmswZEtJRUtNNzF3dkRGLUp0QTZONktKMlJ2Ymxib3l0NkJEdmFyZ2RlN3V0b3ZYOF9UZkpwa1AwUU1rNS10TE5vVS1vbm5zb0Nk?oc=5",
-      "published": "2026-11-24T07:12:00+00:00",
-      "category": "IT Schweiz"
     },
     {
       "id": "8ee5b0e43a1899ff",
@@ -258,7 +268,7 @@
       "source": "Inside IT",
       "url": "https://www.inside-it.ch/crowdstrike-uebernimmt-zscaler-fuer-knapp-44-milliarden-20261123",
       "published": "2026-11-23T13:17:10+00:00",
-      "category": "Firmen"
+      "category": "IT Schweiz"
     },
     {
       "id": "fbc7816f508556a5",
@@ -278,7 +288,7 @@
       "source": "Inside IT",
       "url": "https://www.inside-it.ch/robotik-startup-coprod-erhaelt-6-millionen-20261123",
       "published": "2026-11-23T11:00:04+00:00",
-      "category": "Trends"
+      "category": "Firmen"
     },
     {
       "id": "962bf9e2dbaf4de1",
@@ -301,23 +311,13 @@
       "category": "Markt"
     },
     {
-      "id": "b6c1346d9938306d",
-      "title": "Google baut KI-Suche mit Gemini 4 Hydrogen aus – was sich für Schweizer Unternehmen und KMU ändert",
-      "excerpt": "Google baut KI-Suche mit Gemini 4 Hydrogen aus – was sich für Schweizer Unternehmen und KMU ändert Swiss-Press.com",
-      "summary": "Google baut KI-Suche mit Gemini 4 Hydrogen aus – was sich für Schweizer Unternehmen und KMU ändert Swiss-Press.com",
-      "source": "Swiss-Press.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUm5TV2JpbnBlamcyaXA5Wk85SGp2M3ViNkU0YXQ0R1RGU0dKLWNfcGtZMGxCeHdZY05LOHFqdU1jWFllZUctYm41V3piODY1MkJBdE9IZkxkTEtvNF9sQUJnLUxEWGJ5SWt2Wk9jU2dJLV8wYUV1d1h4ODlKS1l5a05yeC1oRnZ6THc?oc=5",
-      "published": "2026-11-23T07:59:07+00:00",
-      "category": "Firmen"
-    },
-    {
-      "id": "5d3d5c31e17afc9c",
-      "title": "Palo Alto Networks übernimmt KI-Start-up für 4,5 Milliarden Dollar - Swiss IT Reseller",
-      "excerpt": "Palo Alto Networks übernimmt KI-Start-up für 4,5 Milliarden Dollar Swiss IT Reseller",
-      "summary": "Palo Alto Networks übernimmt KI-Start-up für 4,5 Milliarden Dollar Swiss IT Reseller",
-      "source": "IT Reseller / Firmen",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeWJMTG5Vc0ZWSDBkUmhvZEJxS1FqRWRsVGRtcnNiM3VQS1h5UXowRFBhbkdOZC1IWTVmZTE2SktpWHl0cWUya29uc3FQMjhiWGNpWFk4UXFrdVhWSmlCZHBoUm9HMHhoVkRmcWRIZElMekktRk9vbnUyQjV3SWtDbzZRV2xkSUZMZFhUTWhvWlUxcWZhRjMwbm1qMmJTSjRENktpOVowRnJqdy1IOUVaNTRvRQ?oc=5",
-      "published": "2026-11-23T07:12:00+00:00",
+      "id": "83f79a15432f1b42",
+      "title": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse",
+      "excerpt": "Oliver Wymann, ein Unternehmen des Marsh-Konzerns, kauft mit Synpulse in der Schweiz zu. Das Zürcher Tech-Beratungshaus ist auf den Finanzsektor spezialisiert und soll nun unter anderem seine KI-Expertise beisteuern.",
+      "summary": "Oliver Wymann, ein Unternehmen des Marsh-Konzerns, kauft mit Synpulse in der Schweiz zu. Das Zürcher Tech-Beratungshaus ist auf den Finanzsektor spezialisiert und soll nun unter anderem seine KI-Expertise beisteuern.",
+      "source": "IT Reseller",
+      "url": "https://www.itreseller.ch/Artikel/106663/Oliver_Wyman_uebernimmt_Zuercher_Technologieberatung_Synpulse_.html",
+      "published": "2026-11-23T08:21:02+00:00",
       "category": "IT Schweiz"
     },
     {
@@ -331,16 +331,6 @@
       "category": "Markt"
     },
     {
-      "id": "8be660a91783b732",
-      "title": "KI macht komplexe Legierungen zugänglicher - IT-Markt",
-      "excerpt": "KI macht komplexe Legierungen zugänglicher IT-Markt",
-      "summary": "KI macht komplexe Legierungen zugänglicher IT-Markt",
-      "source": "IT-Markt",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTjZNZmxydXcybk1wYkoyb2VXd0xiZm1wcEFqajloUVhLWHhsRjFhZE84c0NCcEN1RU9JWjRVTE9JblhHQV9RWFdMcmNIaUJGUkZwVXA3eUtKUkE4ZDlHdWJMT0phaFlwU3ZzNE9PNHJFajRjN0VhSDR0alBkQ2VJY1l3Z08yZ0ctMFhZ?oc=5",
-      "published": "2026-11-22T08:00:00+00:00",
-      "category": "Markt"
-    },
-    {
       "id": "f61d26a4181fe567",
       "title": "Microsoft To Do: Apps werden am 30. Juni 2027 vollständig eingestellt - BornCity",
       "excerpt": "Microsoft To Do: Apps werden am 30. Juni 2027 vollständig eingestellt BornCity",
@@ -349,9 +339,19 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM2tKSHhFMlBqbEgwNm9JbEhHN2pwR01HRUJEdV8tSVJrNEFFeFhEblRuQ2Y3d2V2ejEyTEh6UElGQ2owVFR4UlB6Vk5TZzNlYllSaWdXVmVPMG81ekdEY2pqdWh1cHRqX0VENEdlVVlEY3JxQVlCdW1vWVlqdnBpd0FMNGdwNkFiNzZTanhKTldWN2tzdTJfTkFlTQ?oc=5",
       "published": "2026-11-21T05:25:04+00:00",
       "category": "Microsoft 365"
+    },
+    {
+      "id": "f54c953af1041f65",
+      "title": "Palo Alto Networks übernimmt KI-Start-up für 4,5 Milliarden Dollar",
+      "excerpt": "Palo Alto Networks will den KI-Spezialisten Applied Compute übernehmen. Mit der Akquisition verstärkt der Security-Anbieter sein Portfolio um eine Plattform für das Training und den sicheren Betrieb von KI-Modellen.",
+      "summary": "Palo Alto Networks will den KI-Spezialisten Applied Compute übernehmen. Mit der Akquisition verstärkt der Security-Anbieter sein Portfolio um eine Plattform für das Training und den sicheren Betrieb von KI-Modellen.",
+      "source": "IT Reseller",
+      "url": "https://www.itreseller.ch/Artikel/106656/Palo_Alto_Networks_uebernimmt_KI-Start-up_fuer_45_Milliarden_Dollar.html",
+      "published": "2026-11-20T13:14:26+00:00",
+      "category": "Firmen"
     }
   ],
-  "updatedAt": "2026-11-24T15:14:02.087279+00:00",
+  "updatedAt": "2026-11-24T16:24:43.600880+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -372,6 +372,6 @@
     "Firmen": 5,
     "Personen": 0
   },
-  "warning": "Nicht genügend passende aktuelle Meldungen: 10 × Personen. 1 von 50 RSS-Quellen waren nicht erreichbar.",
+  "warning": "Nicht genügend passende aktuelle Meldungen: 10 × Personen.",
   "aiSummaries": false
 }
