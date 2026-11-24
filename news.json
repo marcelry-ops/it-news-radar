@@ -31,16 +31,6 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "22cf533ddeab4744",
-      "title": "Hermes Enterprise: Nous Research bringt KI-Agenten direkt in Microsoft Teams - BornCity",
-      "excerpt": "Hermes Enterprise: Nous Research bringt KI-Agenten direkt in Microsoft Teams BornCity",
-      "summary": "Hermes Enterprise: Nous Research bringt KI-Agenten direkt in Microsoft Teams BornCity",
-      "source": "BornCity / Microsoft To Do",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcWRzYkV6eGk0T1llNG1xOWlIcDF3NVg5d2Y3QzI4NllxSXozYWRLUHZHV0xTRGlYdWZCRlRkR1owWDJYQkt1Z3k2anhBRFNjb3BfcXczWDN4YndLT0YtY0pSVm5rbVNDeDF4VjRqSi1FRWtpNUlRZGwxbnQ2UU5HbmFBRGpvdktBSTc2c19qeWNpNE1lNVZUZmZMeWloSThOMjEzLQ?oc=5",
-      "published": "2026-11-23T18:19:04+00:00",
-      "category": "Microsoft 365"
-    },
-    {
       "id": "e5ffd55eceb877c7",
       "title": "AWS Trainium: Amazon kauft KI-Chip-Optimierung von Decart AI für 7,5 Milliarden US-Dollar",
       "excerpt": "Statt einer klassischen Firmenübernahme holt sich Amazon die Kern-Software und rund 100 Entwickler des KI-Startups Decart AI ins Haus. ( Amazon , Cuda )",
@@ -49,6 +39,16 @@
       "url": "https://www.golem.de/news/aws-trainium-amazon-kauft-ki-chip-optimierung-von-decart-ai-fuer-7-5-milliarden-us-dollar-2611-215557.html",
       "published": "2026-11-23T18:00:01+00:00",
       "category": "Cloud"
+    },
+    {
+      "id": "40dfba37aad132bd",
+      "title": "Microsoft To Do wird zum 30. Juni 2027 beerdigt",
+      "excerpt": "Microsoft To Do wird zum 30. Juni 2027 beerdigt appgefahren.de",
+      "summary": "Microsoft To Do wird zum 30. Juni 2027 beerdigt appgefahren.de",
+      "source": "appgefahren.de",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMVNCaFVlR0NlRThMR1R1NlFnenJwOWNOaFBEaGdTWm5kV2xiSG1WaXExUU1nOXBiYkdXWm0wMTJ6MmtYMXNOcTZFQ2FCQVNtYzhnQ05JMldwZ1J3X3pHM1NaZFRKdjNyQzZfZzJzc3doMi1wMnFXeFBnNlRtb2NIZXdEYkgzZXVLV01ndzZXYVIzMzRqRVJSTmxFQ1kxa21lc3ZSS3VyVG92OTVHM2ZlYXMwUQ?oc=5",
+      "published": "2026-11-23T17:36:11+00:00",
+      "category": "Microsoft 365"
     },
     {
       "id": "e4056e07dbc00292",
@@ -161,16 +161,6 @@
       "category": "Security"
     },
     {
-      "id": "70cbe49446144ac9",
-      "title": "Armee-Software sagt Satellitenüberflüge vorher",
-      "excerpt": "Mit einer eigens entwickelten Webanwendung will die Armee künftig vorhersagen können, wann ein Gebiet von Satelliten erfasst wird. So sollen Truppen vor Angriffen geschützt werden.",
-      "summary": "Mit einer eigens entwickelten Webanwendung will die Armee künftig vorhersagen können, wann ein Gebiet von Satelliten erfasst wird. So sollen Truppen vor Angriffen geschützt werden.",
-      "source": "Inside IT",
-      "url": "https://www.inside-it.ch/armee-software-sagt-satellitenueberfluege-vorher-20261123",
-      "published": "2026-11-23T12:09:21+00:00",
-      "category": "IT Schweiz"
-    },
-    {
       "id": "7ae4c01eb1149cee",
       "title": "Ransomware-Schutz muss mit den Angriffen Schritt halten",
       "excerpt": "Ransomware-Schutz muss mit den Angriffen Schritt halten B2B Cyber Security",
@@ -221,6 +211,16 @@
       "category": "Cloud"
     },
     {
+      "id": "5a1c47d505285f51",
+      "title": "Novistore gehört zu den ersten Schweizer Onlineshops, die direkt im KI-Assistenten einkaufen lassen",
+      "excerpt": "Novistore gehört zu den ersten Schweizer Onlineshops, die direkt im KI-Assistenten einkaufen lassen Presseportal Schweiz",
+      "summary": "Novistore gehört zu den ersten Schweizer Onlineshops, die direkt im KI-Assistenten einkaufen lassen Presseportal Schweiz",
+      "source": "Presseportal Schweiz",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZVI0Q2VZbVpIUDZYRkNMbFJVa0ZKZWpkeXlvZl9LODNSSkRFYzBjenNBTGFXQjdJRXROSGlTT1VTaUNSWUZ3WDR4MDJzeFhKVTFpa0Q4RV9WYUlNNWpDOGE0Vi1xSDRuMjZIWi1jLUlDc3lET1h2RFh5VjJZZ01DcjVQcmFXMmlQclJHLVpDay1nNmxmbTdvNU5EMDY3SWc1aHZEWG1RYWZXOERKZ1VfQ0VDTXNmbUFhWDRFLWxxWWNJY1J5TG01RnpiTlpTZ2fSAdQBQVVfeXFMUE40Q0dKd3NIa09QUTAyREkyc2JXTHU1YUdFZXBYMTk2NTVnSk16S2w1cVJIQ1JHV09HVkQzNERoUEgzTTUxcEc3V1lrVG9nX3FqbTkyUGRYZ0MxUWgyVEN1Q21DdFhVQVdhRTcyV0M1ajNRbE9Va0RmNkstV0YzcXVlblk3cnItUl80TjhVQ0JHQUpOMlNhREdTMEJ0eFZxT2dQVWdaMHFVbExSZUlwbGg2clFfTlE0Zzc3WVNqeF9fQWo0SFhqOHc1N0tvVGZ4ODlrcWM?oc=5",
+      "published": "2026-11-23T10:14:29+00:00",
+      "category": "IT Schweiz"
+    },
+    {
       "id": "01cdd634233519df",
       "title": "Angreifer lesen Konfigurationsdaten von Microsoft-Kunden aus - IT-Markt",
       "excerpt": "Angreifer lesen Konfigurationsdaten von Microsoft-Kunden aus IT-Markt",
@@ -241,13 +241,13 @@
       "category": "Cloud"
     },
     {
-      "id": "4ac2f942ae3ee867",
-      "title": "Bund beauftragt Elca mit Deepfake-Erkennung für die E-ID",
-      "excerpt": "Der Bund will die Identitätsprüfung für die Schweizer E-ID gegen KI-generierte Videos absichern. Den Auftrag für ein zusätzliches Softwaremodul über 4,44 Millionen Franken vergibt er freihändig an Elca. Das Unternehmen liefert bereits das zugrunde liegende Prüfsystem.",
-      "summary": "Der Bund will die Identitätsprüfung für die Schweizer E-ID gegen KI-generierte Videos absichern. Den Auftrag für ein zusätzliches Softwaremodul über 4,44 Millionen Franken vergibt er freihändig an Elca. Das Unternehmen liefert bereits das zugrunde liegende Prü",
-      "source": "Netzwoche",
-      "url": "https://www.netzwoche.ch/news/2026-11-23/bund-beauftragt-elca-mit-deepfake-erkennung-fuer-die-e-id",
-      "published": "2026-11-23T08:53:32+00:00",
+      "id": "617e896ac37ff862",
+      "title": "Wird Arm-Chef Haas der neue Nvidia-CEO? - it-daily.net",
+      "excerpt": "Wird Arm-Chef Haas der neue Nvidia-CEO? it-daily.net",
+      "summary": "Wird Arm-Chef Haas der neue Nvidia-CEO? it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50cTV5YU4tRk13V0pkQ0VEWm9KMGxZVm1rYVdFeS1SQ0ptUVBLcXhraTY2eC1SSG1yZ05Gcmt5QUpueTNzTE1IQ1FoVmZZaU53UmpPenpmWW5Od3h5ZlNrYmFrNUxwZ1c0eUh0NVRaVTJOQQ?oc=5",
+      "published": "2026-11-23T08:47:00+00:00",
       "category": "Firmen"
     },
     {
@@ -351,7 +351,7 @@
       "category": "Trends"
     }
   ],
-  "updatedAt": "2026-11-23T23:58:11.255129+00:00",
+  "updatedAt": "2026-11-24T01:23:16.653520+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
