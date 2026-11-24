@@ -1,6 +1,96 @@
 {
   "items": [
     {
+      "id": "8a632caa85e696dd",
+      "title": "Schweizer Armee sagt Satellitenüberflüge mit eigener Software voraus",
+      "excerpt": "Mit der neuen OSIRIS-Software kann die Schweizer Armee vorhersagen, wann Satelliten bestimmte Gebiete überfliegen. Die vom Kompetenzzentrum Weltraum selbst entwickelte Anwendung ist Teil des Ausbaus der Weltraumfähigkeiten der Armee und unterstützt den Eigenschutz der Truppen.",
+      "summary": "Mit der neuen OSIRIS-Software kann die Schweizer Armee vorhersagen, wann Satelliten bestimmte Gebiete überfliegen. Die vom Kompetenzzentrum Weltraum selbst entwickelte Anwendung ist Teil des Ausbaus der Weltraumfähigkeiten der Armee und unterstützt den Eigensc",
+      "source": "Netzwoche",
+      "url": "https://www.netzwoche.ch/news/2026-11-24/schweizer-armee-sagt-satellitenueberfluege-mit-eigener-software-voraus",
+      "published": "2026-11-24T09:17:05+00:00",
+      "category": "IT Schweiz"
+    },
+    {
+      "id": "53ec642f55d90d71",
+      "title": "Zstandard 1.6.0 schließt Sicherheitslücke",
+      "excerpt": "Wegen einer Sicherheitslücke veröffentlicht das Zstd-Team Version 1.6.0 früher. Das Release bringt zudem mehr Tempo für Arm und RISC-V.",
+      "summary": "Wegen einer Sicherheitslücke veröffentlicht das Zstd-Team Version 1.6.0 früher. Das Release bringt zudem mehr Tempo für Arm und RISC-V.",
+      "source": "heise Security",
+      "url": "https://www.heise.de/news/Zstandard-1-6-0-schliesst-Sicherheitsluecke-11535732.html",
+      "published": "2026-11-24T09:09:00+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "bfab722c950492bf",
+      "title": "Zstandard 1.6.0 schließt Sicherheitslücke",
+      "excerpt": "Wegen einer Sicherheitslücke veröffentlicht das Zstd-Team Version 1.6.0 früher. Das Release bringt zudem mehr Tempo für Arm und RISC-V.",
+      "summary": "Wegen einer Sicherheitslücke veröffentlicht das Zstd-Team Version 1.6.0 früher. Das Release bringt zudem mehr Tempo für Arm und RISC-V.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Zstandard-1-6-0-schliesst-Sicherheitsluecke-11535732.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published": "2026-11-24T09:09:00+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "79faf866a2d76d9c",
+      "title": "Microsoft schliesst Sicherheitslücke in Azure API Management",
+      "excerpt": "Microsoft hat eine Sicherheitslücke in Microsoft Azure API Management geschlossen, durch die Angreifer möglicherweise an geheime Informationen und API-Anmeldedaten gelangt sind. Die Entdeckung und Ausnutzung der Sicherheitslücke stehen möglicherweise in Verbindung mit Angriffen auf norwegische Energieunternehmen.",
+      "summary": "Microsoft hat eine Sicherheitslücke in Microsoft Azure API Management geschlossen, durch die Angreifer möglicherweise an geheime Informationen und API-Anmeldedaten gelangt sind. Die Entdeckung und Ausnutzung der Sicherheitslücke stehen möglicherweise in Verbin",
+      "source": "Netzwoche",
+      "url": "https://www.netzwoche.ch/news/2026-11-24/microsoft-schliesst-sicherheitsluecke-in-azure-api-management",
+      "published": "2026-11-24T09:06:03+00:00",
+      "category": "Cloud"
+    },
+    {
+      "id": "358adbcd25a9b611",
+      "title": "HSG und Zurich warnen vor schwer erkennbaren KI-Risiken",
+      "excerpt": "Wer KI-Systeme verschiedener Anbieter einsetzt, schützt sich nicht automatisch vor gemeinsamen Risiken. Laut einem Forschungsbericht der Universität St. Gallen und Zurich Insurance können unterschiedliche Systeme aufgrund ähnlicher Daten und Entscheidungsregeln auf vergleichbare Weise versagen - mit möglichen Folgen über Unternehmens- und Branchengrenzen hinweg.",
+      "summary": "Wer KI-Systeme verschiedener Anbieter einsetzt, schützt sich nicht automatisch vor gemeinsamen Risiken. Laut einem Forschungsbericht der Universität St. Gallen und Zurich Insurance können unterschiedliche Systeme aufgrund ähnlicher Daten und Entscheidungsregel",
+      "source": "Netzwoche",
+      "url": "https://www.netzwoche.ch/news/2026-11-24/hsg-und-zurich-warnen-vor-schwer-erkennbaren-ki-risiken",
+      "published": "2026-11-24T08:59:20+00:00",
+      "category": "IT Schweiz"
+    },
+    {
+      "id": "801918e90cf35d56",
+      "title": "Der KI-Masterplan ist veraltet, bevor er beschlossen wird – was Unternehmen stattdessen tun sollten - t3n",
+      "excerpt": "Der KI-Masterplan ist veraltet, bevor er beschlossen wird – was Unternehmen stattdessen tun sollten t3n",
+      "summary": "Der KI-Masterplan ist veraltet, bevor er beschlossen wird – was Unternehmen stattdessen tun sollten t3n",
+      "source": "t3n",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTzZiOU1hM1lEOEhidUZ1YWpHelJ3STh1QmRubmI2aEtNOHBQNHhLMmV5X1pqUEc2VzY0cF9XaUhwUmNITVU5Y3Rja1NJaEZ4ZEw2elM0NnN4YWlORVdPTDk0cXVzMmhwMEF4LWp2aGJVdjFvV1d0Q0Njekw3a1pvejhnZnUwTUxQVEpBNDNjc2lTaFhsSFNfblBVaXJXbTdSWm9tSDd0ZXdPdV9FNGVqX0ZvVlhmc05GMm9KNGV5QjJIbDA?oc=5",
+      "published": "2026-11-24T08:30:40+00:00",
+      "category": "Firmen"
+    },
+    {
+      "id": "9fe2688c922ce03e",
+      "title": "Microsoft 365: Targeted Release endet, Admins müssen Pilotgruppen anpassen",
+      "excerpt": "Microsoft 365: Targeted Release endet, Admins müssen Pilotgruppen anpassen ad-hoc-news.de",
+      "summary": "Microsoft 365: Targeted Release endet, Admins müssen Pilotgruppen anpassen ad-hoc-news.de",
+      "source": "ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcWN5NGxuSDAtMWU3LWI1cjRwbnROcVRLelVWSjlPdk1pQ18xemtXb0dmVmtOc2FJSjFocEk1LXlaNVJuZjNnbzc5UXVVempOZThWRnIzcVc0RVp0M283ejIwZDZWMUpzcmdQMFlkbmtRRVVlMFUwVkVhWnR2SWFvTE5pc0JiemJaTUpPTHlzM0tTYmZad1IzX2hneTJyUUEzTUhsSjBsZ2NMS0dOSGgxT182NEh1VUViZWdzOFp0aw?oc=5",
+      "published": "2026-11-24T08:03:05+00:00",
+      "category": "Microsoft 365"
+    },
+    {
+      "id": "6bd82bdba23a69fd",
+      "title": "GPT-Auswahl: KI-Dienste für Unternehmen besser bewerten - it-daily.net",
+      "excerpt": "GPT-Auswahl: KI-Dienste für Unternehmen besser bewerten it-daily.net",
+      "summary": "GPT-Auswahl: KI-Dienste für Unternehmen besser bewerten it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSdU5tX1pmVGpQa2FhZTEwdWxrSjhfSUVKRWIyOTdQRVBUT2E4Xy13Tmo2ZzZZdlBkblZWYjlzdVdobXFzSmhVR0lEcnNiVDU5Sm5uSFc2dHdhNTktYmI4WEUtWE1rbmt1RlQ0ZjBhajVGdw?oc=5",
+      "published": "2026-11-24T07:36:27+00:00",
+      "category": "Firmen"
+    },
+    {
+      "id": "30c65606d5bc23f9",
+      "title": "Schwachstelle in Azure API Management (APIM) Classic führte zu Hacks - BornCity",
+      "excerpt": "Schwachstelle in Azure API Management (APIM) Classic führte zu Hacks BornCity",
+      "summary": "Schwachstelle in Azure API Management (APIM) Classic führte zu Hacks BornCity",
+      "source": "BornCity",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdzNnazdpN25hX3JwVng1MWs5dm8zeXZLeEZPOFBBOXM1Vm4wNGRSb3V1ZlkzdjdhdmpEU09PTE16VDJEaTlQZDdobV81WHhnUUxiTTRoRm5SbmpuSVVidWowUzROVFIwN1U1cjFPMThVNDJ0cG0wYnFZNVM2dE1CeHZ5M0UwRW0zSTlLN1JpYndIa214NXhKMW9EMktkUU9jSzhnRXBPWkI?oc=5",
+      "published": "2026-11-24T07:22:09+00:00",
+      "category": "Cloud"
+    },
+    {
       "id": "91b6c06cb16b7bec",
       "title": "Cloud- und KI-Gesetz: Positionsentwurf des Europaparlaments liegt endlich vor",
       "excerpt": "Eigentlich sollte er seit Tagen da sein: der Entwurf der Berichterstatter des Europaparlaments zum „Cloud and AI Development Act“ (CADA) liegt endlich vor.",
@@ -9,16 +99,6 @@
       "url": "https://www.heise.de/news/Cloud-und-KI-Gesetz-Positionsentwurf-des-Europaparlaments-liegt-endlich-vor-11535512.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "published": "2026-11-24T07:19:00+00:00",
       "category": "Cloud"
-    },
-    {
-      "id": "1f27ec6f35d7c471",
-      "title": "Microsoft Copilot: Nadella positioniert KI-Assistent als Betriebssystem der Arbeit - BornCity",
-      "excerpt": "Microsoft Copilot: Nadella positioniert KI-Assistent als Betriebssystem der Arbeit BornCity",
-      "summary": "Microsoft Copilot: Nadella positioniert KI-Assistent als Betriebssystem der Arbeit BornCity",
-      "source": "BornCity / Microsoft To Do",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdUVMeTBhYTJkVkx4Tm1kQ2RubWtIeUNzMDlRdXFKR081aGZ1QkJoejVBSEhwaVZKa2RYNVhsNXR3eTRKZ2NiS21VZ1F5amMtcXZwS3AyTkVtU3hpRWVoOG5tcXVhMkE1QkdUUDF5eWpDNExabjh0NUl6T1BEVWctclBZaGlGRVhtbnhCSUNwaG1NQ0oxRWh4bFV0aEYydFJzZG5QUEZIN2JyVHo0?oc=5",
-      "published": "2026-11-24T06:52:04+00:00",
-      "category": "Microsoft 365"
     },
     {
       "id": "7752aea542c6aa6e",
@@ -101,16 +181,6 @@
       "category": "IT Schweiz"
     },
     {
-      "id": "8295ff16d5fb241e",
-      "title": "Jensen Huang: Nvidia-Aktie springt nach Huang-Rückkehr um 30 Prozent",
-      "excerpt": "Die Rückkehr von Jensen Huang als Nvidias CEO verschafft der Aktie Aufwind: Zum Handelsstart steigt sie stark. ( Nvidia , KI )",
-      "summary": "Die Rückkehr von Jensen Huang als Nvidias CEO verschafft der Aktie Aufwind: Zum Handelsstart steigt sie stark. ( Nvidia , KI )",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/jensen-huang-nvidia-aktie-springt-nach-huang-rueckkehr-um-30-prozent-2611-215550.html",
-      "published": "2026-11-23T15:20:01+00:00",
-      "category": "Firmen"
-    },
-    {
       "id": "cafe2150ada18e0e",
       "title": "Künstliche Intelligenz: Wie KI-Assistenten verschlüsselte Messenger unsicher machen - Netzpolitik.org",
       "excerpt": "Künstliche Intelligenz: Wie KI-Assistenten verschlüsselte Messenger unsicher machen Netzpolitik.org",
@@ -141,54 +211,34 @@
       "category": "Markt"
     },
     {
-      "id": "49c7b6fb915a220e",
-      "title": "Jahrhundertdeal: Crowdstrike kauft Zscaler für 44 Milliarden Dollar und fordert Microsoft heraus",
-      "excerpt": "Der Milliardendeal vereint Endgeräte- und Cloud-Sicherheit unter einem Dach. Microsoft und Palo Alto Networks bekommen einen mächtigen Rivalen. ( Crowdstrike , Security )",
-      "summary": "Der Milliardendeal vereint Endgeräte- und Cloud-Sicherheit unter einem Dach. Microsoft und Palo Alto Networks bekommen einen mächtigen Rivalen. ( Crowdstrike , Security )",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/jahrhundertdeal-crowdstrike-uebernimmt-zscaler-fuer-44-milliarden-us-dollar-2611-215542.html",
-      "published": "2026-11-23T14:30:02+00:00",
-      "category": "Cloud"
-    },
-    {
-      "id": "25ef254a2236d2c7",
-      "title": "Crowdstrike übernimmt Zscaler für knapp 44 Milliarden",
-      "excerpt": "Mit dem Zusammenschluss will Crowdstrike seine Falcon-Plattform um Netzwerk- und Zero-Trust-Sicherheit erweitern.",
-      "summary": "Mit dem Zusammenschluss will Crowdstrike seine Falcon-Plattform um Netzwerk- und Zero-Trust-Sicherheit erweitern.",
-      "source": "Inside IT",
-      "url": "https://www.inside-it.ch/crowdstrike-uebernimmt-zscaler-fuer-knapp-44-milliarden-20261123",
-      "published": "2026-11-23T13:17:10+00:00",
-      "category": "IT Schweiz"
-    },
-    {
-      "id": "370e743d1d7fbe01",
-      "title": "(g+) Intune, Defender und Co.: Warum teure Security-Lizenzen allein nicht schützen",
-      "excerpt": "Intune, Defender und Co. sind aktiviert - trotzdem können Sicherheitslücken bleiben. Entscheidend ist die richtige Konfiguration. Ein Ratgebertext von Aaron Siller ( Security , Windows Intune )",
-      "summary": "Intune, Defender und Co. sind aktiviert - trotzdem können Sicherheitslücken bleiben. Entscheidend ist die richtige Konfiguration. Ein Ratgebertext von Aaron Siller ( Security , Windows Intune )",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/intune-defender-und-co-warum-teure-security-lizenzen-allein-nicht-schuetzen-2611-215531.html",
-      "published": "2026-11-23T12:30:01+00:00",
+      "id": "fbc7816f508556a5",
+      "title": "Aktuelle Studie: Sophos State of Ransomware in Retail 2026",
+      "excerpt": "Aktuelle Studie: Sophos State of Ransomware in Retail 2026 All About SECURITY",
+      "summary": "Aktuelle Studie: Sophos State of Ransomware in Retail 2026 All About SECURITY",
+      "source": "All About SECURITY",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOckl4YTQtRzFtMEdXU1ZYYlJQaDFVd2J4SjlkbWNtRWxzM0NLRWhhYjR4ZU5tQm5NTUNzLVk4aU82MzJzQThMMEdQaDJyXzNSQ1puUE1SUnpxeEg1THFlUHVKbjlTMUlrUVg0eGlRM09RaGtaTWZ2aWRPZFE5ZmJyakliSHpRUTlMTjZHLWNLOV9KWUtXTTFN?oc=5",
+      "published": "2026-11-23T13:16:55+00:00",
       "category": "Security"
     },
     {
-      "id": "70cbe49446144ac9",
-      "title": "Armee-Software sagt Satellitenüberflüge vorher",
-      "excerpt": "Mit einer eigens entwickelten Webanwendung will die Armee künftig vorhersagen können, wann ein Gebiet von Satelliten erfasst wird. So sollen Truppen vor Angriffen geschützt werden.",
-      "summary": "Mit einer eigens entwickelten Webanwendung will die Armee künftig vorhersagen können, wann ein Gebiet von Satelliten erfasst wird. So sollen Truppen vor Angriffen geschützt werden.",
-      "source": "Inside IT",
-      "url": "https://www.inside-it.ch/armee-software-sagt-satellitenueberfluege-vorher-20261123",
-      "published": "2026-11-23T12:09:21+00:00",
-      "category": "IT Schweiz"
+      "id": "7ae4c01eb1149cee",
+      "title": "Ransomware-Schutz muss mit den Angriffen Schritt halten",
+      "excerpt": "Ransomware-Schutz muss mit den Angriffen Schritt halten B2B Cyber Security",
+      "summary": "Ransomware-Schutz muss mit den Angriffen Schritt halten B2B Cyber Security",
+      "source": "B2B Cyber Security",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSlBBcmx0RHd2S3BJUUNVd3kwaWRBRVlpdGtCcUp4Uk5SVTFCbE5kUU94UmpVTnlPV3VFTDA0OU0zZnYzLXZpN0pXSHhnS2tpUkJuYWw5UjJjZ0VaeEM3UnFHWGppTlY2c1hyckNDb2lxTjBxUnFkR3RQYzJXUDBiZzNkeWVWdlhDaDdsQ2otMA?oc=5",
+      "published": "2026-11-23T11:44:46+00:00",
+      "category": "Security"
     },
     {
-      "id": "301ab4dba4cbf89f",
-      "title": "Daten abgeflossen: Microsoft gesteht Datenpanne bei Entra Connect Health",
-      "excerpt": "Angreifer haben über eine Sicherheitslücke bei Microsoft Entra Connect Health Daten von On-Premises-Systemen abgegriffen. Betroffene werden informiert. ( Sicherheitslücke , Microsoft )",
-      "summary": "Angreifer haben über eine Sicherheitslücke bei Microsoft Entra Connect Health Daten von On-Premises-Systemen abgegriffen. Betroffene werden informiert. ( Sicherheitslücke , Microsoft )",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/daten-abgeflossen-microsoft-gesteht-datenpanne-bei-entra-connect-health-2611-215534.html",
-      "published": "2026-11-23T11:56:01+00:00",
-      "category": "Security"
+      "id": "d5bd4c00e2201a60",
+      "title": "KI-Governance: IEEE 2863 setzt 17 Prinzipien für Unternehmen fest - BornCity",
+      "excerpt": "KI-Governance: IEEE 2863 setzt 17 Prinzipien für Unternehmen fest BornCity",
+      "summary": "KI-Governance: IEEE 2863 setzt 17 Prinzipien für Unternehmen fest BornCity",
+      "source": "BornCity / Microsoft To Do",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZTFnUGp6R3hPVmhCY2kzc1ZmRTRobUxORm90SnR0T3pweDZNRXVwc0kyVzdNUUhjS2VKRU4tX29wSFAyTG9SbGdaUWF1XzQ5UUdjcWdJRUI2MGViT2NBQmRxZUFGV3ZkXzlHYTVJM1czWFdMajFwUHB1OXE4Q0tZbjRlcUN5M2g0VWJPZ3hhRklZb0NKaGtR?oc=5",
+      "published": "2026-11-23T11:04:04+00:00",
+      "category": "Firmen"
     },
     {
       "id": "4b01dff127f91010",
@@ -211,16 +261,6 @@
       "category": "Security"
     },
     {
-      "id": "b407dca5f06acd23",
-      "title": "GL.iNet: Unzählige Router über Cloud des Herstellers kompromittiert",
-      "excerpt": "Angreifer haben über die Cloud von GL.iNet Malware auf Router und KVM-Geräte geschleust. Die Updates des Herstellers helfen wohl nur teilweise. ( Sicherheitslücke , Virus )",
-      "summary": "Angreifer haben über die Cloud von GL.iNet Malware auf Router und KVM-Geräte geschleust. Die Updates des Herstellers helfen wohl nur teilweise. ( Sicherheitslücke , Virus )",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/gl-inet-unzaehlige-router-ueber-cloud-des-herstellers-kompromittiert-2611-215523.html",
-      "published": "2026-11-23T10:15:02+00:00",
-      "category": "Cloud"
-    },
-    {
       "id": "01cdd634233519df",
       "title": "Angreifer lesen Konfigurationsdaten von Microsoft-Kunden aus - IT-Markt",
       "excerpt": "Angreifer lesen Konfigurationsdaten von Microsoft-Kunden aus IT-Markt",
@@ -238,17 +278,7 @@
       "source": "heise online",
       "url": "https://www.heise.de/news/Nach-Cyberangriff-Hugendubel-Tolino-Cloud-und-eBook-de-gestoert-11534213.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "published": "2026-11-23T09:49:00+00:00",
-      "category": "Security"
-    },
-    {
-      "id": "617e896ac37ff862",
-      "title": "Wird Arm-Chef Haas der neue Nvidia-CEO? - it-daily.net",
-      "excerpt": "Wird Arm-Chef Haas der neue Nvidia-CEO? it-daily.net",
-      "summary": "Wird Arm-Chef Haas der neue Nvidia-CEO? it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50cTV5YU4tRk13V0pkQ0VEWm9KMGxZVm1rYVdFeS1SQ0ptUVBLcXhraTY2eC1SSG1yZ05Gcmt5QUpueTNzTE1IQ1FoVmZZaU53UmpPenpmWW5Od3h5ZlNrYmFrNUxwZ1c0eUh0NVRaVTJOQQ?oc=5",
-      "published": "2026-11-23T08:47:00+00:00",
-      "category": "Firmen"
+      "category": "Cloud"
     },
     {
       "id": "b6c1346d9938306d",
@@ -271,26 +301,6 @@
       "category": "Markt"
     },
     {
-      "id": "a92e9b9368b7d647",
-      "title": "GhostScript Schwachstelle Upload2Shell (CVE-2026-125396) gefährdet Apps und Webseiten - BornCity",
-      "excerpt": "GhostScript Schwachstelle Upload2Shell (CVE-2026-125396) gefährdet Apps und Webseiten BornCity",
-      "summary": "GhostScript Schwachstelle Upload2Shell (CVE-2026-125396) gefährdet Apps und Webseiten BornCity",
-      "source": "BornCity",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa3ZUWm5IdkJ2azlqdnpWMXU3N2VINk92Y21HYUhqLXpTbncxZU1NTm1MOGVpRm5Gck9JQmxBZVprNHplamVrQ0lHRzcwYWtESVdldWV6OE5aTlE1QjhMaGdWdkFjR05pbEwyRU83NjB0MUJxNC1CTFdxeTcyLW9HMlo4cC1kQ3ZfQXFhdDRR?oc=5",
-      "published": "2026-11-22T23:46:07+00:00",
-      "category": "Security"
-    },
-    {
-      "id": "ee88db8b22361297",
-      "title": "Gehirn in die Cloud laden: 6 Wege, wie Forscher unser Bewusstsein retten wollen - t3n",
-      "excerpt": "Gehirn in die Cloud laden: 6 Wege, wie Forscher unser Bewusstsein retten wollen t3n",
-      "summary": "Gehirn in die Cloud laden: 6 Wege, wie Forscher unser Bewusstsein retten wollen t3n",
-      "source": "t3n",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxMUFxcHVNTDRnT3dEU0h0R3dXdVRyYUZQUWM1ZWRPTDZIU1FidzB5anVNYUpTWUt2VlJPSXlZOGItUzY0VFpmWC1nRkYyakpBVzRlQlh4b1U3SkM2aFRJYnhSTVpmXzJUa1NPOVNBYlVoNGlfZmJfZg?oc=5",
-      "published": "2026-11-22T09:50:00+00:00",
-      "category": "Cloud"
-    },
-    {
       "id": "8be660a91783b732",
       "title": "KI macht komplexe Legierungen zugänglicher - IT-Markt",
       "excerpt": "KI macht komplexe Legierungen zugänglicher IT-Markt",
@@ -299,16 +309,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTjZNZmxydXcybk1wYkoyb2VXd0xiZm1wcEFqajloUVhLWHhsRjFhZE84c0NCcEN1RU9JWjRVTE9JblhHQV9RWFdMcmNIaUJGUkZwVXA3eUtKUkE4ZDlHdWJMT0phaFlwU3ZzNE9PNHJFajRjN0VhSDR0alBkQ2VJY1l3Z08yZ0ctMFhZ?oc=5",
       "published": "2026-11-22T08:00:00+00:00",
       "category": "Markt"
-    },
-    {
-      "id": "b50b5168396c0e06",
-      "title": "Kann Nvidia KI-Chips orten? Das sagt das Unternehmen hinter verschlossenen Türen - t3n",
-      "excerpt": "Kann Nvidia KI-Chips orten? Das sagt das Unternehmen hinter verschlossenen Türen t3n",
-      "summary": "Kann Nvidia KI-Chips orten? Das sagt das Unternehmen hinter verschlossenen Türen t3n",
-      "source": "t3n",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzdXJ1OThjRGNFVDZ5VHp5dFZxVUx3czM3cUx1bVZGbEo5Qnh0SDhibFBQb1VlejJpb3JMYmRyMmNpNTBuM1BUYmZpN0NmRzhxZlFYcTBwWHBHbC05M1pr?oc=5",
-      "published": "2026-11-21T17:10:00+00:00",
-      "category": "Firmen"
     },
     {
       "id": "f61d26a4181fe567",
@@ -351,7 +351,7 @@
       "category": "Trends"
     }
   ],
-  "updatedAt": "2026-11-24T07:30:10.723811+00:00",
+  "updatedAt": "2026-11-24T09:18:44.784302+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -370,6 +370,6 @@
     "Markt": 5,
     "Firmen": 5
   },
-  "warning": "2 von 32 RSS-Quellen waren nicht erreichbar.",
+  "warning": "",
   "aiSummaries": false
 }
