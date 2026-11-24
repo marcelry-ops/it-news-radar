@@ -65,6 +65,22 @@ ADDITIONAL_SITES = [
 ]
 FEEDS += [(publisher, google_rss('site:' + site), None)
           for publisher, site in ADDITIONAL_SITES]
+
+# Additional discovery of Swiss IT acquisitions and company developments.
+# Existing direct feeds and searches remain in place.
+SWISS_BUSINESS_SITES = {
+ 'IT Reseller': 'itreseller.ch',
+ 'Netzwoche': 'netzwoche.ch',
+ 'Inside IT': 'inside-it.ch',
+}
+BUSINESS_QUERIES = [
+ 'IT (übernimmt OR Übernahme OR kauft OR akquiriert OR Fusion)',
+ '(Technologieberatung OR IT-Dienstleister OR Softwarefirma) (Übernahme OR übernimmt OR Zusammenschluss)',
+ '(Partnerschaft OR Beteiligung OR Akquisition) (IT OR Technologie OR Software)',
+]
+FEEDS += [(publisher + ' / Firmen', google_rss('site:' + domain + ' ' + query), 'Firmen')
+          for publisher, domain in SWISS_BUSINESS_SITES.items() for query in BUSINESS_QUERIES]
+
 # Personnel changes: exclusively the three requested Swiss IT publishers.
 PERSON_SITES = {
  'IT Reseller': 'itreseller.ch',
@@ -91,6 +107,9 @@ CH = re.compile(r'\b(schweiz|schweizer|schweizerisch|schweizerische|schweizerisc
 TRENDS = re.compile(r'\b(trend|trends|innovation|forschung|zukunft|technologiewandel|kuenstliche intelligenz|künstliche intelligenz|generative ki|ki-modell|robotik|quantentechnologie|automatisierung|digitalisierung)\b', re.I)
 MARKT = re.compile(r'\b(markt|marktanteil|umsatz|wachstum|absatz|nachfrage|investition|branchenanalyse|konjunktur|preis|prognose|geschäftsjahr|geschaeftsjahr)\b', re.I)
 FIRMEN = re.compile(r'\b(unternehmen|firma|firmen|konzern|startup|start-up|übernahme|uebernahme|fusion|partnerschaft|ceo|geschäftsführung|geschaeftsfuehrung|mitarbeiter|standort|gründung|gruendung|akquisition)\b', re.I)
+SWISS_BUSINESS_ACTION = re.compile(r'\b(übernimmt|uebernimmt|übernahme|uebernahme|kauft|gekauft|akquiriert|akquisition|fusioniert|fusion|zusammenschluss|beteiligung|partnerschaft|schliesst\s+sich\s+zusammen)\b', re.I)
+SWISS_TECH_COMPANY = re.compile(r'\b(technologieberatung|tech[- ]?beratung|it[- ]?beratung|it[- ]?dienstleister|softwarehaus|softwarefirma|technologieunternehmen|informatikunternehmen|ict[- ]?unternehmen|it[- ]?unternehmen|digitalunternehmen|cybersecurity[- ]?unternehmen|cloud[- ]?anbieter)\b', re.I)
+
 # A role mention alone is not a personnel change: require a concrete personnel action.
 PERSON_ROLE = re.compile(r'\b(ceo|cio|cto|cfo|ciso|chef(?:in)?|leiter(?:in)?|geschäftsführer(?:in)?|geschäftsleitung|verwaltungsrat|präsident(?:in)?|direktor(?:in)?|führung|management|personal(?:ie|ien)|mitarbeiter(?:in)?)\b', re.I)
 PERSON_CHANGE = re.compile(r'\b(personalwechsel|führungswechsel|fuehrungswechsel|chefwechsel|ernannt|ernennung|befördert|beförderung|berufen|neubesetzung|nachfolge|nachfolger(?:in)?|wechselt|wechsel(?:t)?|verlässt|verlaesst|rücktritt|ruecktritt|zurückgetreten|zurueckgetreten|tritt\s+zurück|tritt\s+zurueck|übernimmt|uebernimmt|übernahme\s+der\s+leitung|neu\s+(?:im|in\s+der)\s+(?:team|geschäftsleitung)|neuer?\s+(?:ceo|cio|cto|cfo|ciso|chef|leiter|geschäftsführer|präsident)|neue\s+(?:ceo|cio|cto|cfo|ciso|chefin|leiterin|geschäftsführerin|präsidentin)|tritt\s+an|steigt\s+auf|rückt\s+auf|rueckt\s+auf|abgang|abgänge|abgaenge|personelle\s+veränderung(?:en)?)\b', re.I)
@@ -167,6 +186,17 @@ def extract(feed):
  return results
 
 
+def swiss_business_story(item):
+ # Only classify business transactions as Swiss IT news when there is evidence
+ # of the Swiss market or a Swiss specialist publisher and a technology context.
+ title = item['title']
+ text = title + ' ' + item.get('excerpt', '')[:800]
+ origin = item.get('feedSource', '')
+ swiss_publisher = origin in SWISS_BUSINESS_SITES or any(origin == n + ' / Firmen' for n in SWISS_BUSINESS_SITES)
+ has_tech = bool(SWISS_TECH_COMPANY.search(text) or IT.search(text))
+ return bool(SWISS_BUSINESS_ACTION.search(title) and has_tech and (CH.search(text) or swiss_publisher))
+
+
 def eligible(item, category):
  text = item['title'] + ' ' + item['excerpt']
  title = item['title']
@@ -179,11 +209,11 @@ def eligible(item, category):
  if category == 'Microsoft 365': return bool(M365.search(text))
  if category == 'IT Schweiz':
   swiss_publisher = item.get('source') in {'IT Reseller', 'Netzwoche', 'Inside IT'}
-  return bool(IT.search(text) and (CH.search(text) or swiss_publisher))
+  return bool(swiss_business_story(item) or (IT.search(text) and (CH.search(text) or swiss_publisher)))
  if category == 'Cloud': return bool(CLOUD.search(text))
  if category == 'Trends': return bool(TRENDS.search(text) and IT.search(text))
  if category == 'Markt': return bool(MARKT.search(text) and IT.search(text))
- if category == 'Firmen': return bool(FIRMEN.search(text) and IT.search(text))
+ if category == 'Firmen': return bool(swiss_business_story(item) or (FIRMEN.search(text) and IT.search(text)))
  return False
 
 
@@ -193,6 +223,7 @@ def score(item, category):
  points = max(0, 70 - hours * .6)
  if item['feedHint'] == category: points += 14
  if category == 'IT Schweiz' and CH.search(title): points += 35
+ if category in ('IT Schweiz', 'Firmen') and swiss_business_story(item): points += 45
  if category == 'Microsoft 365' and M365.search(title): points += 30
  # Product retirement/deprecation is an operationally important M365 change.
  if category == 'Microsoft 365' and re.search(r'\b(microsoft to[ -]?do|microsoft planner)\b', title, re.I) and re.search(r'\b(eingestellt|einstellung|abschaltung|abgek[uü]ndigt|ende|retired|retirement|discontinued)\b', text, re.I): points += 45
@@ -308,6 +339,37 @@ def select(items):
  return chosen, counts
 
 
+def build_diagnostics(raw_items, chosen, failures):
+ # Written to a separate file; no verbose warnings in the public dashboard.
+ # This covers parsed candidates; feed entries rejected before extraction cannot
+ # be diagnosed individually. Inspect feedFailures for inaccessible feeds.
+ candidates = deduplicate(raw_items)
+ kept = {x['id'] for x in candidates}
+ chosen_categories = {}
+ for row in chosen:
+  chosen_categories.setdefault(row['id'], []).append(row['category'])
+ selected_by_category = {cat: {x['id'] for x in chosen if x['category'] == cat} for cat in TARGETS}
+ details = []
+ for item in raw_items:
+  categories = [cat for cat in TARGETS if eligible(item, cat)]
+  if item['id'] not in kept:
+   status = 'duplicate_or_similar_story'
+  elif item['id'] in chosen_categories:
+   status = 'selected'
+  elif not categories:
+   status = 'topic_filter'
+  else:
+   status = 'not_in_top_limit_or_allocated_to_other_category'
+  details.append({'title': item['title'], 'url': item['url'], 'source': item['source'],
+                  'published': item['published'], 'eligibleCategories': categories,
+                  'selectedCategories': chosen_categories.get(item['id'], []), 'status': status})
+ return {'updatedAt': NOW.isoformat(), 'feedFailures': failures,
+         'rawCandidates': len(raw_items), 'uniqueCandidates': len(candidates),
+         'selectedPerCategory': {cat: len(ids) for cat, ids in selected_by_category.items()},
+         'articles': details[:1500],
+         'note': 'Nur aus RSS/Atom erfolgreich extrahierte Artikel; nicht alle Artikel der Verlagswebseiten.'}
+
+
 def main():
  results = []; failures = []
  with ThreadPoolExecutor(max_workers=6) as executor:
@@ -317,6 +379,7 @@ def main():
    except Exception as exc:
     failures.append(feed[0]); print('Feed failed:', feed[0], str(exc)[:150])
  chosen, counts = select(results)
+ Path('news_diagnostics.json').write_text(json.dumps(build_diagnostics(results, chosen, failures), ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
  if not chosen and Path('news.json').exists():
   print('No suitable articles; retaining previous dataset'); return
  missing = [f'{TARGETS[c]-counts[c]} × {c}' for c in TARGETS if counts[c] < TARGETS[c]]
