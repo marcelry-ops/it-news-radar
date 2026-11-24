@@ -11,16 +11,6 @@
       "category": "Cloud"
     },
     {
-      "id": "e9f317651e20050f",
-      "title": "Windows 11: Neues People-Widget bündelt WhatsApp, Outlook und Phone Link - BornCity",
-      "excerpt": "Windows 11: Neues People-Widget bündelt WhatsApp, Outlook und Phone Link BornCity",
-      "summary": "Windows 11: Neues People-Widget bündelt WhatsApp, Outlook und Phone Link BornCity",
-      "source": "BornCity / Microsoft To Do",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ29lVmhGd1FUalA1Qm1sOWVGUUM0UERXZ1JYSk4xRlVtcjRlbDE1SHk3UVZzZ3QtSXdCcms1dS16REVoQ0M3UzFjVlRNME9EeGY1OEdzTFZDXzR1TlB2ZU5QUUJmcmtkS3BQY2U5UUZFYzhISE9NUEVzMnBfMXVJN0gyb1VVYWNQaHNmMEdKbEdSMXg5eW9uSjIyMG04MXc?oc=5",
-      "published": "2026-11-24T18:06:04+00:00",
-      "category": "Microsoft 365"
-    },
-    {
       "id": "d313b1ced464cbe1",
       "title": "heise+ | Interview mit Scott Sellers: Die Zukunft von KI-Anwendungen heißt Java",
       "excerpt": "JavaSPEKTRUM sprach mit Scott Sellers, CEO und Co-Founder von Azul über die Rolle von Java bei der Zukunft von KI. Das Interview führe Michael Stal in München.",
@@ -51,23 +41,13 @@
       "category": "Trends"
     },
     {
-      "id": "c889666b0d5f0ba5",
-      "title": "The Gentlemen drohen Nvidia mit Datenleck am 28. November - it-daily.net",
-      "excerpt": "The Gentlemen drohen Nvidia mit Datenleck am 28. November it-daily.net",
-      "summary": "The Gentlemen drohen Nvidia mit Datenleck am 28. November it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBITWxadXFlRjNZcEt4OWw2Q09zN1RZenRqN3JuMk8xNkZYZV9ySjItM1U0NzdFcEFpbDZOX05EWWl1d0hEQ0pIdkIybW9IQnkwNlQtT1pBZzZtRUFLVGxjeDl1YkRJVml5MmJEYWpJSQ?oc=5",
-      "published": "2026-11-24T13:58:00+00:00",
-      "category": "Security"
-    },
-    {
-      "id": "efb69944b3354f5d",
-      "title": "KI-Agenten nutzen Zero-Day in N-able Mail Assure aus - it-daily.net",
-      "excerpt": "KI-Agenten nutzen Zero-Day in N-able Mail Assure aus it-daily.net",
-      "summary": "KI-Agenten nutzen Zero-Day in N-able Mail Assure aus it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9EbGl0Y0xQTDNIejVhYi1wMm03M2JPUi1Ya0lvNVd2bzlSZWpwcFJEamQzdnFIV0VMS0prSnZwT2drQ0Z2MURmVi1Ka3NaQmYzNDJ1UW5oZjdQMWFab2ZTSTdpcjZUNjBodXNncnN3?oc=5",
-      "published": "2026-11-24T13:50:34+00:00",
+      "id": "2c64e0b5ac5d63e6",
+      "title": "Zocken auf dem PC: Angreifer locken GTA-6-Fans in die Malware-Falle",
+      "excerpt": "Viele würden GTA 6 am liebsten schon jetzt auf dem PC zocken. Angreifer nutzen das aus und ködern mit angeblichem Cloudgaming. ( Malware , API )",
+      "summary": "Viele würden GTA 6 am liebsten schon jetzt auf dem PC zocken. Angreifer nutzen das aus und ködern mit angeblichem Cloudgaming. ( Malware , API )",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/zocken-auf-dem-pc-hacker-locken-gta-6-fans-in-die-malware-falle-2611-215581.html",
+      "published": "2026-11-24T11:54:01+00:00",
       "category": "Security"
     },
     {
@@ -181,6 +161,16 @@
       "category": "Firmen"
     },
     {
+      "id": "9fe2688c922ce03e",
+      "title": "Microsoft 365: Targeted Release endet, Admins müssen Pilotgruppen anpassen",
+      "excerpt": "Microsoft 365: Targeted Release endet, Admins müssen Pilotgruppen anpassen ad-hoc-news.de",
+      "summary": "Microsoft 365: Targeted Release endet, Admins müssen Pilotgruppen anpassen ad-hoc-news.de",
+      "source": "ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcWN5NGxuSDAtMWU3LWI1cjRwbnROcVRLelVWSjlPdk1pQ18xemtXb0dmVmtOc2FJSjFocEk1LXlaNVJuZjNnbzc5UXVVempOZThWRnIzcVc0RVp0M283ejIwZDZWMUpzcmdQMFlkbmtRRVVlMFUwVkVhWnR2SWFvTE5pc0JiemJaTUpPTHlzM0tTYmZad1IzX2hneTJyUUEzTUhsSjBsZ2NMS0dOSGgxT182NEh1VUViZWdzOFp0aw?oc=5",
+      "published": "2026-11-24T08:03:05+00:00",
+      "category": "Microsoft 365"
+    },
+    {
       "id": "6bd82bdba23a69fd",
       "title": "GPT-Auswahl: KI-Dienste für Unternehmen besser bewerten - it-daily.net",
       "excerpt": "GPT-Auswahl: KI-Dienste für Unternehmen besser bewerten it-daily.net",
@@ -281,13 +271,23 @@
       "category": "IT Schweiz"
     },
     {
-      "id": "4b01dff127f91010",
-      "title": "Robotik-Startup Coprod erhält 6 Millionen",
-      "excerpt": "Die Coprod-Plattform soll die Entwicklung spezialisierter Roboter vereinfachen. Während die Entwicklung in Lausanne geschehen soll, ist die Fertigung in China und den USA geplant.",
-      "summary": "Die Coprod-Plattform soll die Entwicklung spezialisierter Roboter vereinfachen. Während die Entwicklung in Lausanne geschehen soll, ist die Fertigung in China und den USA geplant.",
-      "source": "Inside IT",
-      "url": "https://www.inside-it.ch/robotik-startup-coprod-erhaelt-6-millionen-20261123",
-      "published": "2026-11-23T11:00:04+00:00",
+      "id": "fbc7816f508556a5",
+      "title": "Aktuelle Studie: Sophos State of Ransomware in Retail 2026",
+      "excerpt": "Aktuelle Studie: Sophos State of Ransomware in Retail 2026 All About SECURITY",
+      "summary": "Aktuelle Studie: Sophos State of Ransomware in Retail 2026 All About SECURITY",
+      "source": "All About SECURITY",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOckl4YTQtRzFtMEdXU1ZYYlJQaDFVd2J4SjlkbWNtRWxzM0NLRWhhYjR4ZU5tQm5NTUNzLVk4aU82MzJzQThMMEdQaDJyXzNSQ1puUE1SUnpxeEg1THFlUHVKbjlTMUlrUVg0eGlRM09RaGtaTWZ2aWRPZFE5ZmJyakliSHpRUTlMTjZHLWNLOV9KWUtXTTFN?oc=5",
+      "published": "2026-11-23T13:16:55+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "d5bd4c00e2201a60",
+      "title": "KI-Governance: IEEE 2863 setzt 17 Prinzipien für Unternehmen fest - BornCity",
+      "excerpt": "KI-Governance: IEEE 2863 setzt 17 Prinzipien für Unternehmen fest BornCity",
+      "summary": "KI-Governance: IEEE 2863 setzt 17 Prinzipien für Unternehmen fest BornCity",
+      "source": "BornCity / Microsoft To Do",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZTFnUGp6R3hPVmhCY2kzc1ZmRTRobUxORm90SnR0T3pweDZNRXVwc0kyVzdNUUhjS2VKRU4tX29wSFAyTG9SbGdaUWF1XzQ5UUdjcWdJRUI2MGViT2NBQmRxZUFGV3ZkXzlHYTVJM1czWFdMajFwUHB1OXE4Q0tZbjRlcUN5M2g0VWJPZ3hhRklZb0NKaGtR?oc=5",
+      "published": "2026-11-23T11:04:04+00:00",
       "category": "Firmen"
     },
     {
@@ -351,7 +351,7 @@
       "category": "Firmen"
     }
   ],
-  "updatedAt": "2026-11-24T21:04:16.745951+00:00",
+  "updatedAt": "2026-11-24T22:07:48.807910+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
