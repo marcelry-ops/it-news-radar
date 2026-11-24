@@ -31,13 +31,13 @@
       "category": "Trends"
     },
     {
-      "id": "efb69944b3354f5d",
-      "title": "KI-Agenten nutzen Zero-Day in N-able Mail Assure aus - it-daily.net",
-      "excerpt": "KI-Agenten nutzen Zero-Day in N-able Mail Assure aus it-daily.net",
-      "summary": "KI-Agenten nutzen Zero-Day in N-able Mail Assure aus it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9EbGl0Y0xQTDNIejVhYi1wMm03M2JPUi1Ya0lvNVd2bzlSZWpwcFJEamQzdnFIV0VMS0prSnZwT2drQ0Z2MURmVi1Ka3NaQmYzNDJ1UW5oZjdQMWFab2ZTSTdpcjZUNjBodXNncnN3?oc=5",
-      "published": "2026-11-24T13:50:34+00:00",
+      "id": "2c64e0b5ac5d63e6",
+      "title": "Zocken auf dem PC: Angreifer locken GTA-6-Fans in die Malware-Falle",
+      "excerpt": "Viele würden GTA 6 am liebsten schon jetzt auf dem PC zocken. Angreifer nutzen das aus und ködern mit angeblichem Cloudgaming. ( Malware , API )",
+      "summary": "Viele würden GTA 6 am liebsten schon jetzt auf dem PC zocken. Angreifer nutzen das aus und ködern mit angeblichem Cloudgaming. ( Malware , API )",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/zocken-auf-dem-pc-hacker-locken-gta-6-fans-in-die-malware-falle-2611-215581.html",
+      "published": "2026-11-24T11:54:01+00:00",
       "category": "Security"
     },
     {
@@ -59,6 +59,26 @@
       "url": "https://www.heise.de/news/Datenleck-bei-Cleverbridge-Kreditkartendaten-abgegriffen-11535956.html",
       "published": "2026-11-24T11:17:00+00:00",
       "category": "Security"
+    },
+    {
+      "id": "f35e0c50d38da3bf",
+      "title": "Digitale Souveränität im Mittelstand: Wann sich ein eigener virtueller Server statt US-Cloud lohnt - it-daily.net",
+      "excerpt": "Digitale Souveränität im Mittelstand: Wann sich ein eigener virtueller Server statt US-Cloud lohnt it-daily.net",
+      "summary": "Digitale Souveränität im Mittelstand: Wann sich ein eigener virtueller Server statt US-Cloud lohnt it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObEk1Qzl0MktuS1VEUmZXVUs0QUxQX2lONmx2d0UwcGc3M0VudklJMzBPUEJENWRmMzBrZ3VkLVRackh4ZVZkR1A3dl85YktqZWwxRDZzaXdObnBIQkIyZXBIakZ3S1EwN3d2MFh5cWp2QXBEOTRaR2MtWUYzVl8yS2ZVU1plOHM0cUpBVFFLZGtJUXJZQjRqaXlzOUM?oc=5",
+      "published": "2026-11-24T11:02:00+00:00",
+      "category": "Cloud"
+    },
+    {
+      "id": "92a23cfe3096005a",
+      "title": "Generative KI in Deutschland: 81 Prozent nutzen sie, 90 Prozent sehen Risiken - BornCity",
+      "excerpt": "Generative KI in Deutschland: 81 Prozent nutzen sie, 90 Prozent sehen Risiken BornCity",
+      "summary": "Generative KI in Deutschland: 81 Prozent nutzen sie, 90 Prozent sehen Risiken BornCity",
+      "source": "BornCity",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUU9fcmlaZldXY0RHMERwanYzampLbm5hZjF0M1dsMEEzbkdSRDJwREwwMjFIQ2Q4dWlGcXI2NE43WXFmTVJEOFB3QkdwNXpnYzFXbXNOc1VEVEltWThPVW9aaXlmNGI5TFlJQ1ZBY2o1Vmdsd2hhV3R6UTc2X1B0NUw3R18ydWljeUJPWjRxTVNVY1h2bHV3aFBXSlA4TmdSZ0pCcw?oc=5",
+      "published": "2026-11-24T11:01:05+00:00",
+      "category": "Trends"
     },
     {
       "id": "72c4be38c065dc2b",
@@ -171,16 +191,6 @@
       "category": "Cloud"
     },
     {
-      "id": "91b6c06cb16b7bec",
-      "title": "Cloud- und KI-Gesetz: Positionsentwurf des Europaparlaments liegt endlich vor",
-      "excerpt": "Eigentlich sollte er seit Tagen da sein: der Entwurf der Berichterstatter des Europaparlaments zum „Cloud and AI Development Act“ (CADA) liegt endlich vor.",
-      "summary": "Eigentlich sollte er seit Tagen da sein: der Entwurf der Berichterstatter des Europaparlaments zum „Cloud and AI Development Act“ (CADA) liegt endlich vor.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Cloud-und-KI-Gesetz-Positionsentwurf-des-Europaparlaments-liegt-endlich-vor-11535512.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published": "2026-11-24T07:19:00+00:00",
-      "category": "Cloud"
-    },
-    {
       "id": "8ee5b0e43a1899ff",
       "title": "HPE steigert Umsatz um 50 Prozent - Swiss IT Reseller",
       "excerpt": "HPE steigert Umsatz um 50 Prozent Swiss IT Reseller",
@@ -228,16 +238,6 @@
       "source": "ComputerBase",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc3RXcWhJV0tmSkRheFdkb1RNM0tJRHI5U0t1djA2a3paSjlWMTJ4RGVrZGxKTDFnUXY1NVdQWFhRV2ZNQWt2WERiNkwwS3lIamhsWFBCWUZzSTd1Q3J4dkctXzRwYzcyVTdJZ3VBLUVhbzJ2YVQwWUc2bndPMWhPQmJNUWUxM2tETGY4UEJBZkZJd0NHX3JsNFZpbzhSQ0FWVDZfNzdZdTRGQWFWMEJWQ1pmQnNQNUd4VWFCNA?oc=5",
       "published": "2026-11-23T20:45:00+00:00",
-      "category": "Trends"
-    },
-    {
-      "id": "cafe2150ada18e0e",
-      "title": "Künstliche Intelligenz: Wie KI-Assistenten verschlüsselte Messenger unsicher machen - Netzpolitik.org",
-      "excerpt": "Künstliche Intelligenz: Wie KI-Assistenten verschlüsselte Messenger unsicher machen Netzpolitik.org",
-      "summary": "Künstliche Intelligenz: Wie KI-Assistenten verschlüsselte Messenger unsicher machen Netzpolitik.org",
-      "source": "netzpolitik.org",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbGxLcnFDNC1ScTh0OG9LcUVMQXFEeXc1NGZ2a0djYmV2c3dVNGVFdXhIVGJzUEkwZzBlZGpMSFVaUHl2N1N0amFldFdDdllzU0lVbXF4TmdBMlBMT0xmSlJaclRtZWt2Wi1PX1lFT2ZpdU9JLWViWGJEYWs0dXFKZUFqSWlhcUt2V2ZHVmU2ajlkZlhic3lCTEpVVFBNWE56dWowS1c4bU9UdnlSaHNmQXd2V0I?oc=5",
-      "published": "2026-11-23T15:08:04+00:00",
       "category": "Trends"
     },
     {
@@ -351,7 +351,7 @@
       "category": "Firmen"
     }
   ],
-  "updatedAt": "2026-11-24T16:24:43.600880+00:00",
+  "updatedAt": "2026-11-24T18:01:00.866466+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -372,6 +372,6 @@
     "Firmen": 5,
     "Personen": 0
   },
-  "warning": "Nicht genügend passende aktuelle Meldungen: 10 × Personen.",
+  "warning": "Nicht genügend passende aktuelle Meldungen: 10 × Personen. 1 von 50 RSS-Quellen waren nicht erreichbar.",
   "aiSummaries": false
 }
