@@ -1,13 +1,33 @@
 {
   "items": [
     {
-      "id": "2c64e0b5ac5d63e6",
-      "title": "Zocken auf dem PC: Angreifer locken GTA-6-Fans in die Malware-Falle",
-      "excerpt": "Viele würden GTA 6 am liebsten schon jetzt auf dem PC zocken. Angreifer nutzen das aus und ködern mit angeblichem Cloudgaming. ( Malware , API )",
-      "summary": "Viele würden GTA 6 am liebsten schon jetzt auf dem PC zocken. Angreifer nutzen das aus und ködern mit angeblichem Cloudgaming. ( Malware , API )",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/zocken-auf-dem-pc-hacker-locken-gta-6-fans-in-die-malware-falle-2611-215581.html",
-      "published": "2026-11-24T11:54:01+00:00",
+      "id": "e30f25ce6b51a75d",
+      "title": "Bending Spoons kauft Mailchimp",
+      "excerpt": "Das italienische Technologieunternehmen übernimmt die E-Mail-Marketing-Plattform von Intuit für rund 3,7 Milliarden Dollar.",
+      "summary": "Das italienische Technologieunternehmen übernimmt die E-Mail-Marketing-Plattform von Intuit für rund 3,7 Milliarden Dollar.",
+      "source": "Inside IT",
+      "url": "https://www.inside-it.ch/bending-spoons-kauft-mailchimp-20261124",
+      "published": "2026-11-24T15:04:18+00:00",
+      "category": "IT Schweiz"
+    },
+    {
+      "id": "74eb333fbcefba51",
+      "title": "Zoll-Digitalisierung erreicht gesteckte Ziele fast",
+      "excerpt": "In den vergangenen acht Jahren hat der Schweizer Zoll seine Geschäftsprozesse umfassend digitalisiert. Von den 70 Projekten erreichen fünf das gesteckte Ziel nicht.",
+      "summary": "In den vergangenen acht Jahren hat der Schweizer Zoll seine Geschäftsprozesse umfassend digitalisiert. Von den 70 Projekten erreichen fünf das gesteckte Ziel nicht.",
+      "source": "Inside IT",
+      "url": "https://www.inside-it.ch/zoll-digitalisierung-erreicht-gesteckte-ziele-fast-20261124",
+      "published": "2026-11-24T14:39:33+00:00",
+      "category": "Trends"
+    },
+    {
+      "id": "efb69944b3354f5d",
+      "title": "KI-Agenten nutzen Zero-Day in N-able Mail Assure aus - it-daily.net",
+      "excerpt": "KI-Agenten nutzen Zero-Day in N-able Mail Assure aus it-daily.net",
+      "summary": "KI-Agenten nutzen Zero-Day in N-able Mail Assure aus it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9EbGl0Y0xQTDNIejVhYi1wMm03M2JPUi1Ya0lvNVd2bzlSZWpwcFJEamQzdnFIV0VMS0prSnZwT2drQ0Z2MURmVi1Ka3NaQmYzNDJ1UW5oZjdQMWFab2ZTSTdpcjZUNjBodXNncnN3?oc=5",
+      "published": "2026-11-24T13:50:34+00:00",
       "category": "Security"
     },
     {
@@ -101,13 +121,13 @@
       "category": "Firmen"
     },
     {
-      "id": "4d7d6e6378d47001",
-      "title": "Audi startet connected work: Outlook und Teams in 28 Ländern im Auto - BornCity",
-      "excerpt": "Audi startet connected work: Outlook und Teams in 28 Ländern im Auto BornCity",
-      "summary": "Audi startet connected work: Outlook und Teams in 28 Ländern im Auto BornCity",
-      "source": "BornCity / Microsoft To Do",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdUR3RVhwbjhodWtYRVNwNy1BWWE4by0tcUFlQU1nYVAtUDFXZmpBX1UwbmZ1Umx1ZENIRnZOY3RUZkV2QUl3a3hnWUVxdnFvWHYwRTZOdDBWU0VaSTJqbEk3X1FiY0hYZjBoQnZyZ2xTaldfQnpXZzRMTnQ1SThkZURkaWlRRUt3anNYY2dESWplZ0xZS0gzUzlsZw?oc=5",
-      "published": "2026-11-24T08:29:05+00:00",
+      "id": "9fe2688c922ce03e",
+      "title": "Microsoft 365: Targeted Release endet, Admins müssen Pilotgruppen anpassen",
+      "excerpt": "Microsoft 365: Targeted Release endet, Admins müssen Pilotgruppen anpassen ad-hoc-news.de",
+      "summary": "Microsoft 365: Targeted Release endet, Admins müssen Pilotgruppen anpassen ad-hoc-news.de",
+      "source": "ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcWN5NGxuSDAtMWU3LWI1cjRwbnROcVRLelVWSjlPdk1pQ18xemtXb0dmVmtOc2FJSjFocEk1LXlaNVJuZjNnbzc5UXVVempOZThWRnIzcVc0RVp0M283ejIwZDZWMUpzcmdQMFlkbmtRRVVlMFUwVkVhWnR2SWFvTE5pc0JiemJaTUpPTHlzM0tTYmZad1IzX2hneTJyUUEzTUhsSjBsZ2NMS0dOSGgxT182NEh1VUViZWdzOFp0aw?oc=5",
+      "published": "2026-11-24T08:03:05+00:00",
       "category": "Microsoft 365"
     },
     {
@@ -141,6 +161,16 @@
       "category": "Cloud"
     },
     {
+      "id": "154a0622ab6b2b10",
+      "title": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse - Swiss IT Reseller",
+      "excerpt": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse Swiss IT Reseller",
+      "summary": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse Swiss IT Reseller",
+      "source": "IT Reseller / Firmen",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY3JBZmg3bDJmVlJjSXVCZmlSUWdNNkcyVUhjWDQ5eFJYcWZQZGowcUtJQlRaVGwweDBLOVc1c1g1YkVSeTRzZDhNZUJWclQycy1VRzBtM2hEN012dzdJTTZSWmswZEtJRUtNNzF3dkRGLUp0QTZONktKMlJ2Ymxib3l0NkJEdmFyZ2RlN3V0b3ZYOF9UZkpwa1AwUU1rNS10TE5vVS1vbm5zb0Nk?oc=5",
+      "published": "2026-11-24T07:12:00+00:00",
+      "category": "IT Schweiz"
+    },
+    {
       "id": "8ee5b0e43a1899ff",
       "title": "HPE steigert Umsatz um 50 Prozent - Swiss IT Reseller",
       "excerpt": "HPE steigert Umsatz um 50 Prozent Swiss IT Reseller",
@@ -148,7 +178,17 @@
       "source": "IT Reseller / Firmen",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNM3BRaXVRQkhrVHJLRmQ2SEtHa2M5bmV4ZHY2cVBKa0xUM1Nrc3h6SXYwR0VnbU5kdnNIemlOc2w4S2h0bXZDMS1UUlUzV3lxV3UzZWk2OVlCQm5zT3VKX3E1NFFXN292cHltZ3pIdXp3Y2pKam5tbFZzTWJwUENELUNYSGhKdw?oc=5",
       "published": "2026-11-24T07:12:00+00:00",
-      "category": "IT Schweiz"
+      "category": "Markt"
+    },
+    {
+      "id": "48f6cf571c9179f0",
+      "title": "Bending Spoons kauft Mailchimp - Inside IT",
+      "excerpt": "Bending Spoons kauft Mailchimp Inside IT",
+      "summary": "Bending Spoons kauft Mailchimp Inside IT",
+      "source": "Inside IT / Firmen",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56SWpfQWxfR2hwRWhGc3NEaHJRN2taRGVOVnRPcEJ5c1FHMC13THFPNDJnNUNhMXYwbGtNNHFoVmZzOFJXMlZrLTNnZmF5aFd0SzY0NnVNQ3pLZHQwRFZvS0J4R0NQN0R3aTV1MW5SUEgyZw?oc=5",
+      "published": "2026-11-24T06:04:00+00:00",
+      "category": "Firmen"
     },
     {
       "id": "7752aea542c6aa6e",
@@ -179,16 +219,6 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc3RXcWhJV0tmSkRheFdkb1RNM0tJRHI5U0t1djA2a3paSjlWMTJ4RGVrZGxKTDFnUXY1NVdQWFhRV2ZNQWt2WERiNkwwS3lIamhsWFBCWUZzSTd1Q3J4dkctXzRwYzcyVTdJZ3VBLUVhbzJ2YVQwWUc2bndPMWhPQmJNUWUxM2tETGY4UEJBZkZJd0NHX3JsNFZpbzhSQ0FWVDZfNzdZdTRGQWFWMEJWQ1pmQnNQNUd4VWFCNA?oc=5",
       "published": "2026-11-23T20:45:00+00:00",
       "category": "Trends"
-    },
-    {
-      "id": "6e489559cfaf96ee",
-      "title": "NameDrop: US-Start-up verklagt Apple in Indien auf 160 Millionen Dollar",
-      "excerpt": "Die Firma hinter der App StayTouch sieht durch Apples NameDrop ein indisches Patent verletzt. Sie fordert Schadenersatz und will die Funktion stoppen lassen.",
-      "summary": "Die Firma hinter der App StayTouch sieht durch Apples NameDrop ein indisches Patent verletzt. Sie fordert Schadenersatz und will die Funktion stoppen lassen.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/NameDrop-US-Start-up-verklagt-Apple-in-Indien-auf-160-Millionen-Dollar-11535196.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published": "2026-11-23T17:25:00+00:00",
-      "category": "Firmen"
     },
     {
       "id": "cafe2150ada18e0e",
@@ -228,7 +258,7 @@
       "source": "Inside IT",
       "url": "https://www.inside-it.ch/crowdstrike-uebernimmt-zscaler-fuer-knapp-44-milliarden-20261123",
       "published": "2026-11-23T13:17:10+00:00",
-      "category": "IT Schweiz"
+      "category": "Firmen"
     },
     {
       "id": "fbc7816f508556a5",
@@ -271,16 +301,6 @@
       "category": "Markt"
     },
     {
-      "id": "83f79a15432f1b42",
-      "title": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse",
-      "excerpt": "Oliver Wymann, ein Unternehmen des Marsh-Konzerns, kaut mit Synpulse in der Schweiz zu. Das Zürcher Tech-Beratungshaus ist auf den Finanzsektor spezialisiert und soll nun unter anderem seine KI-Expertise beisteuern.",
-      "summary": "Oliver Wymann, ein Unternehmen des Marsh-Konzerns, kaut mit Synpulse in der Schweiz zu. Das Zürcher Tech-Beratungshaus ist auf den Finanzsektor spezialisiert und soll nun unter anderem seine KI-Expertise beisteuern.",
-      "source": "IT Reseller",
-      "url": "https://www.itreseller.ch/Artikel/106663/Oliver_Wyman_uebernimmt_Zuercher_Technologieberatung_Synpulse_.html",
-      "published": "2026-11-23T08:21:02+00:00",
-      "category": "IT Schweiz"
-    },
-    {
       "id": "b6c1346d9938306d",
       "title": "Google baut KI-Suche mit Gemini 4 Hydrogen aus – was sich für Schweizer Unternehmen und KMU ändert",
       "excerpt": "Google baut KI-Suche mit Gemini 4 Hydrogen aus – was sich für Schweizer Unternehmen und KMU ändert Swiss-Press.com",
@@ -289,6 +309,16 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUm5TV2JpbnBlamcyaXA5Wk85SGp2M3ViNkU0YXQ0R1RGU0dKLWNfcGtZMGxCeHdZY05LOHFqdU1jWFllZUctYm41V3piODY1MkJBdE9IZkxkTEtvNF9sQUJnLUxEWGJ5SWt2Wk9jU2dJLV8wYUV1d1h4ODlKS1l5a05yeC1oRnZ6THc?oc=5",
       "published": "2026-11-23T07:59:07+00:00",
       "category": "Firmen"
+    },
+    {
+      "id": "5d3d5c31e17afc9c",
+      "title": "Palo Alto Networks übernimmt KI-Start-up für 4,5 Milliarden Dollar - Swiss IT Reseller",
+      "excerpt": "Palo Alto Networks übernimmt KI-Start-up für 4,5 Milliarden Dollar Swiss IT Reseller",
+      "summary": "Palo Alto Networks übernimmt KI-Start-up für 4,5 Milliarden Dollar Swiss IT Reseller",
+      "source": "IT Reseller / Firmen",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeWJMTG5Vc0ZWSDBkUmhvZEJxS1FqRWRsVGRtcnNiM3VQS1h5UXowRFBhbkdOZC1IWTVmZTE2SktpWHl0cWUya29uc3FQMjhiWGNpWFk4UXFrdVhWSmlCZHBoUm9HMHhoVkRmcWRIZElMekktRk9vbnUyQjV3SWtDbzZRV2xkSUZMZFhUTWhvWlUxcWZhRjMwbm1qMmJTSjRENktpOVowRnJqdy1IOUVaNTRvRQ?oc=5",
+      "published": "2026-11-23T07:12:00+00:00",
+      "category": "IT Schweiz"
     },
     {
       "id": "b5a5510cf36a8571",
@@ -319,49 +349,9 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM2tKSHhFMlBqbEgwNm9JbEhHN2pwR01HRUJEdV8tSVJrNEFFeFhEblRuQ2Y3d2V2ejEyTEh6UElGQ2owVFR4UlB6Vk5TZzNlYllSaWdXVmVPMG81ekdEY2pqdWh1cHRqX0VENEdlVVlEY3JxQVlCdW1vWVlqdnBpd0FMNGdwNkFiNzZTanhKTldWN2tzdTJfTkFlTQ?oc=5",
       "published": "2026-11-21T05:25:04+00:00",
       "category": "Microsoft 365"
-    },
-    {
-      "id": "a31ed4515686ebb9",
-      "title": "Elia Ferrari - IT-Markt",
-      "excerpt": "Elia Ferrari IT-Markt",
-      "summary": "Elia Ferrari IT-Markt",
-      "source": "IT-Markt",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDNGpGNmllQkVvX1BaXzJ6aWtvWUx4SWMtRHNEQmFEcXAtUVdfNjZXUkxYX08tUHBpRmRRNXFLbU96UlZjMU1FTC1qcHZKYm9JTS1v?oc=5",
-      "published": "2026-11-20T20:09:28+00:00",
-      "category": "Markt"
-    },
-    {
-      "id": "a2e59dfd78ce1c90",
-      "title": "Die Top 5 Technologie-Trends 2027 von Capgemini - Computerwoche",
-      "excerpt": "Die Top 5 Technologie-Trends 2027 von Capgemini Computerwoche",
-      "summary": "Die Top 5 Technologie-Trends 2027 von Capgemini Computerwoche",
-      "source": "Computerwoche",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTklka3k4Snp4bi1aaUhDT29rUGpOOVQyc0FGVkNoYm5majRLUEYzdDdFUDdnd3dseTVKMHdhUTJWZzNVUW45S3JOcG44YWdYeWZfdm5jR2dnVTZPMFJiRUNHUjA5NkdPajVobXpESUxQQmxZdnhLTXU3eTdlSlVYaVc5YXVDV1gtU0dMYjNOUWFtSXBmdUlUeEVWY3Fldw?oc=5",
-      "published": "2026-11-20T15:14:42+00:00",
-      "category": "Trends"
-    },
-    {
-      "id": "f54c953af1041f65",
-      "title": "Palo Alto Networks übernimmt KI-Start-up für 4,5 Milliarden Dollar",
-      "excerpt": "Palo Alto Networks will den KI-Spezialisten Applied Compute übernehmen. Mit der Akquisition verstärkt der Security-Anbieter sein Portfolio um eine Plattform für das Training und den sicheren Betrieb von KI-Modellen.",
-      "summary": "Palo Alto Networks will den KI-Spezialisten Applied Compute übernehmen. Mit der Akquisition verstärkt der Security-Anbieter sein Portfolio um eine Plattform für das Training und den sicheren Betrieb von KI-Modellen.",
-      "source": "IT Reseller",
-      "url": "https://www.itreseller.ch/Artikel/106656/Palo_Alto_Networks_uebernimmt_KI-Start-up_fuer_45_Milliarden_Dollar.html",
-      "published": "2026-11-20T13:14:26+00:00",
-      "category": "Firmen"
-    },
-    {
-      "id": "ef8cb18517cf8ea5",
-      "title": "IT-S Group übernimmt Allnet Solutions",
-      "excerpt": "Die IT-S Group rund um Geschäftsführer Rolf Geiger (links) baut ihre Präsenz in der Deutschschweiz durch die Integration von Allnet Solutions mit Sitz in Urdorf auf. Der Standort von Allnet Solutions soll unter der Leitung von Andy Scheurer (rechts) mit dem bestehenden Team erhalten bleiben.",
-      "summary": "Die IT-S Group rund um Geschäftsführer Rolf Geiger (links) baut ihre Präsenz in der Deutschschweiz durch die Integration von Allnet Solutions mit Sitz in Urdorf auf. Der Standort von Allnet Solutions soll unter der Leitung von Andy Scheurer (rechts) mit dem be",
-      "source": "IT Reseller",
-      "url": "https://www.itreseller.ch/Artikel/106644/IT-S_Group_uebernimmt_Allnet_Solutions.html",
-      "published": "2026-11-19T06:58:15+00:00",
-      "category": "Personen"
     }
   ],
-  "updatedAt": "2026-11-24T13:43:28.635124+00:00",
+  "updatedAt": "2026-11-24T15:14:02.087279+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -380,8 +370,8 @@
     "Trends": 5,
     "Markt": 5,
     "Firmen": 5,
-    "Personen": 1
+    "Personen": 0
   },
-  "warning": "Nicht genügend passende aktuelle Meldungen: 9 × Personen.",
+  "warning": "Nicht genügend passende aktuelle Meldungen: 10 × Personen. 1 von 50 RSS-Quellen waren nicht erreichbar.",
   "aiSummaries": false
 }
