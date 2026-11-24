@@ -101,13 +101,13 @@
       "category": "Firmen"
     },
     {
-      "id": "9fe2688c922ce03e",
-      "title": "Microsoft 365: Targeted Release endet, Admins müssen Pilotgruppen anpassen",
-      "excerpt": "Microsoft 365: Targeted Release endet, Admins müssen Pilotgruppen anpassen ad-hoc-news.de",
-      "summary": "Microsoft 365: Targeted Release endet, Admins müssen Pilotgruppen anpassen ad-hoc-news.de",
-      "source": "ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcWN5NGxuSDAtMWU3LWI1cjRwbnROcVRLelVWSjlPdk1pQ18xemtXb0dmVmtOc2FJSjFocEk1LXlaNVJuZjNnbzc5UXVVempOZThWRnIzcVc0RVp0M283ejIwZDZWMUpzcmdQMFlkbmtRRVVlMFUwVkVhWnR2SWFvTE5pc0JiemJaTUpPTHlzM0tTYmZad1IzX2hneTJyUUEzTUhsSjBsZ2NMS0dOSGgxT182NEh1VUViZWdzOFp0aw?oc=5",
-      "published": "2026-11-24T08:03:05+00:00",
+      "id": "4d7d6e6378d47001",
+      "title": "Audi startet connected work: Outlook und Teams in 28 Ländern im Auto - BornCity",
+      "excerpt": "Audi startet connected work: Outlook und Teams in 28 Ländern im Auto BornCity",
+      "summary": "Audi startet connected work: Outlook und Teams in 28 Ländern im Auto BornCity",
+      "source": "BornCity / Microsoft To Do",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdUR3RVhwbjhodWtYRVNwNy1BWWE4by0tcUFlQU1nYVAtUDFXZmpBX1UwbmZ1Umx1ZENIRnZOY3RUZkV2QUl3a3hnWUVxdnFvWHYwRTZOdDBWU0VaSTJqbEk3X1FiY0hYZjBoQnZyZ2xTaldfQnpXZzRMTnQ1SThkZURkaWlRRUt3anNYY2dESWplZ0xZS0gzUzlsZw?oc=5",
+      "published": "2026-11-24T08:29:05+00:00",
       "category": "Microsoft 365"
     },
     {
@@ -145,29 +145,9 @@
       "title": "HPE steigert Umsatz um 50 Prozent - Swiss IT Reseller",
       "excerpt": "HPE steigert Umsatz um 50 Prozent Swiss IT Reseller",
       "summary": "HPE steigert Umsatz um 50 Prozent Swiss IT Reseller",
-      "source": "IT Reseller / Personen",
+      "source": "IT Reseller / Firmen",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNM3BRaXVRQkhrVHJLRmQ2SEtHa2M5bmV4ZHY2cVBKa0xUM1Nrc3h6SXYwR0VnbU5kdnNIemlOc2w4S2h0bXZDMS1UUlUzV3lxV3UzZWk2OVlCQm5zT3VKX3E1NFFXN292cHltZ3pIdXp3Y2pKam5tbFZzTWJwUENELUNYSGhKdw?oc=5",
       "published": "2026-11-24T07:12:00+00:00",
-      "category": "IT Schweiz"
-    },
-    {
-      "id": "ca2dd1015569ae24",
-      "title": "Elovade erweitert KI-Portfolio um Goodweek - Swiss IT Reseller",
-      "excerpt": "Elovade erweitert KI-Portfolio um Goodweek Swiss IT Reseller",
-      "summary": "Elovade erweitert KI-Portfolio um Goodweek Swiss IT Reseller",
-      "source": "IT Reseller / Personen",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONlVfVkMzMDdKdXRjME85eGNUYkJLZ09jZWwxdUwxcnRHeXdLdHJRNjNlZ09JdV8zdGlsVHkxNmRtUkw3ZnlvcERDZnhtX1k2dTkwYWxnb1VHUE5PNTZRVjJ1MldXemxSdjd5TmpVQlBSNDJHTGlTTFV2UzMwXzB2eWQtUkJOWFVvQ2E2eXRSUERzQQ?oc=5",
-      "published": "2026-11-24T05:02:14+00:00",
-      "category": "IT Schweiz"
-    },
-    {
-      "id": "0e1fb200b74ed6eb",
-      "title": "Gut ist längst nicht mehr gut genug - Swiss IT Reseller",
-      "excerpt": "Gut ist längst nicht mehr gut genug Swiss IT Reseller",
-      "summary": "Gut ist längst nicht mehr gut genug Swiss IT Reseller",
-      "source": "IT Reseller / Personen",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQTN6RFRxYk1TeVhJdU96dU5YRUJFQVpsZ3Y2UTNwMWVQUVcxcHhFLTVXM3FwT0tHTktKdzIxOVdobXdqODJ2VmpKNlpaeUF6NTVQZGEzSFlXYnNzRVJKd2ZOUmRMOTZKckNwMlM2TWFkVnpWSUFVNExrM1VfQlRnWHdLTWpTTkg2cXc?oc=5",
-      "published": "2026-11-24T02:42:35+00:00",
       "category": "IT Schweiz"
     },
     {
@@ -241,6 +221,16 @@
       "category": "Markt"
     },
     {
+      "id": "25ef254a2236d2c7",
+      "title": "Crowdstrike übernimmt Zscaler für knapp 44 Milliarden",
+      "excerpt": "Mit dem Zusammenschluss will Crowdstrike seine Falcon-Plattform um Netzwerk- und Zero-Trust-Sicherheit erweitern.",
+      "summary": "Mit dem Zusammenschluss will Crowdstrike seine Falcon-Plattform um Netzwerk- und Zero-Trust-Sicherheit erweitern.",
+      "source": "Inside IT",
+      "url": "https://www.inside-it.ch/crowdstrike-uebernimmt-zscaler-fuer-knapp-44-milliarden-20261123",
+      "published": "2026-11-23T13:17:10+00:00",
+      "category": "IT Schweiz"
+    },
+    {
       "id": "fbc7816f508556a5",
       "title": "Aktuelle Studie: Sophos State of Ransomware in Retail 2026",
       "excerpt": "Aktuelle Studie: Sophos State of Ransomware in Retail 2026 All About SECURITY",
@@ -281,14 +271,14 @@
       "category": "Markt"
     },
     {
-      "id": "617e896ac37ff862",
-      "title": "Wird Arm-Chef Haas der neue Nvidia-CEO? - it-daily.net",
-      "excerpt": "Wird Arm-Chef Haas der neue Nvidia-CEO? it-daily.net",
-      "summary": "Wird Arm-Chef Haas der neue Nvidia-CEO? it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50cTV5YU4tRk13V0pkQ0VEWm9KMGxZVm1rYVdFeS1SQ0ptUVBLcXhraTY2eC1SSG1yZ05Gcmt5QUpueTNzTE1IQ1FoVmZZaU53UmpPenpmWW5Od3h5ZlNrYmFrNUxwZ1c0eUh0NVRaVTJOQQ?oc=5",
-      "published": "2026-11-23T08:47:00+00:00",
-      "category": "Firmen"
+      "id": "83f79a15432f1b42",
+      "title": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse",
+      "excerpt": "Oliver Wymann, ein Unternehmen des Marsh-Konzerns, kaut mit Synpulse in der Schweiz zu. Das Zürcher Tech-Beratungshaus ist auf den Finanzsektor spezialisiert und soll nun unter anderem seine KI-Expertise beisteuern.",
+      "summary": "Oliver Wymann, ein Unternehmen des Marsh-Konzerns, kaut mit Synpulse in der Schweiz zu. Das Zürcher Tech-Beratungshaus ist auf den Finanzsektor spezialisiert und soll nun unter anderem seine KI-Expertise beisteuern.",
+      "source": "IT Reseller",
+      "url": "https://www.itreseller.ch/Artikel/106663/Oliver_Wyman_uebernimmt_Zuercher_Technologieberatung_Synpulse_.html",
+      "published": "2026-11-23T08:21:02+00:00",
+      "category": "IT Schweiz"
     },
     {
       "id": "b6c1346d9938306d",
@@ -351,6 +341,16 @@
       "category": "Trends"
     },
     {
+      "id": "f54c953af1041f65",
+      "title": "Palo Alto Networks übernimmt KI-Start-up für 4,5 Milliarden Dollar",
+      "excerpt": "Palo Alto Networks will den KI-Spezialisten Applied Compute übernehmen. Mit der Akquisition verstärkt der Security-Anbieter sein Portfolio um eine Plattform für das Training und den sicheren Betrieb von KI-Modellen.",
+      "summary": "Palo Alto Networks will den KI-Spezialisten Applied Compute übernehmen. Mit der Akquisition verstärkt der Security-Anbieter sein Portfolio um eine Plattform für das Training und den sicheren Betrieb von KI-Modellen.",
+      "source": "IT Reseller",
+      "url": "https://www.itreseller.ch/Artikel/106656/Palo_Alto_Networks_uebernimmt_KI-Start-up_fuer_45_Milliarden_Dollar.html",
+      "published": "2026-11-20T13:14:26+00:00",
+      "category": "Firmen"
+    },
+    {
       "id": "ef8cb18517cf8ea5",
       "title": "IT-S Group übernimmt Allnet Solutions",
       "excerpt": "Die IT-S Group rund um Geschäftsführer Rolf Geiger (links) baut ihre Präsenz in der Deutschschweiz durch die Integration von Allnet Solutions mit Sitz in Urdorf auf. Der Standort von Allnet Solutions soll unter der Leitung von Andy Scheurer (rechts) mit dem bestehenden Team erhalten bleiben.",
@@ -361,7 +361,7 @@
       "category": "Personen"
     }
   ],
-  "updatedAt": "2026-11-24T13:27:37.317484+00:00",
+  "updatedAt": "2026-11-24T13:43:28.635124+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
