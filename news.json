@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "id": "91b6c06cb16b7bec",
+      "title": "Cloud- und KI-Gesetz: Positionsentwurf des Europaparlaments liegt endlich vor",
+      "excerpt": "Eigentlich sollte er seit Tagen da sein: der Entwurf der Berichterstatter des Europaparlaments zum „Cloud and AI Development Act“ (CADA) liegt endlich vor.",
+      "summary": "Eigentlich sollte er seit Tagen da sein: der Entwurf der Berichterstatter des Europaparlaments zum „Cloud and AI Development Act“ (CADA) liegt endlich vor.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Cloud-und-KI-Gesetz-Positionsentwurf-des-Europaparlaments-liegt-endlich-vor-11535512.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published": "2026-11-24T07:19:00+00:00",
+      "category": "Cloud"
+    },
+    {
+      "id": "1f27ec6f35d7c471",
+      "title": "Microsoft Copilot: Nadella positioniert KI-Assistent als Betriebssystem der Arbeit - BornCity",
+      "excerpt": "Microsoft Copilot: Nadella positioniert KI-Assistent als Betriebssystem der Arbeit BornCity",
+      "summary": "Microsoft Copilot: Nadella positioniert KI-Assistent als Betriebssystem der Arbeit BornCity",
+      "source": "BornCity / Microsoft To Do",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdUVMeTBhYTJkVkx4Tm1kQ2RubWtIeUNzMDlRdXFKR081aGZ1QkJoejVBSEhwaVZKa2RYNVhsNXR3eTRKZ2NiS21VZ1F5amMtcXZwS3AyTkVtU3hpRWVoOG5tcXVhMkE1QkdUUDF5eWpDNExabjh0NUl6T1BEVWctclBZaGlGRVhtbnhCSUNwaG1NQ0oxRWh4bFV0aEYydFJzZG5QUEZIN2JyVHo0?oc=5",
+      "published": "2026-11-24T06:52:04+00:00",
+      "category": "Microsoft 365"
+    },
+    {
       "id": "7752aea542c6aa6e",
       "title": "Microsoft To Do wird zum 30. Juni 2027 eingestellt - BornCity",
       "excerpt": "Microsoft To Do wird zum 30. Juni 2027 eingestellt BornCity",
@@ -49,16 +69,6 @@
       "url": "https://www.golem.de/news/aws-trainium-amazon-kauft-ki-chip-optimierung-von-decart-ai-fuer-7-5-milliarden-us-dollar-2611-215557.html",
       "published": "2026-11-23T18:00:01+00:00",
       "category": "Cloud"
-    },
-    {
-      "id": "40dfba37aad132bd",
-      "title": "Microsoft To Do wird zum 30. Juni 2027 beerdigt",
-      "excerpt": "Microsoft To Do wird zum 30. Juni 2027 beerdigt appgefahren.de",
-      "summary": "Microsoft To Do wird zum 30. Juni 2027 beerdigt appgefahren.de",
-      "source": "appgefahren.de",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMVNCaFVlR0NlRThMR1R1NlFnenJwOWNOaFBEaGdTWm5kV2xiSG1WaXExUU1nOXBiYkdXWm0wMTJ6MmtYMXNOcTZFQ2FCQVNtYzhnQ05JMldwZ1J3X3pHM1NaZFRKdjNyQzZfZzJzc3doMi1wMnFXeFBnNlRtb2NIZXdEYkgzZXVLV01ndzZXYVIzMzRqRVJSTmxFQ1kxa21lc3ZSS3VyVG92OTVHM2ZlYXMwUQ?oc=5",
-      "published": "2026-11-23T17:36:11+00:00",
-      "category": "Microsoft 365"
     },
     {
       "id": "e4056e07dbc00292",
@@ -131,6 +141,16 @@
       "category": "Markt"
     },
     {
+      "id": "49c7b6fb915a220e",
+      "title": "Jahrhundertdeal: Crowdstrike kauft Zscaler für 44 Milliarden Dollar und fordert Microsoft heraus",
+      "excerpt": "Der Milliardendeal vereint Endgeräte- und Cloud-Sicherheit unter einem Dach. Microsoft und Palo Alto Networks bekommen einen mächtigen Rivalen. ( Crowdstrike , Security )",
+      "summary": "Der Milliardendeal vereint Endgeräte- und Cloud-Sicherheit unter einem Dach. Microsoft und Palo Alto Networks bekommen einen mächtigen Rivalen. ( Crowdstrike , Security )",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/jahrhundertdeal-crowdstrike-uebernimmt-zscaler-fuer-44-milliarden-us-dollar-2611-215542.html",
+      "published": "2026-11-23T14:30:02+00:00",
+      "category": "Cloud"
+    },
+    {
       "id": "25ef254a2236d2c7",
       "title": "Crowdstrike übernimmt Zscaler für knapp 44 Milliarden",
       "excerpt": "Mit dem Zusammenschluss will Crowdstrike seine Falcon-Plattform um Netzwerk- und Zero-Trust-Sicherheit erweitern.",
@@ -141,33 +161,33 @@
       "category": "IT Schweiz"
     },
     {
-      "id": "fbc7816f508556a5",
-      "title": "Aktuelle Studie: Sophos State of Ransomware in Retail 2026",
-      "excerpt": "Aktuelle Studie: Sophos State of Ransomware in Retail 2026 All About SECURITY",
-      "summary": "Aktuelle Studie: Sophos State of Ransomware in Retail 2026 All About SECURITY",
-      "source": "All About SECURITY",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOckl4YTQtRzFtMEdXU1ZYYlJQaDFVd2J4SjlkbWNtRWxzM0NLRWhhYjR4ZU5tQm5NTUNzLVk4aU82MzJzQThMMEdQaDJyXzNSQ1puUE1SUnpxeEg1THFlUHVKbjlTMUlrUVg0eGlRM09RaGtaTWZ2aWRPZFE5ZmJyakliSHpRUTlMTjZHLWNLOV9KWUtXTTFN?oc=5",
-      "published": "2026-11-23T13:16:55+00:00",
+      "id": "370e743d1d7fbe01",
+      "title": "(g+) Intune, Defender und Co.: Warum teure Security-Lizenzen allein nicht schützen",
+      "excerpt": "Intune, Defender und Co. sind aktiviert - trotzdem können Sicherheitslücken bleiben. Entscheidend ist die richtige Konfiguration. Ein Ratgebertext von Aaron Siller ( Security , Windows Intune )",
+      "summary": "Intune, Defender und Co. sind aktiviert - trotzdem können Sicherheitslücken bleiben. Entscheidend ist die richtige Konfiguration. Ein Ratgebertext von Aaron Siller ( Security , Windows Intune )",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/intune-defender-und-co-warum-teure-security-lizenzen-allein-nicht-schuetzen-2611-215531.html",
+      "published": "2026-11-23T12:30:01+00:00",
       "category": "Security"
     },
     {
-      "id": "7ae4c01eb1149cee",
-      "title": "Ransomware-Schutz muss mit den Angriffen Schritt halten",
-      "excerpt": "Ransomware-Schutz muss mit den Angriffen Schritt halten B2B Cyber Security",
-      "summary": "Ransomware-Schutz muss mit den Angriffen Schritt halten B2B Cyber Security",
-      "source": "B2B Cyber Security",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSlBBcmx0RHd2S3BJUUNVd3kwaWRBRVlpdGtCcUp4Uk5SVTFCbE5kUU94UmpVTnlPV3VFTDA0OU0zZnYzLXZpN0pXSHhnS2tpUkJuYWw5UjJjZ0VaeEM3UnFHWGppTlY2c1hyckNDb2lxTjBxUnFkR3RQYzJXUDBiZzNkeWVWdlhDaDdsQ2otMA?oc=5",
-      "published": "2026-11-23T11:44:46+00:00",
-      "category": "Security"
+      "id": "70cbe49446144ac9",
+      "title": "Armee-Software sagt Satellitenüberflüge vorher",
+      "excerpt": "Mit einer eigens entwickelten Webanwendung will die Armee künftig vorhersagen können, wann ein Gebiet von Satelliten erfasst wird. So sollen Truppen vor Angriffen geschützt werden.",
+      "summary": "Mit einer eigens entwickelten Webanwendung will die Armee künftig vorhersagen können, wann ein Gebiet von Satelliten erfasst wird. So sollen Truppen vor Angriffen geschützt werden.",
+      "source": "Inside IT",
+      "url": "https://www.inside-it.ch/armee-software-sagt-satellitenueberfluege-vorher-20261123",
+      "published": "2026-11-23T12:09:21+00:00",
+      "category": "IT Schweiz"
     },
     {
-      "id": "912b778c07c60f33",
-      "title": "BSI: IT-Sicherheitslage in Deutschland angespannt bis kritisch",
-      "excerpt": "BSI: IT-Sicherheitslage in Deutschland angespannt bis kritisch B2B Cyber Security",
-      "summary": "BSI: IT-Sicherheitslage in Deutschland angespannt bis kritisch B2B Cyber Security",
-      "source": "B2B Cyber Security",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYUw3d0NSUnJFNndkdk1IQzdvU3h5VDVEQVpaVllBdl9FaXZLQnJfZEhGY2xvZ3ZHYV9ZUHJHeEVpS0locXVkcGZhZEt3ejJPN0hEdmtEWERrS1BkMklVdXc2aE1aLTZwa0Q0eW5ZWlg5cTVqTzEzVVBuNzBDby13ZHpzZmdPb0RZb2NPUjhCemtPaXFFak5F?oc=5",
-      "published": "2026-11-23T11:44:46+00:00",
+      "id": "301ab4dba4cbf89f",
+      "title": "Daten abgeflossen: Microsoft gesteht Datenpanne bei Entra Connect Health",
+      "excerpt": "Angreifer haben über eine Sicherheitslücke bei Microsoft Entra Connect Health Daten von On-Premises-Systemen abgegriffen. Betroffene werden informiert. ( Sicherheitslücke , Microsoft )",
+      "summary": "Angreifer haben über eine Sicherheitslücke bei Microsoft Entra Connect Health Daten von On-Premises-Systemen abgegriffen. Betroffene werden informiert. ( Sicherheitslücke , Microsoft )",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/daten-abgeflossen-microsoft-gesteht-datenpanne-bei-entra-connect-health-2611-215534.html",
+      "published": "2026-11-23T11:56:01+00:00",
       "category": "Security"
     },
     {
@@ -201,16 +221,6 @@
       "category": "Cloud"
     },
     {
-      "id": "5a1c47d505285f51",
-      "title": "Novistore gehört zu den ersten Schweizer Onlineshops, die direkt im KI-Assistenten einkaufen lassen",
-      "excerpt": "Novistore gehört zu den ersten Schweizer Onlineshops, die direkt im KI-Assistenten einkaufen lassen Presseportal Schweiz",
-      "summary": "Novistore gehört zu den ersten Schweizer Onlineshops, die direkt im KI-Assistenten einkaufen lassen Presseportal Schweiz",
-      "source": "Presseportal Schweiz",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZVI0Q2VZbVpIUDZYRkNMbFJVa0ZKZWpkeXlvZl9LODNSSkRFYzBjenNBTGFXQjdJRXROSGlTT1VTaUNSWUZ3WDR4MDJzeFhKVTFpa0Q4RV9WYUlNNWpDOGE0Vi1xSDRuMjZIWi1jLUlDc3lET1h2RFh5VjJZZ01DcjVQcmFXMmlQclJHLVpDay1nNmxmbTdvNU5EMDY3SWc1aHZEWG1RYWZXOERKZ1VfQ0VDTXNmbUFhWDRFLWxxWWNJY1J5TG01RnpiTlpTZ2fSAdQBQVVfeXFMUE40Q0dKd3NIa09QUTAyREkyc2JXTHU1YUdFZXBYMTk2NTVnSk16S2w1cVJIQ1JHV09HVkQzNERoUEgzTTUxcEc3V1lrVG9nX3FqbTkyUGRYZ0MxUWgyVEN1Q21DdFhVQVdhRTcyV0M1ajNRbE9Va0RmNkstV0YzcXVlblk3cnItUl80TjhVQ0JHQUpOMlNhREdTMEJ0eFZxT2dQVWdaMHFVbExSZUlwbGg2clFfTlE0Zzc3WVNqeF9fQWo0SFhqOHc1N0tvVGZ4ODlrcWM?oc=5",
-      "published": "2026-11-23T10:14:29+00:00",
-      "category": "IT Schweiz"
-    },
-    {
       "id": "01cdd634233519df",
       "title": "Angreifer lesen Konfigurationsdaten von Microsoft-Kunden aus - IT-Markt",
       "excerpt": "Angreifer lesen Konfigurationsdaten von Microsoft-Kunden aus IT-Markt",
@@ -228,7 +238,7 @@
       "source": "heise online",
       "url": "https://www.heise.de/news/Nach-Cyberangriff-Hugendubel-Tolino-Cloud-und-eBook-de-gestoert-11534213.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "published": "2026-11-23T09:49:00+00:00",
-      "category": "Cloud"
+      "category": "Security"
     },
     {
       "id": "617e896ac37ff862",
@@ -261,16 +271,6 @@
       "category": "Markt"
     },
     {
-      "id": "24e193167274acb8",
-      "title": "Sechs Trends, die laut Gartner das Software Engineering jetzt prägen - it-daily.net",
-      "excerpt": "Sechs Trends, die laut Gartner das Software Engineering jetzt prägen it-daily.net",
-      "summary": "Sechs Trends, die laut Gartner das Software Engineering jetzt prägen it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRWI5WFVUSUhWMTVGNGdhRk1wWExPUnlkMjhIR1JzNjFmQkpTTmZfblhCVHE1OExaTGxaZEVubTdlZXBVcVk5Zjkxb1N3bjg5c2ROY1pDcC0xbzMwMS11MGUzSWljTnlkcHMwd1c2bTNvS1QwcXhBOEhEcTdWYzV5Z1pYQU9HTkY2UGF4bUtB?oc=5",
-      "published": "2026-11-23T04:00:00+00:00",
-      "category": "Trends"
-    },
-    {
       "id": "a92e9b9368b7d647",
       "title": "GhostScript Schwachstelle Upload2Shell (CVE-2026-125396) gefährdet Apps und Webseiten - BornCity",
       "excerpt": "GhostScript Schwachstelle Upload2Shell (CVE-2026-125396) gefährdet Apps und Webseiten BornCity",
@@ -279,16 +279,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa3ZUWm5IdkJ2azlqdnpWMXU3N2VINk92Y21HYUhqLXpTbncxZU1NTm1MOGVpRm5Gck9JQmxBZVprNHplamVrQ0lHRzcwYWtESVdldWV6OE5aTlE1QjhMaGdWdkFjR05pbEwyRU83NjB0MUJxNC1CTFdxeTcyLW9HMlo4cC1kQ3ZfQXFhdDRR?oc=5",
       "published": "2026-11-22T23:46:07+00:00",
       "category": "Security"
-    },
-    {
-      "id": "9b4971c080b66f67",
-      "title": "GL.iNet-Sicherheitsvorfall bei Cloud-Fernverwaltung – Schadsoftware auf Routern - BornCity",
-      "excerpt": "GL.iNet-Sicherheitsvorfall bei Cloud-Fernverwaltung – Schadsoftware auf Routern BornCity",
-      "summary": "GL.iNet-Sicherheitsvorfall bei Cloud-Fernverwaltung – Schadsoftware auf Routern BornCity",
-      "source": "BornCity",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMklBQUQ2SklqVWVJUEpmWDQ4clpyWWYwX3NoYXZZakRMWnVhSGNIT01SN3dVS3pXNE0taV9jM1k0clhmenVTei1oc2pJZXJkdU9XemgxNXV1aV96TkRzMk5kaGh0dVNrMlh5RDhQMERLV0Y5aGNpZUZyYWpoTDYxeDR1OXhHaHBlaUVueEJqODg2NjgyS3FQeEFEQkoyNWlHNTlnRVNhOEo3aU1EckhObGt0Vi1LQQ?oc=5",
-      "published": "2026-11-22T11:26:15+00:00",
-      "category": "Cloud"
     },
     {
       "id": "ee88db8b22361297",
@@ -349,9 +339,19 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTklka3k4Snp4bi1aaUhDT29rUGpOOVQyc0FGVkNoYm5majRLUEYzdDdFUDdnd3dseTVKMHdhUTJWZzNVUW45S3JOcG44YWdYeWZfdm5jR2dnVTZPMFJiRUNHUjA5NkdPajVobXpESUxQQmxZdnhLTXU3eTdlSlVYaVc5YXVDV1gtU0dMYjNOUWFtSXBmdUlUeEVWY3Fldw?oc=5",
       "published": "2026-11-20T15:14:42+00:00",
       "category": "Trends"
+    },
+    {
+      "id": "086af95badb92bbd",
+      "title": "Trends 2027: Vorsprung durch Governance - it-daily.net",
+      "excerpt": "Trends 2027: Vorsprung durch Governance it-daily.net",
+      "summary": "Trends 2027: Vorsprung durch Governance it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lVnRkTURlNkRfQ18zWGFnLXMtWEs1d09EVW54TFFFckE3NTJUbXVZVGNVMnVfc1ZfTzE5ZFhtUl9xNjVheTJ2ci0weTM3QUpqSWcwUl9sU0pubDQ2MFNQYjhxZ082ZjdTeFFJcGw0eVp2V1dYOFFEYmJBMEU3dmc?oc=5",
+      "published": "2026-11-19T04:08:28+00:00",
+      "category": "Trends"
     }
   ],
-  "updatedAt": "2026-11-24T05:18:23.681265+00:00",
+  "updatedAt": "2026-11-24T07:30:10.723811+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -370,6 +370,6 @@
     "Markt": 5,
     "Firmen": 5
   },
-  "warning": "",
+  "warning": "2 von 32 RSS-Quellen waren nicht erreichbar.",
   "aiSummaries": false
 }
