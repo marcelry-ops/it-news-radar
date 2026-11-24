@@ -31,6 +31,13 @@
       "type": "vendor_search",
       "enabled": true,
       "domain": "labs.infoguard.ch"
+    },
+    {
+      "id": "vendor_mgdf7leq",
+      "name": "Security Insider",
+      "type": "vendor_search",
+      "enabled": true,
+      "domain": "security-insider.de"
     }
   ]
 }
