@@ -17,7 +17,7 @@ from pathlib import Path
 
 UTC = dt.timezone.utc
 NOW = dt.datetime.now(UTC)
-TARGETS = {'Security': 5, 'Microsoft 365': 5, 'IT Schweiz': 5, 'Cloud': 5, 'Trends': 5, 'Markt': 5, 'Firmen': 5}
+TARGETS = {'Security': 5, 'Microsoft 365': 5, 'IT Schweiz': 5, 'Cloud': 5, 'Trends': 5, 'Markt': 5, 'Firmen': 5, 'Personen': 10}
 MAX_AGE_DAYS = int(os.getenv('NEWS_MAX_AGE_DAYS', '7'))
 ATOM = '{http://www.w3.org/2005/Atom}'
 RSS_NS = '{http://purl.org/rss/1.0/modules/content/}'
@@ -65,6 +65,19 @@ ADDITIONAL_SITES = [
 ]
 FEEDS += [(publisher, google_rss('site:' + site), None)
           for publisher, site in ADDITIONAL_SITES]
+# Personnel changes: exclusively the three requested Swiss IT publishers.
+PERSON_SITES = {
+ 'IT Reseller': 'itreseller.ch',
+ 'Netzwoche': 'netzwoche.ch',
+ 'Inside IT': 'inside-it.ch',
+}
+PERSON_QUERIES = [
+ 'CEO OR CIO OR CTO OR Geschäftsleitung OR Verwaltungsrat OR Personalie',
+ 'ernannt OR übernimmt OR wechselt OR verlässt OR Nachfolge OR Beförderung',
+]
+FEEDS += [(publisher + ' / Personen', google_rss('site:' + domain + ' (' + query + ')'), 'Personen')
+          for publisher, domain in PERSON_SITES.items() for query in PERSON_QUERIES]
+
 # Focused discovery for major Microsoft product lifecycle announcements.
 FEEDS.append(('BornCity / Microsoft To Do', google_rss('site:borncity.com \"Microsoft To Do\" eingestellt'), 'Microsoft 365'))
 
@@ -77,6 +90,8 @@ CH = re.compile(r'\b(schweiz|schweizer|schweizerisch|schweizerische|schweizerisc
 TRENDS = re.compile(r'\b(trend|trends|innovation|forschung|zukunft|technologiewandel|kuenstliche intelligenz|künstliche intelligenz|generative ki|ki-modell|robotik|quantentechnologie|automatisierung|digitalisierung)\b', re.I)
 MARKT = re.compile(r'\b(markt|marktanteil|umsatz|wachstum|absatz|nachfrage|investition|branchenanalyse|konjunktur|preis|prognose|geschäftsjahr|geschaeftsjahr)\b', re.I)
 FIRMEN = re.compile(r'\b(unternehmen|firma|firmen|konzern|startup|start-up|übernahme|uebernahme|fusion|partnerschaft|ceo|geschäftsführung|geschaeftsfuehrung|mitarbeiter|standort|gründung|gruendung|akquisition)\b', re.I)
+PERSONNEL = re.compile(r'\b(personalie(?:n)?|personalwechsel|fuehrungswechsel|führungswechsel|chefwechsel|neuer?\s+(?:ceo|cio|cto|chef|chefin|leiter|leiterin|geschäftsführer|geschäftsführerin|präsident|präsidentin)|(?:ceo|cio|cto|cfo|geschäftsleitung|verwaltungsrat|führungsteam|management|geschäftsführer|geschäftsführerin|personalchef|personalchefin)|ernannt|ernennung|befördert|beförderung|übernimmt|uebernimmt|wechselt|wechsel|verlässt|verlaesst|tritt\s+zurück|tritt\s+zurueck|nachfolge|neubesetzung|berufen|personalentscheid|stellenabbau|entlassungen)\b', re.I)
+
 IT = re.compile(r'\b(it|ict|informatik|digitalisierung|technologie|software|hardware|ki|künstliche intelligenz|rechenzentrum|daten|netzwerk|telekommunikation|chip|internet|digital|cyber|cloud|startup|start-up)\b', re.I)
 
 
@@ -134,13 +149,18 @@ def extract(feed):
   if not title_valid(title): continue
   results.append({'id':hashlib.sha256(url.encode()).hexdigest()[:16], 'title':title, 'excerpt':description,
                   'summary':description[:260] or title, 'source':publisher, 'url':url,
-                  'published':published.isoformat(), 'feedHint':hint})
+                  'published':published.isoformat(), 'feedHint':hint, 'feedSource':name})
  return results
 
 
 def eligible(item, category):
  text = item['title'] + ' ' + item['excerpt']
  title = item['title']
+ if category == 'Personen':
+  # Only these publishers; generic Google News feeds do not qualify.
+  origin = item.get('feedSource', '')
+  approved = origin in PERSON_SITES or any(origin == name + ' / Personen' for name in PERSON_SITES)
+  return bool(approved and PERSONNEL.search(title) and (PERSONNEL.search(text)))
  if category == 'Security': return bool(SECURITY.search(text))
  if category == 'Microsoft 365': return bool(M365.search(text))
  if category == 'IT Schweiz':
@@ -256,12 +276,19 @@ def select(items):
  candidates = deduplicate(items)
  used = set(); chosen = []; counts = {}
  for category, target in TARGETS.items():
+  if category == 'Personen': continue
   pool = sorted((i for i in candidates if i['id'] not in used and eligible(i, category)), key=lambda i:score(i, category), reverse=True)
   selected = pool[:target]
   counts[category] = len(selected)
   for item in selected:
    used.add(item['id'])
-   chosen.append({**{k:v for k,v in item.items() if k != 'feedHint'}, 'category':category})
+   chosen.append({**{k:v for k,v in item.items() if k not in ('feedHint', 'feedSource')}, 'category':category})
+ # Independent personnel pool: existing categories retain their original selection.
+ # Do not let an article selected as Firmen/IT Schweiz displace a Personen item.
+ people = sorted((i for i in candidates if eligible(i, 'Personen')),
+                 key=lambda i: parse_date(i['published']) or dt.datetime.min.replace(tzinfo=UTC), reverse=True)[:TARGETS['Personen']]
+ counts['Personen'] = len(people)
+ chosen.extend({**{k:v for k,v in item.items() if k not in ('feedHint', 'feedSource')}, 'category':'Personen'} for item in people)
  # Chronological display across all categories, newest first.
  chosen.sort(key=lambda item: parse_date(item['published']) or dt.datetime.min.replace(tzinfo=UTC), reverse=True)
  return chosen, counts
