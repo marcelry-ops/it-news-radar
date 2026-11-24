@@ -41,16 +41,6 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "22cf533ddeab4744",
-      "title": "Hermes Enterprise: Nous Research bringt KI-Agenten direkt in Microsoft Teams - BornCity",
-      "excerpt": "Hermes Enterprise: Nous Research bringt KI-Agenten direkt in Microsoft Teams BornCity",
-      "summary": "Hermes Enterprise: Nous Research bringt KI-Agenten direkt in Microsoft Teams BornCity",
-      "source": "BornCity / Microsoft To Do",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcWRzYkV6eGk0T1llNG1xOWlIcDF3NVg5d2Y3QzI4NllxSXozYWRLUHZHV0xTRGlYdWZCRlRkR1owWDJYQkt1Z3k2anhBRFNjb3BfcXczWDN4YndLT0YtY0pSVm5rbVNDeDF4VjRqSi1FRWtpNUlRZGwxbnQ2UU5HbmFBRGpvdktBSTc2c19qeWNpNE1lNVZUZmZMeWloSThOMjEzLQ?oc=5",
-      "published": "2026-11-23T18:19:04+00:00",
-      "category": "Microsoft 365"
-    },
-    {
       "id": "e5ffd55eceb877c7",
       "title": "AWS Trainium: Amazon kauft KI-Chip-Optimierung von Decart AI für 7,5 Milliarden US-Dollar",
       "excerpt": "Statt einer klassischen Firmenübernahme holt sich Amazon die Kern-Software und rund 100 Entwickler des KI-Startups Decart AI ins Haus. ( Amazon , Cuda )",
@@ -59,6 +49,16 @@
       "url": "https://www.golem.de/news/aws-trainium-amazon-kauft-ki-chip-optimierung-von-decart-ai-fuer-7-5-milliarden-us-dollar-2611-215557.html",
       "published": "2026-11-23T18:00:01+00:00",
       "category": "Cloud"
+    },
+    {
+      "id": "40dfba37aad132bd",
+      "title": "Microsoft To Do wird zum 30. Juni 2027 beerdigt",
+      "excerpt": "Microsoft To Do wird zum 30. Juni 2027 beerdigt appgefahren.de",
+      "summary": "Microsoft To Do wird zum 30. Juni 2027 beerdigt appgefahren.de",
+      "source": "appgefahren.de",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMVNCaFVlR0NlRThMR1R1NlFnenJwOWNOaFBEaGdTWm5kV2xiSG1WaXExUU1nOXBiYkdXWm0wMTJ6MmtYMXNOcTZFQ2FCQVNtYzhnQ05JMldwZ1J3X3pHM1NaZFRKdjNyQzZfZzJzc3doMi1wMnFXeFBnNlRtb2NIZXdEYkgzZXVLV01ndzZXYVIzMzRqRVJSTmxFQ1kxa21lc3ZSS3VyVG92OTVHM2ZlYXMwUQ?oc=5",
+      "published": "2026-11-23T17:36:11+00:00",
+      "category": "Microsoft 365"
     },
     {
       "id": "e4056e07dbc00292",
@@ -351,7 +351,7 @@
       "category": "Trends"
     }
   ],
-  "updatedAt": "2026-11-24T04:10:19.678849+00:00",
+  "updatedAt": "2026-11-24T05:18:23.681265+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
