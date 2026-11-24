@@ -91,16 +91,6 @@
       "category": "Cloud"
     },
     {
-      "id": "79faf866a2d76d9c",
-      "title": "Microsoft schliesst Sicherheitslücke in Azure API Management",
-      "excerpt": "Microsoft hat eine Sicherheitslücke in Microsoft Azure API Management geschlossen, durch die Angreifer möglicherweise an geheime Informationen und API-Anmeldedaten gelangt sind. Die Entdeckung und Ausnutzung der Sicherheitslücke stehen möglicherweise in Verbindung mit Angriffen auf norwegische Energieunternehmen.",
-      "summary": "Microsoft hat eine Sicherheitslücke in Microsoft Azure API Management geschlossen, durch die Angreifer möglicherweise an geheime Informationen und API-Anmeldedaten gelangt sind. Die Entdeckung und Ausnutzung der Sicherheitslücke stehen möglicherweise in Verbin",
-      "source": "Netzwoche",
-      "url": "https://www.netzwoche.ch/news/2026-11-24/microsoft-schliesst-sicherheitsluecke-in-azure-api-management",
-      "published": "2026-11-24T09:06:03+00:00",
-      "category": "Personen"
-    },
-    {
       "id": "801918e90cf35d56",
       "title": "Der KI-Masterplan ist veraltet, bevor er beschlossen wird – was Unternehmen stattdessen tun sollten - t3n",
       "excerpt": "Der KI-Masterplan ist veraltet, bevor er beschlossen wird – was Unternehmen stattdessen tun sollten t3n",
@@ -221,16 +211,6 @@
       "category": "Firmen"
     },
     {
-      "id": "fc8c2c649c9ea353",
-      "title": "Update: Nvidia holt Jensen Huang zurück als CEO",
-      "excerpt": "Elf Tage nach seinem Rücktritt setzt der Chipkonzern Nvidia seinen Mitgründer Jensen Huang wieder als CEO ein. Die Entscheidung erfolgt aufgrund von steigendem Druck von innerhalb und ausserhalb des Unternehmens.",
-      "summary": "Elf Tage nach seinem Rücktritt setzt der Chipkonzern Nvidia seinen Mitgründer Jensen Huang wieder als CEO ein. Die Entscheidung erfolgt aufgrund von steigendem Druck von innerhalb und ausserhalb des Unternehmens.",
-      "source": "Netzwoche",
-      "url": "https://www.netzwoche.ch/news/2026-11-10/nvidia-ceo-steht-nach-affaere-mit-mutmasslicher-spionin-in-der-kritik",
-      "published": "2026-11-23T15:21:06+00:00",
-      "category": "Personen"
-    },
-    {
       "id": "cafe2150ada18e0e",
       "title": "Künstliche Intelligenz: Wie KI-Assistenten verschlüsselte Messenger unsicher machen - Netzpolitik.org",
       "excerpt": "Künstliche Intelligenz: Wie KI-Assistenten verschlüsselte Messenger unsicher machen Netzpolitik.org",
@@ -259,16 +239,6 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiMVdBdGVGNDExWXFWaDI4cVRsLVZZNU8xdHZXamFWZjV3VVVoRHpWN3BoYzNOQ05neWFuR1VfRmpjN0VuX1NidjVRcXYzcGZfTk9BcGlwZUQzRVN4cnFXWEZaSmhWTkFWbW01d3ctS090YkdXbnlOcGV2Z2lQZw?oc=5",
       "published": "2026-11-23T14:51:29+00:00",
       "category": "Markt"
-    },
-    {
-      "id": "25ef254a2236d2c7",
-      "title": "Crowdstrike übernimmt Zscaler für knapp 44 Milliarden",
-      "excerpt": "Mit dem Zusammenschluss will Crowdstrike seine Falcon-Plattform um Netzwerk- und Zero-Trust-Sicherheit erweitern.",
-      "summary": "Mit dem Zusammenschluss will Crowdstrike seine Falcon-Plattform um Netzwerk- und Zero-Trust-Sicherheit erweitern.",
-      "source": "Inside IT",
-      "url": "https://www.inside-it.ch/crowdstrike-uebernimmt-zscaler-fuer-knapp-44-milliarden-20261123",
-      "published": "2026-11-23T13:17:10+00:00",
-      "category": "Personen"
     },
     {
       "id": "fbc7816f508556a5",
@@ -319,16 +289,6 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50cTV5YU4tRk13V0pkQ0VEWm9KMGxZVm1rYVdFeS1SQ0ptUVBLcXhraTY2eC1SSG1yZ05Gcmt5QUpueTNzTE1IQ1FoVmZZaU53UmpPenpmWW5Od3h5ZlNrYmFrNUxwZ1c0eUh0NVRaVTJOQQ?oc=5",
       "published": "2026-11-23T08:47:00+00:00",
       "category": "Firmen"
-    },
-    {
-      "id": "83f79a15432f1b42",
-      "title": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse",
-      "excerpt": "Oliver Wymann, ein Unternehmen des Marsh-Konzerns, kaut mit Synpulse in der Schweiz zu. Das Zürcher Tech-Beratungshaus ist auf den Finanzsektor spezialisiert und soll nun unter anderem seine KI-Expertise beisteuern.",
-      "summary": "Oliver Wymann, ein Unternehmen des Marsh-Konzerns, kaut mit Synpulse in der Schweiz zu. Das Zürcher Tech-Beratungshaus ist auf den Finanzsektor spezialisiert und soll nun unter anderem seine KI-Expertise beisteuern.",
-      "source": "IT Reseller",
-      "url": "https://www.itreseller.ch/Artikel/106663/Oliver_Wyman_uebernimmt_Zuercher_Technologieberatung_Synpulse_.html",
-      "published": "2026-11-23T08:21:02+00:00",
-      "category": "Personen"
     },
     {
       "id": "b6c1346d9938306d",
@@ -391,26 +351,6 @@
       "category": "Trends"
     },
     {
-      "id": "f54c953af1041f65",
-      "title": "Palo Alto Networks übernimmt KI-Start-up für 4,5 Milliarden Dollar",
-      "excerpt": "Palo Alto Networks will den KI-Spezialisten Applied Compute übernehmen. Mit der Akquisition verstärkt der Security-Anbieter sein Portfolio um eine Plattform für das Training und den sicheren Betrieb von KI-Modellen.",
-      "summary": "Palo Alto Networks will den KI-Spezialisten Applied Compute übernehmen. Mit der Akquisition verstärkt der Security-Anbieter sein Portfolio um eine Plattform für das Training und den sicheren Betrieb von KI-Modellen.",
-      "source": "IT Reseller",
-      "url": "https://www.itreseller.ch/Artikel/106656/Palo_Alto_Networks_uebernimmt_KI-Start-up_fuer_45_Milliarden_Dollar.html",
-      "published": "2026-11-20T13:14:26+00:00",
-      "category": "Personen"
-    },
-    {
-      "id": "818eb93b7b0ec716",
-      "title": "Bechtle übernimmt Swiss Solution Group - Netzwoche",
-      "excerpt": "Bechtle übernimmt Swiss Solution Group Netzwoche",
-      "summary": "Bechtle übernimmt Swiss Solution Group Netzwoche",
-      "source": "Netzwoche / Personen",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUHlyVl9rY2Vsa2lNb01QbjZmbWZ6cHJ3U1pHZS1SNFhoa0VMLWJmMks4Y3kteVkwb05mM2M5bEJVZThTcW4tN0lSRnNqOWNDbEtTVEZYbkNKdUZseU9KR3NtTWtVTzBOaHhyOGc2SmdSdVFvSUdpeWdWenQ2SmZNN0dkVG92a2M?oc=5",
-      "published": "2026-11-19T09:31:31+00:00",
-      "category": "Personen"
-    },
-    {
       "id": "ef8cb18517cf8ea5",
       "title": "IT-S Group übernimmt Allnet Solutions",
       "excerpt": "Die IT-S Group rund um Geschäftsführer Rolf Geiger (links) baut ihre Präsenz in der Deutschschweiz durch die Integration von Allnet Solutions mit Sitz in Urdorf auf. Der Standort von Allnet Solutions soll unter der Leitung von Andy Scheurer (rechts) mit dem bestehenden Team erhalten bleiben.",
@@ -419,39 +359,9 @@
       "url": "https://www.itreseller.ch/Artikel/106644/IT-S_Group_uebernimmt_Allnet_Solutions.html",
       "published": "2026-11-19T06:58:15+00:00",
       "category": "Personen"
-    },
-    {
-      "id": "4d93fa0c880a3fc7",
-      "title": "Customize übernimmt Abacus-Geschäft von Softtech - Inside IT",
-      "excerpt": "Customize übernimmt Abacus-Geschäft von Softtech Inside IT",
-      "summary": "Customize übernimmt Abacus-Geschäft von Softtech Inside IT",
-      "source": "Inside IT / Personen",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWjFzT2xRMGJSWWdMU2c1LUdmNHVpcmVYb3pZUFBNbjZYdFc3YVJyWFR4eWtwNXQwSWQySGRWVFh1VGlpbG1MMVFWSTN0NFdteU8xaW5nNHdJbG92ZkpqNFR5b05wMGNUUXNVWGRkb2hQaUNtUnhDSF9GY0stQnRpRkFQMXdLcVZGMHRFUg?oc=5",
-      "published": "2026-11-19T01:50:00+00:00",
-      "category": "Personen"
-    },
-    {
-      "id": "6c0df201761395b9",
-      "title": "Bewida übernimmt Sympasol - Netzwoche",
-      "excerpt": "Bewida übernimmt Sympasol Netzwoche",
-      "summary": "Bewida übernimmt Sympasol Netzwoche",
-      "source": "Netzwoche / Personen",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lTWtCNnR1TlJvQWxmMU5HRUJsQ3JkeUZkMkZWZkJlbUxWc0NrNnpWNmR5Z2pNN1hGelh2N0MtR194SUJ4bnRDYkh1bW56Zkd6YkFaR1ZIa1liVEFPQjY0ekJSNEItaU1JYnVidk9IOTVzR2ZVVFE?oc=5",
-      "published": "2026-11-18T08:32:03+00:00",
-      "category": "Personen"
-    },
-    {
-      "id": "6c0df201761395b9",
-      "title": "Bewida übernimmt Sympasol - Netzwoche",
-      "excerpt": "Bewida übernimmt Sympasol Netzwoche",
-      "summary": "Bewida übernimmt Sympasol Netzwoche",
-      "source": "Netzwoche / Personen",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lTWtCNnR1TlJvQWxmMU5HRUJsQ3JkeUZkMkZWZkJlbUxWc0NrNnpWNmR5Z2pNN1hGelh2N0MtR194SUJ4bnRDYkh1bW56Zkd6YkFaR1ZIa1liVEFPQjY0ekJSNEItaU1JYnVidk9IOTVzR2ZVVFE?oc=5",
-      "published": "2026-11-18T08:32:03+00:00",
-      "category": "Personen"
     }
   ],
-  "updatedAt": "2026-11-24T12:41:49.990755+00:00",
+  "updatedAt": "2026-11-24T12:54:37.183435+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -470,8 +380,8 @@
     "Trends": 5,
     "Markt": 5,
     "Firmen": 5,
-    "Personen": 10
+    "Personen": 1
   },
-  "warning": "1 von 38 RSS-Quellen waren nicht erreichbar.",
+  "warning": "Nicht genügend passende aktuelle Meldungen: 9 × Personen.",
   "aiSummaries": false
 }
