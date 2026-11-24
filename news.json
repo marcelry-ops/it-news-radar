@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "7752aea542c6aa6e",
+      "title": "Microsoft To Do wird zum 30. Juni 2027 eingestellt - BornCity",
+      "excerpt": "Microsoft To Do wird zum 30. Juni 2027 eingestellt BornCity",
+      "summary": "Microsoft To Do wird zum 30. Juni 2027 eingestellt BornCity",
+      "source": "BornCity / Microsoft To Do",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcHNuRkgyWDgzTHA0X3U0WWZwVk9RZ3dkY2FTVl9oai1QZTM5SFF1WmFNcy1BSGhnWmtiTmRJWUZfZXVvOWNmbFZTZlJEb1FYaUZLQ3NvbThwaExGS3BWRmZCbzA1QXc3eTVXaWNheTBHQWJ5NnhTaXRKei1ROWhJTWxtY3U3YUVOdTJ3TEE0d00?oc=5",
+      "published": "2026-11-24T01:18:45+00:00",
+      "category": "Microsoft 365"
+    },
+    {
       "id": "93f78af4a6bd1526",
       "title": "Drei Mini-PCs, ein KI-Modell: Microsoft vernetzt Windows per USB4 - ComputerBase",
       "excerpt": "Drei Mini-PCs, ein KI-Modell: Microsoft vernetzt Windows per USB4 ComputerBase",
@@ -31,6 +41,16 @@
       "category": "Microsoft 365"
     },
     {
+      "id": "22cf533ddeab4744",
+      "title": "Hermes Enterprise: Nous Research bringt KI-Agenten direkt in Microsoft Teams - BornCity",
+      "excerpt": "Hermes Enterprise: Nous Research bringt KI-Agenten direkt in Microsoft Teams BornCity",
+      "summary": "Hermes Enterprise: Nous Research bringt KI-Agenten direkt in Microsoft Teams BornCity",
+      "source": "BornCity / Microsoft To Do",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcWRzYkV6eGk0T1llNG1xOWlIcDF3NVg5d2Y3QzI4NllxSXozYWRLUHZHV0xTRGlYdWZCRlRkR1owWDJYQkt1Z3k2anhBRFNjb3BfcXczWDN4YndLT0YtY0pSVm5rbVNDeDF4VjRqSi1FRWtpNUlRZGwxbnQ2UU5HbmFBRGpvdktBSTc2c19qeWNpNE1lNVZUZmZMeWloSThOMjEzLQ?oc=5",
+      "published": "2026-11-23T18:19:04+00:00",
+      "category": "Microsoft 365"
+    },
+    {
       "id": "e5ffd55eceb877c7",
       "title": "AWS Trainium: Amazon kauft KI-Chip-Optimierung von Decart AI für 7,5 Milliarden US-Dollar",
       "excerpt": "Statt einer klassischen Firmenübernahme holt sich Amazon die Kern-Software und rund 100 Entwickler des KI-Startups Decart AI ins Haus. ( Amazon , Cuda )",
@@ -39,16 +59,6 @@
       "url": "https://www.golem.de/news/aws-trainium-amazon-kauft-ki-chip-optimierung-von-decart-ai-fuer-7-5-milliarden-us-dollar-2611-215557.html",
       "published": "2026-11-23T18:00:01+00:00",
       "category": "Cloud"
-    },
-    {
-      "id": "40dfba37aad132bd",
-      "title": "Microsoft To Do wird zum 30. Juni 2027 beerdigt",
-      "excerpt": "Microsoft To Do wird zum 30. Juni 2027 beerdigt appgefahren.de",
-      "summary": "Microsoft To Do wird zum 30. Juni 2027 beerdigt appgefahren.de",
-      "source": "appgefahren.de",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMVNCaFVlR0NlRThMR1R1NlFnenJwOWNOaFBEaGdTWm5kV2xiSG1WaXExUU1nOXBiYkdXWm0wMTJ6MmtYMXNOcTZFQ2FCQVNtYzhnQ05JMldwZ1J3X3pHM1NaZFRKdjNyQzZfZzJzc3doMi1wMnFXeFBnNlRtb2NIZXdEYkgzZXVLV01ndzZXYVIzMzRqRVJSTmxFQ1kxa21lc3ZSS3VyVG92OTVHM2ZlYXMwUQ?oc=5",
-      "published": "2026-11-23T17:36:11+00:00",
-      "category": "Microsoft 365"
     },
     {
       "id": "e4056e07dbc00292",
@@ -119,26 +129,6 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiMVdBdGVGNDExWXFWaDI4cVRsLVZZNU8xdHZXamFWZjV3VVVoRHpWN3BoYzNOQ05neWFuR1VfRmpjN0VuX1NidjVRcXYzcGZfTk9BcGlwZUQzRVN4cnFXWEZaSmhWTkFWbW01d3ctS090YkdXbnlOcGV2Z2lQZw?oc=5",
       "published": "2026-11-23T14:51:29+00:00",
       "category": "Markt"
-    },
-    {
-      "id": "49c7b6fb915a220e",
-      "title": "Jahrhundertdeal: Crowdstrike kauft Zscaler für 44 Milliarden Dollar und fordert Microsoft heraus",
-      "excerpt": "Der Milliardendeal vereint Endgeräte- und Cloud-Sicherheit unter einem Dach. Microsoft und Palo Alto Networks bekommen einen mächtigen Rivalen. ( Crowdstrike , Security )",
-      "summary": "Der Milliardendeal vereint Endgeräte- und Cloud-Sicherheit unter einem Dach. Microsoft und Palo Alto Networks bekommen einen mächtigen Rivalen. ( Crowdstrike , Security )",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/jahrhundertdeal-crowdstrike-uebernimmt-zscaler-fuer-44-milliarden-us-dollar-2611-215542.html",
-      "published": "2026-11-23T14:30:02+00:00",
-      "category": "Cloud"
-    },
-    {
-      "id": "7752aea542c6aa6e",
-      "title": "Microsoft To Do wird zum 30. Juni 2027 eingestellt - BornCity",
-      "excerpt": "Microsoft To Do wird zum 30. Juni 2027 eingestellt BornCity",
-      "summary": "Microsoft To Do wird zum 30. Juni 2027 eingestellt BornCity",
-      "source": "BornCity / Microsoft To Do",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcHNuRkgyWDgzTHA0X3U0WWZwVk9RZ3dkY2FTVl9oai1QZTM5SFF1WmFNcy1BSGhnWmtiTmRJWUZfZXVvOWNmbFZTZlJEb1FYaUZLQ3NvbThwaExGS3BWRmZCbzA1QXc3eTVXaWNheTBHQWJ5NnhTaXRKei1ROWhJTWxtY3U3YUVOdTJ3TEE0d00?oc=5",
-      "published": "2026-11-23T13:23:06+00:00",
-      "category": "Microsoft 365"
     },
     {
       "id": "25ef254a2236d2c7",
@@ -241,13 +231,13 @@
       "category": "Cloud"
     },
     {
-      "id": "617e896ac37ff862",
-      "title": "Wird Arm-Chef Haas der neue Nvidia-CEO? - it-daily.net",
-      "excerpt": "Wird Arm-Chef Haas der neue Nvidia-CEO? it-daily.net",
-      "summary": "Wird Arm-Chef Haas der neue Nvidia-CEO? it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50cTV5YU4tRk13V0pkQ0VEWm9KMGxZVm1rYVdFeS1SQ0ptUVBLcXhraTY2eC1SSG1yZ05Gcmt5QUpueTNzTE1IQ1FoVmZZaU53UmpPenpmWW5Od3h5ZlNrYmFrNUxwZ1c0eUh0NVRaVTJOQQ?oc=5",
-      "published": "2026-11-23T08:47:00+00:00",
+      "id": "4ac2f942ae3ee867",
+      "title": "Bund beauftragt Elca mit Deepfake-Erkennung für die E-ID",
+      "excerpt": "Der Bund will die Identitätsprüfung für die Schweizer E-ID gegen KI-generierte Videos absichern. Den Auftrag für ein zusätzliches Softwaremodul über 4,44 Millionen Franken vergibt er freihändig an Elca. Das Unternehmen liefert bereits das zugrunde liegende Prüfsystem.",
+      "summary": "Der Bund will die Identitätsprüfung für die Schweizer E-ID gegen KI-generierte Videos absichern. Den Auftrag für ein zusätzliches Softwaremodul über 4,44 Millionen Franken vergibt er freihändig an Elca. Das Unternehmen liefert bereits das zugrunde liegende Prü",
+      "source": "Netzwoche",
+      "url": "https://www.netzwoche.ch/news/2026-11-23/bund-beauftragt-elca-mit-deepfake-erkennung-fuer-die-e-id",
+      "published": "2026-11-23T08:53:32+00:00",
       "category": "Firmen"
     },
     {
@@ -291,6 +281,16 @@
       "category": "Security"
     },
     {
+      "id": "3c84e00fb0e41aa4",
+      "title": "KI-Automatisierung: Sieben Einsatzfelder für Unternehmen – mit menschlicher Freigabe - BornCity",
+      "excerpt": "KI-Automatisierung: Sieben Einsatzfelder für Unternehmen – mit menschlicher Freigabe BornCity",
+      "summary": "KI-Automatisierung: Sieben Einsatzfelder für Unternehmen – mit menschlicher Freigabe BornCity",
+      "source": "BornCity / Microsoft To Do",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVlJja3QyNGd6anZhdzZJTXoweWJ5ZUhibDlvdVl5R05PRHpRQlRQMWpLVGkyQnR3RlljRGlmcHFVblVZb0tiR2J5U0tTMmp0dU5UVUNwdjg2UnRUOFhmNEtjRDNMQ0JpZnExdm16RjQ1VDNSNU5kTnNHWkMtSGFvV19kLTFUZWNpdXJBeGFaWGdVOVVteWxLRnVnc3d0RDE4cHpNbkVHNWM0YmxDS1E?oc=5",
+      "published": "2026-11-22T18:06:06+00:00",
+      "category": "Trends"
+    },
+    {
       "id": "9b4971c080b66f67",
       "title": "GL.iNet-Sicherheitsvorfall bei Cloud-Fernverwaltung – Schadsoftware auf Routern - BornCity",
       "excerpt": "GL.iNet-Sicherheitsvorfall bei Cloud-Fernverwaltung – Schadsoftware auf Routern BornCity",
@@ -298,6 +298,16 @@
       "source": "BornCity",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMklBQUQ2SklqVWVJUEpmWDQ4clpyWWYwX3NoYXZZakRMWnVhSGNIT01SN3dVS3pXNE0taV9jM1k0clhmenVTei1oc2pJZXJkdU9XemgxNXV1aV96TkRzMk5kaGh0dVNrMlh5RDhQMERLV0Y5aGNpZUZyYWpoTDYxeDR1OXhHaHBlaUVueEJqODg2NjgyS3FQeEFEQkoyNWlHNTlnRVNhOEo3aU1EckhObGt0Vi1LQQ?oc=5",
       "published": "2026-11-22T11:26:15+00:00",
+      "category": "Cloud"
+    },
+    {
+      "id": "ee88db8b22361297",
+      "title": "Gehirn in die Cloud laden: 6 Wege, wie Forscher unser Bewusstsein retten wollen - t3n",
+      "excerpt": "Gehirn in die Cloud laden: 6 Wege, wie Forscher unser Bewusstsein retten wollen t3n",
+      "summary": "Gehirn in die Cloud laden: 6 Wege, wie Forscher unser Bewusstsein retten wollen t3n",
+      "source": "t3n",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxMUFxcHVNTDRnT3dEU0h0R3dXdVRyYUZQUWM1ZWRPTDZIU1FidzB5anVNYUpTWUt2VlJPSXlZOGItUzY0VFpmWC1nRkYyakpBVzRlQlh4b1U3SkM2aFRJYnhSTVpmXzJUa1NPOVNBYlVoNGlfZmJfZg?oc=5",
+      "published": "2026-11-22T09:50:00+00:00",
       "category": "Cloud"
     },
     {
@@ -339,19 +349,9 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDNGpGNmllQkVvX1BaXzJ6aWtvWUx4SWMtRHNEQmFEcXAtUVdfNjZXUkxYX08tUHBpRmRRNXFLbU96UlZjMU1FTC1qcHZKYm9JTS1v?oc=5",
       "published": "2026-11-20T20:09:28+00:00",
       "category": "Markt"
-    },
-    {
-      "id": "a2e59dfd78ce1c90",
-      "title": "Die Top 5 Technologie-Trends 2027 von Capgemini - Computerwoche",
-      "excerpt": "Die Top 5 Technologie-Trends 2027 von Capgemini Computerwoche",
-      "summary": "Die Top 5 Technologie-Trends 2027 von Capgemini Computerwoche",
-      "source": "Computerwoche",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTklka3k4Snp4bi1aaUhDT29rUGpOOVQyc0FGVkNoYm5majRLUEYzdDdFUDdnd3dseTVKMHdhUTJWZzNVUW45S3JOcG44YWdYeWZfdm5jR2dnVTZPMFJiRUNHUjA5NkdPajVobXpESUxQQmxZdnhLTXU3eTdlSlVYaVc5YXVDV1gtU0dMYjNOUWFtSXBmdUlUeEVWY3Fldw?oc=5",
-      "published": "2026-11-20T15:14:42+00:00",
-      "category": "Trends"
     }
   ],
-  "updatedAt": "2026-11-24T01:23:16.653520+00:00",
+  "updatedAt": "2026-11-24T03:00:29.981922+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
