@@ -51,23 +51,13 @@
       "category": "Trends"
     },
     {
-      "id": "c889666b0d5f0ba5",
-      "title": "The Gentlemen drohen Nvidia mit Datenleck am 28. November - it-daily.net",
-      "excerpt": "The Gentlemen drohen Nvidia mit Datenleck am 28. November it-daily.net",
-      "summary": "The Gentlemen drohen Nvidia mit Datenleck am 28. November it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBITWxadXFlRjNZcEt4OWw2Q09zN1RZenRqN3JuMk8xNkZYZV9ySjItM1U0NzdFcEFpbDZOX05EWWl1d0hEQ0pIdkIybW9IQnkwNlQtT1pBZzZtRUFLVGxjeDl1YkRJVml5MmJEYWpJSQ?oc=5",
-      "published": "2026-11-24T13:58:00+00:00",
-      "category": "Security"
-    },
-    {
-      "id": "efb69944b3354f5d",
-      "title": "KI-Agenten nutzen Zero-Day in N-able Mail Assure aus - it-daily.net",
-      "excerpt": "KI-Agenten nutzen Zero-Day in N-able Mail Assure aus it-daily.net",
-      "summary": "KI-Agenten nutzen Zero-Day in N-able Mail Assure aus it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9EbGl0Y0xQTDNIejVhYi1wMm03M2JPUi1Ya0lvNVd2bzlSZWpwcFJEamQzdnFIV0VMS0prSnZwT2drQ0Z2MURmVi1Ka3NaQmYzNDJ1UW5oZjdQMWFab2ZTSTdpcjZUNjBodXNncnN3?oc=5",
-      "published": "2026-11-24T13:50:34+00:00",
+      "id": "46bf81f27f50a569",
+      "title": "3CX: Kritisches nginx-Sicherheitsupdate, dringend patchen - BornCity",
+      "excerpt": "3CX: Kritisches nginx-Sicherheitsupdate, dringend patchen BornCity",
+      "summary": "3CX: Kritisches nginx-Sicherheitsupdate, dringend patchen BornCity",
+      "source": "BornCity",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS0VONUZGYTFzQlBvS3I2ZGNsWjh1UEItaTVmX2tjVG1MUmNnVHE1NkpUcDRqdlI1clMwN2ZBdGVHRnhsVjlWOG5uQWJwbE5aOUJqNW5XQTZITHpwUmpBcTNtWVZmREFsUV9DZHRpVFdZY0hZQ3RtYXJ1d0xLbG10d3VWenFFR3QtckZfZVRBUXJ5WWtGQXJSNw?oc=5",
+      "published": "2026-11-24T13:23:16+00:00",
       "category": "Security"
     },
     {
@@ -281,6 +271,16 @@
       "category": "IT Schweiz"
     },
     {
+      "id": "fbc7816f508556a5",
+      "title": "Aktuelle Studie: Sophos State of Ransomware in Retail 2026",
+      "excerpt": "Aktuelle Studie: Sophos State of Ransomware in Retail 2026 All About SECURITY",
+      "summary": "Aktuelle Studie: Sophos State of Ransomware in Retail 2026 All About SECURITY",
+      "source": "All About SECURITY",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOckl4YTQtRzFtMEdXU1ZYYlJQaDFVd2J4SjlkbWNtRWxzM0NLRWhhYjR4ZU5tQm5NTUNzLVk4aU82MzJzQThMMEdQaDJyXzNSQ1puUE1SUnpxeEg1THFlUHVKbjlTMUlrUVg0eGlRM09RaGtaTWZ2aWRPZFE5ZmJyakliSHpRUTlMTjZHLWNLOV9KWUtXTTFN?oc=5",
+      "published": "2026-11-23T13:16:55+00:00",
+      "category": "Security"
+    },
+    {
       "id": "4b01dff127f91010",
       "title": "Robotik-Startup Coprod erhält 6 Millionen",
       "excerpt": "Die Coprod-Plattform soll die Entwicklung spezialisierter Roboter vereinfachen. Während die Entwicklung in Lausanne geschehen soll, ist die Fertigung in China und den USA geplant.",
@@ -351,7 +351,7 @@
       "category": "Firmen"
     }
   ],
-  "updatedAt": "2026-11-24T23:06:26.461642+00:00",
+  "updatedAt": "2026-11-24T23:56:50.853458+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
