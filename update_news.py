@@ -72,8 +72,9 @@ PERSON_SITES = {
  'Inside IT': 'inside-it.ch',
 }
 PERSON_QUERIES = [
- 'CEO OR CIO OR CTO OR Geschäftsleitung OR Verwaltungsrat OR Personalie',
- 'ernannt OR übernimmt OR wechselt OR verlässt OR Nachfolge OR Beförderung',
+ '"Personalwechsel" OR "Führungswechsel" OR "Chefwechsel" OR "Nachfolge"',
+ '"ernannt" OR "befördert" OR "neuer CEO" OR "neue CEO" OR "neuer CIO"',
+ '"verlässt" OR "tritt zurück" OR "übernimmt Leitung" OR "Geschäftsleitung"',
 ]
 FEEDS += [(publisher + ' / Personen', google_rss('site:' + domain + ' (' + query + ')'), 'Personen')
           for publisher, domain in PERSON_SITES.items() for query in PERSON_QUERIES]
@@ -90,7 +91,20 @@ CH = re.compile(r'\b(schweiz|schweizer|schweizerisch|schweizerische|schweizerisc
 TRENDS = re.compile(r'\b(trend|trends|innovation|forschung|zukunft|technologiewandel|kuenstliche intelligenz|künstliche intelligenz|generative ki|ki-modell|robotik|quantentechnologie|automatisierung|digitalisierung)\b', re.I)
 MARKT = re.compile(r'\b(markt|marktanteil|umsatz|wachstum|absatz|nachfrage|investition|branchenanalyse|konjunktur|preis|prognose|geschäftsjahr|geschaeftsjahr)\b', re.I)
 FIRMEN = re.compile(r'\b(unternehmen|firma|firmen|konzern|startup|start-up|übernahme|uebernahme|fusion|partnerschaft|ceo|geschäftsführung|geschaeftsfuehrung|mitarbeiter|standort|gründung|gruendung|akquisition)\b', re.I)
-PERSONNEL = re.compile(r'\b(personalie(?:n)?|personalwechsel|fuehrungswechsel|führungswechsel|chefwechsel|neuer?\s+(?:ceo|cio|cto|chef|chefin|leiter|leiterin|geschäftsführer|geschäftsführerin|präsident|präsidentin)|(?:ceo|cio|cto|cfo|geschäftsleitung|verwaltungsrat|führungsteam|management|geschäftsführer|geschäftsführerin|personalchef|personalchefin)|ernannt|ernennung|befördert|beförderung|übernimmt|uebernimmt|wechselt|wechsel|verlässt|verlaesst|tritt\s+zurück|tritt\s+zurueck|nachfolge|neubesetzung|berufen|personalentscheid|stellenabbau|entlassungen)\b', re.I)
+# A role mention alone is not a personnel change: require a concrete personnel action.
+PERSON_ROLE = re.compile(r'\b(ceo|cio|cto|cfo|ciso|chef(?:in)?|leiter(?:in)?|geschäftsführer(?:in)?|geschäftsleitung|verwaltungsrat|präsident(?:in)?|direktor(?:in)?|führung|management|personal(?:ie|ien)|mitarbeiter(?:in)?)\b', re.I)
+PERSON_CHANGE = re.compile(r'\b(personalwechsel|führungswechsel|fuehrungswechsel|chefwechsel|ernannt|ernennung|befördert|beförderung|berufen|neubesetzung|nachfolge|nachfolger(?:in)?|wechselt|wechsel(?:t)?|verlässt|verlaesst|rücktritt|ruecktritt|zurückgetreten|zurueckgetreten|tritt\s+zurück|tritt\s+zurueck|übernimmt|uebernimmt|übernahme\s+der\s+leitung|neu\s+(?:im|in\s+der)\s+(?:team|geschäftsleitung)|neuer?\s+(?:ceo|cio|cto|cfo|ciso|chef|leiter|geschäftsführer|präsident)|neue\s+(?:ceo|cio|cto|cfo|ciso|chefin|leiterin|geschäftsführerin|präsidentin)|tritt\s+an|steigt\s+auf|rückt\s+auf|rueckt\s+auf|abgang|abgänge|abgaenge|personelle\s+veränderung(?:en)?)\b', re.I)
+PERSON_EXCLUDE = re.compile(r'\b(stellenangebot|jobangebot|karrieretipp|bewerbungstipps|gehaltsvergleich|lohnvergleich|arbeitsmarktstudie|fachkräftemangel|fachkraeftemangel|stellenabbau|entlassungswelle|entlassungen)\b', re.I)
+
+def personnel_relevance(item):
+ title = item['title']
+ text = title + ' ' + item.get('excerpt', '')[:500]
+ if PERSON_EXCLUDE.search(title): return False
+ # A named change or appointment must be stated in the headline.
+ if not PERSON_CHANGE.search(title): return False
+ # Accept explicit personnel-change headlines, or action + executive role.
+ return bool(PERSON_ROLE.search(text) or re.search(r'\b(personalwechsel|führungswechsel|fuehrungswechsel|chefwechsel|nachfolge|ernannt|befördert|rücktritt|ruecktritt|personelle\s+veränderung)\b', title, re.I))
+
 
 IT = re.compile(r'\b(it|ict|informatik|digitalisierung|technologie|software|hardware|ki|künstliche intelligenz|rechenzentrum|daten|netzwerk|telekommunikation|chip|internet|digital|cyber|cloud|startup|start-up)\b', re.I)
 
@@ -160,7 +174,7 @@ def eligible(item, category):
   # Only these publishers; generic Google News feeds do not qualify.
   origin = item.get('feedSource', '')
   approved = origin in PERSON_SITES or any(origin == name + ' / Personen' for name in PERSON_SITES)
-  return bool(approved and PERSONNEL.search(title) and (PERSONNEL.search(text)))
+  return bool(approved and personnel_relevance(item))
  if category == 'Security': return bool(SECURITY.search(text))
  if category == 'Microsoft 365': return bool(M365.search(text))
  if category == 'IT Schweiz':
