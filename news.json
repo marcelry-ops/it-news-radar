@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "ba5e5231522f1f31",
+      "title": "GL.iNet GoodCloud: Hacker kapern Router über die Hersteller-Cloud - ComputerBase",
+      "excerpt": "GL.iNet GoodCloud: Hacker kapern Router über die Hersteller-Cloud ComputerBase",
+      "summary": "GL.iNet GoodCloud: Hacker kapern Router über die Hersteller-Cloud ComputerBase",
+      "source": "ComputerBase",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORmFwMWItQ3hTeUZxdDBvTi1EUnFWeUUxMUNMbG5WaGh0SUl1bFFkUEZpM0lYUDlnVXhDb1lWWHBuMVE5c3k0aEk0MkVYbzM0bHZjZEJhRHJReTZMVDl6elNOZElTdFJzdG9JNm5vd2I1RHBFNkRQVXJvM3hBMkFLUUo2VjRlMUd1eVNHbFJlVnZWYXppX2taMEVydjhJdTMzejdrS2lwMnhKd1JycjBNd1gtb3Vydw?oc=5",
+      "published": "2026-11-24T20:12:00+00:00",
+      "category": "Cloud"
+    },
+    {
       "id": "e9f317651e20050f",
       "title": "Windows 11: Neues People-Widget bündelt WhatsApp, Outlook und Phone Link - BornCity",
       "excerpt": "Windows 11: Neues People-Widget bündelt WhatsApp, Outlook und Phone Link BornCity",
@@ -181,16 +191,6 @@
       "category": "Firmen"
     },
     {
-      "id": "30c65606d5bc23f9",
-      "title": "Schwachstelle in Azure API Management (APIM) Classic führte zu Hacks - BornCity",
-      "excerpt": "Schwachstelle in Azure API Management (APIM) Classic führte zu Hacks BornCity",
-      "summary": "Schwachstelle in Azure API Management (APIM) Classic führte zu Hacks BornCity",
-      "source": "BornCity",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdzNnazdpN25hX3JwVng1MWs5dm8zeXZLeEZPOFBBOXM1Vm4wNGRSb3V1ZlkzdjdhdmpEU09PTE16VDJEaTlQZDdobV81WHhnUUxiTTRoRm5SbmpuSVVidWowUzROVFIwN1U1cjFPMThVNDJ0cG0wYnFZNVM2dE1CeHZ5M0UwRW0zSTlLN1JpYndIa214NXhKMW9EMktkUU9jSzhnRXBPWkI?oc=5",
-      "published": "2026-11-24T07:22:09+00:00",
-      "category": "Cloud"
-    },
-    {
       "id": "8ee5b0e43a1899ff",
       "title": "HPE steigert Umsatz um 50 Prozent - Swiss IT Reseller",
       "excerpt": "HPE steigert Umsatz um 50 Prozent Swiss IT Reseller",
@@ -351,7 +351,7 @@
       "category": "Firmen"
     }
   ],
-  "updatedAt": "2026-11-24T20:12:12.752740+00:00",
+  "updatedAt": "2026-11-24T21:04:16.745951+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
