@@ -231,13 +231,13 @@
       "category": "Cloud"
     },
     {
-      "id": "4ac2f942ae3ee867",
-      "title": "Bund beauftragt Elca mit Deepfake-Erkennung für die E-ID",
-      "excerpt": "Der Bund will die Identitätsprüfung für die Schweizer E-ID gegen KI-generierte Videos absichern. Den Auftrag für ein zusätzliches Softwaremodul über 4,44 Millionen Franken vergibt er freihändig an Elca. Das Unternehmen liefert bereits das zugrunde liegende Prüfsystem.",
-      "summary": "Der Bund will die Identitätsprüfung für die Schweizer E-ID gegen KI-generierte Videos absichern. Den Auftrag für ein zusätzliches Softwaremodul über 4,44 Millionen Franken vergibt er freihändig an Elca. Das Unternehmen liefert bereits das zugrunde liegende Prü",
-      "source": "Netzwoche",
-      "url": "https://www.netzwoche.ch/news/2026-11-23/bund-beauftragt-elca-mit-deepfake-erkennung-fuer-die-e-id",
-      "published": "2026-11-23T08:53:32+00:00",
+      "id": "617e896ac37ff862",
+      "title": "Wird Arm-Chef Haas der neue Nvidia-CEO? - it-daily.net",
+      "excerpt": "Wird Arm-Chef Haas der neue Nvidia-CEO? it-daily.net",
+      "summary": "Wird Arm-Chef Haas der neue Nvidia-CEO? it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50cTV5YU4tRk13V0pkQ0VEWm9KMGxZVm1rYVdFeS1SQ0ptUVBLcXhraTY2eC1SSG1yZ05Gcmt5QUpueTNzTE1IQ1FoVmZZaU53UmpPenpmWW5Od3h5ZlNrYmFrNUxwZ1c0eUh0NVRaVTJOQQ?oc=5",
+      "published": "2026-11-23T08:47:00+00:00",
       "category": "Firmen"
     },
     {
@@ -279,16 +279,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa3ZUWm5IdkJ2azlqdnpWMXU3N2VINk92Y21HYUhqLXpTbncxZU1NTm1MOGVpRm5Gck9JQmxBZVprNHplamVrQ0lHRzcwYWtESVdldWV6OE5aTlE1QjhMaGdWdkFjR05pbEwyRU83NjB0MUJxNC1CTFdxeTcyLW9HMlo4cC1kQ3ZfQXFhdDRR?oc=5",
       "published": "2026-11-22T23:46:07+00:00",
       "category": "Security"
-    },
-    {
-      "id": "3c84e00fb0e41aa4",
-      "title": "KI-Automatisierung: Sieben Einsatzfelder für Unternehmen – mit menschlicher Freigabe - BornCity",
-      "excerpt": "KI-Automatisierung: Sieben Einsatzfelder für Unternehmen – mit menschlicher Freigabe BornCity",
-      "summary": "KI-Automatisierung: Sieben Einsatzfelder für Unternehmen – mit menschlicher Freigabe BornCity",
-      "source": "BornCity / Microsoft To Do",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVlJja3QyNGd6anZhdzZJTXoweWJ5ZUhibDlvdVl5R05PRHpRQlRQMWpLVGkyQnR3RlljRGlmcHFVblVZb0tiR2J5U0tTMmp0dU5UVUNwdjg2UnRUOFhmNEtjRDNMQ0JpZnExdm16RjQ1VDNSNU5kTnNHWkMtSGFvV19kLTFUZWNpdXJBeGFaWGdVOVVteWxLRnVnc3d0RDE4cHpNbkVHNWM0YmxDS1E?oc=5",
-      "published": "2026-11-22T18:06:06+00:00",
-      "category": "Trends"
     },
     {
       "id": "9b4971c080b66f67",
@@ -349,9 +339,19 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDNGpGNmllQkVvX1BaXzJ6aWtvWUx4SWMtRHNEQmFEcXAtUVdfNjZXUkxYX08tUHBpRmRRNXFLbU96UlZjMU1FTC1qcHZKYm9JTS1v?oc=5",
       "published": "2026-11-20T20:09:28+00:00",
       "category": "Markt"
+    },
+    {
+      "id": "a2e59dfd78ce1c90",
+      "title": "Die Top 5 Technologie-Trends 2027 von Capgemini - Computerwoche",
+      "excerpt": "Die Top 5 Technologie-Trends 2027 von Capgemini Computerwoche",
+      "summary": "Die Top 5 Technologie-Trends 2027 von Capgemini Computerwoche",
+      "source": "Computerwoche",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTklka3k4Snp4bi1aaUhDT29rUGpOOVQyc0FGVkNoYm5majRLUEYzdDdFUDdnd3dseTVKMHdhUTJWZzNVUW45S3JOcG44YWdYeWZfdm5jR2dnVTZPMFJiRUNHUjA5NkdPajVobXpESUxQQmxZdnhLTXU3eTdlSlVYaVc5YXVDV1gtU0dMYjNOUWFtSXBmdUlUeEVWY3Fldw?oc=5",
+      "published": "2026-11-20T15:14:42+00:00",
+      "category": "Trends"
     }
   ],
-  "updatedAt": "2026-11-24T03:00:29.981922+00:00",
+  "updatedAt": "2026-11-24T04:10:19.678849+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
