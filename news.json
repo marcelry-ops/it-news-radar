@@ -31,16 +31,6 @@
       "category": "Security"
     },
     {
-      "id": "bf9a779817e11786",
-      "title": "NDB investiert 5,4 Millionen Franken in KI-Analyse-Software",
-      "excerpt": "Der Nachrichtendienst des Bundes hat zwei britische Softwarelösungen zur Analyse von Unternehmen und Personen beschafft. Der NDB schrieb die Aufträge nicht öffentlich aus; zudem werfen die Programme Fragen nach der gesetzlichen Grundlage der Datenerhebung auf.",
-      "summary": "Der Nachrichtendienst des Bundes hat zwei britische Softwarelösungen zur Analyse von Unternehmen und Personen beschafft. Der NDB schrieb die Aufträge nicht öffentlich aus; zudem werfen die Programme Fragen nach der gesetzlichen Grundlage der Datenerhebung auf.",
-      "source": "Netzwoche",
-      "url": "https://www.netzwoche.ch/news/2026-11-24/ndb-investiert-54-millionen-franken-in-ki-analyse-software",
-      "published": "2026-11-24T10:40:38+00:00",
-      "category": "IT Schweiz"
-    },
-    {
       "id": "72c4be38c065dc2b",
       "title": "KI in der Cloud: Neue US-Exportregeln erzeugen Chaos in Asien",
       "excerpt": "Die neuen US-Regeln sollen chinesische Firmen daran hindern, exportbeschränkte Hardware in der Cloud zu nutzen. Vorerst stiftet sie viel Verwirrung. ( China , Nvidia )",
@@ -59,16 +49,6 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHM3FNNk9VOW9HS0dDb215eGF0RFBTcjNReHFmN2M1TDlPRUhXdmZYbVFHZHhkZE03LW01ZmNrOHUxYzQxaW1wWUR6S2NWOTlKYkVvWG1JVGhGalRBRHZzYWQ3a0xBLU5VZHhsbnVhdw?oc=5",
       "published": "2026-11-24T10:16:56+00:00",
       "category": "Cloud"
-    },
-    {
-      "id": "306f30c64306b4d2",
-      "title": "Hersteller verlangen für KI-Server nachträglich bis zu 45 Prozent mehr",
-      "excerpt": "Dell, HPE, Lenovo und Supermicro verlangen für bereits bestellte KI-Server teils bis zu 45 Prozent mehr als ursprünglich vereinbart. Die Preisaufschläge treffen die Kundschaft teilweise erst Monate nach Vertragsabschluss. Hauptgrund sind stark gestiegene Speicherpreise.",
-      "summary": "Dell, HPE, Lenovo und Supermicro verlangen für bereits bestellte KI-Server teils bis zu 45 Prozent mehr als ursprünglich vereinbart. Die Preisaufschläge treffen die Kundschaft teilweise erst Monate nach Vertragsabschluss. Hauptgrund sind stark gestiegene Speic",
-      "source": "Netzwoche",
-      "url": "https://www.netzwoche.ch/news/2026-11-24/hersteller-verlangen-fuer-ki-server-nachtraeglich-bis-zu-45-prozent-mehr",
-      "published": "2026-11-24T10:04:12+00:00",
-      "category": "IT Schweiz"
     },
     {
       "id": "6888eb55013996d3",
@@ -109,6 +89,16 @@
       "url": "https://www.netzwoche.ch/news/2026-11-24/microsoft-schliesst-sicherheitsluecke-in-azure-api-management",
       "published": "2026-11-24T09:06:03+00:00",
       "category": "Cloud"
+    },
+    {
+      "id": "79faf866a2d76d9c",
+      "title": "Microsoft schliesst Sicherheitslücke in Azure API Management",
+      "excerpt": "Microsoft hat eine Sicherheitslücke in Microsoft Azure API Management geschlossen, durch die Angreifer möglicherweise an geheime Informationen und API-Anmeldedaten gelangt sind. Die Entdeckung und Ausnutzung der Sicherheitslücke stehen möglicherweise in Verbindung mit Angriffen auf norwegische Energieunternehmen.",
+      "summary": "Microsoft hat eine Sicherheitslücke in Microsoft Azure API Management geschlossen, durch die Angreifer möglicherweise an geheime Informationen und API-Anmeldedaten gelangt sind. Die Entdeckung und Ausnutzung der Sicherheitslücke stehen möglicherweise in Verbin",
+      "source": "Netzwoche",
+      "url": "https://www.netzwoche.ch/news/2026-11-24/microsoft-schliesst-sicherheitsluecke-in-azure-api-management",
+      "published": "2026-11-24T09:06:03+00:00",
+      "category": "Personen"
     },
     {
       "id": "801918e90cf35d56",
@@ -161,6 +151,36 @@
       "category": "Cloud"
     },
     {
+      "id": "8ee5b0e43a1899ff",
+      "title": "HPE steigert Umsatz um 50 Prozent - Swiss IT Reseller",
+      "excerpt": "HPE steigert Umsatz um 50 Prozent Swiss IT Reseller",
+      "summary": "HPE steigert Umsatz um 50 Prozent Swiss IT Reseller",
+      "source": "IT Reseller / Personen",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNM3BRaXVRQkhrVHJLRmQ2SEtHa2M5bmV4ZHY2cVBKa0xUM1Nrc3h6SXYwR0VnbU5kdnNIemlOc2w4S2h0bXZDMS1UUlUzV3lxV3UzZWk2OVlCQm5zT3VKX3E1NFFXN292cHltZ3pIdXp3Y2pKam5tbFZzTWJwUENELUNYSGhKdw?oc=5",
+      "published": "2026-11-24T07:12:00+00:00",
+      "category": "IT Schweiz"
+    },
+    {
+      "id": "ca2dd1015569ae24",
+      "title": "Elovade erweitert KI-Portfolio um Goodweek - Swiss IT Reseller",
+      "excerpt": "Elovade erweitert KI-Portfolio um Goodweek Swiss IT Reseller",
+      "summary": "Elovade erweitert KI-Portfolio um Goodweek Swiss IT Reseller",
+      "source": "IT Reseller / Personen",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONlVfVkMzMDdKdXRjME85eGNUYkJLZ09jZWwxdUwxcnRHeXdLdHJRNjNlZ09JdV8zdGlsVHkxNmRtUkw3ZnlvcERDZnhtX1k2dTkwYWxnb1VHUE5PNTZRVjJ1MldXemxSdjd5TmpVQlBSNDJHTGlTTFV2UzMwXzB2eWQtUkJOWFVvQ2E2eXRSUERzQQ?oc=5",
+      "published": "2026-11-24T05:02:14+00:00",
+      "category": "IT Schweiz"
+    },
+    {
+      "id": "0e1fb200b74ed6eb",
+      "title": "Gut ist längst nicht mehr gut genug - Swiss IT Reseller",
+      "excerpt": "Gut ist längst nicht mehr gut genug Swiss IT Reseller",
+      "summary": "Gut ist längst nicht mehr gut genug Swiss IT Reseller",
+      "source": "IT Reseller / Personen",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQTN6RFRxYk1TeVhJdU96dU5YRUJFQVpsZ3Y2UTNwMWVQUVcxcHhFLTVXM3FwT0tHTktKdzIxOVdobXdqODJ2VmpKNlpaeUF6NTVQZGEzSFlXYnNzRVJKd2ZOUmRMOTZKckNwMlM2TWFkVnpWSUFVNExrM1VfQlRnWHdLTWpTTkg2cXc?oc=5",
+      "published": "2026-11-24T02:42:35+00:00",
+      "category": "IT Schweiz"
+    },
+    {
       "id": "7752aea542c6aa6e",
       "title": "Microsoft To Do wird zum 30. Juni 2027 eingestellt - BornCity",
       "excerpt": "Microsoft To Do wird zum 30. Juni 2027 eingestellt BornCity",
@@ -201,14 +221,14 @@
       "category": "Firmen"
     },
     {
-      "id": "8295ff16d5fb241e",
-      "title": "Jensen Huang: Nvidia-Aktie springt nach Huang-Rückkehr um 30 Prozent",
-      "excerpt": "Die Rückkehr von Jensen Huang als Nvidias CEO verschafft der Aktie Aufwind: Zum Handelsstart steigt sie stark. ( Nvidia , KI )",
-      "summary": "Die Rückkehr von Jensen Huang als Nvidias CEO verschafft der Aktie Aufwind: Zum Handelsstart steigt sie stark. ( Nvidia , KI )",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/jensen-huang-nvidia-aktie-springt-nach-huang-rueckkehr-um-30-prozent-2611-215550.html",
-      "published": "2026-11-23T15:20:01+00:00",
-      "category": "Firmen"
+      "id": "fc8c2c649c9ea353",
+      "title": "Update: Nvidia holt Jensen Huang zurück als CEO",
+      "excerpt": "Elf Tage nach seinem Rücktritt setzt der Chipkonzern Nvidia seinen Mitgründer Jensen Huang wieder als CEO ein. Die Entscheidung erfolgt aufgrund von steigendem Druck von innerhalb und ausserhalb des Unternehmens.",
+      "summary": "Elf Tage nach seinem Rücktritt setzt der Chipkonzern Nvidia seinen Mitgründer Jensen Huang wieder als CEO ein. Die Entscheidung erfolgt aufgrund von steigendem Druck von innerhalb und ausserhalb des Unternehmens.",
+      "source": "Netzwoche",
+      "url": "https://www.netzwoche.ch/news/2026-11-10/nvidia-ceo-steht-nach-affaere-mit-mutmasslicher-spionin-in-der-kritik",
+      "published": "2026-11-23T15:21:06+00:00",
+      "category": "Personen"
     },
     {
       "id": "cafe2150ada18e0e",
@@ -239,6 +259,16 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiMVdBdGVGNDExWXFWaDI4cVRsLVZZNU8xdHZXamFWZjV3VVVoRHpWN3BoYzNOQ05neWFuR1VfRmpjN0VuX1NidjVRcXYzcGZfTk9BcGlwZUQzRVN4cnFXWEZaSmhWTkFWbW01d3ctS090YkdXbnlOcGV2Z2lQZw?oc=5",
       "published": "2026-11-23T14:51:29+00:00",
       "category": "Markt"
+    },
+    {
+      "id": "25ef254a2236d2c7",
+      "title": "Crowdstrike übernimmt Zscaler für knapp 44 Milliarden",
+      "excerpt": "Mit dem Zusammenschluss will Crowdstrike seine Falcon-Plattform um Netzwerk- und Zero-Trust-Sicherheit erweitern.",
+      "summary": "Mit dem Zusammenschluss will Crowdstrike seine Falcon-Plattform um Netzwerk- und Zero-Trust-Sicherheit erweitern.",
+      "source": "Inside IT",
+      "url": "https://www.inside-it.ch/crowdstrike-uebernimmt-zscaler-fuer-knapp-44-milliarden-20261123",
+      "published": "2026-11-23T13:17:10+00:00",
+      "category": "Personen"
     },
     {
       "id": "fbc7816f508556a5",
@@ -291,6 +321,16 @@
       "category": "Firmen"
     },
     {
+      "id": "83f79a15432f1b42",
+      "title": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse",
+      "excerpt": "Oliver Wymann, ein Unternehmen des Marsh-Konzerns, kaut mit Synpulse in der Schweiz zu. Das Zürcher Tech-Beratungshaus ist auf den Finanzsektor spezialisiert und soll nun unter anderem seine KI-Expertise beisteuern.",
+      "summary": "Oliver Wymann, ein Unternehmen des Marsh-Konzerns, kaut mit Synpulse in der Schweiz zu. Das Zürcher Tech-Beratungshaus ist auf den Finanzsektor spezialisiert und soll nun unter anderem seine KI-Expertise beisteuern.",
+      "source": "IT Reseller",
+      "url": "https://www.itreseller.ch/Artikel/106663/Oliver_Wyman_uebernimmt_Zuercher_Technologieberatung_Synpulse_.html",
+      "published": "2026-11-23T08:21:02+00:00",
+      "category": "Personen"
+    },
+    {
       "id": "b6c1346d9938306d",
       "title": "Google baut KI-Suche mit Gemini 4 Hydrogen aus – was sich für Schweizer Unternehmen und KMU ändert",
       "excerpt": "Google baut KI-Suche mit Gemini 4 Hydrogen aus – was sich für Schweizer Unternehmen und KMU ändert Swiss-Press.com",
@@ -298,7 +338,7 @@
       "source": "Swiss-Press.com",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUm5TV2JpbnBlamcyaXA5Wk85SGp2M3ViNkU0YXQ0R1RGU0dKLWNfcGtZMGxCeHdZY05LOHFqdU1jWFllZUctYm41V3piODY1MkJBdE9IZkxkTEtvNF9sQUJnLUxEWGJ5SWt2Wk9jU2dJLV8wYUV1d1h4ODlKS1l5a05yeC1oRnZ6THc?oc=5",
       "published": "2026-11-23T07:59:07+00:00",
-      "category": "IT Schweiz"
+      "category": "Firmen"
     },
     {
       "id": "b5a5510cf36a8571",
@@ -349,9 +389,69 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTklka3k4Snp4bi1aaUhDT29rUGpOOVQyc0FGVkNoYm5majRLUEYzdDdFUDdnd3dseTVKMHdhUTJWZzNVUW45S3JOcG44YWdYeWZfdm5jR2dnVTZPMFJiRUNHUjA5NkdPajVobXpESUxQQmxZdnhLTXU3eTdlSlVYaVc5YXVDV1gtU0dMYjNOUWFtSXBmdUlUeEVWY3Fldw?oc=5",
       "published": "2026-11-20T15:14:42+00:00",
       "category": "Trends"
+    },
+    {
+      "id": "f54c953af1041f65",
+      "title": "Palo Alto Networks übernimmt KI-Start-up für 4,5 Milliarden Dollar",
+      "excerpt": "Palo Alto Networks will den KI-Spezialisten Applied Compute übernehmen. Mit der Akquisition verstärkt der Security-Anbieter sein Portfolio um eine Plattform für das Training und den sicheren Betrieb von KI-Modellen.",
+      "summary": "Palo Alto Networks will den KI-Spezialisten Applied Compute übernehmen. Mit der Akquisition verstärkt der Security-Anbieter sein Portfolio um eine Plattform für das Training und den sicheren Betrieb von KI-Modellen.",
+      "source": "IT Reseller",
+      "url": "https://www.itreseller.ch/Artikel/106656/Palo_Alto_Networks_uebernimmt_KI-Start-up_fuer_45_Milliarden_Dollar.html",
+      "published": "2026-11-20T13:14:26+00:00",
+      "category": "Personen"
+    },
+    {
+      "id": "818eb93b7b0ec716",
+      "title": "Bechtle übernimmt Swiss Solution Group - Netzwoche",
+      "excerpt": "Bechtle übernimmt Swiss Solution Group Netzwoche",
+      "summary": "Bechtle übernimmt Swiss Solution Group Netzwoche",
+      "source": "Netzwoche / Personen",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUHlyVl9rY2Vsa2lNb01QbjZmbWZ6cHJ3U1pHZS1SNFhoa0VMLWJmMks4Y3kteVkwb05mM2M5bEJVZThTcW4tN0lSRnNqOWNDbEtTVEZYbkNKdUZseU9KR3NtTWtVTzBOaHhyOGc2SmdSdVFvSUdpeWdWenQ2SmZNN0dkVG92a2M?oc=5",
+      "published": "2026-11-19T09:31:31+00:00",
+      "category": "Personen"
+    },
+    {
+      "id": "ef8cb18517cf8ea5",
+      "title": "IT-S Group übernimmt Allnet Solutions",
+      "excerpt": "Die IT-S Group rund um Geschäftsführer Rolf Geiger (links) baut ihre Präsenz in der Deutschschweiz durch die Integration von Allnet Solutions mit Sitz in Urdorf auf. Der Standort von Allnet Solutions soll unter der Leitung von Andy Scheurer (rechts) mit dem bestehenden Team erhalten bleiben.",
+      "summary": "Die IT-S Group rund um Geschäftsführer Rolf Geiger (links) baut ihre Präsenz in der Deutschschweiz durch die Integration von Allnet Solutions mit Sitz in Urdorf auf. Der Standort von Allnet Solutions soll unter der Leitung von Andy Scheurer (rechts) mit dem be",
+      "source": "IT Reseller",
+      "url": "https://www.itreseller.ch/Artikel/106644/IT-S_Group_uebernimmt_Allnet_Solutions.html",
+      "published": "2026-11-19T06:58:15+00:00",
+      "category": "Personen"
+    },
+    {
+      "id": "4d93fa0c880a3fc7",
+      "title": "Customize übernimmt Abacus-Geschäft von Softtech - Inside IT",
+      "excerpt": "Customize übernimmt Abacus-Geschäft von Softtech Inside IT",
+      "summary": "Customize übernimmt Abacus-Geschäft von Softtech Inside IT",
+      "source": "Inside IT / Personen",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWjFzT2xRMGJSWWdMU2c1LUdmNHVpcmVYb3pZUFBNbjZYdFc3YVJyWFR4eWtwNXQwSWQySGRWVFh1VGlpbG1MMVFWSTN0NFdteU8xaW5nNHdJbG92ZkpqNFR5b05wMGNUUXNVWGRkb2hQaUNtUnhDSF9GY0stQnRpRkFQMXdLcVZGMHRFUg?oc=5",
+      "published": "2026-11-19T01:50:00+00:00",
+      "category": "Personen"
+    },
+    {
+      "id": "6c0df201761395b9",
+      "title": "Bewida übernimmt Sympasol - Netzwoche",
+      "excerpt": "Bewida übernimmt Sympasol Netzwoche",
+      "summary": "Bewida übernimmt Sympasol Netzwoche",
+      "source": "Netzwoche / Personen",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lTWtCNnR1TlJvQWxmMU5HRUJsQ3JkeUZkMkZWZkJlbUxWc0NrNnpWNmR5Z2pNN1hGelh2N0MtR194SUJ4bnRDYkh1bW56Zkd6YkFaR1ZIa1liVEFPQjY0ekJSNEItaU1JYnVidk9IOTVzR2ZVVFE?oc=5",
+      "published": "2026-11-18T08:32:03+00:00",
+      "category": "Personen"
+    },
+    {
+      "id": "6c0df201761395b9",
+      "title": "Bewida übernimmt Sympasol - Netzwoche",
+      "excerpt": "Bewida übernimmt Sympasol Netzwoche",
+      "summary": "Bewida übernimmt Sympasol Netzwoche",
+      "source": "Netzwoche / Personen",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lTWtCNnR1TlJvQWxmMU5HRUJsQ3JkeUZkMkZWZkJlbUxWc0NrNnpWNmR5Z2pNN1hGelh2N0MtR194SUJ4bnRDYkh1bW56Zkd6YkFaR1ZIa1liVEFPQjY0ekJSNEItaU1JYnVidk9IOTVzR2ZVVFE?oc=5",
+      "published": "2026-11-18T08:32:03+00:00",
+      "category": "Personen"
     }
   ],
-  "updatedAt": "2026-11-24T12:07:37.504366+00:00",
+  "updatedAt": "2026-11-24T12:41:49.990755+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -359,7 +459,8 @@
     "Cloud": 5,
     "Trends": 5,
     "Markt": 5,
-    "Firmen": 5
+    "Firmen": 5,
+    "Personen": 10
   },
   "counts": {
     "Security": 5,
@@ -368,8 +469,9 @@
     "Cloud": 5,
     "Trends": 5,
     "Markt": 5,
-    "Firmen": 5
+    "Firmen": 5,
+    "Personen": 10
   },
-  "warning": "",
+  "warning": "1 von 38 RSS-Quellen waren nicht erreichbar.",
   "aiSummaries": false
 }
