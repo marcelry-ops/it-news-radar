@@ -20,9 +20,12 @@ news=root/'update_news.py'
 cves=root/'update_cves.py'
 for path in (news,cves,root/'priority_products.json',root/'cve_sources.json'):
     if not path.is_file():raise SystemExit(f'Missing required repository file: {path}')
-if (root/'radar_quality.py').exists():raise SystemExit('radar_quality.py already exists; use a fresh repository checkout')
 n=news.read_text(encoding='utf-8')
 c=cves.read_text(encoding='utf-8')
+if 'from radar_quality import canonical_url' in n or 'from radar_quality import (load_kev' in c:
+    raise SystemExit('Upgrade appears already applied (partially or fully). Inspect files before running again.')
+if not (bundle/'radar_quality.py').is_file():
+    raise SystemExit('Missing radar_quality.py beside apply_upgrade.py')
 # News: URL normalization, dedupe, score, unbiased per-category selection.
 n=replace_once(n,'from pathlib import Path\n','from pathlib import Path\nfrom radar_quality import canonical_url, news_identity, dedupe_news, news_impact\n','update_news.py')
 n=replace_once(n,"   url = url.strip()\n   if not url.startswith('https://'): continue", "   url = canonical_url(url.strip())\n   if not url.startswith('https://'): continue",'update_news.py')
@@ -120,7 +123,8 @@ c=replace_once(c,original,replacement,'update_cves.py')
 for path,text in ((news,n),(cves,c)):
     compile(text,str(path),'exec')
     path.write_text(text,encoding='utf-8')
-shutil.copy2(bundle/'radar_quality.py',root/'radar_quality.py')
+if (bundle/'radar_quality.py').resolve() != (root/'radar_quality.py').resolve():
+    shutil.copy2(bundle/'radar_quality.py',root/'radar_quality.py')
 print('Applied upgrade to',root)
 print('Run: python -m unittest discover -s tests (after copying tests from the package)')
 print('No GitHub commits, published feeds or external actions were performed.')
