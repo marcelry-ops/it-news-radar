@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "id": "f93f1baa50324900",
+      "title": "Robotik-Start-up Coprod sammelt 6 Millionen US-Dollar ein",
+      "excerpt": "Das Lausanner Start-up Coprod hat in einer Pre-Seed-Finanzierungsrunde 6 Millionen US-Dollar eingesammelt. Mit modularen Komponenten und einer gemeinsamen Softwarearchitektur will das Unternehmen die Entwicklung spezialisierter Roboter vereinfachen und beschleunigen.",
+      "summary": "Das Lausanner Start-up Coprod hat in einer Pre-Seed-Finanzierungsrunde 6 Millionen US-Dollar eingesammelt. Mit modularen Komponenten und einer gemeinsamen Softwarearchitektur will das Unternehmen die Entwicklung spezialisierter Roboter vereinfachen und beschle",
+      "source": "Netzwoche",
+      "url": "https://www.netzwoche.ch/news/2026-11-25/robotik-start-up-coprod-sammelt-6-millionen-us-dollar-ein",
+      "published": "2026-11-25T10:11:20+00:00",
+      "category": "Trends"
+    },
+    {
+      "id": "28e00e60ac846ceb",
+      "title": "Update: Anthropic mietet Büros für rund 150 Arbeitsplätze in Zürich",
+      "excerpt": "Anthropic baut seinen Zürcher Standort aus. Der Entwickler des KI-Modells Claude mietet rund 2500 Quadratmeter Bürofläche in der ehemaligen Fraumünsterpost. Die Räumlichkeiten bieten Platz für etwa 150 Mitarbeitende.",
+      "summary": "Anthropic baut seinen Zürcher Standort aus. Der Entwickler des KI-Modells Claude mietet rund 2500 Quadratmeter Bürofläche in der ehemaligen Fraumünsterpost. Die Räumlichkeiten bieten Platz für etwa 150 Mitarbeitende.",
+      "source": "Netzwoche",
+      "url": "https://www.netzwoche.ch/news/2025-02-19/anthropic-eroeffnet-niederlassung-in-zuerich",
+      "published": "2026-11-25T09:55:47+00:00",
+      "category": "Firmen"
+    },
+    {
       "id": "6a69ae6530c541f0",
       "title": "Probefahrt mit dem Slate Truck: Der Billig-Pick-up für 25.000 US-Dollar",
       "excerpt": "Ein Elektro-Pick-up für nur 25.000 Dollar, fast ohne Komfort: Das von Jeff Bezos mitfinanzierte Start-up Slate will mit einem Billigmodell punkten. Golem ist den Truck gefahren. Ein Bericht von Stefan Grundhoff ( Elektroauto , Auto )",
@@ -51,14 +71,24 @@
       "category": "Security"
     },
     {
-      "id": "c93ca087eec342e4",
-      "title": "Nutanix-CEO Rajiv Ramaswami kündigt Abschied an - Swiss IT Reseller",
-      "excerpt": "Nutanix-CEO Rajiv Ramaswami kündigt Abschied an Swiss IT Reseller",
-      "summary": "Nutanix-CEO Rajiv Ramaswami kündigt Abschied an Swiss IT Reseller",
+      "id": "d93660df9e147171",
+      "title": "Dell verdoppelt Umsatz dank starkem Servergeschäft - Swiss IT Reseller",
+      "excerpt": "Dell verdoppelt Umsatz dank starkem Servergeschäft Swiss IT Reseller",
+      "summary": "Dell verdoppelt Umsatz dank starkem Servergeschäft Swiss IT Reseller",
       "source": "Focused / IT Schweiz",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZE5OZjJCcnlMTHB3dWpIeTJKa2RQdnRHLWFTeXVVNEMtdl9KYTVmN3k3SDh2OEhUMF83dVM2ZTRQU251dUp4TExLOWFIMDVxTFF4SnFDeUp4TDJlVTFQUkRlcTRVRk1Ec0JJc3c5a2FxWEJRYXNtY3g5TEg5ZDk3XzdjZmRFS2VQd3RTRUZJdENaTUJvUkNqYkRn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbTEzM3VGelprNEsxczgxc1F4T2lYcXlkVUtWMU5lcjZPeVZFbkpfTmlZUFhyT1Y4c0dxc2JEaVM3bjJ0UGNHWENqX2tEcG1mZFVHQ1hpMGQzcnBncDFwTlVURTVvOE5OQ1RMYkI5TkdwLVVnTm1iSGl3ZC0tSUxySV81WU1lemNvUEw2dDRseGZRYUhnVXN4T2Y5UDNTUQ?oc=5",
       "published": "2026-11-25T07:12:00+00:00",
-      "category": "Firmen"
+      "category": "Markt"
+    },
+    {
+      "id": "0de11cb35c678b2e",
+      "title": "Nutanix-CEO Rajiv Ramaswami kündigt Abschied an",
+      "excerpt": "Nach fast sechs Jahren als CEO von Nutanix hat Rajiv Ramaswami seinen Abschied angekündigt. Er bleibt im Amt, bis ein Nachfolger gefunden ist, und soll Nutanix danach noch eine Zeit lang als Senior Advisor begleiten.",
+      "summary": "Nach fast sechs Jahren als CEO von Nutanix hat Rajiv Ramaswami seinen Abschied angekündigt. Er bleibt im Amt, bis ein Nachfolger gefunden ist, und soll Nutanix danach noch eine Zeit lang als Senior Advisor begleiten.",
+      "source": "IT Reseller",
+      "url": "https://www.itreseller.ch/Artikel/106673/Nutanix-CEO_Rajiv_Ramaswami_kuendigt_Abschied_an.html",
+      "published": "2026-11-25T06:28:56+00:00",
+      "category": "Personen"
     },
     {
       "id": "3e0bff60a618e7d0",
@@ -121,6 +151,16 @@
       "category": "Trends"
     },
     {
+      "id": "efb69944b3354f5d",
+      "title": "KI-Agenten nutzen Zero-Day in N-able Mail Assure aus - it-daily.net",
+      "excerpt": "KI-Agenten nutzen Zero-Day in N-able Mail Assure aus it-daily.net",
+      "summary": "KI-Agenten nutzen Zero-Day in N-able Mail Assure aus it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9EbGl0Y0xQTDNIejVhYi1wMm03M2JPUi1Ya0lvNVd2bzlSZWpwcFJEamQzdnFIV0VMS0prSnZwT2drQ0Z2MURmVi1Ka3NaQmYzNDJ1UW5oZjdQMWFab2ZTSTdpcjZUNjBodXNncnN3?oc=5",
+      "published": "2026-11-24T13:50:34+00:00",
+      "category": "Security"
+    },
+    {
       "id": "f35e0c50d38da3bf",
       "title": "Digitale Souveränität im Mittelstand: Wann sich ein eigener virtueller Server statt US-Cloud lohnt - it-daily.net",
       "excerpt": "Digitale Souveränität im Mittelstand: Wann sich ein eigener virtueller Server statt US-Cloud lohnt it-daily.net",
@@ -139,16 +179,6 @@
       "url": "https://www.netzwoche.ch/news/2026-11-24/nestle-eroeffnet-zentrum-fuer-ki-und-robotik",
       "published": "2026-11-24T09:44:44+00:00",
       "category": "Trends"
-    },
-    {
-      "id": "49c7429e8b02a3d6",
-      "title": "Europas IT-Ausgaben steigen 2027 um knapp 10 Prozent",
-      "excerpt": "Die IT-Ausgaben in Europa werden laut Gartner 2027 um 9,9 Prozent auf 1,57 Billionen Dollar steigen. Die grössten Wachstumstreiber bleiben Rechenzentrumsinfrastruktur und Software, wobei wenig überraschend insbesondere Investitionen in KI die Nachfrage befeuern.",
-      "summary": "Die IT-Ausgaben in Europa werden laut Gartner 2027 um 9,9 Prozent auf 1,57 Billionen Dollar steigen. Die grössten Wachstumstreiber bleiben Rechenzentrumsinfrastruktur und Software, wobei wenig überraschend insbesondere Investitionen in KI die Nachfrage befeuer",
-      "source": "IT Reseller",
-      "url": "https://www.itreseller.ch/Artikel/106671/Europas_IT-Ausgaben_steigen_2027_um_knapp_10_Prozent.html",
-      "published": "2026-11-24T09:28:38+00:00",
-      "category": "Markt"
     },
     {
       "id": "79faf866a2d76d9c",
@@ -191,16 +221,6 @@
       "category": "Cloud"
     },
     {
-      "id": "93f78af4a6bd1526",
-      "title": "Drei Mini-PCs, ein KI-Modell: Microsoft vernetzt Windows per USB4 - ComputerBase",
-      "excerpt": "Drei Mini-PCs, ein KI-Modell: Microsoft vernetzt Windows per USB4 ComputerBase",
-      "summary": "Drei Mini-PCs, ein KI-Modell: Microsoft vernetzt Windows per USB4 ComputerBase",
-      "source": "ComputerBase",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc3RXcWhJV0tmSkRheFdkb1RNM0tJRHI5U0t1djA2a3paSjlWMTJ4RGVrZGxKTDFnUXY1NVdQWFhRV2ZNQWt2WERiNkwwS3lIamhsWFBCWUZzSTd1Q3J4dkctXzRwYzcyVTdJZ3VBLUVhbzJ2YVQwWUc2bndPMWhPQmJNUWUxM2tETGY4UEJBZkZJd0NHX3JsNFZpbzhSQ0FWVDZfNzdZdTRGQWFWMEJWQ1pmQnNQNUd4VWFCNA?oc=5",
-      "published": "2026-11-23T20:45:00+00:00",
-      "category": "Trends"
-    },
-    {
       "id": "fc8c2c649c9ea353",
       "title": "Update: Nvidia holt Jensen Huang zurück als CEO",
       "excerpt": "Elf Tage nach seinem Rücktritt setzt der Chipkonzern Nvidia seinen Mitgründer Jensen Huang wieder als CEO ein. Die Entscheidung erfolgt aufgrund von steigendem Druck von innerhalb und ausserhalb des Unternehmens.",
@@ -241,6 +261,16 @@
       "category": "Security"
     },
     {
+      "id": "67362b65ce2a4728",
+      "title": "So hilft KI beim Onlineshopping - aber auch beim Betrug - IT-Markt",
+      "excerpt": "So hilft KI beim Onlineshopping - aber auch beim Betrug IT-Markt",
+      "summary": "So hilft KI beim Onlineshopping - aber auch beim Betrug IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdUFheUlVXzAyYlFQUG9UUHRxRFI4OG9oclY1NTBHY204N2ptcFZ1VFl3VkZhaXJ3aDlVYlR1clRQSVRtal84VjdVOXR6WE1weUc0ZXRVVDFlUU5pUmVxOXhKYnpSUXlJOERlUjgweVZkX29XbFYwakxpWmc0Q1M4b3k1cEx2SW1kbEhZaWhNY0d0SEFCRDRXNg?oc=5",
+      "published": "2026-11-23T10:21:37+00:00",
+      "category": "Markt"
+    },
+    {
       "id": "353e2a40f5b67fbf",
       "title": "Microsoft To Do: Alle Apps werden am 30. Juni 2027 eingestellt - BornCity",
       "excerpt": "Microsoft To Do: Alle Apps werden am 30. Juni 2027 eingestellt BornCity",
@@ -259,16 +289,6 @@
       "url": "https://www.itreseller.ch/Artikel/106663/Oliver_Wyman_uebernimmt_Zuercher_Technologieberatung_Synpulse_.html",
       "published": "2026-11-23T08:21:02+00:00",
       "category": "IT Schweiz"
-    },
-    {
-      "id": "b5a5510cf36a8571",
-      "title": "Lenovo vernetzt den modernen Arbeitsplatz - IT-Markt",
-      "excerpt": "Lenovo vernetzt den modernen Arbeitsplatz IT-Markt",
-      "summary": "Lenovo vernetzt den modernen Arbeitsplatz IT-Markt",
-      "source": "IT-Markt",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY1BPejNBWlJvM09sLTJoRWlQbHhCS0RWZ3d5MUFETG1PVkdYNTROZW1PZTBmQjFYelVUaTlFbUxqQjh5UGVnTUhxdXBZZ20wOVh0TFgzTUpTR29QMENfYzVJa1NLdU9QRkF3YUV4b1JXOVducUR5TnUyT1BfQVQtX2ZNUk03Z2Fi?oc=5",
-      "published": "2026-11-23T06:00:00+00:00",
-      "category": "Markt"
     },
     {
       "id": "9b4971c080b66f67",
@@ -311,16 +331,6 @@
       "category": "Firmen"
     },
     {
-      "id": "593b305001cf34f3",
-      "title": "VMware vCenter – Zero-Day seit September aktiv ausgenutzt",
-      "excerpt": "VMware vCenter – Zero-Day seit September aktiv ausgenutzt Meteora Web",
-      "summary": "VMware vCenter – Zero-Day seit September aktiv ausgenutzt Meteora Web",
-      "source": "Meteora Web",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdkE4Y09xb3pFd3AxV3NjbVE2WGVwb3ZzTEs2MHhHVGV5VHc2NTAtV2pNUE1Ob3JDZWM5Q2VyZlV1YXNKaGRXcDk2aEtvdWpHVWlNMVp4eHFvN2ktUzdNcHF4ekdmTUVIVzhRNzJjT1JvM0N4VnZEdnlMbkZPTFlDX1NEdEp2SFhYWGo2STlNbGdlMkpaSVg1VHpfYmU?oc=5",
-      "published": "2026-11-20T09:16:22+00:00",
-      "category": "Security"
-    },
-    {
       "id": "6ed08bbf34784f84",
       "title": "Microsoft To Do wird am 30. Juni 2027 eingestellt, Planner übernimmt mit den vereinheitlichten Plänen",
       "excerpt": "Microsoft To Do wird am 30. Juni 2027 eingestellt, Planner übernimmt mit den vereinheitlichten Plänen Meteora Web",
@@ -361,7 +371,7 @@
       "category": "Microsoft 365"
     }
   ],
-  "updatedAt": "2026-11-25T09:26:49.606620+00:00",
+  "updatedAt": "2026-11-25T10:14:54.877391+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -373,7 +383,7 @@
     "Personen": 10
   },
   "counts": {
-    "Personen": 1,
+    "Personen": 2,
     "Security": 5,
     "Microsoft 365": 5,
     "IT Schweiz": 5,
@@ -382,6 +392,6 @@
     "Markt": 5,
     "Firmen": 5
   },
-  "warning": "Nicht genügend passende aktuelle Meldungen: 9 × Personen.",
+  "warning": "Nicht genügend passende aktuelle Meldungen: 8 × Personen. 2 von 83 RSS-Quellen waren nicht erreichbar.",
   "aiSummaries": false
 }
