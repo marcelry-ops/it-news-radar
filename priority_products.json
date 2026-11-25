@@ -7,7 +7,8 @@
       ],
       "patterns": [
         "\\bwindows\\b"
-      ]
+      ],
+      "advisoryDomain": "msrc.microsoft.com"
     },
     {
       "name": "SQL",
@@ -17,7 +18,8 @@
       "patterns": [
         "\\bsql server\\b",
         "\\bmicrosoft sql server\\b"
-      ]
+      ],
+      "advisoryDomain": "msrc.microsoft.com"
     },
     {
       "name": "Oracle",
@@ -26,7 +28,8 @@
       ],
       "patterns": [
         "\\boracle\\b"
-      ]
+      ],
+      "advisoryDomain": "www.oracle.com"
     },
     {
       "name": "VMware",
@@ -37,7 +40,8 @@
         "\\bvmware\\b",
         "\\bvsphere\\b",
         "\\besxi\\b"
-      ]
+      ],
+      "advisoryDomain": "support.broadcom.com"
     },
     {
       "name": "ExaGrid",
@@ -55,7 +59,8 @@
       ],
       "patterns": [
         "\\bsap\\b"
-      ]
+      ],
+      "advisoryDomain": "support.sap.com"
     },
     {
       "name": "Microsoft 365",
@@ -66,7 +71,8 @@
         "\\bmicrosoft 365\\b",
         "\\boffice 365\\b",
         "\\bm365\\b"
-      ]
+      ],
+      "advisoryDomain": "msrc.microsoft.com"
     },
     {
       "name": "Salesforce",
@@ -84,7 +90,8 @@
       ],
       "patterns": [
         "\\bservicenow\\b"
-      ]
+      ],
+      "advisoryDomain": "support.servicenow.com"
     },
     {
       "name": "SuccessFactors",
@@ -147,7 +154,8 @@
       ],
       "patterns": [
         "\\bintune\\b"
-      ]
+      ],
+      "advisoryDomain": "msrc.microsoft.com"
     },
     {
       "name": "Kaba",
@@ -184,7 +192,8 @@
       ],
       "patterns": [
         "\\badobe\\b"
-      ]
+      ],
+      "advisoryDomain": "www.adobe.com"
     },
     {
       "name": "Autodesk",
@@ -193,7 +202,8 @@
       ],
       "patterns": [
         "\\bautodesk\\b"
-      ]
+      ],
+      "advisoryDomain": "www.autodesk.com"
     },
     {
       "name": "MobiCall",
@@ -257,7 +267,8 @@
       "patterns": [
         "\\bmicrosoft teams\\b",
         "\\bms teams\\b"
-      ]
+      ],
+      "advisoryDomain": "msrc.microsoft.com"
     },
     {
       "name": "Microsoft Server",
@@ -266,7 +277,8 @@
       ],
       "patterns": [
         "\\bmicrosoft server\\b"
-      ]
+      ],
+      "advisoryDomain": "msrc.microsoft.com"
     }
   ]
 }
