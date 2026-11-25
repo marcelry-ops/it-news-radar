@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "dc4feaf9180e502b",
+      "title": "KI-Boom treibt auch Produktionskosten von LCD-Panels in die Höhe - Swiss IT Reseller",
+      "excerpt": "KI-Boom treibt auch Produktionskosten von LCD-Panels in die Höhe Swiss IT Reseller",
+      "summary": "KI-Boom treibt auch Produktionskosten von LCD-Panels in die Höhe Swiss IT Reseller",
+      "source": "IT Reseller / Firmen",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMFE5Z1BDRlNMZGVPMDBXUWlfRU42NjlJM3FEaDBwajlfTU03aEdBdlF6LWpNTWtFS0loZWllOWxSS2V1VlM5a0tfSHlsOEF1N3ByVWVaQTg0Snl2RnAxNi1ldkN2d1AwVWduQnVrNjhlenp5ZXpTUGlKYndwaXVHamJBeGRpZkt0NWt6U1lCVWk1enNZblNYTDBvdks3a0szbFhpdFV2R0ZTTHh2LUp0UQ?oc=5",
+      "published": "2026-11-25T05:03:30+00:00",
+      "category": "IT Schweiz"
+    },
+    {
       "id": "ba5e5231522f1f31",
       "title": "GL.iNet GoodCloud: Hacker kapern Router über die Hersteller-Cloud - ComputerBase",
       "excerpt": "GL.iNet GoodCloud: Hacker kapern Router über die Hersteller-Cloud ComputerBase",
@@ -19,6 +29,16 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWjZ0cFFjUXhHQUZyZ2FJdEg4eDJIT1g2dmF5cVYyTGUtQXhFT2NvLXh5RTZGVmktckxtdVQ1SUdPbmVZc1J0X3IwYjBKcEZoTHE5SlBhc3J0cVdUSlRfS2trYU5CNGR5VlRGdk9ITnNSbjBfNVkxM3MwTG1HeEFDckJSUWxUV2t3YWpHWG9vUVFHZw?oc=5",
       "published": "2026-11-24T18:06:04+00:00",
       "category": "Microsoft 365"
+    },
+    {
+      "id": "39c3a41be80e9952",
+      "title": "Idunno AntiCsrf, die CVE-2026-131914 wird aktiv ausgenutzt, CVSS 9.3",
+      "excerpt": "Idunno AntiCsrf, die CVE-2026-131914 wird aktiv ausgenutzt, CVSS 9.3 Meteora Web",
+      "summary": "Idunno AntiCsrf, die CVE-2026-131914 wird aktiv ausgenutzt, CVSS 9.3 Meteora Web",
+      "source": "Meteora Web",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU1JSMnlXTGpfWGFGcFdSY0w5Q29ZTFFNSXZnMmFJSnNfbzVpbzhhSGJseG01MF9vT0FYR1UwTEJIbk5ERGMyeElzb1o5cXRhSFV3dERWWWRjcXBFQ01XTzdZTG4yOVlYT0ptWnFDSzhKOEVRUXNsMHFBNWUyQWxBbjI3NnZ0WEhZMjBrTDk2dk94WExZdjZOUg?oc=5",
+      "published": "2026-11-24T15:36:22+00:00",
+      "category": "Security"
     },
     {
       "id": "d313b1ced464cbe1",
@@ -271,26 +291,6 @@
       "category": "IT Schweiz"
     },
     {
-      "id": "fbc7816f508556a5",
-      "title": "Aktuelle Studie: Sophos State of Ransomware in Retail 2026",
-      "excerpt": "Aktuelle Studie: Sophos State of Ransomware in Retail 2026 All About SECURITY",
-      "summary": "Aktuelle Studie: Sophos State of Ransomware in Retail 2026 All About SECURITY",
-      "source": "All About SECURITY",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOckl4YTQtRzFtMEdXU1ZYYlJQaDFVd2J4SjlkbWNtRWxzM0NLRWhhYjR4ZU5tQm5NTUNzLVk4aU82MzJzQThMMEdQaDJyXzNSQ1puUE1SUnpxeEg1THFlUHVKbjlTMUlrUVg0eGlRM09RaGtaTWZ2aWRPZFE5ZmJyakliSHpRUTlMTjZHLWNLOV9KWUtXTTFN?oc=5",
-      "published": "2026-11-23T13:16:55+00:00",
-      "category": "Security"
-    },
-    {
-      "id": "4b01dff127f91010",
-      "title": "Robotik-Startup Coprod erhält 6 Millionen",
-      "excerpt": "Die Coprod-Plattform soll die Entwicklung spezialisierter Roboter vereinfachen. Während die Entwicklung in Lausanne geschehen soll, ist die Fertigung in China und den USA geplant.",
-      "summary": "Die Coprod-Plattform soll die Entwicklung spezialisierter Roboter vereinfachen. Während die Entwicklung in Lausanne geschehen soll, ist die Fertigung in China und den USA geplant.",
-      "source": "Inside IT",
-      "url": "https://www.inside-it.ch/robotik-startup-coprod-erhaelt-6-millionen-20261123",
-      "published": "2026-11-23T11:00:04+00:00",
-      "category": "Firmen"
-    },
-    {
       "id": "962bf9e2dbaf4de1",
       "title": "WhatsApp für Android, CVE-2026-23871 wird aktiv ausgenutzt und legt die IP-Adresse offen",
       "excerpt": "WhatsApp für Android, CVE-2026-23871 wird aktiv ausgenutzt und legt die IP-Adresse offen Meteora Web",
@@ -318,7 +318,7 @@
       "source": "IT Reseller",
       "url": "https://www.itreseller.ch/Artikel/106663/Oliver_Wyman_uebernimmt_Zuercher_Technologieberatung_Synpulse_.html",
       "published": "2026-11-23T08:21:02+00:00",
-      "category": "IT Schweiz"
+      "category": "Firmen"
     },
     {
       "id": "b5a5510cf36a8571",
@@ -351,7 +351,7 @@
       "category": "Firmen"
     }
   ],
-  "updatedAt": "2026-11-25T04:18:21.905501+00:00",
+  "updatedAt": "2026-11-25T06:08:08.815267+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
