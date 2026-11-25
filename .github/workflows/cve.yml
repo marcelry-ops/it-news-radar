@@ -17,6 +17,25 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+      - name: NVD-Cache wiederherstellen
+        uses: actions/cache/restore@v4
+        with:
+          path: .radar-cache
+          key: nvd-cache-${{ github.run_id }}
+          restore-keys: |
+            nvd-cache-
+      - name: Inkrementelle NVD-Abfrage konfigurieren
+        shell: bash
+        run: |
+          # Montag (UTC): Vollabgleich zur regelmaessigen Konsistenzkontrolle.
+          # An allen anderen Tagen wird ein gueltiger Snapshot inkrementell erneuert.
+          if [ "$(date -u +%u)" = "1" ]; then
+            echo 'CVE_INCREMENTAL=0' >> "$GITHUB_ENV"
+            echo 'NVD-Modus: Vollabgleich (Montag UTC)'
+          else
+            echo 'CVE_INCREMENTAL=1' >> "$GITHUB_ENV"
+            echo 'NVD-Modus: inkrementell, sofern Snapshot gueltig'
+          fi
       - name: Offline-Uebersetzung vorbereiten (Englisch nach Deutsch)
         run: |
           python -m pip install --disable-pip-version-check argostranslate==1.9.6
@@ -33,7 +52,22 @@ jobs:
           PYMODEL
       - name: CVE- und EUVD-Daten aktualisieren
         run: python update_cves.py
-      - name: CVE-Daten veröffentlichen
+      - name: Vorhandenen NVD-Snapshot pruefen
+        id: nvd_snapshot
+        shell: bash
+        run: |
+          if [ -s .radar-cache/nvd-snapshot.json ]; then
+            echo 'exists=true' >> "$GITHUB_OUTPUT"
+          else
+            echo 'exists=false' >> "$GITHUB_OUTPUT"
+          fi
+      - name: NVD-Cache speichern
+        if: success() && steps.nvd_snapshot.outputs.exists == 'true'
+        uses: actions/cache/save@v4
+        with:
+          path: .radar-cache
+          key: nvd-cache-${{ github.run_id }}
+      - name: CVE-Daten veroeffentlichen
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
