@@ -14,6 +14,7 @@ import urllib.request
 import xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
+from radar_guard import guard_dataset
 from radar_quality import canonical_url, news_identity, dedupe_news, news_impact
 
 UTC = dt.timezone.utc
@@ -393,6 +394,7 @@ def main():
  if failures: warnings.append(f'{len(failures)} von {len(FEEDS)} RSS-Quellen waren nicht erreichbar.')
  payload = {'items':chosen, 'updatedAt':NOW.isoformat(), 'targets':TARGETS, 'counts':counts,
             'warning':' '.join(warnings), 'aiSummaries':False}
+ guard_dataset('news.json', payload)
  Path('news.json').write_text(json.dumps(payload, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
  print('Saved', len(chosen), 'items; categories:', counts, 'feed failures:', failures)
 

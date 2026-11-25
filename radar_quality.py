@@ -140,15 +140,17 @@ def enrich_risks(items, kev, epss):
 
 
 def risk_score(row):
-    cvss=row.get('score')
-    cvss=cvss if isinstance(cvss,(float,int)) else 0
-    epss=row.get('epss') or 0
-    score=180 if row.get('knownExploited') else 0
-    score+= min(100,epss*100)
-    score+=cvss*5
-    score+=35 if row.get('priorityProducts') else 0
-    if str(row.get('kevRansomware') or '').lower()=='known':score+=15
-    return round(score,3)
+    """Documented 0..100 operational prioritisation heuristic, not an official standard."""
+    raw_cvss = row.get('score')
+    cvss = max(0.0, min(10.0, float(raw_cvss))) if isinstance(raw_cvss,(int,float)) else 0.0
+    raw_epss = row.get('epss')
+    epss = max(0.0,min(1.0,float(raw_epss))) if isinstance(raw_epss,(int,float)) else 0.0
+    points = (45 if row.get('knownExploited') else 0)
+    points += epss * 25
+    points += cvss * 1.5
+    points += 10 if row.get('priorityProducts') else 0
+    if str(row.get('kevRansomware') or '').casefold() == 'known': points += 5
+    return round(min(100.0,points),2)
 
 
 def rank_risk(items):

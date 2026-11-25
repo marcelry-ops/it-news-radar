@@ -15,8 +15,10 @@ import urllib.error
 import email.utils
 import xml.etree.ElementTree as ET
 from pathlib import Path
+from radar_guard import guard_dataset
 from radar_quality import (load_kev, load_epss, enrich_risks, merge_kev_records,
-                           rank_risk, eligible_risk)
+                           rank_risk, eligible_risk, risk_score)
+from nvd_incremental import read_snapshot, modified_query_start, write_snapshot
 
 UTC = dt.timezone.utc
 NVD = 'https://services.nvd.nist.gov/rest/json/cves/2.0'
@@ -542,24 +544,54 @@ def build():
     warnings = []
     total = None
     start_index = 0
+    snapshot = read_snapshot(now) if 'nvd' in enabled_sources else None
+    incremental = bool(snapshot)
+    nvd_entries = dict(snapshot['entries']) if snapshot else {}
+    # First-ever run and expired/invalid snapshots always use the full window.
+    if incremental:
+        modified_start = modified_query_start(snapshot)
+        qs = {'lastModStartDate': modified_start.strftime('%Y-%m-%dT%H:%M:%S.000'),
+              'lastModEndDate': now.strftime('%Y-%m-%dT%H:%M:%S.000'), 'resultsPerPage': PAGE_SIZE}
+    nvd_complete = False
     try:
         while 'nvd' in enabled_sources and start_index < MAX_ITEMS:
             page = get_json(NVD + '?' + urllib.parse.urlencode({**qs, 'startIndex': start_index}))
             total = int(page.get('totalResults', 0))
             batch = page.get('vulnerabilities', [])
             if not batch:
+                nvd_complete = (start_index >= total)
                 break
             for row in batch:
                 cve = row.get('cve') or {}
-                if cve.get('id') and cve.get('vulnStatus') != 'Rejected':
-                    item = nvd_item(cve)
-                    entries[item['id']] = merge(entries[item['id']], item) if item['id'] in entries else item
+                identifier = cve.get('id')
+                if identifier and cve.get('vulnStatus') == 'Rejected':
+                    nvd_entries.pop(identifier, None)
+                elif identifier:
+                    nvd_entries[identifier] = nvd_item(cve)
             start_index += len(batch)
             if start_index >= total:
+                nvd_complete = True
                 break
             time.sleep(7)
+        if 'nvd' in enabled_sources and total == 0:
+            nvd_complete = True
+        if 'nvd' in enabled_sources and not nvd_complete:
+            warnings.append('NVD nicht vollständig verarbeitet; Snapshot nicht aktualisiert')
     except Exception as exc:
         warnings.append('NVD nicht vollständig erreichbar: ' + str(exc)[:120])
+    # Preserve snapshot records when a modified-only query was used; prune old
+    # entries for the display window. Historical high-impact CVEs are separately
+    # discovered by KEV and the priority-product searches below.
+    threshold_nvd = iso(start.isoformat())
+    nvd_entries = {cid:row for cid,row in nvd_entries.items() if
+                   (row.get('published') and row['published'] >= threshold_nvd) or
+                   (row.get('modified') and row['modified'] >= threshold_nvd)}
+    entries.update(nvd_entries)
+    if nvd_complete and 'nvd' in enabled_sources:
+        try:
+            write_snapshot(nvd_entries,now)
+        except OSError as exc:
+            warnings.append('NVD-Cache konnte nicht geschrieben werden: '+str(exc)[:100])
 
     for label, url, parser in (
         *((('ENISA EUVD', EUVD + '?page=0&size=100', euvd_candidates),) if 'euvd' in enabled_sources else ()),
@@ -723,6 +755,8 @@ def build():
         item['priorityProducts'] = priority_products(item)
     selected = [x for x in selected if eligible_risk(x)]
     # Independent top-50 pools, not limited to the global 50.
+    for item in selected:
+        item['riskScore'] = risk_score(item)
     global_top = rank_risk(selected)[:TOP_CVES]
     product_pools = {name: rank_risk([x for x in selected if name in x.get('priorityProducts', [])])[:TOP_CVES]
                      for name in PRIORITY_TERMS}
@@ -738,16 +772,19 @@ def build():
                                     else 'excluded_by_top50')
     payload = {'updatedAt': iso(now.isoformat()), 'windowDays': DAYS,
                'totalResultsNvd': total, 'count': len(selected),
-               'truncated': start_index < (total or 0),
+               'truncated': bool('nvd' in enabled_sources and not nvd_complete),
                'source': ', '.join(x['name'] for x in source_rows if x['enabled']),
                'activeSources': [x['id'] for x in source_rows if x['enabled']],
-               'sort': 'risk_desc', 'priorityMode': 'kev_epss_cvss_product', 'minimumCvss': None,
+               'riskScoreMethod': 'heuristic_v2_0_to_100', 'sort': 'risk_desc', 'priorityMode': 'kev_epss_cvss_product', 'minimumCvss': None,
+                'nvdIncremental': incremental, 'nvdCacheComplete': nvd_complete,
                 'kevStats': kev_stats, 'kevCount': len(kev), 'epssCount': len(epss),
                 'kevError': kev_error, 'epssError': epss_error,
                'warning': ' | '.join(warnings) if warnings else None,
                'items': selected, 'priorityItems': product_pools, 'priorityNames': list(PRIORITY_TERMS),
                'vendorDiscovery': discovery_stats, 'targetedDiagnostics': targeted_status,
-                'retrievalDiagnostics': {'historicalRequests': historical_requests,
+                'retrievalDiagnostics': {'nvdIncremental':incremental, 'nvdPagesComplete':nvd_complete,
+                                         'nvdRetrieved':start_index,
+                                         'historicalRequests': historical_requests,
                                          'historicalFailures': historical_failed,
                                          'historicalBudget': HISTORICAL_REQUEST_BUDGET,
                                          'cveorgRequests': len(_CVEORG_CACHE),
@@ -756,6 +793,7 @@ def build():
     if not selected:
         raise RuntimeError('Keine gueltigen CVE-Daten; bestehende cves.json bleibt unveraendert')
     destination = Path('cves.json')
+    guard_dataset(destination, payload)
     temp = destination.with_suffix('.json.tmp')
     temp.write_text(json.dumps(payload, ensure_ascii=False, separators=(',', ':')), encoding='utf-8')
     temp.replace(destination)
