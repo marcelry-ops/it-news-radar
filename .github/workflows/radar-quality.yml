@@ -1,0 +1,27 @@
+name: IT News Radar - Qualitaetsbericht
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 6 * * *'
+permissions:
+  contents: read
+jobs:
+  quality:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Python-Syntax und Tests
+        run: |
+          python -m py_compile radar_quality.py radar_monitor.py nvd_incremental.py radar_guard.py update_news.py update_cves.py
+          python -m unittest discover -s tests -v
+      - name: Qualitaetsbericht generieren
+        run: python radar_monitor.py --output radar_quality_report.json
+      - name: Bericht als Artefakt bereitstellen
+        uses: actions/upload-artifact@v4
+        with:
+          name: radar-quality-report
+          path: radar_quality_report.json
