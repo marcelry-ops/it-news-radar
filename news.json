@@ -1,23 +1,23 @@
 {
   "items": [
     {
-      "id": "aae2b926faa2d27c",
-      "title": "Outlook, Onedrive und Co.: Nach Ausfall herrscht bei Microsoft Alarmstufe Rot",
-      "excerpt": "Im Zuge des Code Red will Microsoft Prozesse verbessern, damit der nächste Ausfall nicht wieder einen Tag lang anhält. ( Wirtschaft , Microsoft )",
-      "summary": "Im Zuge des Code Red will Microsoft Prozesse verbessern, damit der nächste Ausfall nicht wieder einen Tag lang anhält. ( Wirtschaft , Microsoft )",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/outlook-onedrive-und-co-nach-ausfall-herrscht-bei-microsoft-alarmstufe-rot-2611-215650.html",
-      "published": "2026-11-25T14:21:01+00:00",
-      "category": "Microsoft 365"
+      "id": "e75db06beeb7d9db",
+      "title": "Rubrik erweitert Cyber-Wiederherstellung für AWS-Cloud-Anwendungen - it-daily.net",
+      "excerpt": "Rubrik erweitert Cyber-Wiederherstellung für AWS-Cloud-Anwendungen it-daily.net",
+      "summary": "Rubrik erweitert Cyber-Wiederherstellung für AWS-Cloud-Anwendungen it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdnVSNnVhSEdKSmJhYmN4enRRbDljeU43N19RNjJnX2E4c3JPMURpdU5jNWxQaTE1NzF2bWw3Vk1FM3daMFl0OEFQaW92UGJWUHBxc1NwUDdhbHJYTUlFUFdvUVZlMng5c3VaUXpNbW9lUTZJX2ZGdFlpWExKWE52SkltbEhTM3Y5VHNsUW51dXh1dnNfaEE?oc=5",
+      "published": "2026-11-25T16:04:09+00:00",
+      "category": "Cloud"
     },
     {
-      "id": "feae072fb4e25241",
-      "title": "Basler Datenschutzbeauftragte verhindert Datenauslagerung",
-      "excerpt": "VPN und Web Proxy sollten von einem US-Cloud-Anbieter übernommen werden.",
-      "summary": "VPN und Web Proxy sollten von einem US-Cloud-Anbieter übernommen werden.",
-      "source": "Inside IT",
-      "url": "https://www.inside-it.ch/basler-datenschutzbeauftragte-verhindert-datenauslagerung-20261125",
-      "published": "2026-11-25T14:20:59+00:00",
+      "id": "0996c1e36c8a6f57",
+      "title": "Multi-Cloud-Backup: Was „Cloud-nativ“ eigentlich bedeutet - it-daily.net",
+      "excerpt": "Multi-Cloud-Backup: Was „Cloud-nativ“ eigentlich bedeutet it-daily.net",
+      "summary": "Multi-Cloud-Backup: Was „Cloud-nativ“ eigentlich bedeutet it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMUFIcXEzVFc1UnhxWDRZYUM1MVMwTDdyR2dCdUcxcXRDOW4xZG54ajBfelhFaE5CT3l5dFJFUlFQSVFzM3MxekxwcERDcUhRQmtyejVHVWE0RXNibHV2X1JSbDdFTGNSVVY0MHc1N2E3Y2dDUmRaWGxHbGMxVjRyMVFnLTNnZmJ6clFjdHpR?oc=5",
+      "published": "2026-11-25T14:59:30+00:00",
       "category": "Cloud"
     },
     {
@@ -39,6 +39,16 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VbEtpdWtlYTQwRHpodG5QS1VkMmhtcEpEYjlucFozTEZQYTlVLWlJZ2R0dEItcXRwVUlWU0VKY0Fabmpab1RaRGd1czNSZkdwc3pUb3NUeklkY3gzeThpWGMtU1JkOFFoRTFGbzdYeFhpWFJ3RHRfUDhoM2g2QQ?oc=5",
       "published": "2026-11-25T11:04:47+00:00",
       "category": "Markt"
+    },
+    {
+      "id": "1b4688584e3da482",
+      "title": "Cleverbridge-Datenleck: Was Betroffene jetzt tun sollten - it-daily.net",
+      "excerpt": "Cleverbridge-Datenleck: Was Betroffene jetzt tun sollten it-daily.net",
+      "summary": "Cleverbridge-Datenleck: Was Betroffene jetzt tun sollten it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd2hIZmZRbWZQajFETHZfZ0QydHBaMnlwbDI0T1ljUUpCTmdXOGpGancyTjdzTWxzN0JmRkFXR1NNSmdqNVZhZG41QzBoVnVEX0V0S2JiR29pdzBxLUhwR0ZtY25RbVB1a1NucEZKWVVJSDFGZVdaZ0pXMnMyTllIUkdtbFpDNDk1OFZTZEQ3akQ0R2gz?oc=5",
+      "published": "2026-11-25T10:16:57+00:00",
+      "category": "Security"
     },
     {
       "id": "f93f1baa50324900",
@@ -141,26 +151,6 @@
       "category": "Cloud"
     },
     {
-      "id": "39c3a41be80e9952",
-      "title": "Idunno AntiCsrf, die CVE-2026-131914 wird aktiv ausgenutzt, CVSS 9.3",
-      "excerpt": "Idunno AntiCsrf, die CVE-2026-131914 wird aktiv ausgenutzt, CVSS 9.3 Meteora Web",
-      "summary": "Idunno AntiCsrf, die CVE-2026-131914 wird aktiv ausgenutzt, CVSS 9.3 Meteora Web",
-      "source": "Meteora Web",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU1JSMnlXTGpfWGFGcFdSY0w5Q29ZTFFNSXZnMmFJSnNfbzVpbzhhSGJseG01MF9vT0FYR1UwTEJIbk5ERGMyeElzb1o5cXRhSFV3dERWWWRjcXBFQ01XTzdZTG4yOVlYT0ptWnFDSzhKOEVRUXNsMHFBNWUyQWxBbjI3NnZ0WEhZMjBrTDk2dk94WExZdjZOUg?oc=5",
-      "published": "2026-11-24T15:36:22+00:00",
-      "category": "Security"
-    },
-    {
-      "id": "7faa414f30c2f4c8",
-      "title": "heise+ | Interview mit Scott Sellers: Die Zukunft von KI-Anwendungen heißt Java",
-      "excerpt": "JavaSPEKTRUM sprach mit Scott Sellers, CEO und Co-Founder von Azul über die Rolle von Java bei der Zukunft von KI. Das Interview führe Michael Stal in München.",
-      "summary": "JavaSPEKTRUM sprach mit Scott Sellers, CEO und Co-Founder von Azul über die Rolle von Java bei der Zukunft von KI. Das Interview führe Michael Stal in München.",
-      "source": "heise online",
-      "url": "https://www.heise.de/hintergrund/Interview-mit-Scott-Sellers-Die-Zukunft-von-KI-Anwendungen-heisst-Java-11533136.html",
-      "published": "2026-11-24T15:15:00+00:00",
-      "category": "Trends"
-    },
-    {
       "id": "e30f25ce6b51a75d",
       "title": "Bending Spoons kauft Mailchimp",
       "excerpt": "Das italienische Technologieunternehmen übernimmt die E-Mail-Marketing-Plattform von Intuit für rund 3,7 Milliarden Dollar.",
@@ -191,13 +181,13 @@
       "category": "Security"
     },
     {
-      "id": "274ac5c79fee80c8",
-      "title": "Azure API Management: Lücke kostete Kunden Zugangsdaten - it-daily.net",
-      "excerpt": "Azure API Management: Lücke kostete Kunden Zugangsdaten it-daily.net",
-      "summary": "Azure API Management: Lücke kostete Kunden Zugangsdaten it-daily.net",
+      "id": "f35e0c50d38da3bf",
+      "title": "Digitale Souveränität im Mittelstand: Wann sich ein eigener virtueller Server statt US-Cloud lohnt - it-daily.net",
+      "excerpt": "Digitale Souveränität im Mittelstand: Wann sich ein eigener virtueller Server statt US-Cloud lohnt it-daily.net",
+      "summary": "Digitale Souveränität im Mittelstand: Wann sich ein eigener virtueller Server statt US-Cloud lohnt it-daily.net",
       "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHM3FNNk9VOW9HS0dDb215eGF0RFBTcjNReHFmN2M1TDlPRUhXdmZYbVFHZHhkZE03LW01ZmNrOHUxYzQxaW1wWUR6S2NWOTlKYkVvWG1JVGhGalRBRHZzYWQ3a0xBLU5VZHhsbnVhdw?oc=5",
-      "published": "2026-11-24T10:16:56+00:00",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObEk1Qzl0MktuS1VEUmZXVUs0QUxQX2lONmx2d0UwcGc3M0VudklJMzBPUEJENWRmMzBrZ3VkLVRackh4ZVZkR1A3dl85YktqZWwxRDZzaXdObnBIQkIyZXBIakZ3S1EwN3d2MFh5cWp2QXBEOTRaR2MtWUYzVl8yS2ZVU1plOHM0cUpBVFFLZGtJUXJZQjRqaXlzOUM?oc=5",
+      "published": "2026-11-24T11:02:00+00:00",
       "category": "Cloud"
     },
     {
@@ -231,14 +221,14 @@
       "category": "Firmen"
     },
     {
-      "id": "30c65606d5bc23f9",
-      "title": "Schwachstelle in Azure API Management (APIM) Classic führte zu Hacks - BornCity",
-      "excerpt": "Schwachstelle in Azure API Management (APIM) Classic führte zu Hacks BornCity",
-      "summary": "Schwachstelle in Azure API Management (APIM) Classic führte zu Hacks BornCity",
-      "source": "BornCity",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdzNnazdpN25hX3JwVng1MWs5dm8zeXZLeEZPOFBBOXM1Vm4wNGRSb3V1ZlkzdjdhdmpEU09PTE16VDJEaTlQZDdobV81WHhnUUxiTTRoRm5SbmpuSVVidWowUzROVFIwN1U1cjFPMThVNDJ0cG0wYnFZNVM2dE1CeHZ5M0UwRW0zSTlLN1JpYndIa214NXhKMW9EMktkUU9jSzhnRXBPWkI?oc=5",
-      "published": "2026-11-24T07:22:09+00:00",
-      "category": "Cloud"
+      "id": "93f78af4a6bd1526",
+      "title": "Drei Mini-PCs, ein KI-Modell: Microsoft vernetzt Windows per USB4 - ComputerBase",
+      "excerpt": "Drei Mini-PCs, ein KI-Modell: Microsoft vernetzt Windows per USB4 ComputerBase",
+      "summary": "Drei Mini-PCs, ein KI-Modell: Microsoft vernetzt Windows per USB4 ComputerBase",
+      "source": "ComputerBase",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc3RXcWhJV0tmSkRheFdkb1RNM0tJRHI5U0t1djA2a3paSjlWMTJ4RGVrZGxKTDFnUXY1NVdQWFhRV2ZNQWt2WERiNkwwS3lIamhsWFBCWUZzSTd1Q3J4dkctXzRwYzcyVTdJZ3VBLUVhbzJ2YVQwWUc2bndPMWhPQmJNUWUxM2tETGY4UEJBZkZJd0NHX3JsNFZpbzhSQ0FWVDZfNzdZdTRGQWFWMEJWQ1pmQnNQNUd4VWFCNA?oc=5",
+      "published": "2026-11-23T20:45:00+00:00",
+      "category": "Trends"
     },
     {
       "id": "eb53cd74c8cb756b",
@@ -361,6 +351,16 @@
       "category": "IT Schweiz"
     },
     {
+      "id": "a0dcfb450d11de11",
+      "title": "Microsoft To Do wird eingestellt – Wechsel zu Microsoft Planner",
+      "excerpt": "Microsoft To Do wird eingestellt – Wechsel zu Microsoft Planner Deskmodder.de",
+      "summary": "Microsoft To Do wird eingestellt – Wechsel zu Microsoft Planner Deskmodder.de",
+      "source": "Deskmodder.de",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQnZCbVBiejlzeEpwa3EwUUVqdThwS1k4VV91ekExOGcweDZOMmw5cEZKVzJHODJ2Vi1odkJHSnVmU2UySDh1RlA4V3JkVVozeDFjRFVFR2xodGJXWjhISjJ0dkJXV2hUWnRVNjlpTThRVU43dW9ia1doTk90WG5vdE5TQ1JjWFNoQ19XYTlxaGVYUTZvdmlURTYtQmp6dFFMV01mY2VOMA?oc=5",
+      "published": "2026-11-19T06:20:00+00:00",
+      "category": "Microsoft 365"
+    },
+    {
       "id": "bdb8e482dffc2871",
       "title": "Microsoft To Do wird eingestellt",
       "excerpt": "Microsoft To Do wird eingestellt Caschys Blog",
@@ -451,7 +451,7 @@
       "category": "Personen"
     }
   ],
-  "updatedAt": "2026-11-25T15:18:57.289175+00:00",
+  "updatedAt": "2026-11-25T17:12:46.711698+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -472,6 +472,6 @@
     "Markt": 5,
     "Firmen": 5
   },
-  "warning": "8 von 104 RSS-Quellen waren nicht erreichbar.",
+  "warning": "",
   "aiSummaries": false
 }
