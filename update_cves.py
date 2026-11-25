@@ -633,8 +633,26 @@ def build():
     if 'nvd' in enabled_sources and os.getenv('CVE_VENDOR_DISCOVERY', '1') == '1':
         vendor_hits, vendor_errors = discover_official_cve_ids(
             json.loads(CONFIG_FILE.read_text(encoding='utf-8')))
-    if vendor_errors:
-        warnings.append(f'Herstellerrecherche: {len(vendor_errors)} Quellen nicht erreichbar oder nicht konfiguriert')
+    # Separate missing configuration from failed lookups; neither category
+    # proves that an official advisory feed itself is unavailable.
+    vendor_missing = [x for x in vendor_errors if 'keine verifizierte offizielle Advisory-Domain konfiguriert' in x]
+    vendor_invalid = [x for x in vendor_errors if 'ungueltige Domain' in x]
+    vendor_failed_sources = [x for x in vendor_errors if x not in vendor_missing and x not in vendor_invalid]
+    vendor_diagnostics = {
+        'configuredCount': sum(bool(str(p.get('advisoryDomain') or '').strip())
+                               for p in json.loads(CONFIG_FILE.read_text(encoding='utf-8')).get('products', [])),
+        'missingDomains': [x.split(':', 1)[0] for x in vendor_missing],
+        'invalidDomains': [x.split(':', 1)[0] for x in vendor_invalid],
+        'failedLookups': [{'product': x.split(':', 1)[0], 'reason': x.split(':', 1)[-1].strip()}
+                          for x in vendor_failed_sources],
+        'note': 'Google News ist eine Discovery-Quelle und keine offizielle Hersteller-API.'
+    }
+    if vendor_missing:
+        warnings.append(f'Herstellerrecherche: {len(vendor_missing)} Advisory-Domains nicht konfiguriert')
+    if vendor_invalid:
+        warnings.append(f'Herstellerrecherche: {len(vendor_invalid)} ungueltige Advisory-Domains')
+    if vendor_failed_sources:
+        warnings.append(f'Herstellerrecherche: {len(vendor_failed_sources)} Google-News-Abfragen fehlgeschlagen')
     # Prefer known CVEs and recent vendor discoveries. Never silently discard the
     # rest: diagnostics report how many candidates were deferred by the budget.
     discovered_ids = list(dict.fromkeys(cid for ids in vendor_hits.values() for cid in ids))
@@ -781,7 +799,7 @@ def build():
                 'kevError': kev_error, 'epssError': epss_error,
                'warning': ' | '.join(warnings) if warnings else None,
                'items': selected, 'priorityItems': product_pools, 'priorityNames': list(PRIORITY_TERMS),
-               'vendorDiscovery': discovery_stats, 'targetedDiagnostics': targeted_status,
+               'vendorDiscovery': discovery_stats, 'vendorSourceDiagnostics': vendor_diagnostics, 'targetedDiagnostics': targeted_status,
                 'retrievalDiagnostics': {'nvdIncremental':incremental, 'nvdPagesComplete':nvd_complete,
                                          'nvdRetrieved':start_index,
                                          'historicalRequests': historical_requests,

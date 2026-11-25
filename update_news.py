@@ -20,7 +20,8 @@ from radar_quality import canonical_url, news_identity, dedupe_news, news_impact
 UTC = dt.timezone.utc
 NOW = dt.datetime.now(UTC)
 TARGETS = {'Security': 5, 'Microsoft 365': 5, 'IT Schweiz': 5, 'Cloud': 5, 'Trends': 5, 'Markt': 5, 'Firmen': 5, 'Personen': 10}
-MAX_AGE_DAYS = int(os.getenv('NEWS_MAX_AGE_DAYS', '7'))
+MAX_AGE_DAYS = max(1, min(int(os.getenv('NEWS_MAX_AGE_DAYS', '7')), 90))
+PERSON_MAX_AGE_DAYS = max(1, min(int(os.getenv('PERSON_MAX_AGE_DAYS', '30')), 90))
 ATOM = '{http://www.w3.org/2005/Atom}'
 RSS_NS = '{http://purl.org/rss/1.0/modules/content/}'
 
@@ -36,8 +37,9 @@ SEARCHES = {
  'Firmen': ['IT Unternehmen Firmen Übernahme Partnerschaft CEO Quartalszahlen', 'Technologieunternehmen Schweizer IT Firmen neue Produkte'],
 }
 
-def google_rss(query):
- return 'https://news.google.com/rss/search?' + urllib.parse.urlencode({'q': query + ' when:7d', 'hl':'de-CH', 'gl':'CH', 'ceid':'CH:de'})
+def google_rss(query, days=7):
+ days = max(1, min(int(days), 90))
+ return 'https://news.google.com/rss/search?' + urllib.parse.urlencode({'q': query + f' when:{days}d', 'hl':'de-CH', 'gl':'CH', 'ceid':'CH:de'})
 
 FEEDS = [('heise online', 'https://www.heise.de/rss/heise-atom.xml', None),
          ('heise Security', 'https://www.heise.de/security/rss/news-atom.xml', 'Security'),
@@ -106,11 +108,11 @@ PERSON_QUERIES = [
  '"ernannt" OR "befördert" OR "neuer CEO" OR "neue CEO" OR "neuer CIO"',
  '"verlässt" OR "tritt zurück" OR "übernimmt Leitung" OR "Geschäftsleitung"',
 ]
-FEEDS += [(publisher + ' / Personen', google_rss('site:' + domain + ' (' + query + ')'), 'Personen')
+FEEDS += [(publisher + ' / Personen', google_rss('site:' + domain + ' (' + query + ')', PERSON_MAX_AGE_DAYS), 'Personen')
           for publisher, domain in PERSON_SITES.items() for query in PERSON_QUERIES]
-FEEDS += [(publisher + ' / Personen', google_rss('site:' + domain + ' ' + q), 'Personen')
+FEEDS += [(publisher + ' / Personen', google_rss('site:' + domain + ' ' + q, PERSON_MAX_AGE_DAYS), 'Personen')
           for publisher, domain in PERSON_SITES.items()
-          for q in ['CEO ernannt', 'CIO wechselt', 'CTO übernimmt', 'Geschäftsleitung neu', 'Verwaltungsrat gewählt']]
+          for q in ['CEO ernannt', 'CIO wechselt', 'CTO übernimmt', 'Geschäftsleitung neu', 'Verwaltungsrat gewählt', 'neue Geschäftsführerin', 'neuer Geschäftsführer', 'IT-Leiter ernannt', 'CISO berufen', 'Leiterin Informatik übernimmt', 'Nachfolger ernannt', 'in den Verwaltungsrat gewählt']]
 
 
 # Focused discovery for major Microsoft product lifecycle announcements.
@@ -130,7 +132,7 @@ SWISS_TECH_COMPANY = re.compile(r'\b(technologieberatung|tech[- ]?beratung|it[- 
 
 # A role mention alone is not a personnel change: require a concrete personnel action.
 PERSON_ROLE = re.compile(r'\b(ceo|cio|cto|cfo|ciso|chef(?:in)?|leiter(?:in)?|geschäftsführer(?:in)?|geschäftsleitung|verwaltungsrat|präsident(?:in)?|direktor(?:in)?|führung|management|personal(?:ie|ien)|mitarbeiter(?:in)?)\b', re.I)
-PERSON_CHANGE = re.compile(r'\b(personalwechsel|führungswechsel|fuehrungswechsel|chefwechsel|ernannt|ernennung|befördert|beförderung|berufen|neubesetzung|nachfolge|nachfolger(?:in)?|wechselt|wechsel(?:t)?|verlässt|verlaesst|rücktritt|ruecktritt|zurückgetreten|zurueckgetreten|tritt\s+zurück|tritt\s+zurueck|übernimmt|uebernimmt|übernahme\s+der\s+leitung|neu\s+(?:im|in\s+der)\s+(?:team|geschäftsleitung)|neuer?\s+(?:ceo|cio|cto|cfo|ciso|chef|leiter|geschäftsführer|präsident)|neue\s+(?:ceo|cio|cto|cfo|ciso|chefin|leiterin|geschäftsführerin|präsidentin)|tritt\s+an|steigt\s+auf|rückt\s+auf|rueckt\s+auf|abgang|abgänge|abgaenge|personelle\s+veränderung(?:en)?)\b', re.I)
+PERSON_CHANGE = re.compile(r'\b(personalwechsel|führungswechsel|fuehrungswechsel|chefwechsel|ernannt|ernennung|befördert|beförderung|berufen|neubesetzung|nachfolge|nachfolger(?:in)?|wechselt|wechsel(?:t)?|verlässt|verlaesst|rücktritt|ruecktritt|zurückgetreten|zurueckgetreten|tritt\s+zurück|tritt\s+zurueck|übernimmt|uebernimmt|übernahme\s+der\s+leitung|neu\s+(?:im|in\s+der)\s+(?:team|geschäftsleitung)|neuer?\s+(?:ceo|cio|cto|cfo|ciso|chef|leiter|geschäftsführer|präsident)|neue\s+(?:ceo|cio|cto|cfo|ciso|chefin|leiterin|geschäftsführerin|präsidentin)|tritt\s+an|steigt\s+auf|rückt\s+auf|rueckt\s+auf|zum\s+ceo\s+ernannt|zur\s+geschäftsführerin\s+ernannt|wird\s+(?:ceo|cio|cto|ciso|geschäftsführer(?:in)?|it[- ]?leiter(?:in)?)|übernimmt\s+(?:die\s+)?(?:führung|leitung|geschäftsführung)|besetzt\s+(?:die\s+)?(?:stelle|position)|abgang|abgänge|abgaenge|personelle\s+veränderung(?:en)?)\b', re.I)
 PERSON_EXCLUDE = re.compile(r'\b(stellenangebot|jobangebot|karrieretipp|bewerbungstipps|gehaltsvergleich|lohnvergleich|arbeitsmarktstudie|fachkräftemangel|fachkraeftemangel|stellenabbau|entlassungswelle|entlassungen)\b', re.I)
 
 def personnel_relevance(item):
@@ -190,7 +192,7 @@ def extract(feed):
   url = canonical_url(url.strip())
   if not url.startswith('https://'): continue
   published = parse_date(get('published') or get('updated') or get('pubDate'))
-  if not published or published > NOW + dt.timedelta(hours=4) or published < NOW - dt.timedelta(days=MAX_AGE_DAYS): continue
+  if not published or published > NOW + dt.timedelta(hours=4) or published < NOW - dt.timedelta(days=(PERSON_MAX_AGE_DAYS if hint == 'Personen' or name in PERSON_SITES else MAX_AGE_DAYS)): continue
   # Google News headlines normally end with ' - Publisher'. Keep source attribution separate.
   publisher = name
   if name.startswith('Google News /') and ' - ' in title:
@@ -370,6 +372,8 @@ def build_diagnostics(raw_items, chosen, failures):
                   'published': item['published'], 'eligibleCategories': categories,
                   'selectedCategories': chosen_categories.get(item['id'], []), 'status': status})
  return {'updatedAt': NOW.isoformat(), 'feedFailures': failures,
+         'personSearchWindowDays': PERSON_MAX_AGE_DAYS, 'generalSearchWindowDays': MAX_AGE_DAYS,
+         'personCandidateCount': sum(eligible(item, 'Personen') for item in candidates),
          'rawCandidates': len(raw_items), 'uniqueCandidates': len(candidates),
          'selectedPerCategory': {cat: len(ids) for cat, ids in selected_by_category.items()},
          'articles': details[:1500],
