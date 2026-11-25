@@ -31,16 +31,6 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "65413bdf59f626e9",
-      "title": "«Höhle der Löwen»: Emmer IT-Firma Goldoak knackt Millionen-Rekord – doch der Deal platzt",
-      "excerpt": "«Höhle der Löwen»: Emmer IT-Firma Goldoak knackt Millionen-Rekord – doch der Deal platzt Oltner Tagblatt",
-      "summary": "«Höhle der Löwen»: Emmer IT-Firma Goldoak knackt Millionen-Rekord – doch der Deal platzt Oltner Tagblatt",
-      "source": "Oltner Tagblatt",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOU0ZGTWp5THlmalNGRkdnYThSTmtuM0tpTU41YUgwWG5ZQ3VMNmxUdGRwclRVOWVaSDVYWTF5eFAtcGJ2Y0t6UWVNdGtZZU9PVy1lU3RXVnBrYVpDa2tHU3dFNzdaNGxQdUdYVGNwek41cklhLWZFLXVWLThPQ2VKd1Z1QnJOTjdUOUpOWXhSa2hhdGl3Vm5jZjEzNUNGektPUE9MN1FCY1RJNzBRUUZILXpYb2htWldqdWtoRE5lWnZXOUFGUHNjdUloT3ZIZ1ZvVDRr?oc=5",
-      "published": "2026-11-25T13:17:29+00:00",
-      "category": "Firmen"
-    },
-    {
       "id": "f93f1baa50324900",
       "title": "Robotik-Start-up Coprod sammelt 6 Millionen US-Dollar ein",
       "excerpt": "Das Lausanner Start-up Coprod hat in einer Pre-Seed-Finanzierungsrunde 6 Millionen US-Dollar eingesammelt. Mit modularen Komponenten und einer gemeinsamen Softwarearchitektur will das Unternehmen die Entwicklung spezialisierter Roboter vereinfachen und beschleunigen.",
@@ -169,16 +159,6 @@
       "url": "https://www.inside-it.ch/zoll-digitalisierung-erreicht-gesteckte-ziele-fast-20261124",
       "published": "2026-11-24T14:39:33+00:00",
       "category": "Trends"
-    },
-    {
-      "id": "6a30b805a5176517",
-      "title": "Datenleck bei Cleverbridge: Kreditkartendaten abgegriffen",
-      "excerpt": "Der Zahlungsdienstleister Cleverbridge räumt ein, dass Anfang November Angreifer sensible Daten abgegriffen haben.",
-      "summary": "Der Zahlungsdienstleister Cleverbridge räumt ein, dass Anfang November Angreifer sensible Daten abgegriffen haben.",
-      "source": "heise Security",
-      "url": "https://www.heise.de/news/Datenleck-bei-Cleverbridge-Kreditkartendaten-abgegriffen-11535956.html",
-      "published": "2026-11-24T11:17:00+00:00",
-      "category": "Security"
     },
     {
       "id": "f35e0c50d38da3bf",
@@ -321,6 +301,16 @@
       "category": "Firmen"
     },
     {
+      "id": "593b305001cf34f3",
+      "title": "VMware vCenter – Zero-Day seit September aktiv ausgenutzt",
+      "excerpt": "VMware vCenter – Zero-Day seit September aktiv ausgenutzt Meteora Web",
+      "summary": "VMware vCenter – Zero-Day seit September aktiv ausgenutzt Meteora Web",
+      "source": "Meteora Web",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdkE4Y09xb3pFd3AxV3NjbVE2WGVwb3ZzTEs2MHhHVGV5VHc2NTAtV2pNUE1Ob3JDZWM5Q2VyZlV1YXNKaGRXcDk2aEtvdWpHVWlNMVp4eHFvN2ktUzdNcHF4ekdmTUVIVzhRNzJjT1JvM0N4VnZEdnlMbkZPTFlDX1NEdEp2SFhYWGo2STlNbGdlMkpaSVg1VHpfYmU?oc=5",
+      "published": "2026-11-20T09:16:22+00:00",
+      "category": "Security"
+    },
+    {
       "id": "6ed08bbf34784f84",
       "title": "Microsoft To Do wird am 30. Juni 2027 eingestellt, Planner übernimmt mit den vereinheitlichten Plänen",
       "excerpt": "Microsoft To Do wird am 30. Juni 2027 eingestellt, Planner übernimmt mit den vereinheitlichten Plänen Meteora Web",
@@ -361,6 +351,26 @@
       "category": "Microsoft 365"
     },
     {
+      "id": "9ff9b8f39b48da3b",
+      "title": "Bechtle übernimmt Swiss Solution Group - Swiss IT Reseller",
+      "excerpt": "Bechtle übernimmt Swiss Solution Group Swiss IT Reseller",
+      "summary": "Bechtle übernimmt Swiss Solution Group Swiss IT Reseller",
+      "source": "IT Reseller / Personen",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMmozV1c1aU5OVWZzRXNNZnllMGI0bmMyZ2E3MzROWGppT003V29SWk1NUW5BZjRfMTV0VGxjNFNpcGJEMnRBTERFYXRzWjJ5NUxlMFN3N1hVdXVjdUtUU2lHMzdRdm9MWGJQMjVueXNWZ3JlMzkzZ3RueDJURHpDbmFWVVBnMTBQcklCbGlB?oc=5",
+      "published": "2026-11-18T07:12:00+00:00",
+      "category": "Firmen"
+    },
+    {
+      "id": "557b22584b64f53d",
+      "title": "Henning Gronki übernimmt Leitung von Dentsu Schweiz - Swiss IT Reseller",
+      "excerpt": "Henning Gronki übernimmt Leitung von Dentsu Schweiz Swiss IT Reseller",
+      "summary": "Henning Gronki übernimmt Leitung von Dentsu Schweiz Swiss IT Reseller",
+      "source": "IT Reseller / Personen",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORndQeXplMjBCU3NPZlUtby1HeUhDeWJzN3Y0NjdlSF81SlJwUVRjeDVIWThzbkNvSkNDYVZMejNXV3VDNzJfLUJnMDBHdVFKWFhaN0xkZHc0Ym5ZNVduV1UzckhqNTBsT3J6Z0ZNVXNiUWM1UFZwMjRveC1DdVZzby1nOVRDN09UN05PeXR4N3J1c0JzSFhoQUdUU25TSDQ?oc=5",
+      "published": "2026-11-18T07:12:00+00:00",
+      "category": "Firmen"
+    },
+    {
       "id": "9d6ff97bb6a3b227",
       "title": "Volaris übernimmt Luzerner Wealth-Management-Spezialisten - Netzwoche",
       "excerpt": "Volaris übernimmt Luzerner Wealth-Management-Spezialisten Netzwoche",
@@ -369,16 +379,6 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcEhpSkhMbkpWdjN1MXV3bWROSXRydXRLaVJJcTUyR1BwZFptS1ZseXBzcVJyRzBqNV9td2dvX3QteEhlRnB4Rmh1c1o4N2cybFB0amNVMXBOT1Nla0R4N090NzlpUy1qcU5IUDBsOVZ2eURMbElWSFdoZmpobTVIdkM1QVhwb0xLRHB6c0dNaFQ4djJod0tQZDJFaWdNM1JFbnZMdzNZamxEbVdZ?oc=5",
       "published": "2026-11-13T08:00:00+00:00",
       "category": "Personen"
-    },
-    {
-      "id": "4ea6717da5a887aa",
-      "title": "JD.com schliesst Übernahme von Media Markt Saturn ab - Swiss IT Reseller",
-      "excerpt": "JD.com schliesst Übernahme von Media Markt Saturn ab Swiss IT Reseller",
-      "summary": "JD.com schliesst Übernahme von Media Markt Saturn ab Swiss IT Reseller",
-      "source": "IT Reseller / Personen",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMTdNbVdiMGtUeEM0Ym5RZEJkMlloUWRiZTltNEZpejJTWW5SazVGTDRTVDFtOGFydGdHYndPbVV0R0V3MHBPbS05Um9jZVVzSkt0MktDSGRSdzBlMHlJN0VITkZaV2tlUmtmWEZwZ0FmODNSQ2FnU3pZTl9hSl9aSHU2c3FkeWY5alpuOTg5bEhHME1uQ3N1bHE4R0dvbXUz?oc=5",
-      "published": "2026-11-13T08:00:00+00:00",
-      "category": "Firmen"
     },
     {
       "id": "9e6b5f5480a8185a",
@@ -451,7 +451,7 @@
       "category": "Personen"
     }
   ],
-  "updatedAt": "2026-11-25T22:06:11.983980+00:00",
+  "updatedAt": "2026-11-25T23:03:57.177157+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -472,6 +472,6 @@
     "Markt": 5,
     "Firmen": 5
   },
-  "warning": "7 von 104 RSS-Quellen waren nicht erreichbar.",
+  "warning": "",
   "aiSummaries": false
 }
