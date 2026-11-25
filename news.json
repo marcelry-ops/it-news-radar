@@ -21,6 +21,16 @@
       "category": "Cloud"
     },
     {
+      "id": "aae2b926faa2d27c",
+      "title": "Outlook, Onedrive und Co.: Nach Ausfall herrscht bei Microsoft Alarmstufe Rot",
+      "excerpt": "Im Zuge des Code Red will Microsoft Prozesse verbessern, damit der nächste Ausfall nicht wieder einen Tag lang anhält. ( Wirtschaft , Microsoft )",
+      "summary": "Im Zuge des Code Red will Microsoft Prozesse verbessern, damit der nächste Ausfall nicht wieder einen Tag lang anhält. ( Wirtschaft , Microsoft )",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/outlook-onedrive-und-co-nach-ausfall-herrscht-bei-microsoft-alarmstufe-rot-2611-215650.html",
+      "published": "2026-11-25T14:21:01+00:00",
+      "category": "Microsoft 365"
+    },
+    {
       "id": "65413bdf59f626e9",
       "title": "«Höhle der Löwen»: Emmer IT-Firma Goldoak knackt Millionen-Rekord – doch der Deal platzt",
       "excerpt": "«Höhle der Löwen»: Emmer IT-Firma Goldoak knackt Millionen-Rekord – doch der Deal platzt Oltner Tagblatt",
@@ -341,16 +351,6 @@
       "category": "IT Schweiz"
     },
     {
-      "id": "a0dcfb450d11de11",
-      "title": "Microsoft To Do wird eingestellt – Wechsel zu Microsoft Planner",
-      "excerpt": "Microsoft To Do wird eingestellt – Wechsel zu Microsoft Planner Deskmodder.de",
-      "summary": "Microsoft To Do wird eingestellt – Wechsel zu Microsoft Planner Deskmodder.de",
-      "source": "Deskmodder.de",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQnZCbVBiejlzeEpwa3EwUUVqdThwS1k4VV91ekExOGcweDZOMmw5cEZKVzJHODJ2Vi1odkJHSnVmU2UySDh1RlA4V3JkVVozeDFjRFVFR2xodGJXWjhISjJ0dkJXV2hUWnRVNjlpTThRVU43dW9ia1doTk90WG5vdE5TQ1JjWFNoQ19XYTlxaGVYUTZvdmlURTYtQmp6dFFMV01mY2VOMA?oc=5",
-      "published": "2026-11-19T06:20:00+00:00",
-      "category": "Microsoft 365"
-    },
-    {
       "id": "bdb8e482dffc2871",
       "title": "Microsoft To Do wird eingestellt",
       "excerpt": "Microsoft To Do wird eingestellt Caschys Blog",
@@ -361,16 +361,6 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "9ff9b8f39b48da3b",
-      "title": "Bechtle übernimmt Swiss Solution Group - Swiss IT Reseller",
-      "excerpt": "Bechtle übernimmt Swiss Solution Group Swiss IT Reseller",
-      "summary": "Bechtle übernimmt Swiss Solution Group Swiss IT Reseller",
-      "source": "IT Reseller / Personen",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMmozV1c1aU5OVWZzRXNNZnllMGI0bmMyZ2E3MzROWGppT003V29SWk1NUW5BZjRfMTV0VGxjNFNpcGJEMnRBTERFYXRzWjJ5NUxlMFN3N1hVdXVjdUtUU2lHMzdRdm9MWGJQMjVueXNWZ3JlMzkzZ3RueDJURHpDbmFWVVBnMTBQcklCbGlB?oc=5",
-      "published": "2026-11-18T07:12:00+00:00",
-      "category": "Firmen"
-    },
-    {
       "id": "9d6ff97bb6a3b227",
       "title": "Volaris übernimmt Luzerner Wealth-Management-Spezialisten - Netzwoche",
       "excerpt": "Volaris übernimmt Luzerner Wealth-Management-Spezialisten Netzwoche",
@@ -379,6 +369,16 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcEhpSkhMbkpWdjN1MXV3bWROSXRydXRLaVJJcTUyR1BwZFptS1ZseXBzcVJyRzBqNV9td2dvX3QteEhlRnB4Rmh1c1o4N2cybFB0amNVMXBOT1Nla0R4N090NzlpUy1qcU5IUDBsOVZ2eURMbElWSFdoZmpobTVIdkM1QVhwb0xLRHB6c0dNaFQ4djJod0tQZDJFaWdNM1JFbnZMdzNZamxEbVdZ?oc=5",
       "published": "2026-11-13T08:00:00+00:00",
       "category": "Personen"
+    },
+    {
+      "id": "4ea6717da5a887aa",
+      "title": "JD.com schliesst Übernahme von Media Markt Saturn ab - Swiss IT Reseller",
+      "excerpt": "JD.com schliesst Übernahme von Media Markt Saturn ab Swiss IT Reseller",
+      "summary": "JD.com schliesst Übernahme von Media Markt Saturn ab Swiss IT Reseller",
+      "source": "IT Reseller / Personen",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMTdNbVdiMGtUeEM0Ym5RZEJkMlloUWRiZTltNEZpejJTWW5SazVGTDRTVDFtOGFydGdHYndPbVV0R0V3MHBPbS05Um9jZVVzSkt0MktDSGRSdzBlMHlJN0VITkZaV2tlUmtmWEZwZ0FmODNSQ2FnU3pZTl9hSl9aSHU2c3FkeWY5alpuOTg5bEhHME1uQ3N1bHE4R0dvbXUz?oc=5",
+      "published": "2026-11-13T08:00:00+00:00",
+      "category": "Firmen"
     },
     {
       "id": "9e6b5f5480a8185a",
@@ -451,7 +451,7 @@
       "category": "Personen"
     }
   ],
-  "updatedAt": "2026-11-25T21:06:35.874488+00:00",
+  "updatedAt": "2026-11-25T22:06:11.983980+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -472,6 +472,6 @@
     "Markt": 5,
     "Firmen": 5
   },
-  "warning": "4 von 104 RSS-Quellen waren nicht erreichbar.",
+  "warning": "7 von 104 RSS-Quellen waren nicht erreichbar.",
   "aiSummaries": false
 }
