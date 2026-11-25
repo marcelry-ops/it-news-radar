@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "id": "615eb7a00cb4714d",
+      "title": "Cyberangriff auf US-Geheimdienst CIA",
+      "excerpt": "In jüngerer Zeit gab es bereits mehrere Datenlecks in US-Behörden. Auch der Auslandsgeheimdienst CIA soll betroffen gewesen sein.",
+      "summary": "In jüngerer Zeit gab es bereits mehrere Datenlecks in US-Behörden. Auch der Auslandsgeheimdienst CIA soll betroffen gewesen sein.",
+      "source": "heise Security",
+      "url": "https://www.heise.de/news/Cyberangriff-auf-US-Geheimdienst-CIA-11537061.html",
+      "published": "2026-11-25T06:46:00+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "713db1a94c41e1a3",
+      "title": "Cyberangriff auf US-Geheimdienst CIA",
+      "excerpt": "In jüngerer Zeit gab es bereits mehrere Datenlecks in US-Behörden. Auch der Auslandsgeheimdienst CIA soll betroffen gewesen sein.",
+      "summary": "In jüngerer Zeit gab es bereits mehrere Datenlecks in US-Behörden. Auch der Auslandsgeheimdienst CIA soll betroffen gewesen sein.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Cyberangriff-auf-US-Geheimdienst-CIA-11537061.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published": "2026-11-25T06:46:00+00:00",
+      "category": "Security"
+    },
+    {
       "id": "dc4feaf9180e502b",
       "title": "KI-Boom treibt auch Produktionskosten von LCD-Panels in die Höhe - Swiss IT Reseller",
       "excerpt": "KI-Boom treibt auch Produktionskosten von LCD-Panels in die Höhe Swiss IT Reseller",
@@ -19,26 +39,6 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORmFwMWItQ3hTeUZxdDBvTi1EUnFWeUUxMUNMbG5WaGh0SUl1bFFkUEZpM0lYUDlnVXhDb1lWWHBuMVE5c3k0aEk0MkVYbzM0bHZjZEJhRHJReTZMVDl6elNOZElTdFJzdG9JNm5vd2I1RHBFNkRQVXJvM3hBMkFLUUo2VjRlMUd1eVNHbFJlVnZWYXppX2taMEVydjhJdTMzejdrS2lwMnhKd1JycjBNd1gtb3Vydw?oc=5",
       "published": "2026-11-24T20:12:00+00:00",
       "category": "Cloud"
-    },
-    {
-      "id": "f4adacb64fa09d97",
-      "title": "Classic Outlook: Microsoft startet neue Optik im November 2026 - BornCity",
-      "excerpt": "Classic Outlook: Microsoft startet neue Optik im November 2026 BornCity",
-      "summary": "Classic Outlook: Microsoft startet neue Optik im November 2026 BornCity",
-      "source": "BornCity / Microsoft To Do",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWjZ0cFFjUXhHQUZyZ2FJdEg4eDJIT1g2dmF5cVYyTGUtQXhFT2NvLXh5RTZGVmktckxtdVQ1SUdPbmVZc1J0X3IwYjBKcEZoTHE5SlBhc3J0cVdUSlRfS2trYU5CNGR5VlRGdk9ITnNSbjBfNVkxM3MwTG1HeEFDckJSUWxUV2t3YWpHWG9vUVFHZw?oc=5",
-      "published": "2026-11-24T18:06:04+00:00",
-      "category": "Microsoft 365"
-    },
-    {
-      "id": "39c3a41be80e9952",
-      "title": "Idunno AntiCsrf, die CVE-2026-131914 wird aktiv ausgenutzt, CVSS 9.3",
-      "excerpt": "Idunno AntiCsrf, die CVE-2026-131914 wird aktiv ausgenutzt, CVSS 9.3 Meteora Web",
-      "summary": "Idunno AntiCsrf, die CVE-2026-131914 wird aktiv ausgenutzt, CVSS 9.3 Meteora Web",
-      "source": "Meteora Web",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU1JSMnlXTGpfWGFGcFdSY0w5Q29ZTFFNSXZnMmFJSnNfbzVpbzhhSGJseG01MF9vT0FYR1UwTEJIbk5ERGMyeElzb1o5cXRhSFV3dERWWWRjcXBFQ01XTzdZTG4yOVlYT0ptWnFDSzhKOEVRUXNsMHFBNWUyQWxBbjI3NnZ0WEhZMjBrTDk2dk94WExZdjZOUg?oc=5",
-      "published": "2026-11-24T15:36:22+00:00",
-      "category": "Security"
     },
     {
       "id": "d313b1ced464cbe1",
@@ -71,16 +71,6 @@
       "category": "Trends"
     },
     {
-      "id": "46bf81f27f50a569",
-      "title": "3CX: Kritisches nginx-Sicherheitsupdate, dringend patchen - BornCity",
-      "excerpt": "3CX: Kritisches nginx-Sicherheitsupdate, dringend patchen BornCity",
-      "summary": "3CX: Kritisches nginx-Sicherheitsupdate, dringend patchen BornCity",
-      "source": "BornCity",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS0VONUZGYTFzQlBvS3I2ZGNsWjh1UEItaTVmX2tjVG1MUmNnVHE1NkpUcDRqdlI1clMwN2ZBdGVHRnhsVjlWOG5uQWJwbE5aOUJqNW5XQTZITHpwUmpBcTNtWVZmREFsUV9DZHRpVFdZY0hZQ3RtYXJ1d0xLbG10d3VWenFFR3QtckZfZVRBUXJ5WWtGQXJSNw?oc=5",
-      "published": "2026-11-24T13:23:16+00:00",
-      "category": "Security"
-    },
-    {
       "id": "ec3833a573ee4538",
       "title": "Microsoft 365 Copilot: GPT-6.2 Sol und Astra ziehen in Office ein",
       "excerpt": "Microsoft 365 Copilot: GPT-6.2 Sol und Astra ziehen in Office ein BornCity",
@@ -101,23 +91,13 @@
       "category": "Security"
     },
     {
-      "id": "f35e0c50d38da3bf",
-      "title": "Digitale Souveränität im Mittelstand: Wann sich ein eigener virtueller Server statt US-Cloud lohnt - it-daily.net",
-      "excerpt": "Digitale Souveränität im Mittelstand: Wann sich ein eigener virtueller Server statt US-Cloud lohnt it-daily.net",
-      "summary": "Digitale Souveränität im Mittelstand: Wann sich ein eigener virtueller Server statt US-Cloud lohnt it-daily.net",
+      "id": "274ac5c79fee80c8",
+      "title": "Azure API Management: Lücke kostete Kunden Zugangsdaten - it-daily.net",
+      "excerpt": "Azure API Management: Lücke kostete Kunden Zugangsdaten it-daily.net",
+      "summary": "Azure API Management: Lücke kostete Kunden Zugangsdaten it-daily.net",
       "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObEk1Qzl0MktuS1VEUmZXVUs0QUxQX2lONmx2d0UwcGc3M0VudklJMzBPUEJENWRmMzBrZ3VkLVRackh4ZVZkR1A3dl85YktqZWwxRDZzaXdObnBIQkIyZXBIakZ3S1EwN3d2MFh5cWp2QXBEOTRaR2MtWUYzVl8yS2ZVU1plOHM0cUpBVFFLZGtJUXJZQjRqaXlzOUM?oc=5",
-      "published": "2026-11-24T11:02:00+00:00",
-      "category": "Cloud"
-    },
-    {
-      "id": "72c4be38c065dc2b",
-      "title": "KI in der Cloud: Neue US-Exportregeln erzeugen Chaos in Asien",
-      "excerpt": "Die neuen US-Regeln sollen chinesische Firmen daran hindern, exportbeschränkte Hardware in der Cloud zu nutzen. Vorerst stiftet sie viel Verwirrung. ( China , Nvidia )",
-      "summary": "Die neuen US-Regeln sollen chinesische Firmen daran hindern, exportbeschränkte Hardware in der Cloud zu nutzen. Vorerst stiftet sie viel Verwirrung. ( China , Nvidia )",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/ki-in-der-cloud-neue-us-exportregeln-erzeugen-chaos-in-asien-2611-215571.html",
-      "published": "2026-11-24T10:23:02+00:00",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHM3FNNk9VOW9HS0dDb215eGF0RFBTcjNReHFmN2M1TDlPRUhXdmZYbVFHZHhkZE03LW01ZmNrOHUxYzQxaW1wWUR6S2NWOTlKYkVvWG1JVGhGalRBRHZzYWQ3a0xBLU5VZHhsbnVhdw?oc=5",
+      "published": "2026-11-24T10:16:56+00:00",
       "category": "Cloud"
     },
     {
@@ -181,6 +161,16 @@
       "category": "Firmen"
     },
     {
+      "id": "9fe2688c922ce03e",
+      "title": "Microsoft 365: Targeted Release endet, Admins müssen Pilotgruppen anpassen",
+      "excerpt": "Microsoft 365: Targeted Release endet, Admins müssen Pilotgruppen anpassen ad-hoc-news.de",
+      "summary": "Microsoft 365: Targeted Release endet, Admins müssen Pilotgruppen anpassen ad-hoc-news.de",
+      "source": "ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcWN5NGxuSDAtMWU3LWI1cjRwbnROcVRLelVWSjlPdk1pQ18xemtXb0dmVmtOc2FJSjFocEk1LXlaNVJuZjNnbzc5UXVVempOZThWRnIzcVc0RVp0M283ejIwZDZWMUpzcmdQMFlkbmtRRVVlMFUwVkVhWnR2SWFvTE5pc0JiemJaTUpPTHlzM0tTYmZad1IzX2hneTJyUUEzTUhsSjBsZ2NMS0dOSGgxT182NEh1VUViZWdzOFp0aw?oc=5",
+      "published": "2026-11-24T08:03:05+00:00",
+      "category": "Microsoft 365"
+    },
+    {
       "id": "6bd82bdba23a69fd",
       "title": "GPT-Auswahl: KI-Dienste für Unternehmen besser bewerten - it-daily.net",
       "excerpt": "GPT-Auswahl: KI-Dienste für Unternehmen besser bewerten it-daily.net",
@@ -198,6 +188,16 @@
       "source": "BornCity",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdzNnazdpN25hX3JwVng1MWs5dm8zeXZLeEZPOFBBOXM1Vm4wNGRSb3V1ZlkzdjdhdmpEU09PTE16VDJEaTlQZDdobV81WHhnUUxiTTRoRm5SbmpuSVVidWowUzROVFIwN1U1cjFPMThVNDJ0cG0wYnFZNVM2dE1CeHZ5M0UwRW0zSTlLN1JpYndIa214NXhKMW9EMktkUU9jSzhnRXBPWkI?oc=5",
       "published": "2026-11-24T07:22:09+00:00",
+      "category": "Cloud"
+    },
+    {
+      "id": "91b6c06cb16b7bec",
+      "title": "Cloud- und KI-Gesetz: Positionsentwurf des Europaparlaments liegt endlich vor",
+      "excerpt": "Eigentlich sollte er seit Tagen da sein: der Entwurf der Berichterstatter des Europaparlaments zum „Cloud and AI Development Act“ (CADA) liegt endlich vor.",
+      "summary": "Eigentlich sollte er seit Tagen da sein: der Entwurf der Berichterstatter des Europaparlaments zum „Cloud and AI Development Act“ (CADA) liegt endlich vor.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Cloud-und-KI-Gesetz-Positionsentwurf-des-Europaparlaments-liegt-endlich-vor-11535512.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published": "2026-11-24T07:19:00+00:00",
       "category": "Cloud"
     },
     {
@@ -351,7 +351,7 @@
       "category": "Firmen"
     }
   ],
-  "updatedAt": "2026-11-25T06:08:08.815267+00:00",
+  "updatedAt": "2026-11-25T07:34:27.817061+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
