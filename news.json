@@ -21,36 +21,6 @@
       "category": "Cloud"
     },
     {
-      "id": "65413bdf59f626e9",
-      "title": "«Höhle der Löwen»: Emmer IT-Firma Goldoak knackt Millionen-Rekord – doch der Deal platzt",
-      "excerpt": "«Höhle der Löwen»: Emmer IT-Firma Goldoak knackt Millionen-Rekord – doch der Deal platzt Oltner Tagblatt",
-      "summary": "«Höhle der Löwen»: Emmer IT-Firma Goldoak knackt Millionen-Rekord – doch der Deal platzt Oltner Tagblatt",
-      "source": "Oltner Tagblatt",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOU0ZGTWp5THlmalNGRkdnYThSTmtuM0tpTU41YUgwWG5ZQ3VMNmxUdGRwclRVOWVaSDVYWTF5eFAtcGJ2Y0t6UWVNdGtZZU9PVy1lU3RXVnBrYVpDa2tHU3dFNzdaNGxQdUdYVGNwek41cklhLWZFLXVWLThPQ2VKd1Z1QnJOTjdUOUpOWXhSa2hhdGl3Vm5jZjEzNUNGektPUE9MN1FCY1RJNzBRUUZILXpYb2htWldqdWtoRE5lWnZXOUFGUHNjdUloT3ZIZ1ZvVDRr?oc=5",
-      "published": "2026-11-25T13:17:29+00:00",
-      "category": "Firmen"
-    },
-    {
-      "id": "85943555e69f7fae",
-      "title": "Gibbon geht dann mal lieber - IT-Markt",
-      "excerpt": "Gibbon geht dann mal lieber IT-Markt",
-      "summary": "Gibbon geht dann mal lieber IT-Markt",
-      "source": "IT-Markt",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VbEtpdWtlYTQwRHpodG5QS1VkMmhtcEpEYjlucFozTEZQYTlVLWlJZ2R0dEItcXRwVUlWU0VKY0Fabmpab1RaRGd1czNSZkdwc3pUb3NUeklkY3gzeThpWGMtU1JkOFFoRTFGbzdYeFhpWFJ3RHRfUDhoM2g2QQ?oc=5",
-      "published": "2026-11-25T11:04:47+00:00",
-      "category": "Markt"
-    },
-    {
-      "id": "1b4688584e3da482",
-      "title": "Cleverbridge-Datenleck: Was Betroffene jetzt tun sollten - it-daily.net",
-      "excerpt": "Cleverbridge-Datenleck: Was Betroffene jetzt tun sollten it-daily.net",
-      "summary": "Cleverbridge-Datenleck: Was Betroffene jetzt tun sollten it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd2hIZmZRbWZQajFETHZfZ0QydHBaMnlwbDI0T1ljUUpCTmdXOGpGancyTjdzTWxzN0JmRkFXR1NNSmdqNVZhZG41QzBoVnVEX0V0S2JiR29pdzBxLUhwR0ZtY25RbVB1a1NucEZKWVVJSDFGZVdaZ0pXMnMyTllIUkdtbFpDNDk1OFZTZEQ3akQ0R2gz?oc=5",
-      "published": "2026-11-25T10:16:57+00:00",
-      "category": "Security"
-    },
-    {
       "id": "f93f1baa50324900",
       "title": "Robotik-Start-up Coprod sammelt 6 Millionen US-Dollar ein",
       "excerpt": "Das Lausanner Start-up Coprod hat in einer Pre-Seed-Finanzierungsrunde 6 Millionen US-Dollar eingesammelt. Mit modularen Komponenten und einer gemeinsamen Softwarearchitektur will das Unternehmen die Entwicklung spezialisierter Roboter vereinfachen und beschleunigen.",
@@ -88,7 +58,7 @@
       "source": "Netzwoche",
       "url": "https://www.netzwoche.ch/news/2026-11-25/ki-start-up-assora-lanciert-modell-zur-vorhersage-der-produktnachfrage",
       "published": "2026-11-25T08:16:03+00:00",
-      "category": "Firmen"
+      "category": "Markt"
     },
     {
       "id": "1c1b4b8bd22241f7",
@@ -149,6 +119,16 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORmFwMWItQ3hTeUZxdDBvTi1EUnFWeUUxMUNMbG5WaGh0SUl1bFFkUEZpM0lYUDlnVXhDb1lWWHBuMVE5c3k0aEk0MkVYbzM0bHZjZEJhRHJReTZMVDl6elNOZElTdFJzdG9JNm5vd2I1RHBFNkRQVXJvM3hBMkFLUUo2VjRlMUd1eVNHbFJlVnZWYXppX2taMEVydjhJdTMzejdrS2lwMnhKd1JycjBNd1gtb3Vydw?oc=5",
       "published": "2026-11-24T20:12:00+00:00",
       "category": "Cloud"
+    },
+    {
+      "id": "39c3a41be80e9952",
+      "title": "Idunno AntiCsrf, die CVE-2026-131914 wird aktiv ausgenutzt, CVSS 9.3",
+      "excerpt": "Idunno AntiCsrf, die CVE-2026-131914 wird aktiv ausgenutzt, CVSS 9.3 Meteora Web",
+      "summary": "Idunno AntiCsrf, die CVE-2026-131914 wird aktiv ausgenutzt, CVSS 9.3 Meteora Web",
+      "source": "Meteora Web",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU1JSMnlXTGpfWGFGcFdSY0w5Q29ZTFFNSXZnMmFJSnNfbzVpbzhhSGJseG01MF9vT0FYR1UwTEJIbk5ERGMyeElzb1o5cXRhSFV3dERWWWRjcXBFQ01XTzdZTG4yOVlYT0ptWnFDSzhKOEVRUXNsMHFBNWUyQWxBbjI3NnZ0WEhZMjBrTDk2dk94WExZdjZOUg?oc=5",
+      "published": "2026-11-24T15:36:22+00:00",
+      "category": "Security"
     },
     {
       "id": "e30f25ce6b51a75d",
@@ -371,6 +351,16 @@
       "category": "Microsoft 365"
     },
     {
+      "id": "9ff9b8f39b48da3b",
+      "title": "Bechtle übernimmt Swiss Solution Group - Swiss IT Reseller",
+      "excerpt": "Bechtle übernimmt Swiss Solution Group Swiss IT Reseller",
+      "summary": "Bechtle übernimmt Swiss Solution Group Swiss IT Reseller",
+      "source": "IT Reseller / Personen",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMmozV1c1aU5OVWZzRXNNZnllMGI0bmMyZ2E3MzROWGppT003V29SWk1NUW5BZjRfMTV0VGxjNFNpcGJEMnRBTERFYXRzWjJ5NUxlMFN3N1hVdXVjdUtUU2lHMzdRdm9MWGJQMjVueXNWZ3JlMzkzZ3RueDJURHpDbmFWVVBnMTBQcklCbGlB?oc=5",
+      "published": "2026-11-18T07:12:00+00:00",
+      "category": "Firmen"
+    },
+    {
       "id": "9d6ff97bb6a3b227",
       "title": "Volaris übernimmt Luzerner Wealth-Management-Spezialisten - Netzwoche",
       "excerpt": "Volaris übernimmt Luzerner Wealth-Management-Spezialisten Netzwoche",
@@ -379,6 +369,16 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcEhpSkhMbkpWdjN1MXV3bWROSXRydXRLaVJJcTUyR1BwZFptS1ZseXBzcVJyRzBqNV9td2dvX3QteEhlRnB4Rmh1c1o4N2cybFB0amNVMXBOT1Nla0R4N090NzlpUy1qcU5IUDBsOVZ2eURMbElWSFdoZmpobTVIdkM1QVhwb0xLRHB6c0dNaFQ4djJod0tQZDJFaWdNM1JFbnZMdzNZamxEbVdZ?oc=5",
       "published": "2026-11-13T08:00:00+00:00",
       "category": "Personen"
+    },
+    {
+      "id": "4ea6717da5a887aa",
+      "title": "JD.com schliesst Übernahme von Media Markt Saturn ab - Swiss IT Reseller",
+      "excerpt": "JD.com schliesst Übernahme von Media Markt Saturn ab Swiss IT Reseller",
+      "summary": "JD.com schliesst Übernahme von Media Markt Saturn ab Swiss IT Reseller",
+      "source": "IT Reseller / Personen",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMTdNbVdiMGtUeEM0Ym5RZEJkMlloUWRiZTltNEZpejJTWW5SazVGTDRTVDFtOGFydGdHYndPbVV0R0V3MHBPbS05Um9jZVVzSkt0MktDSGRSdzBlMHlJN0VITkZaV2tlUmtmWEZwZ0FmODNSQ2FnU3pZTl9hSl9aSHU2c3FkeWY5alpuOTg5bEhHME1uQ3N1bHE4R0dvbXUz?oc=5",
+      "published": "2026-11-13T08:00:00+00:00",
+      "category": "Firmen"
     },
     {
       "id": "9e6b5f5480a8185a",
@@ -451,7 +451,7 @@
       "category": "Personen"
     }
   ],
-  "updatedAt": "2026-11-25T17:12:46.711698+00:00",
+  "updatedAt": "2026-11-25T17:57:42.771660+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
