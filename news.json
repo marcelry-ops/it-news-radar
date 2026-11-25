@@ -1,24 +1,24 @@
 {
   "items": [
     {
-      "id": "7c61926a630831b9",
-      "title": "Schweizer Tech-Aktionäre atmen auf",
-      "excerpt": "Schweizer Tech-Aktien haben nach dem Comeback von Nvidia-CEO Jensen Huang deutlich zugelegt. Damit atmet die KI-nahe Branche nach einer Phase unter Druck auf.",
-      "summary": "Schweizer Tech-Aktien haben nach dem Comeback von Nvidia-CEO Jensen Huang deutlich zugelegt. Damit atmet die KI-nahe Branche nach einer Phase unter Druck auf.",
-      "source": "Netzwoche",
-      "url": "https://www.netzwoche.ch/news/2026-11-25/schweizer-tech-aktionaere-atmen-auf",
-      "published": "2026-11-25T10:53:10+00:00",
-      "category": "Firmen"
+      "id": "a080e61e9406e2ea",
+      "title": "1Password drängt Nutzer der Legacy-Version ohne Cloud zum Wechsel",
+      "excerpt": "Es gibt noch viele Nutzer, die 1Password 7 verwenden, da es ohne die Server des Unternehmens auskommt. Künftig wird es für diese noch ungemütlicher.",
+      "summary": "Es gibt noch viele Nutzer, die 1Password 7 verwenden, da es ohne die Server des Unternehmens auskommt. Künftig wird es für diese noch ungemütlicher.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/1Password-draengt-Nutzer-der-Legacy-Version-ohne-Cloud-zum-Wechsel-11536995.html",
+      "published": "2026-11-25T12:03:00+00:00",
+      "category": "Cloud"
     },
     {
-      "id": "1b4688584e3da482",
-      "title": "Cleverbridge-Datenleck: Was Betroffene jetzt tun sollten - it-daily.net",
-      "excerpt": "Cleverbridge-Datenleck: Was Betroffene jetzt tun sollten it-daily.net",
-      "summary": "Cleverbridge-Datenleck: Was Betroffene jetzt tun sollten it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd2hIZmZRbWZQajFETHZfZ0QydHBaMnlwbDI0T1ljUUpCTmdXOGpGancyTjdzTWxzN0JmRkFXR1NNSmdqNVZhZG41QzBoVnVEX0V0S2JiR29pdzBxLUhwR0ZtY25RbVB1a1NucEZKWVVJSDFGZVdaZ0pXMnMyTllIUkdtbFpDNDk1OFZTZEQ3akQ0R2gz?oc=5",
-      "published": "2026-11-25T10:16:57+00:00",
-      "category": "Security"
+      "id": "85943555e69f7fae",
+      "title": "Gibbon geht dann mal lieber - IT-Markt",
+      "excerpt": "Gibbon geht dann mal lieber IT-Markt",
+      "summary": "Gibbon geht dann mal lieber IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VbEtpdWtlYTQwRHpodG5QS1VkMmhtcEpEYjlucFozTEZQYTlVLWlJZ2R0dEItcXRwVUlWU0VKY0Fabmpab1RaRGd1czNSZkdwc3pUb3NUeklkY3gzeThpWGMtU1JkOFFoRTFGbzdYeFhpWFJ3RHRfUDhoM2g2QQ?oc=5",
+      "published": "2026-11-25T11:04:47+00:00",
+      "category": "Markt"
     },
     {
       "id": "f93f1baa50324900",
@@ -58,27 +58,7 @@
       "source": "Netzwoche",
       "url": "https://www.netzwoche.ch/news/2026-11-25/ki-start-up-assora-lanciert-modell-zur-vorhersage-der-produktnachfrage",
       "published": "2026-11-25T08:16:03+00:00",
-      "category": "Markt"
-    },
-    {
-      "id": "1c1b4b8bd22241f7",
-      "title": "Dell verdoppelt Umsatz dank starkem Servergeschäft",
-      "excerpt": "Dell hat im dritten Quartal mehr als doppelt so viel umgesetzt wie vor einem Jahr. Allein mit KI-Servern erzielte der Konzern 22 Milliarden Dollar und hebt seine Umsatzprognose für das Gesamtjahr erneut an.",
-      "summary": "Dell hat im dritten Quartal mehr als doppelt so viel umgesetzt wie vor einem Jahr. Allein mit KI-Servern erzielte der Konzern 22 Milliarden Dollar und hebt seine Umsatzprognose für das Gesamtjahr erneut an.",
-      "source": "IT Reseller",
-      "url": "https://www.itreseller.ch/Artikel/106676/Dell_verdoppelt_Umsatz_dank_starkem_Servergeschaeft.html",
-      "published": "2026-11-25T08:09:05+00:00",
-      "category": "Markt"
-    },
-    {
-      "id": "493f6a3b0b3b5017",
-      "title": "Cyberangriff auf Schuhhändler: Hacker erbeuten Kundendaten von Deichmann",
-      "excerpt": "Deichmann informiert seine Kundschaft über einen IT-Sicherheitsvorfall im eigenen Onlineshop. Die Angreifer sind an persönliche Daten gelangt. ( Datenleck , Cyberwar )",
-      "summary": "Deichmann informiert seine Kundschaft über einen IT-Sicherheitsvorfall im eigenen Onlineshop. Die Angreifer sind an persönliche Daten gelangt. ( Datenleck , Cyberwar )",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/cyberangriff-auf-schuhhaendler-hacker-erbeuten-kundendaten-von-deichmann-2611-215623.html",
-      "published": "2026-11-25T07:49:02+00:00",
-      "category": "Security"
+      "category": "Firmen"
     },
     {
       "id": "07625f7c910810d0",
@@ -91,14 +71,34 @@
       "category": "Security"
     },
     {
-      "id": "0de11cb35c678b2e",
-      "title": "Nutanix-CEO Rajiv Ramaswami kündigt Abschied an",
-      "excerpt": "Nach fast sechs Jahren als CEO von Nutanix hat Rajiv Ramaswami seinen Abschied angekündigt. Er bleibt im Amt, bis ein Nachfolger gefunden ist, und soll Nutanix danach noch eine Zeit lang als Senior Advisor begleiten.",
-      "summary": "Nach fast sechs Jahren als CEO von Nutanix hat Rajiv Ramaswami seinen Abschied angekündigt. Er bleibt im Amt, bis ein Nachfolger gefunden ist, und soll Nutanix danach noch eine Zeit lang als Senior Advisor begleiten.",
-      "source": "IT Reseller",
-      "url": "https://www.itreseller.ch/Artikel/106673/Nutanix-CEO_Rajiv_Ramaswami_kuendigt_Abschied_an.html",
-      "published": "2026-11-25T06:28:56+00:00",
-      "category": "Personen"
+      "id": "858e823376ea3652",
+      "title": "Bending Spoons übernimmt Mailchimp für 3,68 Milliarden Dollar - Swiss IT Reseller",
+      "excerpt": "Bending Spoons übernimmt Mailchimp für 3,68 Milliarden Dollar Swiss IT Reseller",
+      "summary": "Bending Spoons übernimmt Mailchimp für 3,68 Milliarden Dollar Swiss IT Reseller",
+      "source": "Focused / IT Schweiz",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeFFhajBQZ2NtWEZjVWJuNXFHc05zT09tc0FHSE9QQlZGUEFwRV9xa0pZajZSX0VRMmNJbDNINS1QTEQycERCQW51YmF5WHJuUUNLcDVwSm9OQ2I3MmFzbmVWZU5tTF9Ud29nWm96STV4TGNDYUFCZnBiVHB1bXpyUE9zTERYSzhYUVdjVEI1YmhKLXJQMEw0YjZpRnF3UEplMGhKbEJxLWdNbkhI?oc=5",
+      "published": "2026-11-25T07:12:00+00:00",
+      "category": "IT Schweiz"
+    },
+    {
+      "id": "d93660df9e147171",
+      "title": "Dell verdoppelt Umsatz dank starkem Servergeschäft - Swiss IT Reseller",
+      "excerpt": "Dell verdoppelt Umsatz dank starkem Servergeschäft Swiss IT Reseller",
+      "summary": "Dell verdoppelt Umsatz dank starkem Servergeschäft Swiss IT Reseller",
+      "source": "Focused / IT Schweiz",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbTEzM3VGelprNEsxczgxc1F4T2lYcXlkVUtWMU5lcjZPeVZFbkpfTmlZUFhyT1Y4c0dxc2JEaVM3bjJ0UGNHWENqX2tEcG1mZFVHQ1hpMGQzcnBncDFwTlVURTVvOE5OQ1RMYkI5TkdwLVVnTm1iSGl3ZC0tSUxySV81WU1lemNvUEw2dDRseGZRYUhnVXN4T2Y5UDNTUQ?oc=5",
+      "published": "2026-11-25T07:12:00+00:00",
+      "category": "Markt"
+    },
+    {
+      "id": "c93ca087eec342e4",
+      "title": "Nutanix-CEO Rajiv Ramaswami kündigt Abschied an - Swiss IT Reseller",
+      "excerpt": "Nutanix-CEO Rajiv Ramaswami kündigt Abschied an Swiss IT Reseller",
+      "summary": "Nutanix-CEO Rajiv Ramaswami kündigt Abschied an Swiss IT Reseller",
+      "source": "Focused / IT Schweiz",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZE5OZjJCcnlMTHB3dWpIeTJKa2RQdnRHLWFTeXVVNEMtdl9KYTVmN3k3SDh2OEhUMF83dVM2ZTRQU251dUp4TExLOWFIMDVxTFF4SnFDeUp4TDJlVTFQUkRlcTRVRk1Ec0JJc3c5a2FxWEJRYXNtY3g5TEg5ZDk3XzdjZmRFS2VQd3RTRUZJdENaTUJvUkNqYkRn?oc=5",
+      "published": "2026-11-25T07:12:00+00:00",
+      "category": "Firmen"
     },
     {
       "id": "3e0bff60a618e7d0",
@@ -111,6 +111,16 @@
       "category": "Microsoft 365"
     },
     {
+      "id": "6ecebfc8f8684dec",
+      "title": "SAP-Aktie EuroStoxx50 Gewinner des Tages: Plus 2 Prozent, während Chips abstürzen – dreht der Markt von Hardware zu Software? - AktienCheck.de",
+      "excerpt": "SAP-Aktie EuroStoxx50 Gewinner des Tages: Plus 2 Prozent, während Chips abstürzen – dreht der Markt von Hardware zu Software? AktienCheck.de",
+      "summary": "SAP-Aktie EuroStoxx50 Gewinner des Tages: Plus 2 Prozent, während Chips abstürzen – dreht der Markt von Hardware zu Software? AktienCheck.de",
+      "source": "Focused / Markt",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWWotRS1yRkpHZDNnRTBJQXRma0daRVBTRy0ybjBpb0ZXRDFNbjV3Wll4djVpaTlBUUx4TmJ6cFBRSnc1LWwyOUVyZHBJaUEyYVdDc3AycjVjVHZVMnVtR3cwYTZsVU1VMWZ1TGMyOXVkMnU0Q015dHRvcFF5X1Q0SGYweGFlUEFBYVE4V21VeUhsMDRuWkpQSkJBTW5tS2FHYlln?oc=5",
+      "published": "2026-11-24T23:22:00+00:00",
+      "category": "Markt"
+    },
+    {
       "id": "ba5e5231522f1f31",
       "title": "GL.iNet GoodCloud: Hacker kapern Router über die Hersteller-Cloud - ComputerBase",
       "excerpt": "GL.iNet GoodCloud: Hacker kapern Router über die Hersteller-Cloud ComputerBase",
@@ -119,6 +129,16 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORmFwMWItQ3hTeUZxdDBvTi1EUnFWeUUxMUNMbG5WaGh0SUl1bFFkUEZpM0lYUDlnVXhDb1lWWHBuMVE5c3k0aEk0MkVYbzM0bHZjZEJhRHJReTZMVDl6elNOZElTdFJzdG9JNm5vd2I1RHBFNkRQVXJvM3hBMkFLUUo2VjRlMUd1eVNHbFJlVnZWYXppX2taMEVydjhJdTMzejdrS2lwMnhKd1JycjBNd1gtb3Vydw?oc=5",
       "published": "2026-11-24T20:12:00+00:00",
       "category": "Cloud"
+    },
+    {
+      "id": "39c3a41be80e9952",
+      "title": "Idunno AntiCsrf, die CVE-2026-131914 wird aktiv ausgenutzt, CVSS 9.3",
+      "excerpt": "Idunno AntiCsrf, die CVE-2026-131914 wird aktiv ausgenutzt, CVSS 9.3 Meteora Web",
+      "summary": "Idunno AntiCsrf, die CVE-2026-131914 wird aktiv ausgenutzt, CVSS 9.3 Meteora Web",
+      "source": "Meteora Web",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU1JSMnlXTGpfWGFGcFdSY0w5Q29ZTFFNSXZnMmFJSnNfbzVpbzhhSGJseG01MF9vT0FYR1UwTEJIbk5ERGMyeElzb1o5cXRhSFV3dERWWWRjcXBFQ01XTzdZTG4yOVlYT0ptWnFDSzhKOEVRUXNsMHFBNWUyQWxBbjI3NnZ0WEhZMjBrTDk2dk94WExZdjZOUg?oc=5",
+      "published": "2026-11-24T15:36:22+00:00",
+      "category": "Security"
     },
     {
       "id": "7faa414f30c2f4c8",
@@ -151,14 +171,14 @@
       "category": "Trends"
     },
     {
-      "id": "f35e0c50d38da3bf",
-      "title": "Digitale Souveränität im Mittelstand: Wann sich ein eigener virtueller Server statt US-Cloud lohnt - it-daily.net",
-      "excerpt": "Digitale Souveränität im Mittelstand: Wann sich ein eigener virtueller Server statt US-Cloud lohnt it-daily.net",
-      "summary": "Digitale Souveränität im Mittelstand: Wann sich ein eigener virtueller Server statt US-Cloud lohnt it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObEk1Qzl0MktuS1VEUmZXVUs0QUxQX2lONmx2d0UwcGc3M0VudklJMzBPUEJENWRmMzBrZ3VkLVRackh4ZVZkR1A3dl85YktqZWwxRDZzaXdObnBIQkIyZXBIakZ3S1EwN3d2MFh5cWp2QXBEOTRaR2MtWUYzVl8yS2ZVU1plOHM0cUpBVFFLZGtJUXJZQjRqaXlzOUM?oc=5",
-      "published": "2026-11-24T11:02:00+00:00",
-      "category": "Cloud"
+      "id": "6a30b805a5176517",
+      "title": "Datenleck bei Cleverbridge: Kreditkartendaten abgegriffen",
+      "excerpt": "Der Zahlungsdienstleister Cleverbridge räumt ein, dass Anfang November Angreifer sensible Daten abgegriffen haben.",
+      "summary": "Der Zahlungsdienstleister Cleverbridge räumt ein, dass Anfang November Angreifer sensible Daten abgegriffen haben.",
+      "source": "heise Security",
+      "url": "https://www.heise.de/news/Datenleck-bei-Cleverbridge-Kreditkartendaten-abgegriffen-11535956.html",
+      "published": "2026-11-24T11:17:00+00:00",
+      "category": "Security"
     },
     {
       "id": "6888eb55013996d3",
@@ -169,16 +189,6 @@
       "url": "https://www.netzwoche.ch/news/2026-11-24/nestle-eroeffnet-zentrum-fuer-ki-und-robotik",
       "published": "2026-11-24T09:44:44+00:00",
       "category": "Trends"
-    },
-    {
-      "id": "49c7429e8b02a3d6",
-      "title": "Europas IT-Ausgaben steigen 2027 um knapp 10 Prozent",
-      "excerpt": "Die IT-Ausgaben in Europa werden laut Gartner 2027 um 9,9 Prozent auf 1,57 Billionen Dollar steigen. Die grössten Wachstumstreiber bleiben Rechenzentrumsinfrastruktur und Software, wobei wenig überraschend insbesondere Investitionen in KI die Nachfrage befeuern.",
-      "summary": "Die IT-Ausgaben in Europa werden laut Gartner 2027 um 9,9 Prozent auf 1,57 Billionen Dollar steigen. Die grössten Wachstumstreiber bleiben Rechenzentrumsinfrastruktur und Software, wobei wenig überraschend insbesondere Investitionen in KI die Nachfrage befeuer",
-      "source": "IT Reseller",
-      "url": "https://www.itreseller.ch/Artikel/106671/Europas_IT-Ausgaben_steigen_2027_um_knapp_10_Prozent.html",
-      "published": "2026-11-24T09:28:38+00:00",
-      "category": "Markt"
     },
     {
       "id": "79faf866a2d76d9c",
@@ -201,16 +211,6 @@
       "category": "Firmen"
     },
     {
-      "id": "6bd82bdba23a69fd",
-      "title": "GPT-Auswahl: KI-Dienste für Unternehmen besser bewerten - it-daily.net",
-      "excerpt": "GPT-Auswahl: KI-Dienste für Unternehmen besser bewerten it-daily.net",
-      "summary": "GPT-Auswahl: KI-Dienste für Unternehmen besser bewerten it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSdU5tX1pmVGpQa2FhZTEwdWxrSjhfSUVKRWIyOTdQRVBUT2E4Xy13Tmo2ZzZZdlBkblZWYjlzdVdobXFzSmhVR0lEcnNiVDU5Sm5uSFc2dHdhNTktYmI4WEUtWE1rbmt1RlQ0ZjBhajVGdw?oc=5",
-      "published": "2026-11-24T07:36:27+00:00",
-      "category": "Firmen"
-    },
-    {
       "id": "30c65606d5bc23f9",
       "title": "Schwachstelle in Azure API Management (APIM) Classic führte zu Hacks - BornCity",
       "excerpt": "Schwachstelle in Azure API Management (APIM) Classic führte zu Hacks BornCity",
@@ -219,6 +219,36 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdzNnazdpN25hX3JwVng1MWs5dm8zeXZLeEZPOFBBOXM1Vm4wNGRSb3V1ZlkzdjdhdmpEU09PTE16VDJEaTlQZDdobV81WHhnUUxiTTRoRm5SbmpuSVVidWowUzROVFIwN1U1cjFPMThVNDJ0cG0wYnFZNVM2dE1CeHZ5M0UwRW0zSTlLN1JpYndIa214NXhKMW9EMktkUU9jSzhnRXBPWkI?oc=5",
       "published": "2026-11-24T07:22:09+00:00",
       "category": "Cloud"
+    },
+    {
+      "id": "154a0622ab6b2b10",
+      "title": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse - Swiss IT Reseller",
+      "excerpt": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse Swiss IT Reseller",
+      "summary": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse Swiss IT Reseller",
+      "source": "Focused / IT Schweiz",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY3JBZmg3bDJmVlJjSXVCZmlSUWdNNkcyVUhjWDQ5eFJYcWZQZGowcUtJQlRaVGwweDBLOVc1c1g1YkVSeTRzZDhNZUJWclQycy1VRzBtM2hEN012dzdJTTZSWmswZEtJRUtNNzF3dkRGLUp0QTZONktKMlJ2Ymxib3l0NkJEdmFyZ2RlN3V0b3ZYOF9UZkpwa1AwUU1rNS10TE5vVS1vbm5zb0Nk?oc=5",
+      "published": "2026-11-24T07:12:00+00:00",
+      "category": "IT Schweiz"
+    },
+    {
+      "id": "8ee5b0e43a1899ff",
+      "title": "HPE steigert Umsatz um 50 Prozent - Swiss IT Reseller",
+      "excerpt": "HPE steigert Umsatz um 50 Prozent Swiss IT Reseller",
+      "summary": "HPE steigert Umsatz um 50 Prozent Swiss IT Reseller",
+      "source": "Focused / IT Schweiz",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNM3BRaXVRQkhrVHJLRmQ2SEtHa2M5bmV4ZHY2cVBKa0xUM1Nrc3h6SXYwR0VnbU5kdnNIemlOc2w4S2h0bXZDMS1UUlUzV3lxV3UzZWk2OVlCQm5zT3VKX3E1NFFXN292cHltZ3pIdXp3Y2pKam5tbFZzTWJwUENELUNYSGhKdw?oc=5",
+      "published": "2026-11-24T07:12:00+00:00",
+      "category": "Markt"
+    },
+    {
+      "id": "eb53cd74c8cb756b",
+      "title": "Weihnachtliche Bieber-Hilfe - IT-Markt",
+      "excerpt": "Weihnachtliche Bieber-Hilfe IT-Markt",
+      "summary": "Weihnachtliche Bieber-Hilfe IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiMVdBdGVGNDExWXFWaDI4cVRsLVZZNU8xdHZXamFWZjV3VVVoRHpWN3BoYzNOQ05neWFuR1VfRmpjN0VuX1NidjVRcXYzcGZfTk9BcGlwZUQzRVN4cnFXWEZaSmhWTkFWbW01d3ctS090YkdXbnlOcGV2Z2lQZw?oc=5",
+      "published": "2026-11-23T14:51:29+00:00",
+      "category": "Markt"
     },
     {
       "id": "51b24557b96f78d3",
@@ -261,13 +291,13 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "83f79a15432f1b42",
-      "title": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse",
-      "excerpt": "Oliver Wymann, ein Unternehmen des Marsh-Konzerns, kauft mit Synpulse in der Schweiz zu. Das Zürcher Tech-Beratungshaus ist auf den Finanzsektor spezialisiert und soll nun unter anderem seine KI-Expertise beisteuern.",
-      "summary": "Oliver Wymann, ein Unternehmen des Marsh-Konzerns, kauft mit Synpulse in der Schweiz zu. Das Zürcher Tech-Beratungshaus ist auf den Finanzsektor spezialisiert und soll nun unter anderem seine KI-Expertise beisteuern.",
-      "source": "IT Reseller",
-      "url": "https://www.itreseller.ch/Artikel/106663/Oliver_Wyman_uebernimmt_Zuercher_Technologieberatung_Synpulse_.html",
-      "published": "2026-11-23T08:21:02+00:00",
+      "id": "5d3d5c31e17afc9c",
+      "title": "Palo Alto Networks übernimmt KI-Start-up für 4,5 Milliarden Dollar - Swiss IT Reseller",
+      "excerpt": "Palo Alto Networks übernimmt KI-Start-up für 4,5 Milliarden Dollar Swiss IT Reseller",
+      "summary": "Palo Alto Networks übernimmt KI-Start-up für 4,5 Milliarden Dollar Swiss IT Reseller",
+      "source": "Focused / IT Schweiz",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeWJMTG5Vc0ZWSDBkUmhvZEJxS1FqRWRsVGRtcnNiM3VQS1h5UXowRFBhbkdOZC1IWTVmZTE2SktpWHl0cWUya29uc3FQMjhiWGNpWFk4UXFrdVhWSmlCZHBoUm9HMHhoVkRmcWRIZElMekktRk9vbnUyQjV3SWtDbzZRV2xkSUZMZFhUTWhvWlUxcWZhRjMwbm1qMmJTSjRENktpOVowRnJqdy1IOUVaNTRvRQ?oc=5",
+      "published": "2026-11-23T07:12:00+00:00",
       "category": "IT Schweiz"
     },
     {
@@ -301,26 +331,6 @@
       "category": "Security"
     },
     {
-      "id": "f54c953af1041f65",
-      "title": "Palo Alto Networks übernimmt KI-Start-up für 4,5 Milliarden Dollar",
-      "excerpt": "Palo Alto Networks will den KI-Spezialisten Applied Compute übernehmen. Mit der Akquisition verstärkt der Security-Anbieter sein Portfolio um eine Plattform für das Training und den sicheren Betrieb von KI-Modellen.",
-      "summary": "Palo Alto Networks will den KI-Spezialisten Applied Compute übernehmen. Mit der Akquisition verstärkt der Security-Anbieter sein Portfolio um eine Plattform für das Training und den sicheren Betrieb von KI-Modellen.",
-      "source": "IT Reseller",
-      "url": "https://www.itreseller.ch/Artikel/106656/Palo_Alto_Networks_uebernimmt_KI-Start-up_fuer_45_Milliarden_Dollar.html",
-      "published": "2026-11-20T13:14:26+00:00",
-      "category": "Firmen"
-    },
-    {
-      "id": "350dda60b49fd6ac",
-      "title": "Smartphone-Absatz bricht in Europa um 18 Prozent ein - Swiss IT Reseller",
-      "excerpt": "Smartphone-Absatz bricht in Europa um 18 Prozent ein Swiss IT Reseller",
-      "summary": "Smartphone-Absatz bricht in Europa um 18 Prozent ein Swiss IT Reseller",
-      "source": "Focused / IT Schweiz",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObGc3LTFBc2NqQnFHN195RWsweXptRUtBRWxfX1lHekJNcXlSNEdpalpjeVZqdDRLUzEtQVdadmszeXpIQ1d3UEhSN1JEUHZ1aWdJdWtVcXl1V3ozYmpGQlpreXQwVXd0Y3JMVm1iRS1UR2NVUTY5OGdwY3BLbGMyNjBGWkk5aVMzcHZOWWFGMXVmcnZaYWtYaFNaRFpaRHM?oc=5",
-      "published": "2026-11-20T07:12:00+00:00",
-      "category": "Markt"
-    },
-    {
       "id": "6ed08bbf34784f84",
       "title": "Microsoft To Do wird am 30. Juni 2027 eingestellt, Planner übernimmt mit den vereinheitlichten Plänen",
       "excerpt": "Microsoft To Do wird am 30. Juni 2027 eingestellt, Planner übernimmt mit den vereinheitlichten Plänen Meteora Web",
@@ -338,17 +348,7 @@
       "source": "Focused / IT Schweiz",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRDRla04tWlpBbi1HTlZ3WVhXVmphOHNBc1l2Mm01U2EwRVRkM1o2N1JZOVlfeVZyTExYT0tFNzhwZkZ5VnlXbjM2YUJTUjQ3bTBPaG9IUTJ5MDlEczZCc0Ixcno2cm5RQmtIVFFjRklHVDFaV1VkNHZvaEM3S2U3eWhaUHpGUndKeFNnMQ?oc=5",
       "published": "2026-11-19T07:12:00+00:00",
-      "category": "IT Schweiz"
-    },
-    {
-      "id": "56813d5a6ab6391c",
-      "title": "Alvin Ou übernimmt Leitung von TP-Link Schweiz - Swiss IT Reseller",
-      "excerpt": "Alvin Ou übernimmt Leitung von TP-Link Schweiz Swiss IT Reseller",
-      "summary": "Alvin Ou übernimmt Leitung von TP-Link Schweiz Swiss IT Reseller",
-      "source": "Focused / IT Schweiz",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMTV1ODlTblhDampwS0d1YUwybC1sekhwQ1lIOUhwd1FscGtWMVFVcGR1aU1sNHlha3VhQ3RfNTY1bURGQk9GYy1XRFY5ZlUxMUo2Nlh1a1daZGhpNVBFZ3R3RUNkYndOTjd2aDk1LTVCdWxscE5PcDZCQzdQMjlnUkdJZnhDTTdId3A5NXVIa01XSmdITmFfVA?oc=5",
-      "published": "2026-11-19T07:12:00+00:00",
-      "category": "IT Schweiz"
+      "category": "Firmen"
     },
     {
       "id": "bdb8e482dffc2871",
@@ -359,19 +359,9 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wMDUycnJzLWdBZHFvZmh0MmRLV25OSnF2MVBESXFqdHVzaE9vRzRybTJxTjI2d3RuOVJTa0FuQmtfMXF6eFE2cHBXMVJtZTEwN25XTTRtU2JYZ1luR09XY1daSnVDcktyaHZfd0dJYw?oc=5",
       "published": "2026-11-19T05:31:25+00:00",
       "category": "Microsoft 365"
-    },
-    {
-      "id": "454dee88f3391be7",
-      "title": "Absatz von OLED-Monitoren verdoppelt sich - Swiss IT Reseller",
-      "excerpt": "Absatz von OLED-Monitoren verdoppelt sich Swiss IT Reseller",
-      "summary": "Absatz von OLED-Monitoren verdoppelt sich Swiss IT Reseller",
-      "source": "Focused / IT Schweiz",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTE9PUHZxdENHaUZBeDlaRVlZcEJreEdpLW5EeHNBTmFaZ01YblRvaGxnRWJoamdnQjhCeWs4WHpjTWtObGx5WEg4Q016cnJ3UmgxY0pqck1SMGt3OV9TT0FBM2duNWs0VlZhNXZyNjZtdVJmcVZEUmR6eVJWcmxiWjJFN1RaeVoxTW1zdUZBX0I?oc=5",
-      "published": "2026-11-19T05:03:56+00:00",
-      "category": "Markt"
     }
   ],
-  "updatedAt": "2026-11-25T11:08:07.859093+00:00",
+  "updatedAt": "2026-11-25T12:13:19.221824+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -383,7 +373,7 @@
     "Personen": 10
   },
   "counts": {
-    "Personen": 2,
+    "Personen": 1,
     "Security": 5,
     "Microsoft 365": 5,
     "IT Schweiz": 5,
@@ -392,6 +382,6 @@
     "Markt": 5,
     "Firmen": 5
   },
-  "warning": "Nicht genügend passende aktuelle Meldungen: 8 × Personen. 11 von 83 RSS-Quellen waren nicht erreichbar.",
+  "warning": "Nicht genügend passende aktuelle Meldungen: 9 × Personen. 4 von 83 RSS-Quellen waren nicht erreichbar.",
   "aiSummaries": false
 }
