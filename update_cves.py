@@ -15,6 +15,8 @@ import urllib.error
 import email.utils
 import xml.etree.ElementTree as ET
 from pathlib import Path
+from radar_quality import (load_kev, load_epss, enrich_risks, merge_kev_records,
+                           rank_risk, eligible_risk)
 
 UTC = dt.timezone.utc
 NVD = 'https://services.nvd.nist.gov/rest/json/cves/2.0'
@@ -22,14 +24,14 @@ EUVD = 'https://euvdservices.enisa.europa.eu/api/search'
 NOW = 'https://cve.now/feed?format=json'
 CVE_ORG = 'https://cveawg.mitre.org/api/cve/'
 DAYS = max(1, min(int(os.getenv('CVE_DAYS', '14')), 120))
-MAX_ITEMS = max(50, min(int(os.getenv('CVE_MAX_ITEMS', '2000')), 10000))
+MAX_ITEMS = max(50, min(int(os.getenv('CVE_MAX_ITEMS', '10000')), 10000))
 TOP_CVES = 50
 MIN_CVSS = 9.0
 # Separate bounded historical lookups for priority software.
 HISTORICAL_RESULTS_PER_TERM = 100
 HISTORICAL_PAGES_PER_TERM = max(0, min(int(os.getenv("CVE_HISTORICAL_PAGES", "3")), 10))
 HISTORICAL_REQUEST_BUDGET = max(0, min(int(os.getenv("CVE_HISTORICAL_REQUEST_BUDGET", "35")), 200))
-CVEORG_LOOKUP_BUDGET = max(0, min(int(os.getenv("CVEORG_LOOKUP_BUDGET", "110")), 300))
+CVEORG_LOOKUP_BUDGET = max(0, min(int(os.getenv("CVEORG_LOOKUP_BUDGET", "180")), 300))
 VENDOR_DISCOVERY_LIMIT = max(0, min(int(os.getenv("CVE_VENDOR_DISCOVERY_LIMIT", "110")), 300))
 # Explicit diagnostic lookups: independently of vendor search pagination.
 TARGETED_CVE_IDS = tuple(x.strip().upper() for x in os.getenv('CVE_TARGETED_IDS', 'CVE-2026-44756,CVE-2026-58240,CVE-2026-19707').split(',') if re.fullmatch(r'CVE-\d{4}-\d{4,}', x.strip(), re.I))
@@ -164,7 +166,7 @@ def get_xml(url):
 
 
 def priority_products(item):
-    text = ' '.join([str(item.get('description', '')), ' '.join(item.get('products') or [])]).casefold()
+    text = ' '.join(str(x) for x in (item.get('products') or [])).casefold()
     return [name for name, patterns in PRIORITY_TERMS.items() if any(re.search(pattern, text, re.I) for pattern in patterns)]
 
 def short_title(text):
@@ -662,7 +664,7 @@ def build():
                                 merge(item, official)
                         except Exception:
                             pass
-                    if item['score'] is None or item['score'] < MIN_CVSS:
+                    if item['score'] is None:
                         continue
                     if item['id'] in entries:
                         merge(entries[item['id']], item)
@@ -685,6 +687,27 @@ def build():
         except Exception:
             pass
 
+    # Public threat intelligence: active exploitation and exploit probability.
+    # A source failure never silently turns existing records into confirmed negatives.
+    kev = {}
+    kev_error = None
+    kev_stats = {}
+    try:
+        kev = load_kev()
+        kev_stats = merge_kev_records(
+            entries, kev, lambda cid: safe_cveorg_lookup(cid),
+            max_missing=max(0,min(int(os.getenv('CVE_KEV_LOOKUP_LIMIT','30')),100)))
+    except Exception as exc:
+        kev_error = str(exc)[:160]
+        warnings.append('CISA KEV nicht erreichbar: '+kev_error)
+    epss = {}
+    epss_error = None
+    try:
+        epss = load_epss([cid for cid in entries if cid.startswith('CVE-')])
+    except Exception as exc:
+        epss_error = str(exc)[:160]
+        warnings.append('FIRST EPSS nicht vollständig erreichbar: '+epss_error)
+    enrich_risks(list(entries.values()), kev, epss)
     # Include recently modified entries as well as recently published entries.
     # Never substitute ingestion time for a missing source modification timestamp.
     threshold = iso(start.isoformat())
@@ -694,14 +717,14 @@ def build():
     # Include historical matches only for the explicitly prioritised products.
     selected_ids = {x['id'] for x in selected}
     selected.extend(x for x in entries.values() if x['id'] not in selected_ids and
-                    x.get('score') is not None and x['score'] >= MIN_CVSS and priority_products(x))
+                    (x.get('knownExploited') or (x.get('score') is not None and x['score'] >= 7 and priority_products(x))))
     selected = dedupe_aliases(selected)
-    selected = [x for x in selected if x.get('score') is not None and x['score'] >= MIN_CVSS]
     for item in selected:
         item['priorityProducts'] = priority_products(item)
+    selected = [x for x in selected if eligible_risk(x)]
     # Independent top-50 pools, not limited to the global 50.
-    global_top = choose_top(selected)
-    product_pools = {name: rank([x for x in selected if name in x.get('priorityProducts', [])])[:TOP_CVES]
+    global_top = rank_risk(selected)[:TOP_CVES]
+    product_pools = {name: rank_risk([x for x in selected if name in x.get('priorityProducts', [])])[:TOP_CVES]
                      for name in PRIORITY_TERMS}
     unique = {x['id']: x for x in global_top}
     for pool in product_pools.values():
@@ -718,7 +741,9 @@ def build():
                'truncated': start_index < (total or 0),
                'source': ', '.join(x['name'] for x in source_rows if x['enabled']),
                'activeSources': [x['id'] for x in source_rows if x['enabled']],
-               'sort': 'modified_desc_score_desc', 'priorityMode': 'prefer_relevant_in_top50', 'minimumCvss': MIN_CVSS,
+               'sort': 'risk_desc', 'priorityMode': 'kev_epss_cvss_product', 'minimumCvss': None,
+                'kevStats': kev_stats, 'kevCount': len(kev), 'epssCount': len(epss),
+                'kevError': kev_error, 'epssError': epss_error,
                'warning': ' | '.join(warnings) if warnings else None,
                'items': selected, 'priorityItems': product_pools, 'priorityNames': list(PRIORITY_TERMS),
                'vendorDiscovery': discovery_stats, 'targetedDiagnostics': targeted_status,
