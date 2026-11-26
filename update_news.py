@@ -344,13 +344,84 @@ def same_story(a, b):
           or (same_product and bool(ea & eb) and common >= 4 and overlap >= .65))
  return bool(same_source and same_product and common >= 4 and overlap >= .75)
 
+# Version 5.4: conservative event identification for personnel announcements.
+# Never equate an appointment/return with a departure. Report possible
+# contradictions for editorial review; titles are not verified facts.
+PERSON_NAME = re.compile(r"(?<![\w-])([A-ZÄÖÜ][a-zäöü]+(?:[’'][A-ZÄÖÜ][a-zäöü]+)?\s+[A-ZÄÖÜ][a-zäöü]+(?:[’'][A-ZÄÖÜ][a-zäöü]+)?)(?!\w)")
+NAME_BLOCK = {'chief transformation', 'chief operating', 'chief technology',
+              'chief information', 'chief security', 'chief financial',
+              'chief executive', 'swiss it', 'inside it', 'alpine region',
+              'uni zürich', 'convotis schweiz'}
+COMPANY_IGNORE = {'CEO', 'CIO', 'CTO', 'CFO', 'CISO', 'CHIEF', 'OFFICER',
+                  'IT', 'SWISS', 'RESELLER', 'NETZWOCHE', 'INSIDE',
+                  'SCHWEIZ', 'REGION', 'ZURUCK', 'ZURUECK', 'NEUER',
+                  'NEUE', 'CHEF', 'PERSONALWECHSEL', 'WECHSEL',
+                  'FUHRUNGSSPITZE', 'ABSCHIED', 'TRANSFORMATION',
+                  'STELLVERTRETENDER', 'ZUM', 'ZUR', 'TRITT'}
+
+def personnel_names(item):
+ title = item['title']
+ return {m.group(1).casefold().replace('’', "'") for m in PERSON_NAME.finditer(title)
+         if m.group(1).casefold() not in NAME_BLOCK}
+
+def personnel_company_tokens(item):
+ title = item['title']
+ for match in sorted(personnel_names(item), key=len, reverse=True):
+  title = re.sub(re.escape(match), ' ', title, flags=re.I)
+ title = re.split(r'\s+-\s+(?:Swiss IT Reseller|Inside IT|Netzwoche)\b', title, maxsplit=1)[0]
+ # Publisher hyphenated titles such as 'Nvidia-Chef' and 'Nvidia-CEO'
+ # identify the company, not a separate company named 'Nvidia-Chef'.
+ title = re.sub(r'(?i)-(?:CEO|CIO|CTO|CFO|CISO|Chef(?:in)?|Leiter(?:in)?)\b', ' ', title)
+ return {t.casefold() for t in re.findall(r'(?<![\w])[A-ZÄÖÜ][\w-]{3,}', title)
+         if t.upper() not in COMPANY_IGNORE}
+
+def personnel_action(item):
+ title = item['title']
+ if re.search(r'\b(holt.{0,65}zur[uü]ck|kehrt.{0,65}zur[uü]ck|r[uü]ckkehr)\b', title, re.I):
+  return 'return'
+ if re.search(r'\b(tritt.{0,45}zur[uü]ck|verl[aä]sst|k[uü]ndigt.{0,25}abschied|r[uü]cktritt|abgang|scheidet.{0,35}aus)\b', title, re.I):
+  return 'departure'
+ if re.search(r'\b(ernannt|ernennt|neuer?\s+(?:ceo|cio|cto|chef)|neue\s+(?:ceo|cio|cto|chefin)|berufen|[uü]bernimmt|wechselt)\b', title, re.I):
+  return 'appointment'
+ return None
+
+def personnel_event_relation(a, b):
+ """Return 'same_event', 'potential_conflict', or None.
+
+ Requires a named person, independently shared company evidence and dated
+ leadership-action headlines. Do not infer identity from role/company alone.
+ """
+ if not (personnel_relevance(a) and personnel_relevance(b)):
+  return None
+ names = personnel_names(a) & personnel_names(b)
+ companies = personnel_company_tokens(a) & personnel_company_tokens(b)
+ action_a, action_b = personnel_action(a), personnel_action(b)
+ if not (names and companies and action_a and action_b):
+  return None
+ try:
+  days = abs((parse_date(a['published']) - parse_date(b['published'])).total_seconds()) / 86400
+ except (TypeError, ValueError, KeyError):
+  return None
+ if days > 30:
+  return None
+ if action_a != action_b:
+  return 'potential_conflict'
+ # Same event must occur in a restricted time window; a later promotion,
+ # re-appointment or unrelated reorganisation is not silently collapsed.
+ if days <= 14:
+  return 'same_event'
+ return None
+
 def deduplicate(items):
  # Prefer the most informative and recent representation of a story.
  ranked = sorted(items, key=lambda i: (len(i.get('excerpt', '')) >= 80, len(i.get('excerpt', '')), i['published']), reverse=True)
  groups = []
  for item in ranked:
   for group in groups:
-   if any(canonical_url(item['url']) == canonical_url(other['url']) or same_story(item, other) for other in group):
+   if any(canonical_url(item['url']) == canonical_url(other['url']) or
+          personnel_event_relation(item, other) == 'same_event' or
+          (personnel_event_relation(item, other) != 'potential_conflict' and same_story(item, other))
+          for other in group):
     group.append(item)
     break
   else: groups.append([item])
@@ -379,7 +450,9 @@ def select(items):
    if category == 'Personen': continue
    pool = sorted((i for i in candidates
                   if canonical_url(i['url']) not in used
-                  and not any(same_story(i, person) for person in people)
+                  and not any(personnel_event_relation(i, person) == 'same_event' or
+                              (personnel_event_relation(i, person) != 'potential_conflict' and
+                               same_story(i, person)) for person in people)
                   and eligible(i, category)),
                  key=lambda i: score(i, category), reverse=True)
    selected = pool[:target]
@@ -416,7 +489,10 @@ def build_diagnostics(raw_items, chosen, failures):
   elif not categories:
    status = 'topic_filter'
    selected_categories = []
-  elif any(canonical_url(item['url']) == canonical_url(row['url']) or same_story(item, row) for row in chosen):
+  elif any(canonical_url(item['url']) == canonical_url(row['url']) or
+           personnel_event_relation(item, row) == 'same_event' or
+           (personnel_event_relation(item, row) != 'potential_conflict' and same_story(item, row))
+           for row in chosen):
    status = 'duplicate_or_similar_story'
    selected_categories = []
   else:
@@ -447,13 +523,35 @@ def build_diagnostics(raw_items, chosen, failures):
   # without silently lowering the IT relevance requirements elsewhere.
   if not eligible(item, 'Personen'):
    reason = 'headline_not_personnel_change'
-  elif any(url == canonical_url(row['url']) or same_story(item, row) for row in person_chosen):
+  elif any(url == canonical_url(row['url']) or
+           personnel_event_relation(item, row) == 'same_event' or
+           (personnel_event_relation(item, row) != 'potential_conflict' and same_story(item, row))
+           for row in person_chosen):
    reason = 'selected_or_duplicate'
   else:
    reason = 'not_selected_after_ranking_or_deduplication'
   if reason != 'selected_or_duplicate':
    personnel_examples.append({'title': item['title'], 'source': item['source'],
                               'reason': reason})
+ # Only inspect the displayed personnel records. These are unverified claims;
+ # flag opposing personnel-action headlines, never automatically reconcile.
+ conflicts = []
+ for index, first in enumerate(person_chosen):
+  for second in person_chosen[index + 1:]:
+   if personnel_event_relation(first, second) == 'potential_conflict':
+    conflicts.append({'firstTitle': first['title'], 'firstUrl': first['url'],
+                      'secondTitle': second['title'], 'secondUrl': second['url'],
+                      'reason': 'same_person_company_opposing_personnel_actions',
+                      'reviewRequired': True})
+ merged_events = []
+ for index, first in enumerate(approved_relevant):
+  for second in approved_relevant[index + 1:]:
+   if canonical_url(first['url']) != canonical_url(second['url']) and\
+      personnel_event_relation(first, second) == 'same_event':
+    pair = tuple(sorted((canonical_url(first['url']), canonical_url(second['url']))))
+    if not any(entry['urls'] == list(pair) for entry in merged_events):
+     merged_events.append({'titles': [first['title'], second['title']],
+                           'urls': list(pair), 'reason': 'same_person_company_action'})
  personnel_diag = {
   'fetched': len(focused),
   'eligible': len(unique_relevant),
@@ -463,6 +561,9 @@ def build_diagnostics(raw_items, chosen, failures):
   'approvedSourceCandidates': len(approved),
   'uniqueEligibleCandidates': len(unique_relevant),
   'rejectedExamples': personnel_examples[:50],
+  'eventDuplicates': merged_events[:50],
+  'potentialConflicts': conflicts,
+  'potentialConflictCount': len(conflicts),
  }
  return {'updatedAt': NOW.isoformat(), 'feedFailures': failures,
          'rawCandidates': len(raw_items), 'uniqueCandidates': len(candidates),
