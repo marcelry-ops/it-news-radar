@@ -116,8 +116,8 @@ SWISS_BUSINESS_ACTION = re.compile(r'\b(übernimmt|uebernimmt|übernahme|ueberna
 SWISS_TECH_COMPANY = re.compile(r'\b(technologieberatung|tech[- ]?beratung|it[- ]?beratung|it[- ]?dienstleister|softwarehaus|softwarefirma|technologieunternehmen|informatikunternehmen|ict[- ]?unternehmen|it[- ]?unternehmen|digitalunternehmen|cybersecurity[- ]?unternehmen|cloud[- ]?anbieter)\b', re.I)
 
 # A role mention alone is not a personnel change: require a concrete personnel action.
-PERSON_ROLE = re.compile(r'\b(ceo|cio|cto|cfo|ciso|chef(?:in)?|leiter(?:in)?|geschäftsführer(?:in)?|geschäftsleitung|verwaltungsrat|präsident(?:in)?|direktor(?:in)?|führung|management|personal(?:ie|ien)|mitarbeiter(?:in)?)\b', re.I)
-PERSON_CHANGE = re.compile(r'\b(personalwechsel|führungswechsel|fuehrungswechsel|chefwechsel|ernannt|ernennung|befördert|beförderung|berufen|neubesetzung|nachfolge|nachfolger(?:in)?|wechselt|wechsel(?:t)?|verlässt|verlaesst|rücktritt|ruecktritt|zurückgetreten|zurueckgetreten|tritt\s+zurück|tritt\s+zurueck|übernimmt|uebernimmt|übernahme\s+der\s+leitung|neu\s+(?:im|in\s+der)\s+(?:team|geschäftsleitung)|neuer?\s+(?:ceo|cio|cto|cfo|ciso|chef|leiter|geschäftsführer|präsident)|neue\s+(?:ceo|cio|cto|cfo|ciso|chefin|leiterin|geschäftsführerin|präsidentin)|tritt\s+an|steigt\s+auf|rückt\s+auf|rueckt\s+auf|abgang|abgänge|abgaenge|personelle\s+veränderung(?:en)?)\b', re.I)
+PERSON_ROLE = re.compile(r'\b(ceo|cio|cto|cfo|ciso|chef(?:in)?|leiter(?:in)?|geschäftsführer(?:in)?|geschäftsleitung|verwaltungsrat|präsident(?:in)?|direktor(?:in)?|chief\s+(?:transformation|operating|technology|information|security|financial|executive)\s+officer|führung|führungsspitze|management|personal(?:ie|ien)|mitarbeiter(?:in)?)\b', re.I)
+PERSON_CHANGE = re.compile(r'\b(personalwechsel|führungswechsel|fuehrungswechsel|chefwechsel|ernannt|ernennt|ernennung|befördert|beförderung|berufen|neubesetzung|nachfolge|nachfolger(?:in)?|wechselt|wechsel(?:t)?|verlässt|verlaesst|rücktritt|ruecktritt|zurückgetreten|zurueckgetreten|tritt\s+zurück|tritt\s+zurueck|übernimmt|uebernimmt|übernahme\s+der\s+leitung|neu\s+(?:im|in\s+der)\s+(?:team|geschäftsleitung)|neuer?\s+(?:ceo|cio|cto|cfo|ciso|chef|leiter|geschäftsführer|präsident)|neue\s+(?:ceo|cio|cto|cfo|ciso|chefin|leiterin|geschäftsführerin|präsidentin)|tritt\s+an|steigt\s+auf|rückt\s+auf|rueckt\s+auf|abgang|abgänge|abgaenge|personelle\s+veränderung(?:en)?|kündigt\s+(?:seinen?\s+|ihren?\s+)?abschied\s+an|kuendigt\s+(?:seinen?\s+|ihren?\s+)?abschied\s+an|stellt\s+(?:die\s+)?führungsspitze.{0,50}?neu\s+auf|holt.{0,55}?(?:ceo|chef|leiter).{0,30}?zurück)\b', re.I)
 PERSON_EXCLUDE = re.compile(r'\b(stellenangebot|jobangebot|karrieretipp|bewerbungstipps|gehaltsvergleich|lohnvergleich|arbeitsmarktstudie|fachkräftemangel|fachkraeftemangel|stellenabbau|entlassungswelle|entlassungen)\b', re.I)
 
 def personnel_relevance(item):
@@ -393,32 +393,81 @@ def select(items):
 
 
 def build_diagnostics(raw_items, chosen, failures):
- # Written to a separate file; no verbose warnings in the public dashboard.
- # This covers parsed candidates; feed entries rejected before extraction cannot
- # be diagnosed individually. Inspect feedFailures for inaccessible feeds.
+ """Audit the published selection, counting each raw article occurrence once.
+
+ Identical Google-News items can arrive from several personnel searches with
+ the same ID. Only one can be marked selected; the others are duplicates.
+ """
  candidates = deduplicate(raw_items)
- kept = {x['id'] for x in candidates}
- chosen_categories = {}
- for row in chosen:
-  chosen_categories.setdefault(row['id'], []).append(row['category'])
- selected_by_category = {cat: {x['id'] for x in chosen if x['category'] == cat} for cat in TARGETS}
+ chosen_by_id = {row['id']: row for row in chosen}
+ selected_by_category = {cat: sum(row['category'] == cat for row in chosen) for cat in TARGETS}
+ reported_selected = set()
  details = []
  for item in raw_items:
   categories = [cat for cat in TARGETS if eligible(item, cat)]
-  if item['id'] not in kept:
-   status = 'duplicate_or_similar_story'
-  elif item['id'] in chosen_categories:
+  picked = chosen_by_id.get(item['id'])
+  if picked and item['id'] not in reported_selected:
    status = 'selected'
+   selected_categories = [picked['category']]
+   reported_selected.add(item['id'])
+  elif picked:
+   status = 'duplicate_or_similar_story'
+   selected_categories = []
   elif not categories:
    status = 'topic_filter'
+   selected_categories = []
+  elif any(canonical_url(item['url']) == canonical_url(row['url']) or same_story(item, row) for row in chosen):
+   status = 'duplicate_or_similar_story'
+   selected_categories = []
   else:
    status = 'not_in_top_limit_or_allocated_to_other_category'
+   selected_categories = []
   details.append({'title': item['title'], 'url': item['url'], 'source': item['source'],
                   'published': item['published'], 'eligibleCategories': categories,
-                  'selectedCategories': chosen_categories.get(item['id'], []), 'status': status})
+                  'selectedCategories': selected_categories, 'status': status})
+
+ # Count the focused 30-day personnel searches separately from direct feeds.
+ focused = [item for item in raw_items if item.get('feedSource', '').endswith(' / Personen')
+            and item['feedSource'].split(' / ')[0] in PERSON_SITES]
+ approved = [item for item in raw_items if item.get('feedSource') in PERSON_SITES or
+             item.get('feedSource', '').split(' / ')[0] in PERSON_SITES and
+             item.get('feedSource', '').endswith(' / Personen')]
+ approved_relevant = [item for item in approved if eligible(item, 'Personen')]
+ unique_relevant = deduplicate(approved_relevant)
+ person_chosen = [item for item in chosen if item['category'] == 'Personen']
+ source_counts = {name: sum(item.get('feedSource') == name + ' / Personen' for item in focused)
+                  for name in PERSON_SITES}
+ personnel_examples = []
+ seen_urls = set()
+ for item in approved:
+  url = canonical_url(item['url'])
+  if url in seen_urls: continue
+  seen_urls.add(url)
+  # Expose representative rejected titles to tune the personnel filter
+  # without silently lowering the IT relevance requirements elsewhere.
+  if not eligible(item, 'Personen'):
+   reason = 'headline_not_personnel_change'
+  elif any(url == canonical_url(row['url']) or same_story(item, row) for row in person_chosen):
+   reason = 'selected_or_duplicate'
+  else:
+   reason = 'not_selected_after_ranking_or_deduplication'
+  if reason != 'selected_or_duplicate':
+   personnel_examples.append({'title': item['title'], 'source': item['source'],
+                              'reason': reason})
+ personnel_diag = {
+  'fetched': len(focused),
+  'eligible': len(unique_relevant),
+  'selected': len(person_chosen),
+  'fetchedByFeed': source_counts,
+  'failedFeeds': [name for name in failures if ' / Personen' in name],
+  'approvedSourceCandidates': len(approved),
+  'uniqueEligibleCandidates': len(unique_relevant),
+  'rejectedExamples': personnel_examples[:50],
+ }
  return {'updatedAt': NOW.isoformat(), 'feedFailures': failures,
          'rawCandidates': len(raw_items), 'uniqueCandidates': len(candidates),
-         'selectedPerCategory': {cat: len(ids) for cat, ids in selected_by_category.items()},
+         'selectedPerCategory': selected_by_category,
+         'personnelDiagnostics': personnel_diag,
          'articles': details[:1500],
          'note': 'Nur aus RSS/Atom erfolgreich extrahierte Artikel; nicht alle Artikel der Verlagswebseiten.'}
 
