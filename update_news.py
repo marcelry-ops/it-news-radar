@@ -34,8 +34,8 @@ SEARCHES = {
  'Firmen': ['IT Unternehmen Firmen Übernahme Partnerschaft CEO Quartalszahlen', 'Technologieunternehmen Schweizer IT Firmen neue Produkte'],
 }
 
-def google_rss(query):
- return 'https://news.google.com/rss/search?' + urllib.parse.urlencode({'q': query + ' when:7d', 'hl':'de-CH', 'gl':'CH', 'ceid':'CH:de'})
+def google_rss(query, days=7):
+ return 'https://news.google.com/rss/search?' + urllib.parse.urlencode({'q': query + f' when:{days}d', 'hl':'de-CH', 'gl':'CH', 'ceid':'CH:de'})
 
 FEEDS = [('heise online', 'https://www.heise.de/rss/heise-atom.xml', None),
          ('heise Security', 'https://www.heise.de/security/rss/news-atom.xml', 'Security'),
@@ -97,7 +97,7 @@ PERSON_QUERIES = [
  '"ernannt" OR "befördert" OR "neuer CEO" OR "neue CEO" OR "neuer CIO"',
  '"verlässt" OR "tritt zurück" OR "übernimmt Leitung" OR "Geschäftsleitung"',
 ]
-FEEDS += [(publisher + ' / Personen', google_rss('site:' + domain + ' (' + query + ')'), 'Personen')
+FEEDS += [(publisher + ' / Personen', google_rss('site:' + domain + ' (' + query + ')', days=30), 'Personen')
           for publisher, domain in PERSON_SITES.items() for query in PERSON_QUERIES]
 
 # Focused discovery for major Microsoft product lifecycle announcements.
@@ -207,7 +207,8 @@ def extract(feed):
   url = url.strip()
   if not url.startswith('https://'): continue
   published = parse_date(get('published') or get('updated') or get('pubDate'))
-  if not published or published > NOW + dt.timedelta(hours=4) or published < NOW - dt.timedelta(days=MAX_AGE_DAYS): continue
+  max_age = 30 if (hint == 'Personen' and name.endswith(' / Personen') and name.split(' / ')[0] in PERSON_SITES) else MAX_AGE_DAYS
+  if not published or published > NOW + dt.timedelta(hours=4) or published < NOW - dt.timedelta(days=max_age): continue
   # Google News headlines normally end with ' - Publisher'. Keep source attribution separate.
   publisher = name
   if name.startswith('Google News /') and ' - ' in title:
@@ -351,7 +352,9 @@ def deduplicate(items):
     group.append(item)
     break
   else: groups.append([item])
- return [group[0] for group in groups]
+ # Publish canonical URLs as well as comparing them: remove tracking parameters
+ # from the selected record, regardless of which duplicate ranked first.
+ return [{**group[0], 'url': canonical_url(group[0]['url'])} for group in groups]
 
 def select(items):
  candidates = deduplicate(items)
