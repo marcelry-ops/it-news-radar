@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "955648ecbea28bad",
+      "title": "Basler Datenschutzbeauftragte untersagt VPN-Auslagerung an US-amerikanischen Anbieter",
+      "excerpt": "Der Kanton Basel-Stadt darf seine VPN- und Proxy-Lösungen vorerst nicht in die Cloud eines US-amerikanischen Anbieters auslagern. Die Datenschutzbeauftragte blockiert das Vorhaben und warnt davor, dass der Anbieter auf unverschlüsselte Gesundheits- und Steuerdaten zugreifen könnte.",
+      "summary": "Der Kanton Basel-Stadt darf seine VPN- und Proxy-Lösungen vorerst nicht in die Cloud eines US-amerikanischen Anbieters auslagern. Die Datenschutzbeauftragte blockiert das Vorhaben und warnt davor, dass der Anbieter auf unverschlüsselte Gesundheits- und Steuerd",
+      "source": "Netzwoche",
+      "url": "https://netzwoche.ch/news/2026-11-26/basler-datenschutzbeauftragte-untersagt-vpn-auslagerung-an-us-amerikanischen",
+      "published": "2026-11-26T13:44:33+00:00",
+      "category": "Cloud"
+    },
+    {
+      "id": "535234d784ba0bc5",
+      "title": "Warnung vor „erheblichen Folgen“: Erfolgreicher Cyberangriff auf die FIFA",
+      "excerpt": "Bei der FIFA haben Cyberkriminelle persönliche und geschäftliche Daten abgegriffen. Der Verband wiegelt gleichzeitig ab und warnt.",
+      "summary": "Bei der FIFA haben Cyberkriminelle persönliche und geschäftliche Daten abgegriffen. Der Verband wiegelt gleichzeitig ab und warnt.",
+      "source": "heise online",
+      "url": "https://heise.de/news/Warnung-vor-erheblichen-Folgen-Erfolgreicher-Cyberangriff-auf-die-FIFA-11539255.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published": "2026-11-26T13:33:00+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "974494a12f74fccd",
+      "title": "SAP: Spionagevorwürfe um Startup-Partner Conduct - it-daily.net",
+      "excerpt": "SAP: Spionagevorwürfe um Startup-Partner Conduct it-daily.net",
+      "summary": "SAP: Spionagevorwürfe um Startup-Partner Conduct it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RYUFEY0x5WFVUMVJnTDNwV2dDMzNldHpGV0ZuQjFqN3FLMmJCcC13bm8wNWlfSVlwai1jYmQxR2tiYk50MkpkTGlNQ0d2WGkxcDZScFpOMDY5M0ZCRkRSRm8yWXBqUmZQVFdVSWE3QWxJdw?oc=5",
+      "published": "2026-11-26T13:27:38+00:00",
+      "category": "Firmen"
+    },
+    {
       "id": "ffbee855be4da530",
       "title": "Cyberangriff auf US-Behörde gegen Finanzkriminalität",
       "excerpt": "Eine weitere US-Behörde ist Opfer eines Cyberangriffs geworden. Dieses Mal trifft es eine Abteilung gegen Finanzkriminalität.",
@@ -38,6 +68,16 @@
       "source": "Inside IT",
       "url": "https://inside-it.ch/fifa-bestaetigt-ransomware-angriff-20261126",
       "published": "2026-11-26T11:58:50+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "bb910d52542a839a",
+      "title": "Vom FBI überlistet: Wie ein Datenretter Ransomware-Opfer abgezockt haben soll",
+      "excerpt": "Der Mann bot Ransomware-Opfern eine nahezu sichere Datenrettung anhand spezieller Tools an. Im Hintergrund lief aber wohl alles anders als beworben. ( Ransomware , Verschlüsselung )",
+      "summary": "Der Mann bot Ransomware-Opfern eine nahezu sichere Datenrettung anhand spezieller Tools an. Im Hintergrund lief aber wohl alles anders als beworben. ( Ransomware , Verschlüsselung )",
+      "source": "Golem.de",
+      "url": "https://golem.de/news/vom-fbi-ueberlistet-wie-ein-datenretter-ransomware-opfer-abgezockt-haben-soll-2611-215691.html",
+      "published": "2026-11-26T11:36:02+00:00",
       "category": "Security"
     },
     {
@@ -91,23 +131,13 @@
       "category": "Markt"
     },
     {
-      "id": "5866a1dccd9885b6",
-      "title": "CVE-2025-42884: JNDI-Injektion in SAP NetWeaver AS Java ermöglicht Remote-Code-Ausführung",
-      "excerpt": "CVE-2025-42884: JNDI-Injektion in SAP NetWeaver AS Java ermöglicht Remote-Code-Ausführung All About SECURITY",
-      "summary": "CVE-2025-42884: JNDI-Injektion in SAP NetWeaver AS Java ermöglicht Remote-Code-Ausführung All About SECURITY",
-      "source": "All About SECURITY",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT0dFTm1VS0V5YXFOSWtoX2JvZTkzWmxpTWpDeHhsNFpBRTFIOXZPX3VIM1phWHd5M3dJV3A0NDQxaWNXM093MnIwdmlmOURzdmM3cThrUEhsUmVoWm1IWkR2aTRabjJaa2lDUkV4WVpJbGVOanpDQnZ0enI1cWdxYzhSbVVQa3FjT2lHOXllTk44QXY5azFSMnQyLXo2RGFPWnU1Y1BEOXZTY2c2MEUxTUdrMEtPNjNjLWxBWmM1Q0h5MXc?oc=5",
-      "published": "2026-11-26T08:59:18+00:00",
-      "category": "Security"
-    },
-    {
-      "id": "22f74791b7040d04",
-      "title": "Drupal: Zugriffslücke CVE-2026-136716 wird aktiv ausgenutzt",
-      "excerpt": "Drupal: Zugriffslücke CVE-2026-136716 wird aktiv ausgenutzt All About SECURITY",
-      "summary": "Drupal: Zugriffslücke CVE-2026-136716 wird aktiv ausgenutzt All About SECURITY",
-      "source": "All About SECURITY",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM2lwVzlEMTd6T2d0V0tiTG90TkNoX0JHdlhaZDY3TFVfMFdhQ1ZsX05xTnVyWWJ2cFNWMFdSNHIzdWtIRFpfUnN6V01ZNmN5WnZ3Tnkxd3dMRTk0aWFaWEFDN19KMUJtQ09uOW9odG1fenlTVHJsNUJraGdrRDJrajBheWVwbllmVUZpemN6OFMtcUQxX0Y5NGlB?oc=5",
-      "published": "2026-11-26T06:38:06+00:00",
+      "id": "7b0944c9c2984131",
+      "title": "Cyberangriff auf Planzer trifft auch Digitec-Galaxus-Kunden - SWI swissinfo.ch",
+      "excerpt": "Cyberangriff auf Planzer trifft auch Digitec-Galaxus-Kunden SWI swissinfo.ch",
+      "summary": "Cyberangriff auf Planzer trifft auch Digitec-Galaxus-Kunden SWI swissinfo.ch",
+      "source": "SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOUNVTkljYW1BbW1WM25JdW5iREhqN3JjUnlWNHhPaGNHU3F6VXhRemtJOUkzdnp6OVRGOW92T3k4Y3pibG9tdEEtb0pfZ28yc19uZkNSZTBuUTJuM1hlWUxleGFLYnpYUk5wOVowbmowdlZlSjl4SWFma2Y4UHIzczRiQkRFWTFHVHdfMnE4cDZhcXFNZ25yaXdjMGJyZw?oc=5",
+      "published": "2026-11-26T06:35:34+00:00",
       "category": "Security"
     },
     {
@@ -131,26 +161,6 @@
       "category": "Firmen"
     },
     {
-      "id": "3f5d746a55af3138",
-      "title": "Chrome Zero-Day: Exploit aktiv, Update 157.0.8103.50",
-      "excerpt": "Chrome Zero-Day: Exploit aktiv, Update 157.0.8103.50 Security-Insider",
-      "summary": "Chrome Zero-Day: Exploit aktiv, Update 157.0.8103.50 Security-Insider",
-      "source": "Security-Insider",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVEdRZnl3bC02Z3FGaDN1cFhfLS1ELTA2MERTVzV6eW1KaDg5T1dzbGNUZnQzckFCNXJfV21iU3Y1ek9IUTJsNkE5aXU5OHM2bU9PRVVhUV9fZXQ2RS01S1NYU2thWlIzZnpaS3N0ZnlrQm5ZSExrLU9nM2ctc1FXdHJaSm1OdUdSd2RBOXZpZTFwV1pLQl8tOG5hRmUxUVhURnlWZ2tLVlMzS3h6OG9zdkd3?oc=5",
-      "published": "2026-11-26T06:00:00+00:00",
-      "category": "Security"
-    },
-    {
-      "id": "2b44dd2f3c9b3cb1",
-      "title": "Berliner Start-up A11 tritt mit KI-Software gegen amerikanische Rivalen an - it-daily.net",
-      "excerpt": "Berliner Start-up A11 tritt mit KI-Software gegen amerikanische Rivalen an it-daily.net",
-      "summary": "Berliner Start-up A11 tritt mit KI-Software gegen amerikanische Rivalen an it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81N21iLWtjSm42VGx6a0FBX3JXbHIxVld0UERJaE1sNVpFRlp4TFMwQlpHNnM0Uy1WVm5XN1FtZGtDZ1QyV0NBUDdycnRDQVZhNlM3SVQtcm5fMEZ0ZjdDZm9EV2NWUGx6dUIzOXpKM3kxSDdqeVc0?oc=5",
-      "published": "2026-11-26T05:33:19+00:00",
-      "category": "Firmen"
-    },
-    {
       "id": "7dd07042c060bf6f",
       "title": "Donnerstag: Datenabfluss bei 1Password, 1 Million Rechenzentren im All erlaubt",
       "excerpt": "Datenraub ohne Kennwörter + Genehmigung für Rechenzentrum-Satelliten + Firmenzuschuss für Homeoffice + Quad9 ohne Frankreich + Robotaxis von Lucid + #heiseshow",
@@ -169,16 +179,6 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYm5zMnBVS0VRclRja2xhTk85Qlg5Zmo1cEpnZnBxcmI0SHBqRVBLUGh0NVBaRVVIS0pMWXY1YjY5aVFKYnVuZ0pwX3Faa1RWVFNQZnlkMjFob245V0h0M1FDcUZqb0FtRlRoUWp3SnVZNTFBYUdsUTl4aFlZd2h5UXYyVjdOMkxtVVdselhGTVk1dWJlNC1iTEdta2o5dGF4QVNIZ0pQVQ?oc=5",
       "published": "2026-11-26T05:03:05+00:00",
       "category": "Markt"
-    },
-    {
-      "id": "bb2ea9cd0c90ce75",
-      "title": "USA genehmigen 1 Million SpaceX-Satelliten für KI-Rechenzentren im Orbit",
-      "excerpt": "Das SpaceX-Projekt „Starmind“ ist von der US-Aufsicht offiziell genehmigt - in massivem Ausmaß. Der erste Rechenzentrum-Satellit soll bis 2033 im All sein.",
-      "summary": "Das SpaceX-Projekt „Starmind“ ist von der US-Aufsicht offiziell genehmigt - in massivem Ausmaß. Der erste Rechenzentrum-Satellit soll bis 2033 im All sein.",
-      "source": "heise online",
-      "url": "https://heise.de/news/USA-genehmigen-1-Million-SpaceX-Satelliten-fuer-KI-Rechenzentren-im-Orbit-11538437.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published": "2026-11-26T04:03:00+00:00",
-      "category": "Cloud"
     },
     {
       "id": "2f5c4acc14c4fded",
@@ -411,16 +411,6 @@
       "category": "Personen"
     },
     {
-      "id": "a339c25e3b3dfd08",
-      "title": "Nvidia-Chef Jensen Huang tritt zurück - Inside IT",
-      "excerpt": "Nvidia-Chef Jensen Huang tritt zurück Inside IT",
-      "summary": "Nvidia-Chef Jensen Huang tritt zurück Inside IT",
-      "source": "Inside IT / Personen",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yTk1VOURVWU96WHB2aThaSEgwSTF0UkpOeG51UVBVSm95Tm9RLUdwV0d0Qm95amE4X3RWRmkzWjg1anV0NHdQMGk0UkhIQkZPY1ZrZUZ1elp1ckxMVXV4Tl9YeUkyd2pPbVoxLWVNUjM3eWRQVFJjX3FSNWc?oc=5",
-      "published": "2026-11-12T08:00:00+00:00",
-      "category": "Personen"
-    },
-    {
       "id": "4e932eef5789a548",
       "title": "Stellvertretender CIO der Uni Zürich wechselt zu Switch - Netzwoche",
       "excerpt": "Stellvertretender CIO der Uni Zürich wechselt zu Switch Netzwoche",
@@ -449,9 +439,19 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUFItLVZ3UGpfTmhuQW10amRWVTZlMnVHMjh5VFhqYmtTWUh5TVpGWFlyQVRIZU9pMDlTbHFaQkFMZlJuNVNrdmRROS1IQlRMWWgzYU9ibFpVXy00R0NodVJfV3hYMF8zQ1JBYXdMZ005NmhzQVdNV2ZSRWJqRlRSZG9ycU83dmVNQ3lZUnpnSzBGYTFPRjZEWFlySjN1S0RzSE81ZW5mck5rWFhVWFFUYVFwMU5palNDNDVHalBR?oc=5",
       "published": "2026-11-09T08:00:00+00:00",
       "category": "Personen"
+    },
+    {
+      "id": "f1544c7c871f916b",
+      "title": "Convotis Schweiz ernennt Oliver Thome zum CEO - Swiss IT Reseller",
+      "excerpt": "Convotis Schweiz ernennt Oliver Thome zum CEO Swiss IT Reseller",
+      "summary": "Convotis Schweiz ernennt Oliver Thome zum CEO Swiss IT Reseller",
+      "source": "IT Reseller / Personen",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR2h0bm1hRUFVZ0t4V1FZaFdUbGJrUjB0NzZkUjJ5WnNtZFBHRVAzeU8xTWN3alNVZTYwS1p6TlM0RlU4Znd4cXdubEJCb3VKSm1LSkRUTkJESlpFbWJ3WWhDMGsxMElmTDg5OU52bnQyZWdfNjdUVVpxNl9TSDVYQ2Q3NGVGUGdqR0lIVmZwYm44XzBPdFE?oc=5",
+      "published": "2026-11-06T08:00:00+00:00",
+      "category": "Personen"
     }
   ],
-  "updatedAt": "2026-11-26T13:34:12.570775+00:00",
+  "updatedAt": "2026-11-26T13:52:43.857808+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -472,6 +472,6 @@
     "Markt": 5,
     "Firmen": 5
   },
-  "warning": "",
+  "warning": "1 von 54 RSS-Quellen waren nicht erreichbar.",
   "aiSummaries": false
 }
