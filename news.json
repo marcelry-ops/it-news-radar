@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "ffbee855be4da530",
+      "title": "Cyberangriff auf US-Behörde gegen Finanzkriminalität",
+      "excerpt": "Eine weitere US-Behörde ist Opfer eines Cyberangriffs geworden. Dieses Mal trifft es eine Abteilung gegen Finanzkriminalität.",
+      "summary": "Eine weitere US-Behörde ist Opfer eines Cyberangriffs geworden. Dieses Mal trifft es eine Abteilung gegen Finanzkriminalität.",
+      "source": "heise online",
+      "url": "https://heise.de/news/Cyberangriff-auf-US-Behoerde-gegen-Finanzkriminalitaet-11539155.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published": "2026-11-26T12:59:00+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "e20f50dcbfd22cd3",
+      "title": "Bundesrat will Mobilfunkbewilligungen beschleunigen - Inside IT",
+      "excerpt": "Bundesrat will Mobilfunkbewilligungen beschleunigen Inside IT",
+      "summary": "Bundesrat will Mobilfunkbewilligungen beschleunigen Inside IT",
+      "source": "Inside IT / Firmen",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPenJkRzk2eFlwTU5CS3dHV3BCaEhtN0R1RHg3SkRYVG9KaF84cGxka3NmNjM2Mk41bDNyRVJ2Rnp4akE3MjhTU24wWXN6bHJEZ1RINU9YZ3p6UUFoWGNnYi04bFNhdVBxVEIxdWFfRk5KbGN2YmI2QlEtR3RVUUppN1JWX1lmSnVJYnZWTTBR?oc=5",
+      "published": "2026-11-26T12:56:00+00:00",
+      "category": "IT Schweiz"
+    },
+    {
+      "id": "0803b42bc3f3860a",
+      "title": "News-Übersicht - Swiss IT Reseller",
+      "excerpt": "News-Übersicht Swiss IT Reseller",
+      "summary": "News-Übersicht Swiss IT Reseller",
+      "source": "IT Reseller / Firmen",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yTTBudFQ3cG1veURTR1REcFlscTJUSWJpSElDNzdOLWlhcXB0T0wzaDNzWDlRMTJTclk2THRTVVhPTTlHVEtSMHNDeDBWVlM1MDV3dms2RENEZw?oc=5",
+      "published": "2026-11-26T12:13:26+00:00",
+      "category": "IT Schweiz"
+    },
+    {
       "id": "a8d5a5fa4019d4f9",
       "title": "Fifa bestätigt Ransomware-Angriff",
       "excerpt": "Der Fussballverband ist Opfer eines kriminellen Cyberangriffs geworden. Die Ransomware-Bande HBHC hat sich zu dem Angriff bekannt und will gestohlene Daten publizieren.",
@@ -8,16 +38,6 @@
       "source": "Inside IT",
       "url": "https://inside-it.ch/fifa-bestaetigt-ransomware-angriff-20261126",
       "published": "2026-11-26T11:58:50+00:00",
-      "category": "Security"
-    },
-    {
-      "id": "bb910d52542a839a",
-      "title": "Vom FBI überlistet: Wie ein Datenretter Ransomware-Opfer abgezockt haben soll",
-      "excerpt": "Der Mann bot Ransomware-Opfern eine nahezu sichere Datenrettung anhand spezieller Tools an. Im Hintergrund lief aber wohl alles anders als beworben. ( Ransomware , Verschlüsselung )",
-      "summary": "Der Mann bot Ransomware-Opfern eine nahezu sichere Datenrettung anhand spezieller Tools an. Im Hintergrund lief aber wohl alles anders als beworben. ( Ransomware , Verschlüsselung )",
-      "source": "Golem.de",
-      "url": "https://golem.de/news/vom-fbi-ueberlistet-wie-ein-datenretter-ransomware-opfer-abgezockt-haben-soll-2611-215691.html",
-      "published": "2026-11-26T11:36:02+00:00",
       "category": "Security"
     },
     {
@@ -151,6 +171,16 @@
       "category": "Markt"
     },
     {
+      "id": "bb2ea9cd0c90ce75",
+      "title": "USA genehmigen 1 Million SpaceX-Satelliten für KI-Rechenzentren im Orbit",
+      "excerpt": "Das SpaceX-Projekt „Starmind“ ist von der US-Aufsicht offiziell genehmigt - in massivem Ausmaß. Der erste Rechenzentrum-Satellit soll bis 2033 im All sein.",
+      "summary": "Das SpaceX-Projekt „Starmind“ ist von der US-Aufsicht offiziell genehmigt - in massivem Ausmaß. Der erste Rechenzentrum-Satellit soll bis 2033 im All sein.",
+      "source": "heise online",
+      "url": "https://heise.de/news/USA-genehmigen-1-Million-SpaceX-Satelliten-fuer-KI-Rechenzentren-im-Orbit-11538437.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published": "2026-11-26T04:03:00+00:00",
+      "category": "Cloud"
+    },
+    {
       "id": "2f5c4acc14c4fded",
       "title": "Microsoft 365 Copilot einführen und administrieren",
       "excerpt": "Microsoft 365 Copilot einführen und administrieren Golem.de",
@@ -209,16 +239,6 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMVRzUENRUnN5RGhuRnV1VkZxRU1fZVBOa0p0ZllYZXNRUGxsb0lIeTg2eDJyUE1WeGI5TmQ0ZmRINEg5V0ozc2JMbzZpUXJaT2g0di1WdXFPejI4bE42dUZxOGNTNm9pT0ItUVZuV1ZxdXZFeXhvamRvbVBWNVRYYQ?oc=5",
       "published": "2026-11-25T10:57:14+00:00",
       "category": "Markt"
-    },
-    {
-      "id": "7c61926a630831b9",
-      "title": "Schweizer Tech-Aktionäre atmen auf",
-      "excerpt": "Schweizer Tech-Aktien haben nach dem Comeback von Nvidia-CEO Jensen Huang deutlich zugelegt. Damit atmet die KI-nahe Branche nach einer Phase unter Druck auf.",
-      "summary": "Schweizer Tech-Aktien haben nach dem Comeback von Nvidia-CEO Jensen Huang deutlich zugelegt. Damit atmet die KI-nahe Branche nach einer Phase unter Druck auf.",
-      "source": "Netzwoche",
-      "url": "https://netzwoche.ch/news/2026-11-25/schweizer-tech-aktionaere-atmen-auf",
-      "published": "2026-11-25T10:53:10+00:00",
-      "category": "IT Schweiz"
     },
     {
       "id": "5f25a9a52e1284c8",
@@ -281,16 +301,6 @@
       "category": "Cloud"
     },
     {
-      "id": "e30f25ce6b51a75d",
-      "title": "Bending Spoons kauft Mailchimp",
-      "excerpt": "Das italienische Technologieunternehmen übernimmt die E-Mail-Marketing-Plattform von Intuit für rund 3,7 Milliarden Dollar.",
-      "summary": "Das italienische Technologieunternehmen übernimmt die E-Mail-Marketing-Plattform von Intuit für rund 3,7 Milliarden Dollar.",
-      "source": "Inside IT",
-      "url": "https://inside-it.ch/bending-spoons-kauft-mailchimp-20261124",
-      "published": "2026-11-24T15:04:18+00:00",
-      "category": "Firmen"
-    },
-    {
       "id": "74eb333fbcefba51",
       "title": "Zoll-Digitalisierung erreicht gesteckte Ziele fast",
       "excerpt": "In den vergangenen acht Jahren hat der Schweizer Zoll seine Geschäftsprozesse umfassend digitalisiert. Von den 70 Projekten erreichen fünf das gesteckte Ziel nicht.",
@@ -299,16 +309,6 @@
       "url": "https://inside-it.ch/zoll-digitalisierung-erreicht-gesteckte-ziele-fast-20261124",
       "published": "2026-11-24T14:39:33+00:00",
       "category": "Trends"
-    },
-    {
-      "id": "f35e0c50d38da3bf",
-      "title": "Digitale Souveränität im Mittelstand: Wann sich ein eigener virtueller Server statt US-Cloud lohnt - it-daily.net",
-      "excerpt": "Digitale Souveränität im Mittelstand: Wann sich ein eigener virtueller Server statt US-Cloud lohnt it-daily.net",
-      "summary": "Digitale Souveränität im Mittelstand: Wann sich ein eigener virtueller Server statt US-Cloud lohnt it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObEk1Qzl0MktuS1VEUmZXVUs0QUxQX2lONmx2d0UwcGc3M0VudklJMzBPUEJENWRmMzBrZ3VkLVRackh4ZVZkR1A3dl85YktqZWwxRDZzaXdObnBIQkIyZXBIakZ3S1EwN3d2MFh5cWp2QXBEOTRaR2MtWUYzVl8yS2ZVU1plOHM0cUpBVFFLZGtJUXJZQjRqaXlzOUM?oc=5",
-      "published": "2026-11-24T11:02:00+00:00",
-      "category": "Cloud"
     },
     {
       "id": "8e49a89fd1672a7d",
@@ -378,7 +378,7 @@
       "source": "IT Reseller / Firmen",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeWJMTG5Vc0ZWSDBkUmhvZEJxS1FqRWRsVGRtcnNiM3VQS1h5UXowRFBhbkdOZC1IWTVmZTE2SktpWHl0cWUya29uc3FQMjhiWGNpWFk4UXFrdVhWSmlCZHBoUm9HMHhoVkRmcWRIZElMekktRk9vbnUyQjV3SWtDbzZRV2xkSUZMZFhUTWhvWlUxcWZhRjMwbm1qMmJTSjRENktpOVowRnJqdy1IOUVaNTRvRQ?oc=5",
       "published": "2026-11-23T07:12:00+00:00",
-      "category": "IT Schweiz"
+      "category": "Firmen"
     },
     {
       "id": "6ed08bbf34784f84",
@@ -441,17 +441,17 @@
       "category": "Personen"
     },
     {
-      "id": "f1544c7c871f916b",
-      "title": "Convotis Schweiz ernennt Oliver Thome zum CEO - Swiss IT Reseller",
-      "excerpt": "Convotis Schweiz ernennt Oliver Thome zum CEO Swiss IT Reseller",
-      "summary": "Convotis Schweiz ernennt Oliver Thome zum CEO Swiss IT Reseller",
+      "id": "4444b8a6f660b9fe",
+      "title": "Arjan van Staveren übernimmt bei OpenAI als Sales-Chef für Central Europe - Swiss IT Reseller",
+      "excerpt": "Arjan van Staveren übernimmt bei OpenAI als Sales-Chef für Central Europe Swiss IT Reseller",
+      "summary": "Arjan van Staveren übernimmt bei OpenAI als Sales-Chef für Central Europe Swiss IT Reseller",
       "source": "IT Reseller / Personen",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR2h0bm1hRUFVZ0t4V1FZaFdUbGJrUjB0NzZkUjJ5WnNtZFBHRVAzeU8xTWN3alNVZTYwS1p6TlM0RlU4Znd4cXdubEJCb3VKSm1LSkRUTkJESlpFbWJ3WWhDMGsxMElmTDg5OU52bnQyZWdfNjdUVVpxNl9TSDVYQ2Q3NGVGUGdqR0lIVmZwYm44XzBPdFE?oc=5",
-      "published": "2026-11-06T08:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUFItLVZ3UGpfTmhuQW10amRWVTZlMnVHMjh5VFhqYmtTWUh5TVpGWFlyQVRIZU9pMDlTbHFaQkFMZlJuNVNrdmRROS1IQlRMWWgzYU9ibFpVXy00R0NodVJfV3hYMF8zQ1JBYXdMZ005NmhzQVdNV2ZSRWJqRlRSZG9ycU83dmVNQ3lZUnpnSzBGYTFPRjZEWFlySjN1S0RzSE81ZW5mck5rWFhVWFFUYVFwMU5palNDNDVHalBR?oc=5",
+      "published": "2026-11-09T08:00:00+00:00",
       "category": "Personen"
     }
   ],
-  "updatedAt": "2026-11-26T12:44:07.330255+00:00",
+  "updatedAt": "2026-11-26T13:34:12.570775+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
