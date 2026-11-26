@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "46fad86095fcbfd7",
+      "title": "„Halluzination“ statt Fehler: So funktioniert das Glosslighting der KI-Firmen - t3n",
+      "excerpt": "„Halluzination“ statt Fehler: So funktioniert das Glosslighting der KI-Firmen t3n",
+      "summary": "„Halluzination“ statt Fehler: So funktioniert das Glosslighting der KI-Firmen t3n",
+      "source": "t3n",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5abGNZWWFVRVJQeW5LcUQ5VUdpd2M0REQzYmc5SW5EemlnSk1KNS1oc1d3U09zRDRiNEdZZm1GMzEyT1FUakR6eUV2NWc1UXoyeG9KdEh0R3VEM0V6aEgwYmhtQXdLTlM5aFBXdldwZk9BVnNXaEE?oc=5",
+      "published": "2026-11-26T18:04:07+00:00",
+      "category": "Firmen"
+    },
+    {
       "id": "d5cb461737a9b5eb",
       "title": "AWS: Ausfall in us-east-1 blieb weitgehend unbemerkt - it-daily.net",
       "excerpt": "AWS: Ausfall in us-east-1 blieb weitgehend unbemerkt it-daily.net",
@@ -31,6 +41,16 @@
       "category": "Security"
     },
     {
+      "id": "a3dc7f09bc33a9d2",
+      "title": "Quanten-Startup Planqc kooperiert mit SAP - it-daily.net",
+      "excerpt": "Quanten-Startup Planqc kooperiert mit SAP it-daily.net",
+      "summary": "Quanten-Startup Planqc kooperiert mit SAP it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PbzJiNnQ3RDd4eTRjbWk5NE0xNHRndGhOdHBGTUozQVQxOVdvU2dOYU5keFdxOFFFUk93NEFPVlRIR2RERkgtYUFvdnJqNVBjbU9IamppNEEwWEpaU2xjckQ0Nmp2RHU1bnY1U1pR?oc=5",
+      "published": "2026-11-26T13:43:20+00:00",
+      "category": "Firmen"
+    },
+    {
       "id": "535234d784ba0bc5",
       "title": "Warnung vor „erheblichen Folgen“: Erfolgreicher Cyberangriff auf die FIFA",
       "excerpt": "Bei der FIFA haben Cyberkriminelle persönliche und geschäftliche Daten abgegriffen. Der Verband wiegelt gleichzeitig ab und warnt.",
@@ -59,16 +79,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yTTBudFQ3cG1veURTR1REcFlscTJUSWJpSElDNzdOLWlhcXB0T0wzaDNzWDlRMTJTclk2THRTVVhPTTlHVEtSMHNDeDBWVlM1MDV3dms2RENEZw?oc=5",
       "published": "2026-11-26T12:13:26+00:00",
       "category": "IT Schweiz"
-    },
-    {
-      "id": "54de5e845ace16a7",
-      "title": "Rechnung nicht verschlüsselt: Firma muss fast 20.000 Euro zahlen - it-daily.net",
-      "excerpt": "Rechnung nicht verschlüsselt: Firma muss fast 20.000 Euro zahlen it-daily.net",
-      "summary": "Rechnung nicht verschlüsselt: Firma muss fast 20.000 Euro zahlen it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RSmRseG5rSWJNZVluZWY1WGozb3Q0YXF3a3pRMkhZTTlRMnVpdHFPVlMtcmlPem5tcGd2YUxWV1Z2UlZaVTBNaE54ekFrRzhFQXg5VE1JbkNpZEh0SmpTVjZENzFZLVBDRlYwNkR2dzJNUQ?oc=5",
-      "published": "2026-11-26T11:31:48+00:00",
-      "category": "Firmen"
     },
     {
       "id": "50b3868b9687e2bc",
@@ -199,16 +209,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMUFIcXEzVFc1UnhxWDRZYUM1MVMwTDdyR2dCdUcxcXRDOW4xZG54ajBfelhFaE5CT3l5dFJFUlFQSVFzM3MxekxwcERDcUhRQmtyejVHVWE0RXNibHV2X1JSbDdFTGNSVVY0MHc1N2E3Y2dDUmRaWGxHbGMxVjRyMVFnLTNnZmJ6clFjdHpR?oc=5",
       "published": "2026-11-25T14:59:30+00:00",
       "category": "Cloud"
-    },
-    {
-      "id": "c4c8e22df1e9da35",
-      "title": "«Höhle der Löwen»: Emmer IT-Firma knackt Millionen-Rekord – doch der Deal platzt",
-      "excerpt": "«Höhle der Löwen»: Emmer IT-Firma knackt Millionen-Rekord – doch der Deal platzt Luzerner Zeitung",
-      "summary": "«Höhle der Löwen»: Emmer IT-Firma knackt Millionen-Rekord – doch der Deal platzt Luzerner Zeitung",
-      "source": "Luzerner Zeitung",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSEt3cVVzVWxHdWM0S2xscmJxR0VzdE1oWmd5SmZfNFloY2NBYXc3Nzl4RGh0QzlYNjVyVC1TS0Uwc000U19MUkk5Mmh2XzVxT1Q3S0RMOVNsWGpXNS1hRHIyODA0dE1UcGZvRDBtTy1OYlpQMmZCTVpfekVUZXJVLXloaXBraWFBUUxYTnl1NUN6YkVQU1hoeFE0VXJGRWdUZVQzcS13ZDhNTHFvZEFZdUQ4QVRvMEpYOHlCQ1hQaC01dHBaOHA3X2lTRmhJbHNPTUN4Vg?oc=5",
-      "published": "2026-11-25T13:17:29+00:00",
-      "category": "Firmen"
     },
     {
       "id": "e499093a03a7400b",
@@ -431,6 +431,16 @@
       "category": "Personen"
     },
     {
+      "id": "4444b8a6f660b9fe",
+      "title": "Arjan van Staveren übernimmt bei OpenAI als Sales-Chef für Central Europe - Swiss IT Reseller",
+      "excerpt": "Arjan van Staveren übernimmt bei OpenAI als Sales-Chef für Central Europe Swiss IT Reseller",
+      "summary": "Arjan van Staveren übernimmt bei OpenAI als Sales-Chef für Central Europe Swiss IT Reseller",
+      "source": "IT Reseller / Personen",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUFItLVZ3UGpfTmhuQW10amRWVTZlMnVHMjh5VFhqYmtTWUh5TVpGWFlyQVRIZU9pMDlTbHFaQkFMZlJuNVNrdmRROS1IQlRMWWgzYU9ibFpVXy00R0NodVJfV3hYMF8zQ1JBYXdMZ005NmhzQVdNV2ZSRWJqRlRSZG9ycU83dmVNQ3lZUnpnSzBGYTFPRjZEWFlySjN1S0RzSE81ZW5mck5rWFhVWFFUYVFwMU5palNDNDVHalBR?oc=5",
+      "published": "2026-11-09T08:00:00+00:00",
+      "category": "Personen"
+    },
+    {
       "id": "f1544c7c871f916b",
       "title": "Convotis Schweiz ernennt Oliver Thome zum CEO - Swiss IT Reseller",
       "excerpt": "Convotis Schweiz ernennt Oliver Thome zum CEO Swiss IT Reseller",
@@ -439,19 +449,9 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR2h0bm1hRUFVZ0t4V1FZaFdUbGJrUjB0NzZkUjJ5WnNtZFBHRVAzeU8xTWN3alNVZTYwS1p6TlM0RlU4Znd4cXdubEJCb3VKSm1LSkRUTkJESlpFbWJ3WWhDMGsxMElmTDg5OU52bnQyZWdfNjdUVVpxNl9TSDVYQ2Q3NGVGUGdqR0lIVmZwYm44XzBPdFE?oc=5",
       "published": "2026-11-06T08:00:00+00:00",
       "category": "Personen"
-    },
-    {
-      "id": "e8ad53c88ad70043",
-      "title": "Emma Walmsley wird neue CEO von HP - Inside IT",
-      "excerpt": "Emma Walmsley wird neue CEO von HP Inside IT",
-      "summary": "Emma Walmsley wird neue CEO von HP Inside IT",
-      "source": "Inside IT / Personen",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80LW1TY1Y2Yms5cGc0Z1lCWmRYbDZzcVpURjZ6eHpibmtxUktzWVZscnJyQ1dEWGhCMWRoTDRSdnlrcGVoU3pkRUVwVTBPSTVHOWZ0QTdFeXJRZVdsY3c4eFE2SWNVeUd4OHNxUHowVDhlNHhxaTdZ?oc=5",
-      "published": "2026-11-04T08:00:00+00:00",
-      "category": "Personen"
     }
   ],
-  "updatedAt": "2026-11-26T18:00:33.847406+00:00",
+  "updatedAt": "2026-11-26T19:11:45.655999+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
