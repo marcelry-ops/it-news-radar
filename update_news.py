@@ -311,6 +311,8 @@ def concepts(item, patterns):
  return {name for name, pattern in patterns.items() if re.search(pattern, text, re.I)}
 
 def same_story(a, b):
+ # Identical headlines count as the same story, regardless of source.
+ if a['title'].casefold().strip() == b['title'].casefold().strip(): return True
  ac, bc = cve_ids(a), cve_ids(b)
  if ac and bc:
   return bool(ac & bc)
@@ -357,27 +359,37 @@ def deduplicate(items):
  return [{**group[0], 'url': canonical_url(group[0]['url'])} for group in groups]
 
 def select(items):
- candidates = deduplicate(items)
- used = set(); chosen = []; counts = {}
- # Reserve personnel articles first; each story is displayed in one category only.
- people = sorted((i for i in candidates if eligible(i, 'Personen')),
-                 key=lambda i: parse_date(i['published']) or dt.datetime.min.replace(tzinfo=UTC), reverse=True)[:TARGETS['Personen']]
- counts['Personen'] = len(people)
- for item in people:
-  used.add(canonical_url(item['url']))
-  chosen.append({**{k:v for k,v in item.items() if k not in ('feedHint', 'feedSource')}, 'category':'Personen'})
- for category, target in TARGETS.items():
-  if category == 'Personen': continue
-  pool = sorted((i for i in candidates if canonical_url(i['url']) not in used and eligible(i, category)),
-                key=lambda i:score(i, category), reverse=True)
-  selected = pool[:target]
-  counts[category] = len(selected)
-  for item in selected:
-   used.add(canonical_url(item['url']))
-   chosen.append({**{k:v for k,v in item.items() if k not in ('feedHint', 'feedSource')}, 'category':category})
- # Chronological display across all categories, newest first.
- chosen.sort(key=lambda item: parse_date(item['published']) or dt.datetime.min.replace(tzinfo=UTC), reverse=True)
- return chosen, counts
+  # Pick the three approved publishers' personnel feeds BEFORE global
+  # deduplication. A Google News / general feed may carry the same story,
+  # and retaining that copy would erase its eligible personnel provenance.
+  personnel_candidates = [i for i in items if eligible(i, 'Personen')]
+  personnel = deduplicate(personnel_candidates)
+  people = sorted(personnel,
+                  key=lambda i: parse_date(i['published']) or dt.datetime.min.replace(tzinfo=UTC),
+                  reverse=True)[:TARGETS['Personen']]
+
+  candidates = deduplicate(items)
+  used = {canonical_url(i['url']) for i in people}
+  chosen = [{**{k: v for k, v in i.items() if k not in ('feedHint', 'feedSource')},
+             'category': 'Personen'} for i in people]
+  counts = {'Personen': len(people)}
+  # Block equivalent articles in all other categories, even when their
+  # URLs differ (e.g. the same story from multiple publishers).
+  for category, target in TARGETS.items():
+   if category == 'Personen': continue
+   pool = sorted((i for i in candidates
+                  if canonical_url(i['url']) not in used
+                  and not any(same_story(i, person) for person in people)
+                  and eligible(i, category)),
+                 key=lambda i: score(i, category), reverse=True)
+   selected = pool[:target]
+   counts[category] = len(selected)
+   for item in selected:
+    used.add(canonical_url(item['url']))
+    chosen.append({**{k: v for k, v in item.items() if k not in ('feedHint', 'feedSource')},
+                   'category': category})
+  chosen.sort(key=lambda item: parse_date(item['published']) or dt.datetime.min.replace(tzinfo=UTC), reverse=True)
+  return chosen, counts
 
 
 def build_diagnostics(raw_items, chosen, failures):
