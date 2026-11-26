@@ -19,6 +19,7 @@ from radar_guard import guard_dataset
 from radar_quality import (load_kev, load_epss, enrich_risks, merge_kev_records,
                            rank_risk, eligible_risk, risk_score)
 from nvd_incremental import read_snapshot, modified_query_start, write_snapshot
+from nvd_historical_cache import fingerprint, read_history, write_history
 
 UTC = dt.timezone.utc
 NVD = 'https://services.nvd.nist.gov/rest/json/cves/2.0'
@@ -685,50 +686,82 @@ def build():
     if discovery_stats['deferred']:
         warnings.append(f'Hersteller-CVE-Abfragen: {discovery_stats["deferred"]} auf spaeter verschoben')
 
-    # Historical NVD search: bounded pages and total request budget, with
-    # CNA fallback for unscored records relevant to prioritised products.
+    # Historical NVD searches are costly and largely stable over an hourly run.
+    # Cache successful bounded search results for up to 20 hours, but refresh
+    # KEV and EPSS below on EVERY run. An expired/corrupt cache triggers the
+    # existing bounded search. Changing terms or budgets invalidates the cache.
     historical_failed = 0
     historical_requests = 0
     historical_deferred = 0
-    for term in (HISTORICAL_SEARCH_TERMS if 'nvd' in enabled_sources else []):
-        for page_no in range(HISTORICAL_PAGES_PER_TERM):
-            if historical_requests >= HISTORICAL_REQUEST_BUDGET:
-                historical_deferred += 1
-                break
-            try:
-                params = {'keywordSearch': term, 'resultsPerPage': HISTORICAL_RESULTS_PER_TERM,
-                          'startIndex': page_no * HISTORICAL_RESULTS_PER_TERM}
-                historical_requests += 1
-                page = get_json(NVD + '?' + urllib.parse.urlencode(params))
-                for record in page.get('vulnerabilities', []):
-                    cve = record.get('cve') or {}
-                    if not cve.get('id') or cve.get('vulnStatus') == 'Rejected':
-                        continue
-                    item = nvd_item(cve)
-                    if not priority_products(item):
-                        continue
-                    if item['score'] is None and 'cveorg' in enabled_sources:
-                        try:
-                            official = safe_cveorg_lookup(item['id'])
-                            if official:
-                                merge(item, official)
-                        except Exception:
-                            pass
-                    if item['score'] is None:
-                        continue
-                    if item['id'] in entries:
-                        merge(entries[item['id']], item)
-                    else:
-                        entries[item['id']] = item
-                if (page_no + 1) * HISTORICAL_RESULTS_PER_TERM >= int(page.get('totalResults', 0)):
+    history_cache_hit = False
+    history_cache_age_hours = None
+    history_terms = HISTORICAL_SEARCH_TERMS if 'nvd' in enabled_sources else []
+    history_key = fingerprint(history_terms, HISTORICAL_PAGES_PER_TERM,
+                              HISTORICAL_RESULTS_PER_TERM, HISTORICAL_REQUEST_BUDGET)
+    cached_history = read_history(now, history_key) if history_terms else None
+    history_rows = []
+    if cached_history is not None:
+        history_cache_hit = True
+        historical_deferred = cached_history['deferred']
+        history_cache_age_hours = round((now - dt.datetime.fromisoformat(
+            cached_history['syncedAt'].replace('Z', '+00:00'))).total_seconds()/3600, 2)
+        history_rows = cached_history['rows']
+    else:
+        historical_rows_by_id = {}
+        for term in history_terms:
+            for page_no in range(HISTORICAL_PAGES_PER_TERM):
+                if historical_requests >= HISTORICAL_REQUEST_BUDGET:
+                    historical_deferred += 1
                     break
+                try:
+                    params = {'keywordSearch': term, 'resultsPerPage': HISTORICAL_RESULTS_PER_TERM,
+                              'startIndex': page_no * HISTORICAL_RESULTS_PER_TERM}
+                    historical_requests += 1
+                    page = get_json(NVD + '?' + urllib.parse.urlencode(params))
+                    for record in page.get('vulnerabilities', []):
+                        cve = record.get('cve') or {}
+                        if not cve.get('id') or cve.get('vulnStatus') == 'Rejected':
+                            continue
+                        item = nvd_item(cve)
+                        if not priority_products(item):
+                            continue
+                        # Retain unrated rows so CVE.org can retry in each run.
+                        if item['id'] in historical_rows_by_id:
+                            merge(historical_rows_by_id[item['id']], item)
+                        else:
+                            historical_rows_by_id[item['id']] = item
+                    if (page_no + 1) * HISTORICAL_RESULTS_PER_TERM >= int(page.get('totalResults', 0)):
+                        break
+                except Exception:
+                    historical_failed += 1
+                    break
+        history_rows = list(historical_rows_by_id.values())
+        # Do not cache a partially failed search. Never discard the last valid
+        # cache on failure; subsequent runs will retry.
+        if history_terms and historical_requests and not historical_failed:
+            try:
+                write_history(now, history_key, history_rows, historical_deferred)
+            except (OSError, ValueError) as exc:
+                warnings.append('Historischer NVD-Cache nicht gespeichert: ' + str(exc)[:100])
+    for raw in history_rows:
+        item = dict(raw)
+        if item['score'] is None and 'cveorg' in enabled_sources:
+            try:
+                official = safe_cveorg_lookup(item['id'])
+                if official:
+                    merge(item, official)
             except Exception:
-                historical_failed += 1
-                break
+                pass
+        if item['score'] is None:
+            continue
+        if item['id'] in entries:
+            merge(entries[item['id']], item)
+        else:
+            entries[item['id']] = item
     if historical_failed:
         warnings.append(f'Historische NVD-Suche: {historical_failed} Suchbegriffe fehlgeschlagen')
     if historical_deferred:
-        warnings.append('Historische NVD-Suche: Anfragebudget erreicht')
+        warnings.append('Historische NVD-Suche: Anfragebudget erreicht (unvollstaendige historische Abdeckung)')
     # Enrich a small selection of newest CVE entries using authoritative CVE.org records.
     # Keep requests bounded and do not block a successful NVD/EUVD result on failure.
     for item in ([x for x in rank(entries.values()) if x['id'].startswith('CVE-') and x.get('score') is None][:20] if 'cveorg' in enabled_sources else []):
@@ -803,6 +836,10 @@ def build():
                 'retrievalDiagnostics': {'nvdIncremental':incremental, 'nvdPagesComplete':nvd_complete,
                                          'nvdRetrieved':start_index,
                                          'historicalRequests': historical_requests,
+                                         'historicalCacheHit': history_cache_hit,
+                                         'historicalCacheAgeHours': history_cache_age_hours,
+                                         'historicalCacheRows': len(history_rows),
+                                         'historicalDeferred': historical_deferred,
                                          'historicalFailures': historical_failed,
                                          'historicalBudget': HISTORICAL_REQUEST_BUDGET,
                                          'cveorgRequests': len(_CVEORG_CACHE),
