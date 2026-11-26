@@ -14,14 +14,11 @@ import urllib.request
 import xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
-from radar_guard import guard_dataset
-from radar_quality import canonical_url, news_identity, dedupe_news, news_impact
 
 UTC = dt.timezone.utc
 NOW = dt.datetime.now(UTC)
 TARGETS = {'Security': 5, 'Microsoft 365': 5, 'IT Schweiz': 5, 'Cloud': 5, 'Trends': 5, 'Markt': 5, 'Firmen': 5, 'Personen': 10}
-MAX_AGE_DAYS = max(1, min(int(os.getenv('NEWS_MAX_AGE_DAYS', '7')), 90))
-PERSON_MAX_AGE_DAYS = max(1, min(int(os.getenv('PERSON_MAX_AGE_DAYS', '30')), 90))
+MAX_AGE_DAYS = int(os.getenv('NEWS_MAX_AGE_DAYS', '7'))
 ATOM = '{http://www.w3.org/2005/Atom}'
 RSS_NS = '{http://purl.org/rss/1.0/modules/content/}'
 
@@ -37,9 +34,8 @@ SEARCHES = {
  'Firmen': ['IT Unternehmen Firmen Übernahme Partnerschaft CEO Quartalszahlen', 'Technologieunternehmen Schweizer IT Firmen neue Produkte'],
 }
 
-def google_rss(query, days=7):
- days = max(1, min(int(days), 90))
- return 'https://news.google.com/rss/search?' + urllib.parse.urlencode({'q': query + f' when:{days}d', 'hl':'de-CH', 'gl':'CH', 'ceid':'CH:de'})
+def google_rss(query):
+ return 'https://news.google.com/rss/search?' + urllib.parse.urlencode({'q': query + ' when:7d', 'hl':'de-CH', 'gl':'CH', 'ceid':'CH:de'})
 
 FEEDS = [('heise online', 'https://www.heise.de/rss/heise-atom.xml', None),
          ('heise Security', 'https://www.heise.de/security/rss/news-atom.xml', 'Security'),
@@ -51,18 +47,6 @@ FEEDS += [
  ('Inside IT', 'https://www.inside-it.ch/rss.xml', 'IT Schweiz'),
 ]
 FEEDS += [('Google News / '+cat, google_rss(query), cat) for cat, queries in SEARCHES.items() for query in queries]
-# Targeted discovery queries; broad multi-keyword queries above remain active.
-FOCUSED_SEARCHES = {
- 'Security': ['actively exploited zero day CVE', 'site:cisa.gov known exploited vulnerability', 'ransomware cyberangriff datenabfluss'],
- 'Microsoft 365': ['site:learn.microsoft.com Microsoft 365 retirement', 'site:techcommunity.microsoft.com Microsoft 365 Teams Exchange', 'Microsoft Entra Intune Purview Update'],
- 'Cloud': ['site:azure.microsoft.com/blog security outage', 'site:aws.amazon.com/blogs/security vulnerability', 'Google Cloud Kubernetes outage security'],
- 'IT Schweiz': ['site:inside-it.ch Digitalisierung Schweiz', 'site:netzwoche.ch Schweizer ICT', 'site:itreseller.ch Schweizer IT'],
- 'Trends': ['Agentic AI Unternehmen Infrastruktur', 'Quantencomputing KI Forschung Halbleiter'],
- 'Markt': ['Schweiz ICT Marktzahlen IT Investitionen', 'Software Cloud Preise Marktstudie'],
- 'Firmen': ['IT Übernahme Fusion Partnerschaft Schweiz', 'Technologiekonzern Quartalszahlen Akquisition'],
-}
-FEEDS += [('Focused / '+cat, google_rss(query), cat) for cat, qs in FOCUSED_SEARCHES.items() for query in qs]
-
 # Additional publisher coverage via Google News RSS site-restricted searches.
 # These are discovery feeds, not claimed to be official publisher RSS endpoints.
 # Existing feeds above remain unchanged.
@@ -78,6 +62,11 @@ ADDITIONAL_SITES = [
  ('IT-Daily', 'it-daily.net'),
  ('netzpolitik.org', 'netzpolitik.org'),
  ('BornCity', 'borncity.com'),
+ # New publishers are discovered via site-restricted Google News RSS.
+ ('IT Magazine Schweiz', 'itmagazine.ch'),
+ ('SWI swissinfo.ch', 'swissinfo.ch'),
+ ('Nau Digital', 'nau.ch/news/digital'),
+ ('Watson Digital', 'watson.ch/digital'),
 ]
 FEEDS += [(publisher, google_rss('site:' + site), None)
           for publisher, site in ADDITIONAL_SITES]
@@ -108,12 +97,8 @@ PERSON_QUERIES = [
  '"ernannt" OR "befördert" OR "neuer CEO" OR "neue CEO" OR "neuer CIO"',
  '"verlässt" OR "tritt zurück" OR "übernimmt Leitung" OR "Geschäftsleitung"',
 ]
-FEEDS += [(publisher + ' / Personen', google_rss('site:' + domain + ' (' + query + ')', PERSON_MAX_AGE_DAYS), 'Personen')
+FEEDS += [(publisher + ' / Personen', google_rss('site:' + domain + ' (' + query + ')'), 'Personen')
           for publisher, domain in PERSON_SITES.items() for query in PERSON_QUERIES]
-FEEDS += [(publisher + ' / Personen', google_rss('site:' + domain + ' ' + q, PERSON_MAX_AGE_DAYS), 'Personen')
-          for publisher, domain in PERSON_SITES.items()
-          for q in ['CEO ernannt', 'CIO wechselt', 'CTO übernimmt', 'Geschäftsleitung neu', 'Verwaltungsrat gewählt', 'neue Geschäftsführerin', 'neuer Geschäftsführer', 'IT-Leiter ernannt', 'CISO berufen', 'Leiterin Informatik übernimmt', 'Nachfolger ernannt', 'in den Verwaltungsrat gewählt']]
-
 
 # Focused discovery for major Microsoft product lifecycle announcements.
 FEEDS.append(('BornCity / Microsoft To Do', google_rss('site:borncity.com \"Microsoft To Do\" eingestellt'), 'Microsoft 365'))
@@ -132,20 +117,50 @@ SWISS_TECH_COMPANY = re.compile(r'\b(technologieberatung|tech[- ]?beratung|it[- 
 
 # A role mention alone is not a personnel change: require a concrete personnel action.
 PERSON_ROLE = re.compile(r'\b(ceo|cio|cto|cfo|ciso|chef(?:in)?|leiter(?:in)?|geschäftsführer(?:in)?|geschäftsleitung|verwaltungsrat|präsident(?:in)?|direktor(?:in)?|führung|management|personal(?:ie|ien)|mitarbeiter(?:in)?)\b', re.I)
-PERSON_CHANGE = re.compile(r'\b(personalwechsel|führungswechsel|fuehrungswechsel|chefwechsel|ernannt|ernennung|befördert|beförderung|berufen|neubesetzung|nachfolge|nachfolger(?:in)?|wechselt|wechsel(?:t)?|verlässt|verlaesst|rücktritt|ruecktritt|zurückgetreten|zurueckgetreten|tritt\s+zurück|tritt\s+zurueck|übernimmt|uebernimmt|übernahme\s+der\s+leitung|neu\s+(?:im|in\s+der)\s+(?:team|geschäftsleitung)|neuer?\s+(?:ceo|cio|cto|cfo|ciso|chef|leiter|geschäftsführer|präsident)|neue\s+(?:ceo|cio|cto|cfo|ciso|chefin|leiterin|geschäftsführerin|präsidentin)|tritt\s+an|steigt\s+auf|rückt\s+auf|rueckt\s+auf|zum\s+ceo\s+ernannt|zur\s+geschäftsführerin\s+ernannt|wird\s+(?:ceo|cio|cto|ciso|geschäftsführer(?:in)?|it[- ]?leiter(?:in)?)|übernimmt\s+(?:die\s+)?(?:führung|leitung|geschäftsführung)|besetzt\s+(?:die\s+)?(?:stelle|position)|abgang|abgänge|abgaenge|personelle\s+veränderung(?:en)?)\b', re.I)
+PERSON_CHANGE = re.compile(r'\b(personalwechsel|führungswechsel|fuehrungswechsel|chefwechsel|ernannt|ernennung|befördert|beförderung|berufen|neubesetzung|nachfolge|nachfolger(?:in)?|wechselt|wechsel(?:t)?|verlässt|verlaesst|rücktritt|ruecktritt|zurückgetreten|zurueckgetreten|tritt\s+zurück|tritt\s+zurueck|übernimmt|uebernimmt|übernahme\s+der\s+leitung|neu\s+(?:im|in\s+der)\s+(?:team|geschäftsleitung)|neuer?\s+(?:ceo|cio|cto|cfo|ciso|chef|leiter|geschäftsführer|präsident)|neue\s+(?:ceo|cio|cto|cfo|ciso|chefin|leiterin|geschäftsführerin|präsidentin)|tritt\s+an|steigt\s+auf|rückt\s+auf|rueckt\s+auf|abgang|abgänge|abgaenge|personelle\s+veränderung(?:en)?)\b', re.I)
 PERSON_EXCLUDE = re.compile(r'\b(stellenangebot|jobangebot|karrieretipp|bewerbungstipps|gehaltsvergleich|lohnvergleich|arbeitsmarktstudie|fachkräftemangel|fachkraeftemangel|stellenabbau|entlassungswelle|entlassungen)\b', re.I)
 
 def personnel_relevance(item):
  title = item['title']
  text = title + ' ' + item.get('excerpt', '')[:500]
  if PERSON_EXCLUDE.search(title): return False
- # Allow clear changes in the synopsis when the headline names the role.
- if not (PERSON_CHANGE.search(title) or (PERSON_ROLE.search(title) and PERSON_CHANGE.search(text))): return False
+ # A named change or appointment must be stated in the headline.
+ if not PERSON_CHANGE.search(title): return False
  # Accept explicit personnel-change headlines, or action + executive role.
  return bool(PERSON_ROLE.search(text) or re.search(r'\b(personalwechsel|führungswechsel|fuehrungswechsel|chefwechsel|nachfolge|ernannt|befördert|rücktritt|ruecktritt|personelle\s+veränderung)\b', title, re.I))
 
 
 IT = re.compile(r'\b(it|ict|informatik|digitalisierung|technologie|software|hardware|ki|künstliche intelligenz|rechenzentrum|daten|netzwerk|telekommunikation|chip|internet|digital|cyber|cloud|startup|start-up)\b', re.I)
+
+# General-interest publishers must pass an explicit IT subject check.
+# A generic mention of digital, data, trends or Swiss affairs is insufficient.
+STRICT_IT_PUBLISHERS = {'IT Magazine Schweiz', 'SWI swissinfo.ch', 'Nau Digital', 'Watson Digital'}
+STRICT_IT_SOURCE_MARKERS = ('itmagazine', 'swissinfo', 'nau.ch', 'watson')
+
+def needs_strict_it_filter(item):
+ return (item.get('feedSource') in STRICT_IT_PUBLISHERS or
+         any(marker in item.get('source', '').casefold() for marker in STRICT_IT_SOURCE_MARKERS))
+STRONG_IT = re.compile(r'\b(?:informatik|ict|software|hardware|cyber(?:security|angriff|attacke|sicherheit)?|ransomware|malware|phishing|hacker|sicherheitslücke|schwachstelle|cloud|rechenzentrum|kubernetes|server|netzwerk(?:technik|sicherheit)?|firewall|betriebssystem|windows|linux|android|ios|apple|microsoft|google|meta|amazon web services|aws|azure|chatgpt|openai|ki[- ]?modell|künstliche intelligenz|generative ki|machine learning|maschinelles lernen|prozessor|chip(?:s|hersteller)?|halbleiter|app(?:s|likation)?|smartphone|computer|laptop|browser|webplattform|it[- ]?unternehmen|it[- ]?markt|it[- ]?dienstleister|digital(?:wirtschaft|plattform|infrastruktur|technologie)|technologie(?:unternehmen|branche|markt))\b', re.I)
+TECH_CONTEXT = re.compile(r'\b(?:it|ki|technologie|digitalisierung|digital|daten|internet|online|automatisierung|robotik|telekommunikation)\b', re.I)
+TECH_ACTION = re.compile(r'\b(?:software|system|plattform|infrastruktur|schnittstelle|algorithmus|modell|netz|dienst|app|geräte|geraete|sicherheit|cyber|entwicklung|cloud|rechenzentrum|prozessor|chip|digital|künstliche intelligenz)\b', re.I)
+
+def explicit_it_relevance(item):
+ title = item.get('title', '')
+ summary = item.get('excerpt', '')[:420]
+ return bool(STRONG_IT.search(title) or
+             (TECH_CONTEXT.search(title) and (STRONG_IT.search(summary) or TECH_ACTION.search(summary))))
+
+def canonical_url(url):
+ # Normalise harmless URL variations without trying to resolve Google redirects.
+ parsed = urllib.parse.urlsplit(url.strip())
+ host = (parsed.hostname or '').lower().removeprefix('www.')
+ path = re.sub(r'/+', '/', urllib.parse.unquote(parsed.path)).rstrip('/') or '/'
+ skip = {'utm_source', 'utm_medium', 'utm_campaign', 'utm_content', 'utm_term',
+         'utm_id', 'fbclid', 'gclid', 'mc_cid', 'mc_eid'}
+ query = urllib.parse.urlencode(sorted((k, v) for k, v in urllib.parse.parse_qsl(parsed.query, keep_blank_values=True)
+                                  if k.lower() not in skip))
+ return urllib.parse.urlunsplit((parsed.scheme.lower(), host, path, query, ''))
+
 
 
 def clean(value):
@@ -189,10 +204,10 @@ def extract(feed):
    links = entry.findall(f'{ATOM}link')
    url = next((x.get('href', '') for x in links if x.get('rel', 'alternate') == 'alternate'), '')
   else: url = get('link')
-  url = canonical_url(url.strip())
+  url = url.strip()
   if not url.startswith('https://'): continue
   published = parse_date(get('published') or get('updated') or get('pubDate'))
-  if not published or published > NOW + dt.timedelta(hours=4) or published < NOW - dt.timedelta(days=(PERSON_MAX_AGE_DAYS if hint == 'Personen' or name in PERSON_SITES else MAX_AGE_DAYS)): continue
+  if not published or published > NOW + dt.timedelta(hours=4) or published < NOW - dt.timedelta(days=MAX_AGE_DAYS): continue
   # Google News headlines normally end with ' - Publisher'. Keep source attribution separate.
   publisher = name
   if name.startswith('Google News /') and ' - ' in title:
@@ -200,7 +215,7 @@ def extract(feed):
    if len(article) > 18 and len(publisher_candidate) < 65:
     title, publisher = article.strip(), publisher_candidate.strip()
   if not title_valid(title): continue
-  results.append({'id':news_identity({'url':url}), 'title':title, 'excerpt':description,
+  results.append({'id':hashlib.sha256(url.encode()).hexdigest()[:16], 'title':title, 'excerpt':description,
                   'summary':description[:260] or title, 'source':publisher, 'url':url,
                   'published':published.isoformat(), 'feedHint':hint, 'feedSource':name})
  return results
@@ -218,6 +233,7 @@ def swiss_business_story(item):
 
 
 def eligible(item, category):
+ if needs_strict_it_filter(item) and not explicit_it_relevance(item): return False
  text = item['title'] + ' ' + item['excerpt']
  title = item['title']
  if category == 'Personen':
@@ -254,7 +270,7 @@ def score(item, category):
  if category == 'Firmen' and FIRMEN.search(title): points += 25
  if re.search(r'\b(kritisch|aktiv ausgenutzt|zero.day|notfallpatch|cve[- ]?\d{4})\b', text, re.I): points += 12
  if re.search(r'\b(kommentar|meinung|kolumne|testbericht|preisvergleich)\b', title, re.I): points -= 15
- return points + news_impact(item, category)
+ return points
 
 
 # Conservative, local semantic-equivalence heuristics (no external AI service).
@@ -326,26 +342,40 @@ def same_story(a, b):
  return bool(same_source and same_product and common >= 4 and overlap >= .75)
 
 def deduplicate(items):
-  # Shared canonical URL plus robust headline similarity; preserve original attribution.
-  return dedupe_news(items)
+ # Prefer the most informative and recent representation of a story.
+ ranked = sorted(items, key=lambda i: (len(i.get('excerpt', '')) >= 80, len(i.get('excerpt', '')), i['published']), reverse=True)
+ groups = []
+ for item in ranked:
+  for group in groups:
+   if any(canonical_url(item['url']) == canonical_url(other['url']) or same_story(item, other) for other in group):
+    group.append(item)
+    break
+  else: groups.append([item])
+ return [group[0] for group in groups]
 
 def select(items):
-  candidates = deduplicate(items)
-  used = set(); chosen = []; counts = {}
-  # Personnel only from approved Swiss publications, without global duplication.
-  # Reserve personnel stories first, then fill the other categories.
-  order = ['Personen'] + [cat for cat in TARGETS if cat != 'Personen']
-  for category in order:
-   pool = sorted((i for i in candidates if i['id'] not in used and eligible(i,category)),
-                 key=lambda i:(score(i,category),i['published']),reverse=True)
-   selected = pool[:TARGETS[category]]
-   counts[category] = len(selected)
-   for item in selected:
-    used.add(item['id'])
-    chosen.append({**{k:v for k,v in item.items() if k not in ('feedHint','feedSource')},
-                   'category':category})
-  chosen.sort(key=lambda item: parse_date(item['published']) or dt.datetime.min.replace(tzinfo=UTC),reverse=True)
-  return chosen, counts
+ candidates = deduplicate(items)
+ used = set(); chosen = []; counts = {}
+ # Reserve personnel articles first; each story is displayed in one category only.
+ people = sorted((i for i in candidates if eligible(i, 'Personen')),
+                 key=lambda i: parse_date(i['published']) or dt.datetime.min.replace(tzinfo=UTC), reverse=True)[:TARGETS['Personen']]
+ counts['Personen'] = len(people)
+ for item in people:
+  used.add(canonical_url(item['url']))
+  chosen.append({**{k:v for k,v in item.items() if k not in ('feedHint', 'feedSource')}, 'category':'Personen'})
+ for category, target in TARGETS.items():
+  if category == 'Personen': continue
+  pool = sorted((i for i in candidates if canonical_url(i['url']) not in used and eligible(i, category)),
+                key=lambda i:score(i, category), reverse=True)
+  selected = pool[:target]
+  counts[category] = len(selected)
+  for item in selected:
+   used.add(canonical_url(item['url']))
+   chosen.append({**{k:v for k,v in item.items() if k not in ('feedHint', 'feedSource')}, 'category':category})
+ # Chronological display across all categories, newest first.
+ chosen.sort(key=lambda item: parse_date(item['published']) or dt.datetime.min.replace(tzinfo=UTC), reverse=True)
+ return chosen, counts
+
 
 def build_diagnostics(raw_items, chosen, failures):
  # Written to a separate file; no verbose warnings in the public dashboard.
@@ -372,8 +402,6 @@ def build_diagnostics(raw_items, chosen, failures):
                   'published': item['published'], 'eligibleCategories': categories,
                   'selectedCategories': chosen_categories.get(item['id'], []), 'status': status})
  return {'updatedAt': NOW.isoformat(), 'feedFailures': failures,
-         'personSearchWindowDays': PERSON_MAX_AGE_DAYS, 'generalSearchWindowDays': MAX_AGE_DAYS,
-         'personCandidateCount': sum(eligible(item, 'Personen') for item in candidates),
          'rawCandidates': len(raw_items), 'uniqueCandidates': len(candidates),
          'selectedPerCategory': {cat: len(ids) for cat, ids in selected_by_category.items()},
          'articles': details[:1500],
@@ -398,7 +426,6 @@ def main():
  if failures: warnings.append(f'{len(failures)} von {len(FEEDS)} RSS-Quellen waren nicht erreichbar.')
  payload = {'items':chosen, 'updatedAt':NOW.isoformat(), 'targets':TARGETS, 'counts':counts,
             'warning':' '.join(warnings), 'aiSummaries':False}
- guard_dataset('news.json', payload)
  Path('news.json').write_text(json.dumps(payload, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
  print('Saved', len(chosen), 'items; categories:', counts, 'feed failures:', failures)
 
