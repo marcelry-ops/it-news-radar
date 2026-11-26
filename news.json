@@ -11,16 +11,6 @@
       "category": "Firmen"
     },
     {
-      "id": "7248f9811e8bb51f",
-      "title": "Sneaky-2FA-Phishing: Barracuda warnt vor Diebstahl aktiver Sitzungscookies - BornCity",
-      "excerpt": "Sneaky-2FA-Phishing: Barracuda warnt vor Diebstahl aktiver Sitzungscookies BornCity",
-      "summary": "Sneaky-2FA-Phishing: Barracuda warnt vor Diebstahl aktiver Sitzungscookies BornCity",
-      "source": "BornCity",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR1FXODlYZGRod28zLXcwNmdmemk4RGwzTFJEaFhjRHo2akh4TkR6bFFVb2RxUXpNV3VJVTh4ZVRVWVhrblotSDZsWDN1em1wR0ZsMHNPX2FReXpTQ0tWMFdLQm4wSGJQVzk0OWZDSzdsTkJLSzhhclhmejlEZE5UTWdyYVJhdWpXaHBMWG9oZzk5Wnd4LVNXbGxXMFZtSGJ4Q2c?oc=5",
-      "published": "2026-11-26T18:28:04+00:00",
-      "category": "Security"
-    },
-    {
       "id": "46fad86095fcbfd7",
       "title": "„Halluzination“ statt Fehler: So funktioniert das Glosslighting der KI-Firmen - t3n",
       "excerpt": "„Halluzination“ statt Fehler: So funktioniert das Glosslighting der KI-Firmen t3n",
@@ -51,6 +41,16 @@
       "category": "Firmen"
     },
     {
+      "id": "0fe7718adc21d1ee",
+      "title": "Kubernetes-Backups: Warum VM-Sicherungen für Container nicht ausreichen - it-daily.net",
+      "excerpt": "Kubernetes-Backups: Warum VM-Sicherungen für Container nicht ausreichen it-daily.net",
+      "summary": "Kubernetes-Backups: Warum VM-Sicherungen für Container nicht ausreichen it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUThGQVRXMzg5UTNlMWNjZVM1QlhPVzZFWjZIVXJmNUwwN0JjV3YtS1BSUExqUXkyS0o4VGxUQVZMWnFHdWp0MW1XZU4yWGNORXJESjJhb2FPRFR0TkxPcS1QbU9Xazhwb3ZiMERXMktVUExrelRseFZvT1dUUzd6WFdrUjNzbDZ1aTA0b0MzckZHQQ?oc=5",
+      "published": "2026-11-26T15:21:15+00:00",
+      "category": "Cloud"
+    },
+    {
       "id": "8487037040fec5a7",
       "title": "Update: Phishing-Welle folgt auf Outlook-Panne",
       "excerpt": "Nach mehr als 24 Stunden hat Microsoft die weltweite Störung seiner Cloud-Dienste behoben. Als Ursache nennt der Konzern ein technisches Problem im Zusammenhang mit Änderungen an seiner Netzwerkinfrastruktur. Nach dem Ausfall mehren sich nun die entsprechenden Phishing-Vorfälle.",
@@ -58,6 +58,16 @@
       "source": "Netzwoche",
       "url": "https://netzwoche.ch/news/2026-11-13/microsoft-kaempft-mit-ausfaellen-von-outlook-und-teams",
       "published": "2026-11-26T14:33:05+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "535234d784ba0bc5",
+      "title": "Warnung vor „erheblichen Folgen“: Erfolgreicher Cyberangriff auf die FIFA",
+      "excerpt": "Bei der FIFA haben Cyberkriminelle persönliche und geschäftliche Daten abgegriffen. Der Verband wiegelt gleichzeitig ab und warnt.",
+      "summary": "Bei der FIFA haben Cyberkriminelle persönliche und geschäftliche Daten abgegriffen. Der Verband wiegelt gleichzeitig ab und warnt.",
+      "source": "heise online",
+      "url": "https://heise.de/news/Warnung-vor-erheblichen-Folgen-Erfolgreicher-Cyberangriff-auf-die-FIFA-11539255.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published": "2026-11-26T13:33:00+00:00",
       "category": "Security"
     },
     {
@@ -141,13 +151,13 @@
       "category": "Security"
     },
     {
-      "id": "12ce9e5cc9330d01",
-      "title": "Bechtle integriert AWS und Microsoft Marketplaces in eigene Cloud-Plattform",
-      "excerpt": "Bechtle baut seine Position als Multi-Cloud-Provider aus und integriert den AWS Marketplace sowie den Microsoft Marketplace in die eigene Cloud-Plattform. Das schafft für Kunden einen zentralen Beschaffungskanal.",
-      "summary": "Bechtle baut seine Position als Multi-Cloud-Provider aus und integriert den AWS Marketplace sowie den Microsoft Marketplace in die eigene Cloud-Plattform. Das schafft für Kunden einen zentralen Beschaffungskanal.",
-      "source": "IT Reseller",
-      "url": "https://itreseller.ch/Artikel/106689/Bechtle_integriert_AWS_und_Microsoft_Marketplaces_in_eigene_Cloud-Plattform.html",
-      "published": "2026-11-26T07:58:24+00:00",
+      "id": "b369d55b5756f936",
+      "title": "Bechtle integriert AWS und Microsoft Marketplaces in eigene Cloud-Plattform - IT Reseller",
+      "excerpt": "Bechtle integriert AWS und Microsoft Marketplaces in eigene Cloud-Plattform IT Reseller",
+      "summary": "Bechtle integriert AWS und Microsoft Marketplaces in eigene Cloud-Plattform IT Reseller",
+      "source": "IT Reseller / Firmen",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMU8xbDhjZjFOZkJYWFA0QVRQYWpvSDdsYkVTS0dsQWRId2lmUTZ3eVA3Nnd5aTExWktTWHJVTmV2dmpXSUltU2EwMUVYcFVVYXRsc0d1eW5WWWl0akRZb0htenB1NnBMMkJwREFfMGR5Y0lBWkdnT2twQ2JQVmVFQXVtSWVVZTBsRWdkTzIxOUZRUFZ6UjE2bFozdDd5TDdwS0dWRG1XVDBRWVQ1VjV4UHF1MEhsYkN0TlBDTDNB?oc=5",
+      "published": "2026-11-26T07:12:00+00:00",
       "category": "Cloud"
     },
     {
@@ -171,6 +181,16 @@
       "category": "Security"
     },
     {
+      "id": "9f20e1d68043da12",
+      "title": "Gartner-Prognose: 80 Prozent neuer Apps sollen kurzlebige Einweg-Software sein - BornCity",
+      "excerpt": "Gartner-Prognose: 80 Prozent neuer Apps sollen kurzlebige Einweg-Software sein BornCity",
+      "summary": "Gartner-Prognose: 80 Prozent neuer Apps sollen kurzlebige Einweg-Software sein BornCity",
+      "source": "BornCity",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYm5zMnBVS0VRclRja2xhTk85Qlg5Zmo1cEpnZnBxcmI0SHBqRVBLUGh0NVBaRVVIS0pMWXY1YjY5aVFKYnVuZ0pwX3Faa1RWVFNQZnlkMjFob245V0h0M1FDcUZqb0FtRlRoUWp3SnVZNTFBYUdsUTl4aFlZd2h5UXYyVjdOMkxtVVdselhGTVk1dWJlNC1iTEdta2o5dGF4QVNIZ0pQVQ?oc=5",
+      "published": "2026-11-26T05:03:05+00:00",
+      "category": "Markt"
+    },
+    {
       "id": "2f5c4acc14c4fded",
       "title": "Microsoft 365 Copilot einführen und administrieren",
       "excerpt": "Microsoft 365 Copilot einführen und administrieren Golem",
@@ -189,26 +209,6 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdnVSNnVhSEdKSmJhYmN4enRRbDljeU43N19RNjJnX2E4c3JPMURpdU5jNWxQaTE1NzF2bWw3Vk1FM3daMFl0OEFQaW92UGJWUHBxc1NwUDdhbHJYTUlFUFdvUVZlMng5c3VaUXpNbW9lUTZJX2ZGdFlpWExKWE52SkltbEhTM3Y5VHNsUW51dXh1dnNfaEE?oc=5",
       "published": "2026-11-25T16:04:09+00:00",
       "category": "Cloud"
-    },
-    {
-      "id": "0996c1e36c8a6f57",
-      "title": "Multi-Cloud-Backup: Was „Cloud-nativ“ eigentlich bedeutet - it-daily.net",
-      "excerpt": "Multi-Cloud-Backup: Was „Cloud-nativ“ eigentlich bedeutet it-daily.net",
-      "summary": "Multi-Cloud-Backup: Was „Cloud-nativ“ eigentlich bedeutet it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMUFIcXEzVFc1UnhxWDRZYUM1MVMwTDdyR2dCdUcxcXRDOW4xZG54ajBfelhFaE5CT3l5dFJFUlFQSVFzM3MxekxwcERDcUhRQmtyejVHVWE0RXNibHV2X1JSbDdFTGNSVVY0MHc1N2E3Y2dDUmRaWGxHbGMxVjRyMVFnLTNnZmJ6clFjdHpR?oc=5",
-      "published": "2026-11-25T14:59:30+00:00",
-      "category": "Cloud"
-    },
-    {
-      "id": "e499093a03a7400b",
-      "title": "Cyberangriffe mit KI: 100% Erfolgsquote in der Schweiz",
-      "excerpt": "Laut Bacs wurden erstmals KI-gestützte Angriffe in der Schweiz gemeldet. Und alle waren erfolgreich.",
-      "summary": "Laut Bacs wurden erstmals KI-gestützte Angriffe in der Schweiz gemeldet. Und alle waren erfolgreich.",
-      "source": "Inside IT",
-      "url": "https://inside-it.ch/cyberangriffe-mit-ki-100percent-erfolgsquote-in-der-schweiz-20261125",
-      "published": "2026-11-25T11:02:08+00:00",
-      "category": "IT Schweiz"
     },
     {
       "id": "99aff6937c64b6f1",
@@ -261,23 +261,13 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "1c1b4b8bd22241f7",
-      "title": "Dell verdoppelt Umsatz dank starkem Servergeschäft",
-      "excerpt": "Dell hat im dritten Quartal mehr als doppelt so viel umgesetzt wie vor einem Jahr. Allein mit KI-Servern erzielte der Konzern 22 Milliarden Dollar und hebt seine Umsatzprognose für das Gesamtjahr erneut an.",
-      "summary": "Dell hat im dritten Quartal mehr als doppelt so viel umgesetzt wie vor einem Jahr. Allein mit KI-Servern erzielte der Konzern 22 Milliarden Dollar und hebt seine Umsatzprognose für das Gesamtjahr erneut an.",
-      "source": "IT Reseller",
-      "url": "https://itreseller.ch/Artikel/106676/Dell_verdoppelt_Umsatz_dank_starkem_Servergeschaeft.html",
-      "published": "2026-11-25T08:09:05+00:00",
-      "category": "Markt"
-    },
-    {
-      "id": "0de11cb35c678b2e",
-      "title": "Nutanix-CEO Rajiv Ramaswami kündigt Abschied an",
-      "excerpt": "Nach fast sechs Jahren als CEO von Nutanix hat Rajiv Ramaswami seinen Abschied angekündigt. Er bleibt im Amt, bis ein Nachfolger gefunden ist, und soll Nutanix danach noch eine Zeit lang als Senior Advisor begleiten.",
-      "summary": "Nach fast sechs Jahren als CEO von Nutanix hat Rajiv Ramaswami seinen Abschied angekündigt. Er bleibt im Amt, bis ein Nachfolger gefunden ist, und soll Nutanix danach noch eine Zeit lang als Senior Advisor begleiten.",
-      "source": "IT Reseller",
-      "url": "https://itreseller.ch/Artikel/106673/Nutanix-CEO_Rajiv_Ramaswami_kuendigt_Abschied_an.html",
-      "published": "2026-11-25T06:28:56+00:00",
+      "id": "c93ca087eec342e4",
+      "title": "Nutanix-CEO Rajiv Ramaswami kündigt Abschied an - Swiss IT Reseller",
+      "excerpt": "Nutanix-CEO Rajiv Ramaswami kündigt Abschied an Swiss IT Reseller",
+      "summary": "Nutanix-CEO Rajiv Ramaswami kündigt Abschied an Swiss IT Reseller",
+      "source": "IT Reseller / Personen",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZE5OZjJCcnlMTHB3dWpIeTJKa2RQdnRHLWFTeXVVNEMtdl9KYTVmN3k3SDh2OEhUMF83dVM2ZTRQU251dUp4TExLOWFIMDVxTFF4SnFDeUp4TDJlVTFQUkRlcTRVRk1Ec0JJc3c5a2FxWEJRYXNtY3g5TEg5ZDk3XzdjZmRFS2VQd3RTRUZJdENaTUJvUkNqYkRn?oc=5",
+      "published": "2026-11-25T07:12:00+00:00",
       "category": "Personen"
     },
     {
@@ -311,14 +301,24 @@
       "category": "Trends"
     },
     {
-      "id": "403ab82b316d0f70",
-      "title": "Infinigate ernennt Tom OReilly zum Chief Transformation Officer",
-      "excerpt": "Tom OReilly ist neuer Chief Transformation Officer bei Infinigate. Er soll sich vor allem auf den Ausbau und die Optimierung des Plattformgeschäftes konzentrieren.",
-      "summary": "Tom OReilly ist neuer Chief Transformation Officer bei Infinigate. Er soll sich vor allem auf den Ausbau und die Optimierung des Plattformgeschäftes konzentrieren.",
-      "source": "IT Reseller",
-      "url": "https://itreseller.ch/Artikel/106670/Infinigate_ernennt_Tom_OReilly_zum_Chief_Transformation_Officer_.html",
-      "published": "2026-11-24T08:21:51+00:00",
+      "id": "71de01c55c022bba",
+      "title": "Infinigate ernennt Tom O’Reilly zum Chief Transformation Officer - Swiss IT Reseller",
+      "excerpt": "Infinigate ernennt Tom O’Reilly zum Chief Transformation Officer Swiss IT Reseller",
+      "summary": "Infinigate ernennt Tom O’Reilly zum Chief Transformation Officer Swiss IT Reseller",
+      "source": "IT Reseller / Personen",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZV93SFU3WnBNVFlXdlJkWEJ1OG1PS1hpSUN1WVRsTUd0YUNDVHRBaDJzdmhrcnRRRnlHLXUtRTdTMll4SXNxcDU5bk5WZmtmMTFGYUt5aWVqTF8ydEFrTUJVaVJzWFd1WnE5NWFFaUhlOWg1UkxlS2lMWVN3emZMRDR3ZWU3Smh4cXRvZ0dLSW9GTUVUdGlBRVVwRDhxSTYtVWhLZTA2UmVFM0JQRmNF?oc=5",
+      "published": "2026-11-24T07:12:00+00:00",
       "category": "Personen"
+    },
+    {
+      "id": "154a0622ab6b2b10",
+      "title": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse - Swiss IT Reseller",
+      "excerpt": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse Swiss IT Reseller",
+      "summary": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse Swiss IT Reseller",
+      "source": "IT Reseller / Firmen",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY3JBZmg3bDJmVlJjSXVCZmlSUWdNNkcyVUhjWDQ5eFJYcWZQZGowcUtJQlRaVGwweDBLOVc1c1g1YkVSeTRzZDhNZUJWclQycy1VRzBtM2hEN012dzdJTTZSWmswZEtJRUtNNzF3dkRGLUp0QTZONktKMlJ2Ymxib3l0NkJEdmFyZ2RlN3V0b3ZYOF9UZkpwa1AwUU1rNS10TE5vVS1vbm5zb0Nk?oc=5",
+      "published": "2026-11-24T07:12:00+00:00",
+      "category": "IT Schweiz"
     },
     {
       "id": "48f6cf571c9179f0",
@@ -329,6 +329,16 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56SWpfQWxfR2hwRWhGc3NEaHJRN2taRGVOVnRPcEJ5c1FHMC13THFPNDJnNUNhMXYwbGtNNHFoVmZzOFJXMlZrLTNnZmF5aFd0SzY0NnVNQ3pLZHQwRFZvS0J4R0NQN0R3aTV1MW5SUEgyZw?oc=5",
       "published": "2026-11-24T06:04:00+00:00",
       "category": "Firmen"
+    },
+    {
+      "id": "75cadcc3ca8efbf0",
+      "title": "Infinigate ernennt Chief Transformation Officer - Inside IT",
+      "excerpt": "Infinigate ernennt Chief Transformation Officer Inside IT",
+      "summary": "Infinigate ernennt Chief Transformation Officer Inside IT",
+      "source": "Inside IT / Personen",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdWlIMmozeWc2dl9DT2NWbnk5RllUTVR1d2gtLUtKWE5XUDJzSnZFb0g1ZUhpZjdtbEV5TThoV21nYUp5WHNqV2ZsZzk3SDRXbzFCeDd1SHZ0aC1DUDBGOFhhcG5DQmsxY29VOUpNUEg1NnJLU25GTU1EM1RmRzM2dlVXeGVtV1Mw?oc=5",
+      "published": "2026-11-24T02:21:00+00:00",
+      "category": "Personen"
     },
     {
       "id": "7752aea542c6aa6e",
@@ -351,22 +361,22 @@
       "category": "Trends"
     },
     {
-      "id": "7bd6ee3cf8c692cd",
-      "title": "Nvidia holt Jensen Huang als CEO zurück",
-      "excerpt": "Jensen Huang ist trotz der Skandale der vergangenen Wochen wieder zurück an der Spitze von Nvidia: Der Chip-Konzern hat seine Rückkehr als CEO bekanntgegeben.",
-      "summary": "Jensen Huang ist trotz der Skandale der vergangenen Wochen wieder zurück an der Spitze von Nvidia: Der Chip-Konzern hat seine Rückkehr als CEO bekanntgegeben.",
-      "source": "IT Reseller",
-      "url": "https://itreseller.ch/Artikel/106667/Nvidia_holt_Jensen_Huang_als_CEO_zurueck.html",
-      "published": "2026-11-23T13:50:07+00:00",
-      "category": "Personen"
-    },
-    {
       "id": "36a23467e0a57fc8",
       "title": "Zscaler stellt Führungsspitze der Alpine-Region neu auf - Swiss IT Reseller",
       "excerpt": "Zscaler stellt Führungsspitze der Alpine-Region neu auf Swiss IT Reseller",
       "summary": "Zscaler stellt Führungsspitze der Alpine-Region neu auf Swiss IT Reseller",
       "source": "IT Reseller / Personen",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWEwyLW5LWF9weTJpTlg1UmQxSXNUbGRuYk1GRU9ucnQyZlIyeTBlOG8zbkhSbVBpeTdLSkJHdUpBRVMwcFJNcGJVY2l3YW1VYWRYWjVtMnZpdmJDdE9TWkNSQnNnb1MzWERiQV9qa0E1MEpUdXUzM3VZV0gwSm0zcmJHMDdVdGN5d0stM2ZscTBJNG1XbzFNRzR1NmIzOWU5Y0JfWjlR?oc=5",
+      "published": "2026-11-23T07:12:00+00:00",
+      "category": "Personen"
+    },
+    {
+      "id": "2de60e26a9176ae1",
+      "title": "Nvidia holt Jensen Huang als CEO zurück - Swiss IT Reseller",
+      "excerpt": "Nvidia holt Jensen Huang als CEO zurück Swiss IT Reseller",
+      "summary": "Nvidia holt Jensen Huang als CEO zurück Swiss IT Reseller",
+      "source": "IT Reseller / Personen",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQclN1UkQtNnYwejFKSXRmaHFVQTFzRWt3SldhdE1HTERQaHlNRFNKVkIyWjhsM3RPeDY3RUh3ZkpvNkpHT2lBeXBnZzEzQVZtNWpfajRzT2dKdGhnaUJuNHRUaEtZTi1ZYXZSYXpWRXBWNWhVTkpGRGZScS05T1JxWFFiTnRRTE1teENBX1phOA?oc=5",
       "published": "2026-11-23T07:12:00+00:00",
       "category": "Personen"
     },
@@ -439,19 +449,9 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUFItLVZ3UGpfTmhuQW10amRWVTZlMnVHMjh5VFhqYmtTWUh5TVpGWFlyQVRIZU9pMDlTbHFaQkFMZlJuNVNrdmRROS1IQlRMWWgzYU9ibFpVXy00R0NodVJfV3hYMF8zQ1JBYXdMZ005NmhzQVdNV2ZSRWJqRlRSZG9ycU83dmVNQ3lZUnpnSzBGYTFPRjZEWFlySjN1S0RzSE81ZW5mck5rWFhVWFFUYVFwMU5palNDNDVHalBR?oc=5",
       "published": "2026-11-09T08:00:00+00:00",
       "category": "Personen"
-    },
-    {
-      "id": "f1544c7c871f916b",
-      "title": "Convotis Schweiz ernennt Oliver Thome zum CEO - Swiss IT Reseller",
-      "excerpt": "Convotis Schweiz ernennt Oliver Thome zum CEO Swiss IT Reseller",
-      "summary": "Convotis Schweiz ernennt Oliver Thome zum CEO Swiss IT Reseller",
-      "source": "IT Reseller / Personen",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR2h0bm1hRUFVZ0t4V1FZaFdUbGJrUjB0NzZkUjJ5WnNtZFBHRVAzeU8xTWN3alNVZTYwS1p6TlM0RlU4Znd4cXdubEJCb3VKSm1LSkRUTkJESlpFbWJ3WWhDMGsxMElmTDg5OU52bnQyZWdfNjdUVVpxNl9TSDVYQ2Q3NGVGUGdqR0lIVmZwYm44XzBPdFE?oc=5",
-      "published": "2026-11-06T08:00:00+00:00",
-      "category": "Personen"
     }
   ],
-  "updatedAt": "2026-11-26T21:09:50.820924+00:00",
+  "updatedAt": "2026-11-26T22:05:44.660648+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -472,6 +472,6 @@
     "Markt": 5,
     "Firmen": 5
   },
-  "warning": "",
+  "warning": "1 von 54 RSS-Quellen waren nicht erreichbar.",
   "aiSummaries": false
 }
