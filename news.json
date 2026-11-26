@@ -41,16 +41,6 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "65413bdf59f626e9",
-      "title": "«Höhle der Löwen»: Emmer IT-Firma Goldoak knackt Millionen-Rekord – doch der Deal platzt",
-      "excerpt": "«Höhle der Löwen»: Emmer IT-Firma Goldoak knackt Millionen-Rekord – doch der Deal platzt Oltner Tagblatt",
-      "summary": "«Höhle der Löwen»: Emmer IT-Firma Goldoak knackt Millionen-Rekord – doch der Deal platzt Oltner Tagblatt",
-      "source": "Oltner Tagblatt",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOU0ZGTWp5THlmalNGRkdnYThSTmtuM0tpTU41YUgwWG5ZQ3VMNmxUdGRwclRVOWVaSDVYWTF5eFAtcGJ2Y0t6UWVNdGtZZU9PVy1lU3RXVnBrYVpDa2tHU3dFNzdaNGxQdUdYVGNwek41cklhLWZFLXVWLThPQ2VKd1Z1QnJOTjdUOUpOWXhSa2hhdGl3Vm5jZjEzNUNGektPUE9MN1FCY1RJNzBRUUZILXpYb2htWldqdWtoRE5lWnZXOUFGUHNjdUloT3ZIZ1ZvVDRr?oc=5",
-      "published": "2026-11-25T13:17:29+00:00",
-      "category": "Firmen"
-    },
-    {
       "id": "85943555e69f7fae",
       "title": "Gibbon geht dann mal lieber - IT-Markt",
       "excerpt": "Gibbon geht dann mal lieber IT-Markt",
@@ -381,6 +371,16 @@
       "category": "Personen"
     },
     {
+      "id": "4ea6717da5a887aa",
+      "title": "JD.com schliesst Übernahme von Media Markt Saturn ab - Swiss IT Reseller",
+      "excerpt": "JD.com schliesst Übernahme von Media Markt Saturn ab Swiss IT Reseller",
+      "summary": "JD.com schliesst Übernahme von Media Markt Saturn ab Swiss IT Reseller",
+      "source": "IT Reseller / Personen",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMTdNbVdiMGtUeEM0Ym5RZEJkMlloUWRiZTltNEZpejJTWW5SazVGTDRTVDFtOGFydGdHYndPbVV0R0V3MHBPbS05Um9jZVVzSkt0MktDSGRSdzBlMHlJN0VITkZaV2tlUmtmWEZwZ0FmODNSQ2FnU3pZTl9hSl9aSHU2c3FkeWY5alpuOTg5bEhHME1uQ3N1bHE4R0dvbXUz?oc=5",
+      "published": "2026-11-13T08:00:00+00:00",
+      "category": "Firmen"
+    },
+    {
       "id": "9e6b5f5480a8185a",
       "title": "Jensen Huang tritt als Nvidia-CEO zurück, Colette Kress übernimmt - Swiss IT Reseller",
       "excerpt": "Jensen Huang tritt als Nvidia-CEO zurück, Colette Kress übernimmt Swiss IT Reseller",
@@ -451,7 +451,7 @@
       "category": "Personen"
     }
   ],
-  "updatedAt": "2026-11-25T23:57:32.663057+00:00",
+  "updatedAt": "2026-11-26T01:27:49.390073+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
