@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "id": "a8d5a5fa4019d4f9",
+      "title": "Fifa bestätigt Ransomware-Angriff",
+      "excerpt": "Der Fussballverband ist Opfer eines kriminellen Cyberangriffs geworden. Die Ransomware-Bande HBHC hat sich zu dem Angriff bekannt und will gestohlene Daten publizieren.",
+      "summary": "Der Fussballverband ist Opfer eines kriminellen Cyberangriffs geworden. Die Ransomware-Bande HBHC hat sich zu dem Angriff bekannt und will gestohlene Daten publizieren.",
+      "source": "Inside IT",
+      "url": "https://inside-it.ch/fifa-bestaetigt-ransomware-angriff-20261126",
+      "published": "2026-11-26T11:58:50+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "bb910d52542a839a",
+      "title": "Vom FBI überlistet: Wie ein Datenretter Ransomware-Opfer abgezockt haben soll",
+      "excerpt": "Der Mann bot Ransomware-Opfern eine nahezu sichere Datenrettung anhand spezieller Tools an. Im Hintergrund lief aber wohl alles anders als beworben. ( Ransomware , Verschlüsselung )",
+      "summary": "Der Mann bot Ransomware-Opfern eine nahezu sichere Datenrettung anhand spezieller Tools an. Im Hintergrund lief aber wohl alles anders als beworben. ( Ransomware , Verschlüsselung )",
+      "source": "Golem.de",
+      "url": "https://golem.de/news/vom-fbi-ueberlistet-wie-ein-datenretter-ransomware-opfer-abgezockt-haben-soll-2611-215691.html",
+      "published": "2026-11-26T11:36:02+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "50b3868b9687e2bc",
+      "title": "Stadt Bern will digitaler werden",
+      "excerpt": "Neben einer KI-Strategie und einem neuen Rahmen für die digitale Sicherheit plant die Stadt mit dem Bernportal eine zentrale Plattform für Verwaltungsdienstleistungen.",
+      "summary": "Neben einer KI-Strategie und einem neuen Rahmen für die digitale Sicherheit plant die Stadt mit dem Bernportal eine zentrale Plattform für Verwaltungsdienstleistungen.",
+      "source": "Inside IT",
+      "url": "https://inside-it.ch/stadt-bern-will-digitaler-werden-20261126",
+      "published": "2026-11-26T11:21:41+00:00",
+      "category": "IT Schweiz"
+    },
+    {
+      "id": "1d38bcf1ab029453",
+      "title": "N hoch 9/4: OpenAI will Untergrenze für Matrixmultiplikation gefunden haben",
+      "excerpt": "Wie viele Multiplikationen braucht eine Matrixmultiplikation? OpenAIs KI soll die runde, praktisch nur für Mathematiker relevante Antwort gefunden haben. ( Innovation & Forschung , KI )",
+      "summary": "Wie viele Multiplikationen braucht eine Matrixmultiplikation? OpenAIs KI soll die runde, praktisch nur für Mathematiker relevante Antwort gefunden haben. ( Innovation & Forschung , KI )",
+      "source": "Golem.de",
+      "url": "https://golem.de/news/n-hoch-9-4-openai-will-untergrenze-fuer-matrixmultiplikation-gefunden-haben-2611-215683.html",
+      "published": "2026-11-26T10:27:01+00:00",
+      "category": "Trends"
+    },
+    {
       "id": "af386c6261e7219d",
       "title": "SNB und Schweizer Banken prüfen Infrastruktur für tokenisierte Finanzgeschäfte",
       "excerpt": "Die Schweizerische Nationalbank startet mit acht Partnern aus der Finanzbranche das Projekt Swiss Financial Ledger. Die Beteiligten wollen prüfen, ob eine gemeinsame Plattform auf Basis der Distributed-Ledger-Technologie für Finanztransaktionen innerhalb der Schweiz und über die Landesgrenzen hinweg infrage kommt.",
@@ -48,16 +88,6 @@
       "source": "All About SECURITY",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM2lwVzlEMTd6T2d0V0tiTG90TkNoX0JHdlhaZDY3TFVfMFdhQ1ZsX05xTnVyWWJ2cFNWMFdSNHIzdWtIRFpfUnN6V01ZNmN5WnZ3Tnkxd3dMRTk0aWFaWEFDN19KMUJtQ09uOW9odG1fenlTVHJsNUJraGdrRDJrajBheWVwbllmVUZpemN6OFMtcUQxX0Y5NGlB?oc=5",
       "published": "2026-11-26T06:38:06+00:00",
-      "category": "Security"
-    },
-    {
-      "id": "7b0944c9c2984131",
-      "title": "Cyberangriff auf Planzer trifft auch Digitec-Galaxus-Kunden - SWI swissinfo.ch",
-      "excerpt": "Cyberangriff auf Planzer trifft auch Digitec-Galaxus-Kunden SWI swissinfo.ch",
-      "summary": "Cyberangriff auf Planzer trifft auch Digitec-Galaxus-Kunden SWI swissinfo.ch",
-      "source": "SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOUNVTkljYW1BbW1WM25JdW5iREhqN3JjUnlWNHhPaGNHU3F6VXhRemtJOUkzdnp6OVRGOW92T3k4Y3pibG9tdEEtb0pfZ28yc19uZkNSZTBuUTJuM1hlWUxleGFLYnpYUk5wOVowbmowdlZlSjl4SWFma2Y4UHIzczRiQkRFWTFHVHdfMnE4cDZhcXFNZ25yaXdjMGJyZw?oc=5",
-      "published": "2026-11-26T06:35:34+00:00",
       "category": "Security"
     },
     {
@@ -111,6 +141,16 @@
       "category": "Cloud"
     },
     {
+      "id": "9f20e1d68043da12",
+      "title": "Gartner-Prognose: 80 Prozent neuer Apps sollen kurzlebige Einweg-Software sein - BornCity",
+      "excerpt": "Gartner-Prognose: 80 Prozent neuer Apps sollen kurzlebige Einweg-Software sein BornCity",
+      "summary": "Gartner-Prognose: 80 Prozent neuer Apps sollen kurzlebige Einweg-Software sein BornCity",
+      "source": "BornCity",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYm5zMnBVS0VRclRja2xhTk85Qlg5Zmo1cEpnZnBxcmI0SHBqRVBLUGh0NVBaRVVIS0pMWXY1YjY5aVFKYnVuZ0pwX3Faa1RWVFNQZnlkMjFob245V0h0M1FDcUZqb0FtRlRoUWp3SnVZNTFBYUdsUTl4aFlZd2h5UXYyVjdOMkxtVVdselhGTVk1dWJlNC1iTEdta2o5dGF4QVNIZ0pQVQ?oc=5",
+      "published": "2026-11-26T05:03:05+00:00",
+      "category": "Markt"
+    },
+    {
       "id": "2f5c4acc14c4fded",
       "title": "Microsoft 365 Copilot einführen und administrieren",
       "excerpt": "Microsoft 365 Copilot einführen und administrieren Golem.de",
@@ -139,16 +179,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMUFIcXEzVFc1UnhxWDRZYUM1MVMwTDdyR2dCdUcxcXRDOW4xZG54ajBfelhFaE5CT3l5dFJFUlFQSVFzM3MxekxwcERDcUhRQmtyejVHVWE0RXNibHV2X1JSbDdFTGNSVVY0MHc1N2E3Y2dDUmRaWGxHbGMxVjRyMVFnLTNnZmJ6clFjdHpR?oc=5",
       "published": "2026-11-25T14:59:30+00:00",
       "category": "Cloud"
-    },
-    {
-      "id": "c4c8e22df1e9da35",
-      "title": "«Höhle der Löwen»: Emmer IT-Firma knackt Millionen-Rekord – doch der Deal platzt",
-      "excerpt": "«Höhle der Löwen»: Emmer IT-Firma knackt Millionen-Rekord – doch der Deal platzt Luzerner Zeitung",
-      "summary": "«Höhle der Löwen»: Emmer IT-Firma knackt Millionen-Rekord – doch der Deal platzt Luzerner Zeitung",
-      "source": "Luzerner Zeitung",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSEt3cVVzVWxHdWM0S2xscmJxR0VzdE1oWmd5SmZfNFloY2NBYXc3Nzl4RGh0QzlYNjVyVC1TS0Uwc000U19MUkk5Mmh2XzVxT1Q3S0RMOVNsWGpXNS1hRHIyODA0dE1UcGZvRDBtTy1OYlpQMmZCTVpfekVUZXJVLXloaXBraWFBUUxYTnl1NUN6YkVQU1hoeFE0VXJGRWdUZVQzcS13ZDhNTHFvZEFZdUQ4QVRvMEpYOHlCQ1hQaC01dHBaOHA3X2lTRmhJbHNPTUN4Vg?oc=5",
-      "published": "2026-11-25T13:17:29+00:00",
-      "category": "Firmen"
     },
     {
       "id": "e499093a03a7400b",
@@ -191,16 +221,6 @@
       "category": "Markt"
     },
     {
-      "id": "1d795361e8332561",
-      "title": "Cyberangriffe mit KI-Agenten erreichen die Schweiz",
-      "excerpt": "Erstmals hat der Bund Meldungen über erfolgreiche Cyberangriffe auf Schweizer Unternehmen erhalten, bei denen die Angreifer KI-Agenten einsetzten. Unternehmen und Betreiber kritischer Infrastrukturen sollten ihre Cybersicherheit und Resilienz stärken.",
-      "summary": "Erstmals hat der Bund Meldungen über erfolgreiche Cyberangriffe auf Schweizer Unternehmen erhalten, bei denen die Angreifer KI-Agenten einsetzten. Unternehmen und Betreiber kritischer Infrastrukturen sollten ihre Cybersicherheit und Resilienz stärken.",
-      "source": "Netzwoche",
-      "url": "https://netzwoche.ch/news/2026-11-25/cyberangriffe-mit-ki-agenten-erreichen-die-schweiz",
-      "published": "2026-11-25T10:35:28+00:00",
-      "category": "IT Schweiz"
-    },
-    {
       "id": "f93f1baa50324900",
       "title": "Robotik-Start-up Coprod sammelt 6 Millionen US-Dollar ein",
       "excerpt": "Das Lausanner Start-up Coprod hat in einer Pre-Seed-Finanzierungsrunde 6 Millionen US-Dollar eingesammelt. Mit modularen Komponenten und einer gemeinsamen Softwarearchitektur will das Unternehmen die Entwicklung spezialisierter Roboter vereinfachen und beschleunigen.",
@@ -231,16 +251,6 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "1c1b4b8bd22241f7",
-      "title": "Dell verdoppelt Umsatz dank starkem Servergeschäft",
-      "excerpt": "Dell hat im dritten Quartal mehr als doppelt so viel umgesetzt wie vor einem Jahr. Allein mit KI-Servern erzielte der Konzern 22 Milliarden Dollar und hebt seine Umsatzprognose für das Gesamtjahr erneut an.",
-      "summary": "Dell hat im dritten Quartal mehr als doppelt so viel umgesetzt wie vor einem Jahr. Allein mit KI-Servern erzielte der Konzern 22 Milliarden Dollar und hebt seine Umsatzprognose für das Gesamtjahr erneut an.",
-      "source": "IT Reseller",
-      "url": "https://itreseller.ch/Artikel/106676/Dell_verdoppelt_Umsatz_dank_starkem_Servergeschaeft.html",
-      "published": "2026-11-25T08:09:05+00:00",
-      "category": "Markt"
-    },
-    {
       "id": "ba5e5231522f1f31",
       "title": "GL.iNet GoodCloud: Hacker kapern Router über die Hersteller-Cloud - ComputerBase",
       "excerpt": "GL.iNet GoodCloud: Hacker kapern Router über die Hersteller-Cloud ComputerBase",
@@ -249,26 +259,6 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORmFwMWItQ3hTeUZxdDBvTi1EUnFWeUUxMUNMbG5WaGh0SUl1bFFkUEZpM0lYUDlnVXhDb1lWWHBuMVE5c3k0aEk0MkVYbzM0bHZjZEJhRHJReTZMVDl6elNOZElTdFJzdG9JNm5vd2I1RHBFNkRQVXJvM3hBMkFLUUo2VjRlMUd1eVNHbFJlVnZWYXppX2taMEVydjhJdTMzejdrS2lwMnhKd1JycjBNd1gtb3Vydw?oc=5",
       "published": "2026-11-24T20:12:00+00:00",
       "category": "Cloud"
-    },
-    {
-      "id": "f4adacb64fa09d97",
-      "title": "Classic Outlook: Microsoft startet neue Optik im November 2026 - BornCity",
-      "excerpt": "Classic Outlook: Microsoft startet neue Optik im November 2026 BornCity",
-      "summary": "Classic Outlook: Microsoft startet neue Optik im November 2026 BornCity",
-      "source": "BornCity / Microsoft To Do",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWjZ0cFFjUXhHQUZyZ2FJdEg4eDJIT1g2dmF5cVYyTGUtQXhFT2NvLXh5RTZGVmktckxtdVQ1SUdPbmVZc1J0X3IwYjBKcEZoTHE5SlBhc3J0cVdUSlRfS2trYU5CNGR5VlRGdk9ITnNSbjBfNVkxM3MwTG1HeEFDckJSUWxUV2t3YWpHWG9vUVFHZw?oc=5",
-      "published": "2026-11-24T18:06:04+00:00",
-      "category": "Microsoft 365"
-    },
-    {
-      "id": "39c3a41be80e9952",
-      "title": "Idunno AntiCsrf, die CVE-2026-131914 wird aktiv ausgenutzt, CVSS 9.3",
-      "excerpt": "Idunno AntiCsrf, die CVE-2026-131914 wird aktiv ausgenutzt, CVSS 9.3 Meteora Web",
-      "summary": "Idunno AntiCsrf, die CVE-2026-131914 wird aktiv ausgenutzt, CVSS 9.3 Meteora Web",
-      "source": "Meteora Web",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU1JSMnlXTGpfWGFGcFdSY0w5Q29ZTFFNSXZnMmFJSnNfbzVpbzhhSGJseG01MF9vT0FYR1UwTEJIbk5ERGMyeElzb1o5cXRhSFV3dERWWWRjcXBFQ01XTzdZTG4yOVlYT0ptWnFDSzhKOEVRUXNsMHFBNWUyQWxBbjI3NnZ0WEhZMjBrTDk2dk94WExZdjZOUg?oc=5",
-      "published": "2026-11-24T15:36:22+00:00",
-      "category": "Security"
     },
     {
       "id": "e30f25ce6b51a75d",
@@ -331,16 +321,6 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "93f78af4a6bd1526",
-      "title": "Drei Mini-PCs, ein KI-Modell: Microsoft vernetzt Windows per USB4 - ComputerBase",
-      "excerpt": "Drei Mini-PCs, ein KI-Modell: Microsoft vernetzt Windows per USB4 ComputerBase",
-      "summary": "Drei Mini-PCs, ein KI-Modell: Microsoft vernetzt Windows per USB4 ComputerBase",
-      "source": "ComputerBase",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc3RXcWhJV0tmSkRheFdkb1RNM0tJRHI5U0t1djA2a3paSjlWMTJ4RGVrZGxKTDFnUXY1NVdQWFhRV2ZNQWt2WERiNkwwS3lIamhsWFBCWUZzSTd1Q3J4dkctXzRwYzcyVTdJZ3VBLUVhbzJ2YVQwWUc2bndPMWhPQmJNUWUxM2tETGY4UEJBZkZJd0NHX3JsNFZpbzhSQ0FWVDZfNzdZdTRGQWFWMEJWQ1pmQnNQNUd4VWFCNA?oc=5",
-      "published": "2026-11-23T20:45:00+00:00",
-      "category": "Trends"
-    },
-    {
       "id": "5d3d5c31e17afc9c",
       "title": "Palo Alto Networks übernimmt KI-Start-up für 4,5 Milliarden Dollar - Swiss IT Reseller",
       "excerpt": "Palo Alto Networks übernimmt KI-Start-up für 4,5 Milliarden Dollar Swiss IT Reseller",
@@ -349,6 +329,26 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeWJMTG5Vc0ZWSDBkUmhvZEJxS1FqRWRsVGRtcnNiM3VQS1h5UXowRFBhbkdOZC1IWTVmZTE2SktpWHl0cWUya29uc3FQMjhiWGNpWFk4UXFrdVhWSmlCZHBoUm9HMHhoVkRmcWRIZElMekktRk9vbnUyQjV3SWtDbzZRV2xkSUZMZFhUTWhvWlUxcWZhRjMwbm1qMmJTSjRENktpOVowRnJqdy1IOUVaNTRvRQ?oc=5",
       "published": "2026-11-23T07:12:00+00:00",
       "category": "IT Schweiz"
+    },
+    {
+      "id": "f03dbe3a49012f9e",
+      "title": "Crowdstrike übernimmt Zscaler für knapp 44 Milliarden - Inside IT",
+      "excerpt": "Crowdstrike übernimmt Zscaler für knapp 44 Milliarden Inside IT",
+      "summary": "Crowdstrike übernimmt Zscaler für knapp 44 Milliarden Inside IT",
+      "source": "Inside IT / Firmen",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdXl4RndDQ3B1ZVJoMUpPUUlkaDlUbUpuaWhBX25xRno0WkNKZWFCSFk4MXJGQkxSWjh0Q2c3aVZISzc1MkNWdUxIMEtxcW8zTWNYX1pTWUhUdktoSkJHSHpvRVAyc1pFSmExSjlIcXk2c1c4RUpmOVJlanlMMFd6cnRhM184VXIybHh2UE1yV2tvWFk?oc=5",
+      "published": "2026-11-23T04:17:00+00:00",
+      "category": "Firmen"
+    },
+    {
+      "id": "6ed08bbf34784f84",
+      "title": "Microsoft To Do wird am 30. Juni 2027 eingestellt, Planner übernimmt mit den vereinheitlichten Plänen",
+      "excerpt": "Microsoft To Do wird am 30. Juni 2027 eingestellt, Planner übernimmt mit den vereinheitlichten Plänen Meteora Web",
+      "summary": "Microsoft To Do wird am 30. Juni 2027 eingestellt, Planner übernimmt mit den vereinheitlichten Plänen Meteora Web",
+      "source": "Meteora Web",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRlB1WmV3S2VsMFJrenMxLXRncmh1dDFqTTVFUmJrTDFsT2ZPbWhiWG5BTjBSRnJ6U25FTFliT0N0YzJWbXlTLUhna3plRUpDR1VuYkRvRjBUamJTaDlTd0lqeDNMWWRPVlQtZkpvQWJpMnV4QUNGQ0YzUUNfUWNRMnlLSzhycGRtNHRsZlBabFV1VVNmdnlhbHlzZXlxU1k?oc=5",
+      "published": "2026-11-19T16:35:25+00:00",
+      "category": "Microsoft 365"
     },
     {
       "id": "9e6b5f5480a8185a",
@@ -411,7 +411,7 @@
       "category": "Personen"
     }
   ],
-  "updatedAt": "2026-11-26T10:27:46.658019+00:00",
+  "updatedAt": "2026-11-26T12:12:35.284068+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
