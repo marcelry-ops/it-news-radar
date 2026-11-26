@@ -141,14 +141,24 @@ def needs_strict_it_filter(item):
  return (item.get('feedSource') in STRICT_IT_PUBLISHERS or
          any(marker in item.get('source', '').casefold() for marker in STRICT_IT_SOURCE_MARKERS))
 STRONG_IT = re.compile(r'\b(?:informatik|ict|software|hardware|cyber(?:security|angriff|attacke|sicherheit)?|ransomware|malware|phishing|hacker|sicherheitslücke|schwachstelle|cloud|rechenzentrum|kubernetes|server|netzwerk(?:technik|sicherheit)?|firewall|betriebssystem|windows|linux|android|ios|apple|microsoft|google|meta|amazon web services|aws|azure|chatgpt|openai|ki[- ]?modell|künstliche intelligenz|generative ki|machine learning|maschinelles lernen|prozessor|chip(?:s|hersteller)?|halbleiter|app(?:s|likation)?|smartphone|computer|laptop|browser|webplattform|it[- ]?unternehmen|it[- ]?markt|it[- ]?dienstleister|digital(?:wirtschaft|plattform|infrastruktur|technologie)|technologie(?:unternehmen|branche|markt))\b', re.I)
+# High-confidence cyber incident terms are IT signals even in general-interest feeds.
+# Match precise compounds and common German inflections, never standalone
+# words such as 'Angriff', 'Daten', 'Leck' or 'Sicherheit'.
+CYBER_INCIDENT = re.compile(
+ r'\b(?:hackerangriff(?:e|en|s)?|hackerattacke(?:n)?|cyberangriff(?:e|en|s)?|'
+ r'cyberattacke(?:n)?|cybervorf(?:all|älle|aelle|ällen|aellen)|'
+ r'datenabfluss(?:es|e|en)?|datendiebstahl(?:s|es|e|en)?|'
+ r'datenleck(?:s|e|en)?|datenpanne(?:n)?|sicherheitsvorfall(?:s|es|e|en)?|'
+ r'ransomware|phishing|malware|ddos|botnetz(?:e|en)?|exploit(?:s|e)?)\b', re.I)
+
 TECH_CONTEXT = re.compile(r'\b(?:it|ki|technologie|digitalisierung|digital|daten|internet|online|automatisierung|robotik|telekommunikation)\b', re.I)
 TECH_ACTION = re.compile(r'\b(?:software|system|plattform|infrastruktur|schnittstelle|algorithmus|modell|netz|dienst|app|geräte|geraete|sicherheit|cyber|entwicklung|cloud|rechenzentrum|prozessor|chip|digital|künstliche intelligenz)\b', re.I)
 
 def explicit_it_relevance(item):
  title = item.get('title', '')
  summary = item.get('excerpt', '')[:420]
- return bool(STRONG_IT.search(title) or
-             (TECH_CONTEXT.search(title) and (STRONG_IT.search(summary) or TECH_ACTION.search(summary))))
+ return bool(STRONG_IT.search(title) or CYBER_INCIDENT.search(title) or
+             (TECH_CONTEXT.search(title) and (STRONG_IT.search(summary) or TECH_ACTION.search(summary) or CYBER_INCIDENT.search(summary))))
 
 def canonical_url(url):
  # Normalise harmless URL variations without trying to resolve Google redirects.
@@ -242,7 +252,7 @@ def eligible(item, category):
   origin = item.get('feedSource', '')
   approved = origin in PERSON_SITES or any(origin == name + ' / Personen' for name in PERSON_SITES)
   return bool(approved and personnel_relevance(item))
- if category == 'Security': return bool(SECURITY.search(text))
+ if category == 'Security': return bool(SECURITY.search(text) or CYBER_INCIDENT.search(text))
  if category == 'Microsoft 365': return bool(M365.search(text))
  if category == 'IT Schweiz':
   swiss_publisher = item.get('source') in {'IT Reseller', 'Netzwoche', 'Inside IT'}
