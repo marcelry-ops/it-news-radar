@@ -52,11 +52,11 @@ jobs:
           PYMODEL
       - name: CVE- und EUVD-Daten aktualisieren
         run: python update_cves.py
-      - name: Vorhandenen NVD-Snapshot pruefen
+      - name: Vorhandene NVD-/Historien-Snapshots pruefen
         id: nvd_snapshot
         shell: bash
         run: |
-          if [ -s .radar-cache/nvd-snapshot.json ]; then
+          if [ -s .radar-cache/nvd-snapshot.json ] || [ -s .radar-cache/historical-nvd.json ]; then
             echo 'exists=true' >> "$GITHUB_OUTPUT"
           else
             echo 'exists=false' >> "$GITHUB_OUTPUT"
