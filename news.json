@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "id": "8e396b0b8a3021fb",
+      "title": "USA genehmigen 1 Million SpaceX-Satelliten für KI-Rechenzentren im Orbit",
+      "excerpt": "Das SpaceX-Projekt „Starmind“ ist von der US-Aufsicht offiziell genehmigt - in massivem Ausmaß. Der erste Rechenzentrum-Satellit soll bis 2033 im All sein.",
+      "summary": "Das SpaceX-Projekt „Starmind“ ist von der US-Aufsicht offiziell genehmigt - in massivem Ausmaß. Der erste Rechenzentrum-Satellit soll bis 2033 im All sein.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/USA-genehmigen-1-Million-SpaceX-Satelliten-fuer-KI-Rechenzentren-im-Orbit-11538437.html",
+      "published": "2026-11-26T04:03:00+00:00",
+      "category": "Cloud"
+    },
+    {
+      "id": "0a62690ebcbc2914",
+      "title": "Wie Broadcom den VMware-Channel gestutzt hat - Swiss IT Reseller",
+      "excerpt": "Wie Broadcom den VMware-Channel gestutzt hat Swiss IT Reseller",
+      "summary": "Wie Broadcom den VMware-Channel gestutzt hat Swiss IT Reseller",
+      "source": "Focused / IT Schweiz",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQVhDOTdaVEYtVDgzNlZ2OHJYaWYzUkRseF9TVDV1U1ZIY2xsdFFLMlFpVUpTU2lqTlcwTjhLOW5wdnBRbTRvX0xxcGs2SmJUZVhxZDVxWGNFaEMyQnlrX0RqNHNYVjVTLV85bWQzT3gxeVY3SWJ0S09PZHFRQTdsb3YzR2ZCSm5JZ0NtRGNwbkZkMk55?oc=5",
+      "published": "2026-11-25T21:55:09+00:00",
+      "category": "IT Schweiz"
+    },
+    {
       "id": "e75db06beeb7d9db",
       "title": "Rubrik erweitert Cyber-Wiederherstellung für AWS-Cloud-Anwendungen - it-daily.net",
       "excerpt": "Rubrik erweitert Cyber-Wiederherstellung für AWS-Cloud-Anwendungen it-daily.net",
@@ -8,6 +28,16 @@
       "source": "IT-Daily",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdnVSNnVhSEdKSmJhYmN4enRRbDljeU43N19RNjJnX2E4c3JPMURpdU5jNWxQaTE1NzF2bWw3Vk1FM3daMFl0OEFQaW92UGJWUHBxc1NwUDdhbHJYTUlFUFdvUVZlMng5c3VaUXpNbW9lUTZJX2ZGdFlpWExKWE52SkltbEhTM3Y5VHNsUW51dXh1dnNfaEE?oc=5",
       "published": "2026-11-25T16:04:09+00:00",
+      "category": "Cloud"
+    },
+    {
+      "id": "0996c1e36c8a6f57",
+      "title": "Multi-Cloud-Backup: Was „Cloud-nativ“ eigentlich bedeutet - it-daily.net",
+      "excerpt": "Multi-Cloud-Backup: Was „Cloud-nativ“ eigentlich bedeutet it-daily.net",
+      "summary": "Multi-Cloud-Backup: Was „Cloud-nativ“ eigentlich bedeutet it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMUFIcXEzVFc1UnhxWDRZYUM1MVMwTDdyR2dCdUcxcXRDOW4xZG54ajBfelhFaE5CT3l5dFJFUlFQSVFzM3MxekxwcERDcUhRQmtyejVHVWE0RXNibHV2X1JSbDdFTGNSVVY0MHc1N2E3Y2dDUmRaWGxHbGMxVjRyMVFnLTNnZmJ6clFjdHpR?oc=5",
+      "published": "2026-11-25T14:59:30+00:00",
       "category": "Cloud"
     },
     {
@@ -71,6 +101,16 @@
       "category": "Trends"
     },
     {
+      "id": "1c1b4b8bd22241f7",
+      "title": "Dell verdoppelt Umsatz dank starkem Servergeschäft",
+      "excerpt": "Dell hat im dritten Quartal mehr als doppelt so viel umgesetzt wie vor einem Jahr. Allein mit KI-Servern erzielte der Konzern 22 Milliarden Dollar und hebt seine Umsatzprognose für das Gesamtjahr erneut an.",
+      "summary": "Dell hat im dritten Quartal mehr als doppelt so viel umgesetzt wie vor einem Jahr. Allein mit KI-Servern erzielte der Konzern 22 Milliarden Dollar und hebt seine Umsatzprognose für das Gesamtjahr erneut an.",
+      "source": "IT Reseller",
+      "url": "https://www.itreseller.ch/Artikel/106676/Dell_verdoppelt_Umsatz_dank_starkem_Servergeschaeft.html",
+      "published": "2026-11-25T08:09:05+00:00",
+      "category": "Markt"
+    },
+    {
       "id": "07625f7c910810d0",
       "title": "CVE-2026-131914: Veraltete ASP.NET-Bibliothek Update nötig",
       "excerpt": "CVE-2026-131914: Veraltete ASP.NET-Bibliothek Update nötig All About SECURITY",
@@ -81,26 +121,6 @@
       "category": "Security"
     },
     {
-      "id": "858e823376ea3652",
-      "title": "Bending Spoons übernimmt Mailchimp für 3,68 Milliarden Dollar - Swiss IT Reseller",
-      "excerpt": "Bending Spoons übernimmt Mailchimp für 3,68 Milliarden Dollar Swiss IT Reseller",
-      "summary": "Bending Spoons übernimmt Mailchimp für 3,68 Milliarden Dollar Swiss IT Reseller",
-      "source": "Focused / IT Schweiz",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeFFhajBQZ2NtWEZjVWJuNXFHc05zT09tc0FHSE9QQlZGUEFwRV9xa0pZajZSX0VRMmNJbDNINS1QTEQycERCQW51YmF5WHJuUUNLcDVwSm9OQ2I3MmFzbmVWZU5tTF9Ud29nWm96STV4TGNDYUFCZnBiVHB1bXpyUE9zTERYSzhYUVdjVEI1YmhKLXJQMEw0YjZpRnF3UEplMGhKbEJxLWdNbkhI?oc=5",
-      "published": "2026-11-25T07:12:00+00:00",
-      "category": "IT Schweiz"
-    },
-    {
-      "id": "d93660df9e147171",
-      "title": "Dell verdoppelt Umsatz dank starkem Servergeschäft - Swiss IT Reseller",
-      "excerpt": "Dell verdoppelt Umsatz dank starkem Servergeschäft Swiss IT Reseller",
-      "summary": "Dell verdoppelt Umsatz dank starkem Servergeschäft Swiss IT Reseller",
-      "source": "Focused / IT Schweiz",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbTEzM3VGelprNEsxczgxc1F4T2lYcXlkVUtWMU5lcjZPeVZFbkpfTmlZUFhyT1Y4c0dxc2JEaVM3bjJ0UGNHWENqX2tEcG1mZFVHQ1hpMGQzcnBncDFwTlVURTVvOE5OQ1RMYkI5TkdwLVVnTm1iSGl3ZC0tSUxySV81WU1lemNvUEw2dDRseGZRYUhnVXN4T2Y5UDNTUQ?oc=5",
-      "published": "2026-11-25T07:12:00+00:00",
-      "category": "Markt"
-    },
-    {
       "id": "a806c25c45d6805c",
       "title": "HP meldet mehr Umsatz und weniger Gewinn - Swiss IT Reseller",
       "excerpt": "HP meldet mehr Umsatz und weniger Gewinn Swiss IT Reseller",
@@ -109,6 +129,16 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYXd3ZGFyX2ctN3R6cmUya1Q3ckpjWUZoeXpXd2U1bGQ1aTJTd05aTi1UR2lLWGNORU9FLTk1SXEwN3NQZEZDQzV4ZUJ5aW5jMmI5U1N3OS1IVUhmdnJhaktFNEVlZmxZWnBuZTA5dWJvLUVKay1sd1hXSnV3Yzk0aVplX3lBV0xZcXptN1NDTQ?oc=5",
       "published": "2026-11-25T07:12:00+00:00",
       "category": "Markt"
+    },
+    {
+      "id": "0de11cb35c678b2e",
+      "title": "Nutanix-CEO Rajiv Ramaswami kündigt Abschied an",
+      "excerpt": "Nach fast sechs Jahren als CEO von Nutanix hat Rajiv Ramaswami seinen Abschied angekündigt. Er bleibt im Amt, bis ein Nachfolger gefunden ist, und soll Nutanix danach noch eine Zeit lang als Senior Advisor begleiten.",
+      "summary": "Nach fast sechs Jahren als CEO von Nutanix hat Rajiv Ramaswami seinen Abschied angekündigt. Er bleibt im Amt, bis ein Nachfolger gefunden ist, und soll Nutanix danach noch eine Zeit lang als Senior Advisor begleiten.",
+      "source": "IT Reseller",
+      "url": "https://www.itreseller.ch/Artikel/106673/Nutanix-CEO_Rajiv_Ramaswami_kuendigt_Abschied_an.html",
+      "published": "2026-11-25T06:28:56+00:00",
+      "category": "Personen"
     },
     {
       "id": "6ecebfc8f8684dec",
@@ -161,13 +191,13 @@
       "category": "Trends"
     },
     {
-      "id": "274ac5c79fee80c8",
-      "title": "Azure API Management: Lücke kostete Kunden Zugangsdaten - it-daily.net",
-      "excerpt": "Azure API Management: Lücke kostete Kunden Zugangsdaten it-daily.net",
-      "summary": "Azure API Management: Lücke kostete Kunden Zugangsdaten it-daily.net",
+      "id": "f35e0c50d38da3bf",
+      "title": "Digitale Souveränität im Mittelstand: Wann sich ein eigener virtueller Server statt US-Cloud lohnt - it-daily.net",
+      "excerpt": "Digitale Souveränität im Mittelstand: Wann sich ein eigener virtueller Server statt US-Cloud lohnt it-daily.net",
+      "summary": "Digitale Souveränität im Mittelstand: Wann sich ein eigener virtueller Server statt US-Cloud lohnt it-daily.net",
       "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHM3FNNk9VOW9HS0dDb215eGF0RFBTcjNReHFmN2M1TDlPRUhXdmZYbVFHZHhkZE03LW01ZmNrOHUxYzQxaW1wWUR6S2NWOTlKYkVvWG1JVGhGalRBRHZzYWQ3a0xBLU5VZHhsbnVhdw?oc=5",
-      "published": "2026-11-24T10:16:56+00:00",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObEk1Qzl0MktuS1VEUmZXVUs0QUxQX2lONmx2d0UwcGc3M0VudklJMzBPUEJENWRmMzBrZ3VkLVRackh4ZVZkR1A3dl85YktqZWwxRDZzaXdObnBIQkIyZXBIakZ3S1EwN3d2MFh5cWp2QXBEOTRaR2MtWUYzVl8yS2ZVU1plOHM0cUpBVFFLZGtJUXJZQjRqaXlzOUM?oc=5",
+      "published": "2026-11-24T11:02:00+00:00",
       "category": "Cloud"
     },
     {
@@ -179,36 +209,6 @@
       "url": "https://www.netzwoche.ch/news/2026-11-24/nestle-eroeffnet-zentrum-fuer-ki-und-robotik",
       "published": "2026-11-24T09:44:44+00:00",
       "category": "Trends"
-    },
-    {
-      "id": "79faf866a2d76d9c",
-      "title": "Microsoft schliesst Sicherheitslücke in Azure API Management",
-      "excerpt": "Microsoft hat eine Sicherheitslücke in Microsoft Azure API Management geschlossen, durch die Angreifer möglicherweise an geheime Informationen und API-Anmeldedaten gelangt sind. Die Entdeckung und Ausnutzung der Sicherheitslücke stehen möglicherweise in Verbindung mit Angriffen auf norwegische Energieunternehmen.",
-      "summary": "Microsoft hat eine Sicherheitslücke in Microsoft Azure API Management geschlossen, durch die Angreifer möglicherweise an geheime Informationen und API-Anmeldedaten gelangt sind. Die Entdeckung und Ausnutzung der Sicherheitslücke stehen möglicherweise in Verbin",
-      "source": "Netzwoche",
-      "url": "https://www.netzwoche.ch/news/2026-11-24/microsoft-schliesst-sicherheitsluecke-in-azure-api-management",
-      "published": "2026-11-24T09:06:03+00:00",
-      "category": "Cloud"
-    },
-    {
-      "id": "30c65606d5bc23f9",
-      "title": "Schwachstelle in Azure API Management (APIM) Classic führte zu Hacks - BornCity",
-      "excerpt": "Schwachstelle in Azure API Management (APIM) Classic führte zu Hacks BornCity",
-      "summary": "Schwachstelle in Azure API Management (APIM) Classic führte zu Hacks BornCity",
-      "source": "BornCity",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdzNnazdpN25hX3JwVng1MWs5dm8zeXZLeEZPOFBBOXM1Vm4wNGRSb3V1ZlkzdjdhdmpEU09PTE16VDJEaTlQZDdobV81WHhnUUxiTTRoRm5SbmpuSVVidWowUzROVFIwN1U1cjFPMThVNDJ0cG0wYnFZNVM2dE1CeHZ5M0UwRW0zSTlLN1JpYndIa214NXhKMW9EMktkUU9jSzhnRXBPWkI?oc=5",
-      "published": "2026-11-24T07:22:09+00:00",
-      "category": "Cloud"
-    },
-    {
-      "id": "154a0622ab6b2b10",
-      "title": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse",
-      "excerpt": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse Swiss IT Reseller",
-      "summary": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse Swiss IT Reseller",
-      "source": "Swiss IT Reseller",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY3JBZmg3bDJmVlJjSXVCZmlSUWdNNkcyVUhjWDQ5eFJYcWZQZGowcUtJQlRaVGwweDBLOVc1c1g1YkVSeTRzZDhNZUJWclQycy1VRzBtM2hEN012dzdJTTZSWmswZEtJRUtNNzF3dkRGLUp0QTZONktKMlJ2Ymxib3l0NkJEdmFyZ2RlN3V0b3ZYOF9UZkpwa1AwUU1rNS10TE5vVS1vbm5zb0Nk?oc=5",
-      "published": "2026-11-24T07:12:00+00:00",
-      "category": "Firmen"
     },
     {
       "id": "93f78af4a6bd1526",
@@ -248,7 +248,7 @@
       "source": "Inside IT",
       "url": "https://www.inside-it.ch/crowdstrike-uebernimmt-zscaler-fuer-knapp-44-milliarden-20261123",
       "published": "2026-11-23T13:17:10+00:00",
-      "category": "Firmen"
+      "category": "IT Schweiz"
     },
     {
       "id": "962bf9e2dbaf4de1",
@@ -271,14 +271,14 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "5d3d5c31e17afc9c",
-      "title": "Palo Alto Networks übernimmt KI-Start-up für 4,5 Milliarden Dollar - Swiss IT Reseller",
-      "excerpt": "Palo Alto Networks übernimmt KI-Start-up für 4,5 Milliarden Dollar Swiss IT Reseller",
-      "summary": "Palo Alto Networks übernimmt KI-Start-up für 4,5 Milliarden Dollar Swiss IT Reseller",
-      "source": "Focused / IT Schweiz",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeWJMTG5Vc0ZWSDBkUmhvZEJxS1FqRWRsVGRtcnNiM3VQS1h5UXowRFBhbkdOZC1IWTVmZTE2SktpWHl0cWUya29uc3FQMjhiWGNpWFk4UXFrdVhWSmlCZHBoUm9HMHhoVkRmcWRIZElMekktRk9vbnUyQjV3SWtDbzZRV2xkSUZMZFhUTWhvWlUxcWZhRjMwbm1qMmJTSjRENktpOVowRnJqdy1IOUVaNTRvRQ?oc=5",
-      "published": "2026-11-23T07:12:00+00:00",
-      "category": "IT Schweiz"
+      "id": "83f79a15432f1b42",
+      "title": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse",
+      "excerpt": "Oliver Wymann, ein Unternehmen des Marsh-Konzerns, kauft mit Synpulse in der Schweiz zu. Das Zürcher Tech-Beratungshaus ist auf den Finanzsektor spezialisiert und soll nun unter anderem seine KI-Expertise beisteuern.",
+      "summary": "Oliver Wymann, ein Unternehmen des Marsh-Konzerns, kauft mit Synpulse in der Schweiz zu. Das Zürcher Tech-Beratungshaus ist auf den Finanzsektor spezialisiert und soll nun unter anderem seine KI-Expertise beisteuern.",
+      "source": "IT Reseller",
+      "url": "https://www.itreseller.ch/Artikel/106663/Oliver_Wyman_uebernimmt_Zuercher_Technologieberatung_Synpulse_.html",
+      "published": "2026-11-23T08:21:02+00:00",
+      "category": "Firmen"
     },
     {
       "id": "f61d26a4181fe567",
@@ -299,6 +299,16 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONE93QmotZnZxRzJKdEZQRF9OSWx6U01Wdk5KSXpVUnc4TUtVamRldXp5cUdicmtZQTNxUTRwdm85V2dORVNPbFd3RmhhR1I3aVJFTGVUQVNid2FISjZsSUpWTFpsaFI5bHAwM3dmSWVQcC1kNzJ0NnhNQWJWTUhlOFh0cEZjRDg4V3JLbXV0S2RwZUM3bElCZ1JHT2l5WW9vRFdsMXZmTQ?oc=5",
       "published": "2026-11-20T15:20:47+00:00",
       "category": "Security"
+    },
+    {
+      "id": "f54c953af1041f65",
+      "title": "Palo Alto Networks übernimmt KI-Start-up für 4,5 Milliarden Dollar",
+      "excerpt": "Palo Alto Networks will den KI-Spezialisten Applied Compute übernehmen. Mit der Akquisition verstärkt der Security-Anbieter sein Portfolio um eine Plattform für das Training und den sicheren Betrieb von KI-Modellen.",
+      "summary": "Palo Alto Networks will den KI-Spezialisten Applied Compute übernehmen. Mit der Akquisition verstärkt der Security-Anbieter sein Portfolio um eine Plattform für das Training und den sicheren Betrieb von KI-Modellen.",
+      "source": "IT Reseller",
+      "url": "https://www.itreseller.ch/Artikel/106656/Palo_Alto_Networks_uebernimmt_KI-Start-up_fuer_45_Milliarden_Dollar.html",
+      "published": "2026-11-20T13:14:26+00:00",
+      "category": "Firmen"
     },
     {
       "id": "593b305001cf34f3",
@@ -431,16 +441,6 @@
       "category": "Personen"
     },
     {
-      "id": "e8ad53c88ad70043",
-      "title": "Emma Walmsley wird neue CEO von HP - Inside IT",
-      "excerpt": "Emma Walmsley wird neue CEO von HP Inside IT",
-      "summary": "Emma Walmsley wird neue CEO von HP Inside IT",
-      "source": "Inside IT / Personen",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80LW1TY1Y2Yms5cGc0Z1lCWmRYbDZzcVpURjZ6eHpibmtxUktzWVZscnJyQ1dEWGhCMWRoTDRSdnlrcGVoU3pkRUVwVTBPSTVHOWZ0QTdFeXJRZVdsY3c4eFE2SWNVeUd4OHNxUHowVDhlNHhxaTdZ?oc=5",
-      "published": "2026-11-04T08:00:00+00:00",
-      "category": "Personen"
-    },
-    {
       "id": "0c7541c19cb5ffcf",
       "title": "Ruag-Chef Oliver Müller wechselt zu Eraneos - Swiss IT Reseller",
       "excerpt": "Ruag-Chef Oliver Müller wechselt zu Eraneos Swiss IT Reseller",
@@ -451,7 +451,7 @@
       "category": "Personen"
     }
   ],
-  "updatedAt": "2026-11-26T03:05:24.835239+00:00",
+  "updatedAt": "2026-11-26T04:14:09.558485+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -472,6 +472,6 @@
     "Markt": 5,
     "Firmen": 5
   },
-  "warning": "1 von 104 RSS-Quellen waren nicht erreichbar.",
+  "warning": "",
   "aiSummaries": false
 }
