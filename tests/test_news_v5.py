@@ -2,7 +2,7 @@ import importlib.util
 import datetime as dt
 import unittest
 from pathlib import Path
-spec = importlib.util.spec_from_file_location('radar_news', Path(__file__).with_name('update_news.py'))
+spec = importlib.util.spec_from_file_location('radar_news', Path(__file__).resolve().parents[1] / 'update_news.py')
 news = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(news)
 
