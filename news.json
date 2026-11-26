@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "52f041359afb6322",
+      "title": "Donnerstag: Datenabfluss bei 1Password, 1 Million Rechenzentren im All erlaubt",
+      "excerpt": "Datenraub ohne Kennwörter + Genehmigung für Rechenzentrum-Satelliten + Firmenzuschuss für Homeoffice + Quad9 ohne Frankreich + Robotaxis von Lucid + #heiseshow",
+      "summary": "Datenraub ohne Kennwörter + Genehmigung für Rechenzentrum-Satelliten + Firmenzuschuss für Homeoffice + Quad9 ohne Frankreich + Robotaxis von Lucid + #heiseshow",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Donnerstag-Datenabfluss-bei-1Password-1-Million-Rechenzentren-im-All-erlaubt-11538479.html",
+      "published": "2026-11-26T05:15:00+00:00",
+      "category": "Cloud"
+    },
+    {
+      "id": "9f20e1d68043da12",
+      "title": "Gartner-Prognose: 80 Prozent neuer Apps sollen kurzlebige Einweg-Software sein - BornCity",
+      "excerpt": "Gartner-Prognose: 80 Prozent neuer Apps sollen kurzlebige Einweg-Software sein BornCity",
+      "summary": "Gartner-Prognose: 80 Prozent neuer Apps sollen kurzlebige Einweg-Software sein BornCity",
+      "source": "BornCity",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYm5zMnBVS0VRclRja2xhTk85Qlg5Zmo1cEpnZnBxcmI0SHBqRVBLUGh0NVBaRVVIS0pMWXY1YjY5aVFKYnVuZ0pwX3Faa1RWVFNQZnlkMjFob245V0h0M1FDcUZqb0FtRlRoUWp3SnVZNTFBYUdsUTl4aFlZd2h5UXYyVjdOMkxtVVdselhGTVk1dWJlNC1iTEdta2o5dGF4QVNIZ0pQVQ?oc=5",
+      "published": "2026-11-26T05:03:05+00:00",
+      "category": "Markt"
+    },
+    {
+      "id": "98a67ed965176919",
+      "title": "Android bleibt trotz Rückgang die Nummer eins bei Smartphone-OS - Swiss IT Reseller",
+      "excerpt": "Android bleibt trotz Rückgang die Nummer eins bei Smartphone-OS Swiss IT Reseller",
+      "summary": "Android bleibt trotz Rückgang die Nummer eins bei Smartphone-OS Swiss IT Reseller",
+      "source": "Focused / IT Schweiz",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbWpRREVHU0NpcGM4OWNfRFMyVzdXY0hqdmhXcWhOeFNtT3dVWk9wLXVGWUE1RlVoWU9wRTNkc3ZQamozOWpVemtWQUlRWk80NTdjWHFtQms0WXhvME5YMFQtLXpJblZCZzVmNjVpcUl5b0pqUGdYUGQ4bTBndE5VRWpmSUFILWNCOUNrUlNDV0xKT05vdmFpTG9DUEp1ZGFMVTFDRnRYLXA3c2s3d01r?oc=5",
+      "published": "2026-11-26T05:00:44+00:00",
+      "category": "IT Schweiz"
+    },
+    {
       "id": "8e396b0b8a3021fb",
       "title": "USA genehmigen 1 Million SpaceX-Satelliten für KI-Rechenzentren im Orbit",
       "excerpt": "Das SpaceX-Projekt „Starmind“ ist von der US-Aufsicht offiziell genehmigt - in massivem Ausmaß. Der erste Rechenzentrum-Satellit soll bis 2033 im All sein.",
@@ -9,16 +39,6 @@
       "url": "https://www.heise.de/news/USA-genehmigen-1-Million-SpaceX-Satelliten-fuer-KI-Rechenzentren-im-Orbit-11538437.html",
       "published": "2026-11-26T04:03:00+00:00",
       "category": "Cloud"
-    },
-    {
-      "id": "0a62690ebcbc2914",
-      "title": "Wie Broadcom den VMware-Channel gestutzt hat - Swiss IT Reseller",
-      "excerpt": "Wie Broadcom den VMware-Channel gestutzt hat Swiss IT Reseller",
-      "summary": "Wie Broadcom den VMware-Channel gestutzt hat Swiss IT Reseller",
-      "source": "Focused / IT Schweiz",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQVhDOTdaVEYtVDgzNlZ2OHJYaWYzUkRseF9TVDV1U1ZIY2xsdFFLMlFpVUpTU2lqTlcwTjhLOW5wdnBRbTRvX0xxcGs2SmJUZVhxZDVxWGNFaEMyQnlrX0RqNHNYVjVTLV85bWQzT3gxeVY3SWJ0S09PZHFRQTdsb3YzR2ZCSm5JZ0NtRGNwbkZkMk55?oc=5",
-      "published": "2026-11-25T21:55:09+00:00",
-      "category": "IT Schweiz"
     },
     {
       "id": "e75db06beeb7d9db",
@@ -191,16 +211,6 @@
       "category": "Trends"
     },
     {
-      "id": "f35e0c50d38da3bf",
-      "title": "Digitale Souveränität im Mittelstand: Wann sich ein eigener virtueller Server statt US-Cloud lohnt - it-daily.net",
-      "excerpt": "Digitale Souveränität im Mittelstand: Wann sich ein eigener virtueller Server statt US-Cloud lohnt it-daily.net",
-      "summary": "Digitale Souveränität im Mittelstand: Wann sich ein eigener virtueller Server statt US-Cloud lohnt it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObEk1Qzl0MktuS1VEUmZXVUs0QUxQX2lONmx2d0UwcGc3M0VudklJMzBPUEJENWRmMzBrZ3VkLVRackh4ZVZkR1A3dl85YktqZWwxRDZzaXdObnBIQkIyZXBIakZ3S1EwN3d2MFh5cWp2QXBEOTRaR2MtWUYzVl8yS2ZVU1plOHM0cUpBVFFLZGtJUXJZQjRqaXlzOUM?oc=5",
-      "published": "2026-11-24T11:02:00+00:00",
-      "category": "Cloud"
-    },
-    {
       "id": "6888eb55013996d3",
       "title": "Nestlé eröffnet Zentrum für KI und Robotik",
       "excerpt": "Nestlé eröffnet ein Technologiezentrum im Kanton Waadt. Der Konzern will dort Anwendungen entwickeln und testen, die künstliche Intelligenz, vernetzte Sensoren und Robotik kombinieren. Anschliessend sollen sie in sämtlichen Geschäftsbereichen zum Einsatz kommen.",
@@ -219,16 +229,6 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc3RXcWhJV0tmSkRheFdkb1RNM0tJRHI5U0t1djA2a3paSjlWMTJ4RGVrZGxKTDFnUXY1NVdQWFhRV2ZNQWt2WERiNkwwS3lIamhsWFBCWUZzSTd1Q3J4dkctXzRwYzcyVTdJZ3VBLUVhbzJ2YVQwWUc2bndPMWhPQmJNUWUxM2tETGY4UEJBZkZJd0NHX3JsNFZpbzhSQ0FWVDZfNzdZdTRGQWFWMEJWQ1pmQnNQNUd4VWFCNA?oc=5",
       "published": "2026-11-23T20:45:00+00:00",
       "category": "Trends"
-    },
-    {
-      "id": "eb53cd74c8cb756b",
-      "title": "Weihnachtliche Bieber-Hilfe - IT-Markt",
-      "excerpt": "Weihnachtliche Bieber-Hilfe IT-Markt",
-      "summary": "Weihnachtliche Bieber-Hilfe IT-Markt",
-      "source": "IT-Markt",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiMVdBdGVGNDExWXFWaDI4cVRsLVZZNU8xdHZXamFWZjV3VVVoRHpWN3BoYzNOQ05neWFuR1VfRmpjN0VuX1NidjVRcXYzcGZfTk9BcGlwZUQzRVN4cnFXWEZaSmhWTkFWbW01d3ctS090YkdXbnlOcGV2Z2lQZw?oc=5",
-      "published": "2026-11-23T14:51:29+00:00",
-      "category": "Markt"
     },
     {
       "id": "51b24557b96f78d3",
@@ -451,7 +451,7 @@
       "category": "Personen"
     }
   ],
-  "updatedAt": "2026-11-26T04:14:09.558485+00:00",
+  "updatedAt": "2026-11-26T05:24:26.152147+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
