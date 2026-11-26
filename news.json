@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "id": "af386c6261e7219d",
+      "title": "SNB und Schweizer Banken prüfen Infrastruktur für tokenisierte Finanzgeschäfte",
+      "excerpt": "Die Schweizerische Nationalbank startet mit acht Partnern aus der Finanzbranche das Projekt Swiss Financial Ledger. Die Beteiligten wollen prüfen, ob eine gemeinsame Plattform auf Basis der Distributed-Ledger-Technologie für Finanztransaktionen innerhalb der Schweiz und über die Landesgrenzen hinweg infrage kommt.",
+      "summary": "Die Schweizerische Nationalbank startet mit acht Partnern aus der Finanzbranche das Projekt Swiss Financial Ledger. Die Beteiligten wollen prüfen, ob eine gemeinsame Plattform auf Basis der Distributed-Ledger-Technologie für Finanztransaktionen innerhalb der S",
+      "source": "Netzwoche",
+      "url": "https://netzwoche.ch/news/2026-11-26/snb-und-schweizer-banken-pruefen-infrastruktur-fuer-tokenisierte-finanzgeschaefte",
+      "published": "2026-11-26T10:17:28+00:00",
+      "category": "IT Schweiz"
+    },
+    {
+      "id": "06cfbc8c893d4d85",
+      "title": "Bug in Office 365: Word zeigt nach Start nur leeres Pop-up an",
+      "excerpt": "Die Office-Community ist verwirrt über das merkwürdige Fenster. Microsoft hat es als einen Bug identifiziert. ( Microsoft 365 , Microsoft )",
+      "summary": "Die Office-Community ist verwirrt über das merkwürdige Fenster. Microsoft hat es als einen Bug identifiziert. ( Microsoft 365 , Microsoft )",
+      "source": "Golem.de",
+      "url": "https://golem.de/news/bug-in-office-365-word-zeigt-nach-start-nur-leeres-pop-up-an-2611-215685.html",
+      "published": "2026-11-26T10:01:02+00:00",
+      "category": "Microsoft 365"
+    },
+    {
       "id": "68af0cff9718e39f",
       "title": "Cyberkriminelle greifen Daten von Planzer ab - IT-Markt",
       "excerpt": "Cyberkriminelle greifen Daten von Planzer ab IT-Markt",
@@ -91,26 +111,6 @@
       "category": "Cloud"
     },
     {
-      "id": "9f20e1d68043da12",
-      "title": "Gartner-Prognose: 80 Prozent neuer Apps sollen kurzlebige Einweg-Software sein - BornCity",
-      "excerpt": "Gartner-Prognose: 80 Prozent neuer Apps sollen kurzlebige Einweg-Software sein BornCity",
-      "summary": "Gartner-Prognose: 80 Prozent neuer Apps sollen kurzlebige Einweg-Software sein BornCity",
-      "source": "BornCity",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYm5zMnBVS0VRclRja2xhTk85Qlg5Zmo1cEpnZnBxcmI0SHBqRVBLUGh0NVBaRVVIS0pMWXY1YjY5aVFKYnVuZ0pwX3Faa1RWVFNQZnlkMjFob245V0h0M1FDcUZqb0FtRlRoUWp3SnVZNTFBYUdsUTl4aFlZd2h5UXYyVjdOMkxtVVdselhGTVk1dWJlNC1iTEdta2o5dGF4QVNIZ0pQVQ?oc=5",
-      "published": "2026-11-26T05:03:05+00:00",
-      "category": "Markt"
-    },
-    {
-      "id": "bb2ea9cd0c90ce75",
-      "title": "USA genehmigen 1 Million SpaceX-Satelliten für KI-Rechenzentren im Orbit",
-      "excerpt": "Das SpaceX-Projekt „Starmind“ ist von der US-Aufsicht offiziell genehmigt - in massivem Ausmaß. Der erste Rechenzentrum-Satellit soll bis 2033 im All sein.",
-      "summary": "Das SpaceX-Projekt „Starmind“ ist von der US-Aufsicht offiziell genehmigt - in massivem Ausmaß. Der erste Rechenzentrum-Satellit soll bis 2033 im All sein.",
-      "source": "heise online",
-      "url": "https://heise.de/news/USA-genehmigen-1-Million-SpaceX-Satelliten-fuer-KI-Rechenzentren-im-Orbit-11538437.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published": "2026-11-26T04:03:00+00:00",
-      "category": "Cloud"
-    },
-    {
       "id": "2f5c4acc14c4fded",
       "title": "Microsoft 365 Copilot einführen und administrieren",
       "excerpt": "Microsoft 365 Copilot einführen und administrieren Golem.de",
@@ -118,16 +118,6 @@
       "source": "Golem.de",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLXlzcjItWDJiLWhnR2VfbjMxNmZGRlk3NWR3d0NhSFZXZHBjb0JLdEpZM3k1emNQS2JwVWdfLWRGbE1vZDY5NUI0cXNFWXMzU0tYNVF3LTlWd0dsV1VGMGV1ZlZ5endnZFQ4YmltRm5KcmJ3UU03aUk1Wktvc3kyRzNQekxkZTFzc0NWcGJIb042TF9nMmlza2NDTl9DaUJVdms3ekRDVG1jZ0FV?oc=5",
       "published": "2026-11-25T17:45:02+00:00",
-      "category": "Microsoft 365"
-    },
-    {
-      "id": "fdbb796f7ca5666e",
-      "title": "Microsoft 365: Nach Großstörung ruft Microsoft intern „Code Red“ aus - ComputerBase",
-      "excerpt": "Microsoft 365: Nach Großstörung ruft Microsoft intern „Code Red“ aus ComputerBase",
-      "summary": "Microsoft 365: Nach Großstörung ruft Microsoft intern „Code Red“ aus ComputerBase",
-      "source": "ComputerBase",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdUhCWkdPVi1scWVodmNoVG1BeE9sVnBnSXlnZXVUTzVRUGVDVTM5aWpNSERwZVROdnBwZHppTE1XTFlNZnM2V1Zhcy00eTVSaW1OS2lhRnNSMmlBSVRPaWdLbUhTT2c2Rlh4Q183UlM4M2hXaWR2dTVwZVhzWGZJY0JkSC1tOWJXUnF6cko1a0lTeGd2bG9sczJOSTJwZkhPMUtHMGZBY3FXOUlCaGZkV3B0b3NUTGNqbFJmZUF2X1RVZ2NnOXNF?oc=5",
-      "published": "2026-11-25T16:36:00+00:00",
       "category": "Microsoft 365"
     },
     {
@@ -221,16 +211,6 @@
       "category": "Trends"
     },
     {
-      "id": "28e00e60ac846ceb",
-      "title": "Update: Anthropic mietet Büros für rund 150 Arbeitsplätze in Zürich",
-      "excerpt": "Anthropic baut seinen Zürcher Standort aus. Der Entwickler des KI-Modells Claude mietet rund 2500 Quadratmeter Bürofläche in der ehemaligen Fraumünsterpost. Die Räumlichkeiten bieten Platz für etwa 150 Mitarbeitende.",
-      "summary": "Anthropic baut seinen Zürcher Standort aus. Der Entwickler des KI-Modells Claude mietet rund 2500 Quadratmeter Bürofläche in der ehemaligen Fraumünsterpost. Die Räumlichkeiten bieten Platz für etwa 150 Mitarbeitende.",
-      "source": "Netzwoche",
-      "url": "https://netzwoche.ch/news/2025-02-19/anthropic-eroeffnet-niederlassung-in-zuerich",
-      "published": "2026-11-25T09:55:47+00:00",
-      "category": "IT Schweiz"
-    },
-    {
       "id": "ae43a86b4b83833e",
       "title": "UMB verlegt seinen Hauptsitz - IT-Markt",
       "excerpt": "UMB verlegt seinen Hauptsitz IT-Markt",
@@ -249,6 +229,16 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ2o2aUFCdlk1SWd3OTRqNWVtZGRaLW9ieVNtSnB5c2lEbXhGUDB0YXFoeVVrLUxOWVBuOG1iWGZTYV9TOTZvY0ZMWTlXMWp4aVNSdG02dWx6ZGpPYU5ySU5SVWt1WGRUNHYtcXRDQXRETzQ4RktZU211N1FQbzNXNXY1SEd0WVQ1QmNHN3prbUhlbW1oYm9oOFRFWmJHNXlnNEFqSHc5dzk4OVIxR3FsVGxyUWwzb21ZREY1RHIzVDF0dw?oc=5",
       "published": "2026-11-25T08:13:06+00:00",
       "category": "Microsoft 365"
+    },
+    {
+      "id": "1c1b4b8bd22241f7",
+      "title": "Dell verdoppelt Umsatz dank starkem Servergeschäft",
+      "excerpt": "Dell hat im dritten Quartal mehr als doppelt so viel umgesetzt wie vor einem Jahr. Allein mit KI-Servern erzielte der Konzern 22 Milliarden Dollar und hebt seine Umsatzprognose für das Gesamtjahr erneut an.",
+      "summary": "Dell hat im dritten Quartal mehr als doppelt so viel umgesetzt wie vor einem Jahr. Allein mit KI-Servern erzielte der Konzern 22 Milliarden Dollar und hebt seine Umsatzprognose für das Gesamtjahr erneut an.",
+      "source": "IT Reseller",
+      "url": "https://itreseller.ch/Artikel/106676/Dell_verdoppelt_Umsatz_dank_starkem_Servergeschaeft.html",
+      "published": "2026-11-25T08:09:05+00:00",
+      "category": "Markt"
     },
     {
       "id": "ba5e5231522f1f31",
@@ -301,12 +291,22 @@
       "category": "Trends"
     },
     {
-      "id": "6888eb55013996d3",
-      "title": "Nestlé eröffnet Zentrum für KI und Robotik",
-      "excerpt": "Nestlé eröffnet ein Technologiezentrum im Kanton Waadt. Der Konzern will dort Anwendungen entwickeln und testen, die künstliche Intelligenz, vernetzte Sensoren und Robotik kombinieren. Anschliessend sollen sie in sämtlichen Geschäftsbereichen zum Einsatz kommen.",
-      "summary": "Nestlé eröffnet ein Technologiezentrum im Kanton Waadt. Der Konzern will dort Anwendungen entwickeln und testen, die künstliche Intelligenz, vernetzte Sensoren und Robotik kombinieren. Anschliessend sollen sie in sämtlichen Geschäftsbereichen zum Einsatz komme",
-      "source": "Netzwoche",
-      "url": "https://netzwoche.ch/news/2026-11-24/nestle-eroeffnet-zentrum-fuer-ki-und-robotik",
+      "id": "f35e0c50d38da3bf",
+      "title": "Digitale Souveränität im Mittelstand: Wann sich ein eigener virtueller Server statt US-Cloud lohnt - it-daily.net",
+      "excerpt": "Digitale Souveränität im Mittelstand: Wann sich ein eigener virtueller Server statt US-Cloud lohnt it-daily.net",
+      "summary": "Digitale Souveränität im Mittelstand: Wann sich ein eigener virtueller Server statt US-Cloud lohnt it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObEk1Qzl0MktuS1VEUmZXVUs0QUxQX2lONmx2d0UwcGc3M0VudklJMzBPUEJENWRmMzBrZ3VkLVRackh4ZVZkR1A3dl85YktqZWwxRDZzaXdObnBIQkIyZXBIakZ3S1EwN3d2MFh5cWp2QXBEOTRaR2MtWUYzVl8yS2ZVU1plOHM0cUpBVFFLZGtJUXJZQjRqaXlzOUM?oc=5",
+      "published": "2026-11-24T11:02:00+00:00",
+      "category": "Cloud"
+    },
+    {
+      "id": "8e49a89fd1672a7d",
+      "title": "Nestlé eröffnet Zentrum für KI und Robotik - Netzwoche",
+      "excerpt": "Nestlé eröffnet Zentrum für KI und Robotik Netzwoche",
+      "summary": "Nestlé eröffnet Zentrum für KI und Robotik Netzwoche",
+      "source": "Netzwoche / Firmen",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd3NhT01fZEtKSXZzY1dIY0UzRFB6UkNVSWFoSGl1VEhsQi1GYVZoX1VPTmVqZFh4TWtwZG84a0J4M0hpcXd4TXE1ZE45OFRBTXZMNDdsZ05XS2Y4YjFqMzByc3NlRGpvanlXSnE5cUZmYjB2SFZGaEFMZ04zUUdINlJsNHF3MmF4LXFVVWRR?oc=5",
       "published": "2026-11-24T09:44:44+00:00",
       "category": "Trends"
     },
@@ -381,6 +381,16 @@
       "category": "Personen"
     },
     {
+      "id": "4444b8a6f660b9fe",
+      "title": "Arjan van Staveren übernimmt bei OpenAI als Sales-Chef für Central Europe - Swiss IT Reseller",
+      "excerpt": "Arjan van Staveren übernimmt bei OpenAI als Sales-Chef für Central Europe Swiss IT Reseller",
+      "summary": "Arjan van Staveren übernimmt bei OpenAI als Sales-Chef für Central Europe Swiss IT Reseller",
+      "source": "IT Reseller / Personen",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUFItLVZ3UGpfTmhuQW10amRWVTZlMnVHMjh5VFhqYmtTWUh5TVpGWFlyQVRIZU9pMDlTbHFaQkFMZlJuNVNrdmRROS1IQlRMWWgzYU9ibFpVXy00R0NodVJfV3hYMF8zQ1JBYXdMZ005NmhzQVdNV2ZSRWJqRlRSZG9ycU83dmVNQ3lZUnpnSzBGYTFPRjZEWFlySjN1S0RzSE81ZW5mck5rWFhVWFFUYVFwMU5palNDNDVHalBR?oc=5",
+      "published": "2026-11-09T08:00:00+00:00",
+      "category": "Personen"
+    },
+    {
       "id": "e8ad53c88ad70043",
       "title": "Emma Walmsley wird neue CEO von HP - Inside IT",
       "excerpt": "Emma Walmsley wird neue CEO von HP Inside IT",
@@ -401,7 +411,7 @@
       "category": "Personen"
     }
   ],
-  "updatedAt": "2026-11-26T09:53:24.231334+00:00",
+  "updatedAt": "2026-11-26T10:27:46.658019+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -413,7 +423,7 @@
     "Personen": 10
   },
   "counts": {
-    "Personen": 5,
+    "Personen": 6,
     "Security": 5,
     "Microsoft 365": 5,
     "IT Schweiz": 5,
@@ -422,6 +432,6 @@
     "Markt": 5,
     "Firmen": 5
   },
-  "warning": "Nicht genügend passende aktuelle Meldungen: 5 × Personen.",
+  "warning": "Nicht genügend passende aktuelle Meldungen: 4 × Personen.",
   "aiSummaries": false
 }
