@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "68af0cff9718e39f",
+      "title": "Cyberkriminelle greifen Daten von Planzer ab - IT-Markt",
+      "excerpt": "Cyberkriminelle greifen Daten von Planzer ab IT-Markt",
+      "summary": "Cyberkriminelle greifen Daten von Planzer ab IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdTF3bnF1NkVfQkwwY3dQdUJqRk1RUXhmajFYRExJT2UzUm44SksxbkVCRkJvMEJrU1hORU9rY1RIUHktaV83ZjZsUDc2UHR0VUFVS1lISTNENW5VYUY0ZnAxcFJScUpfc0tRc1VTRDdFQWhxbExHTURWUVo3VFhYVzJJMFdrekpnLV93Rw?oc=5",
+      "published": "2026-11-26T09:28:08+00:00",
+      "category": "Markt"
+    },
+    {
       "id": "5866a1dccd9885b6",
       "title": "CVE-2025-42884: JNDI-Injektion in SAP NetWeaver AS Java ermöglicht Remote-Code-Ausführung",
       "excerpt": "CVE-2025-42884: JNDI-Injektion in SAP NetWeaver AS Java ermöglicht Remote-Code-Ausführung All About SECURITY",
@@ -9,16 +19,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT0dFTm1VS0V5YXFOSWtoX2JvZTkzWmxpTWpDeHhsNFpBRTFIOXZPX3VIM1phWHd5M3dJV3A0NDQxaWNXM093MnIwdmlmOURzdmM3cThrUEhsUmVoWm1IWkR2aTRabjJaa2lDUkV4WVpJbGVOanpDQnZ0enI1cWdxYzhSbVVQa3FjT2lHOXllTk44QXY5azFSMnQyLXo2RGFPWnU1Y1BEOXZTY2c2MEUxTUdrMEtPNjNjLWxBWmM1Q0h5MXc?oc=5",
       "published": "2026-11-26T08:59:18+00:00",
       "category": "Security"
-    },
-    {
-      "id": "2a546a58c238e147",
-      "title": "Cyberangriffe mit KI-Agenten: Fünf bestätigte Fälle in der Schweiz",
-      "excerpt": "Cyberangriffe mit KI-Agenten: Fünf bestätigte Fälle in der Schweiz Swiss-Press.com",
-      "summary": "Cyberangriffe mit KI-Agenten: Fünf bestätigte Fälle in der Schweiz Swiss-Press.com",
-      "source": "Swiss-Press.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1neHEyNW0wMGpwb05OS2Y2QjF0NWFOUEFJcWxDdGtmWElSYmlXaDc0TnBCeFlILW9oZ3dhTlRCOHdhSFloT2lTZC1kUC1XbzVwOEZENVN5blFEU1ZpZmZNbVlPSWVRbkRCUTFFSTN5VmFtZmtKWENVSXdpeEpNdw?oc=5",
-      "published": "2026-11-26T07:22:45+00:00",
-      "category": "IT Schweiz"
     },
     {
       "id": "22f74791b7040d04",
@@ -46,7 +46,7 @@
       "excerpt": "Die US-Behörde FCC hat den Plan von SpaceX genehmigt, bis zu einer Million Satelliten für künstliche Intelligenz in die Umlaufbahn zu schicken. ( SpaceX , KI )",
       "summary": "Die US-Behörde FCC hat den Plan von SpaceX genehmigt, bis zu einer Million Satelliten für künstliche Intelligenz in die Umlaufbahn zu schicken. ( SpaceX , KI )",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/eine-million-satelliten-spacex-darf-rechenzentren-ins-all-bringen-2611-215669.html",
+      "url": "https://golem.de/news/eine-million-satelliten-spacex-darf-rechenzentren-ins-all-bringen-2611-215669.html",
       "published": "2026-11-26T06:26:01+00:00",
       "category": "Trends"
     },
@@ -86,9 +86,19 @@
       "excerpt": "Datenraub ohne Kennwörter + Genehmigung für Rechenzentrum-Satelliten + Firmenzuschuss für Homeoffice + Quad9 ohne Frankreich + Robotaxis von Lucid + #heiseshow",
       "summary": "Datenraub ohne Kennwörter + Genehmigung für Rechenzentrum-Satelliten + Firmenzuschuss für Homeoffice + Quad9 ohne Frankreich + Robotaxis von Lucid + #heiseshow",
       "source": "heise online",
-      "url": "https://www.heise.de/news/Donnerstag-Datenabfluss-bei-1Password-1-Million-Rechenzentren-im-All-erlaubt-11538479.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "url": "https://heise.de/news/Donnerstag-Datenabfluss-bei-1Password-1-Million-Rechenzentren-im-All-erlaubt-11538479.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "published": "2026-11-26T05:15:00+00:00",
       "category": "Cloud"
+    },
+    {
+      "id": "9f20e1d68043da12",
+      "title": "Gartner-Prognose: 80 Prozent neuer Apps sollen kurzlebige Einweg-Software sein - BornCity",
+      "excerpt": "Gartner-Prognose: 80 Prozent neuer Apps sollen kurzlebige Einweg-Software sein BornCity",
+      "summary": "Gartner-Prognose: 80 Prozent neuer Apps sollen kurzlebige Einweg-Software sein BornCity",
+      "source": "BornCity",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYm5zMnBVS0VRclRja2xhTk85Qlg5Zmo1cEpnZnBxcmI0SHBqRVBLUGh0NVBaRVVIS0pMWXY1YjY5aVFKYnVuZ0pwX3Faa1RWVFNQZnlkMjFob245V0h0M1FDcUZqb0FtRlRoUWp3SnVZNTFBYUdsUTl4aFlZd2h5UXYyVjdOMkxtVVdselhGTVk1dWJlNC1iTEdta2o5dGF4QVNIZ0pQVQ?oc=5",
+      "published": "2026-11-26T05:03:05+00:00",
+      "category": "Markt"
     },
     {
       "id": "bb2ea9cd0c90ce75",
@@ -96,7 +106,7 @@
       "excerpt": "Das SpaceX-Projekt „Starmind“ ist von der US-Aufsicht offiziell genehmigt - in massivem Ausmaß. Der erste Rechenzentrum-Satellit soll bis 2033 im All sein.",
       "summary": "Das SpaceX-Projekt „Starmind“ ist von der US-Aufsicht offiziell genehmigt - in massivem Ausmaß. Der erste Rechenzentrum-Satellit soll bis 2033 im All sein.",
       "source": "heise online",
-      "url": "https://www.heise.de/news/USA-genehmigen-1-Million-SpaceX-Satelliten-fuer-KI-Rechenzentren-im-Orbit-11538437.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "url": "https://heise.de/news/USA-genehmigen-1-Million-SpaceX-Satelliten-fuer-KI-Rechenzentren-im-Orbit-11538437.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "published": "2026-11-26T04:03:00+00:00",
       "category": "Cloud"
     },
@@ -156,7 +166,7 @@
       "excerpt": "Laut Bacs wurden erstmals KI-gestützte Angriffe in der Schweiz gemeldet. Und alle waren erfolgreich.",
       "summary": "Laut Bacs wurden erstmals KI-gestützte Angriffe in der Schweiz gemeldet. Und alle waren erfolgreich.",
       "source": "Inside IT",
-      "url": "https://www.inside-it.ch/cyberangriffe-mit-ki-100percent-erfolgsquote-in-der-schweiz-20261125",
+      "url": "https://inside-it.ch/cyberangriffe-mit-ki-100percent-erfolgsquote-in-der-schweiz-20261125",
       "published": "2026-11-25T11:02:08+00:00",
       "category": "IT Schweiz"
     },
@@ -176,7 +186,7 @@
       "excerpt": "Schweizer Tech-Aktien haben nach dem Comeback von Nvidia-CEO Jensen Huang deutlich zugelegt. Damit atmet die KI-nahe Branche nach einer Phase unter Druck auf.",
       "summary": "Schweizer Tech-Aktien haben nach dem Comeback von Nvidia-CEO Jensen Huang deutlich zugelegt. Damit atmet die KI-nahe Branche nach einer Phase unter Druck auf.",
       "source": "Netzwoche",
-      "url": "https://www.netzwoche.ch/news/2026-11-25/schweizer-tech-aktionaere-atmen-auf",
+      "url": "https://netzwoche.ch/news/2026-11-25/schweizer-tech-aktionaere-atmen-auf",
       "published": "2026-11-25T10:53:10+00:00",
       "category": "IT Schweiz"
     },
@@ -196,7 +206,7 @@
       "excerpt": "Erstmals hat der Bund Meldungen über erfolgreiche Cyberangriffe auf Schweizer Unternehmen erhalten, bei denen die Angreifer KI-Agenten einsetzten. Unternehmen und Betreiber kritischer Infrastrukturen sollten ihre Cybersicherheit und Resilienz stärken.",
       "summary": "Erstmals hat der Bund Meldungen über erfolgreiche Cyberangriffe auf Schweizer Unternehmen erhalten, bei denen die Angreifer KI-Agenten einsetzten. Unternehmen und Betreiber kritischer Infrastrukturen sollten ihre Cybersicherheit und Resilienz stärken.",
       "source": "Netzwoche",
-      "url": "https://www.netzwoche.ch/news/2026-11-25/cyberangriffe-mit-ki-agenten-erreichen-die-schweiz",
+      "url": "https://netzwoche.ch/news/2026-11-25/cyberangriffe-mit-ki-agenten-erreichen-die-schweiz",
       "published": "2026-11-25T10:35:28+00:00",
       "category": "IT Schweiz"
     },
@@ -206,7 +216,7 @@
       "excerpt": "Das Lausanner Start-up Coprod hat in einer Pre-Seed-Finanzierungsrunde 6 Millionen US-Dollar eingesammelt. Mit modularen Komponenten und einer gemeinsamen Softwarearchitektur will das Unternehmen die Entwicklung spezialisierter Roboter vereinfachen und beschleunigen.",
       "summary": "Das Lausanner Start-up Coprod hat in einer Pre-Seed-Finanzierungsrunde 6 Millionen US-Dollar eingesammelt. Mit modularen Komponenten und einer gemeinsamen Softwarearchitektur will das Unternehmen die Entwicklung spezialisierter Roboter vereinfachen und beschle",
       "source": "Netzwoche",
-      "url": "https://www.netzwoche.ch/news/2026-11-25/robotik-start-up-coprod-sammelt-6-millionen-us-dollar-ein",
+      "url": "https://netzwoche.ch/news/2026-11-25/robotik-start-up-coprod-sammelt-6-millionen-us-dollar-ein",
       "published": "2026-11-25T10:11:20+00:00",
       "category": "Trends"
     },
@@ -216,7 +226,7 @@
       "excerpt": "Anthropic baut seinen Zürcher Standort aus. Der Entwickler des KI-Modells Claude mietet rund 2500 Quadratmeter Bürofläche in der ehemaligen Fraumünsterpost. Die Räumlichkeiten bieten Platz für etwa 150 Mitarbeitende.",
       "summary": "Anthropic baut seinen Zürcher Standort aus. Der Entwickler des KI-Modells Claude mietet rund 2500 Quadratmeter Bürofläche in der ehemaligen Fraumünsterpost. Die Räumlichkeiten bieten Platz für etwa 150 Mitarbeitende.",
       "source": "Netzwoche",
-      "url": "https://www.netzwoche.ch/news/2025-02-19/anthropic-eroeffnet-niederlassung-in-zuerich",
+      "url": "https://netzwoche.ch/news/2025-02-19/anthropic-eroeffnet-niederlassung-in-zuerich",
       "published": "2026-11-25T09:55:47+00:00",
       "category": "IT Schweiz"
     },
@@ -239,26 +249,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ2o2aUFCdlk1SWd3OTRqNWVtZGRaLW9ieVNtSnB5c2lEbXhGUDB0YXFoeVVrLUxOWVBuOG1iWGZTYV9TOTZvY0ZMWTlXMWp4aVNSdG02dWx6ZGpPYU5ySU5SVWt1WGRUNHYtcXRDQXRETzQ4RktZU211N1FQbzNXNXY1SEd0WVQ1QmNHN3prbUhlbW1oYm9oOFRFWmJHNXlnNEFqSHc5dzk4OVIxR3FsVGxyUWwzb21ZREY1RHIzVDF0dw?oc=5",
       "published": "2026-11-25T08:13:06+00:00",
       "category": "Microsoft 365"
-    },
-    {
-      "id": "1c1b4b8bd22241f7",
-      "title": "Dell verdoppelt Umsatz dank starkem Servergeschäft",
-      "excerpt": "Dell hat im dritten Quartal mehr als doppelt so viel umgesetzt wie vor einem Jahr. Allein mit KI-Servern erzielte der Konzern 22 Milliarden Dollar und hebt seine Umsatzprognose für das Gesamtjahr erneut an.",
-      "summary": "Dell hat im dritten Quartal mehr als doppelt so viel umgesetzt wie vor einem Jahr. Allein mit KI-Servern erzielte der Konzern 22 Milliarden Dollar und hebt seine Umsatzprognose für das Gesamtjahr erneut an.",
-      "source": "IT Reseller",
-      "url": "https://www.itreseller.ch/Artikel/106676/Dell_verdoppelt_Umsatz_dank_starkem_Servergeschaeft.html",
-      "published": "2026-11-25T08:09:05+00:00",
-      "category": "Markt"
-    },
-    {
-      "id": "77c7844d1aab7d36",
-      "title": "Apple bringt zum 1. Dezember zwei (Product)RED-Produkte auf den Markt - Swiss IT Magazine",
-      "excerpt": "Apple bringt zum 1. Dezember zwei (Product)RED-Produkte auf den Markt Swiss IT Magazine",
-      "summary": "Apple bringt zum 1. Dezember zwei (Product)RED-Produkte auf den Markt Swiss IT Magazine",
-      "source": "IT Magazine Schweiz",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbEVxd2R0WTkwbWFlT1RWUldNWUQxUExsRG42VzlTWTlESXZxUzY1eEZzbG5kUEM4LTVMUGVkTks1UjRKQkFwOGdOQUpLYW96a3I2VG1pOEEwZFliRGJKLThjN1lKVUl2LXYyX3N1Q3phLU1jNHJPSkhFcXdoTmJvYU9LQlpXSGJoQUZObFBjbXRCVEdmYmFaUWJZejAya3hvcEJ4Nm1qdDJvanAyU2ZiYmNn?oc=5",
-      "published": "2026-11-25T07:12:00+00:00",
-      "category": "Markt"
     },
     {
       "id": "ba5e5231522f1f31",
@@ -296,7 +286,7 @@
       "excerpt": "Das italienische Technologieunternehmen übernimmt die E-Mail-Marketing-Plattform von Intuit für rund 3,7 Milliarden Dollar.",
       "summary": "Das italienische Technologieunternehmen übernimmt die E-Mail-Marketing-Plattform von Intuit für rund 3,7 Milliarden Dollar.",
       "source": "Inside IT",
-      "url": "https://www.inside-it.ch/bending-spoons-kauft-mailchimp-20261124",
+      "url": "https://inside-it.ch/bending-spoons-kauft-mailchimp-20261124",
       "published": "2026-11-24T15:04:18+00:00",
       "category": "Firmen"
     },
@@ -306,7 +296,7 @@
       "excerpt": "In den vergangenen acht Jahren hat der Schweizer Zoll seine Geschäftsprozesse umfassend digitalisiert. Von den 70 Projekten erreichen fünf das gesteckte Ziel nicht.",
       "summary": "In den vergangenen acht Jahren hat der Schweizer Zoll seine Geschäftsprozesse umfassend digitalisiert. Von den 70 Projekten erreichen fünf das gesteckte Ziel nicht.",
       "source": "Inside IT",
-      "url": "https://www.inside-it.ch/zoll-digitalisierung-erreicht-gesteckte-ziele-fast-20261124",
+      "url": "https://inside-it.ch/zoll-digitalisierung-erreicht-gesteckte-ziele-fast-20261124",
       "published": "2026-11-24T14:39:33+00:00",
       "category": "Trends"
     },
@@ -316,7 +306,7 @@
       "excerpt": "Nestlé eröffnet ein Technologiezentrum im Kanton Waadt. Der Konzern will dort Anwendungen entwickeln und testen, die künstliche Intelligenz, vernetzte Sensoren und Robotik kombinieren. Anschliessend sollen sie in sämtlichen Geschäftsbereichen zum Einsatz kommen.",
       "summary": "Nestlé eröffnet ein Technologiezentrum im Kanton Waadt. Der Konzern will dort Anwendungen entwickeln und testen, die künstliche Intelligenz, vernetzte Sensoren und Robotik kombinieren. Anschliessend sollen sie in sämtlichen Geschäftsbereichen zum Einsatz komme",
       "source": "Netzwoche",
-      "url": "https://www.netzwoche.ch/news/2026-11-24/nestle-eroeffnet-zentrum-fuer-ki-und-robotik",
+      "url": "https://netzwoche.ch/news/2026-11-24/nestle-eroeffnet-zentrum-fuer-ki-und-robotik",
       "published": "2026-11-24T09:44:44+00:00",
       "category": "Trends"
     },
@@ -349,9 +339,69 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc3RXcWhJV0tmSkRheFdkb1RNM0tJRHI5U0t1djA2a3paSjlWMTJ4RGVrZGxKTDFnUXY1NVdQWFhRV2ZNQWt2WERiNkwwS3lIamhsWFBCWUZzSTd1Q3J4dkctXzRwYzcyVTdJZ3VBLUVhbzJ2YVQwWUc2bndPMWhPQmJNUWUxM2tETGY4UEJBZkZJd0NHX3JsNFZpbzhSQ0FWVDZfNzdZdTRGQWFWMEJWQ1pmQnNQNUd4VWFCNA?oc=5",
       "published": "2026-11-23T20:45:00+00:00",
       "category": "Trends"
+    },
+    {
+      "id": "5d3d5c31e17afc9c",
+      "title": "Palo Alto Networks übernimmt KI-Start-up für 4,5 Milliarden Dollar - Swiss IT Reseller",
+      "excerpt": "Palo Alto Networks übernimmt KI-Start-up für 4,5 Milliarden Dollar Swiss IT Reseller",
+      "summary": "Palo Alto Networks übernimmt KI-Start-up für 4,5 Milliarden Dollar Swiss IT Reseller",
+      "source": "IT Reseller / Firmen",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeWJMTG5Vc0ZWSDBkUmhvZEJxS1FqRWRsVGRtcnNiM3VQS1h5UXowRFBhbkdOZC1IWTVmZTE2SktpWHl0cWUya29uc3FQMjhiWGNpWFk4UXFrdVhWSmlCZHBoUm9HMHhoVkRmcWRIZElMekktRk9vbnUyQjV3SWtDbzZRV2xkSUZMZFhUTWhvWlUxcWZhRjMwbm1qMmJTSjRENktpOVowRnJqdy1IOUVaNTRvRQ?oc=5",
+      "published": "2026-11-23T07:12:00+00:00",
+      "category": "IT Schweiz"
+    },
+    {
+      "id": "9e6b5f5480a8185a",
+      "title": "Jensen Huang tritt als Nvidia-CEO zurück, Colette Kress übernimmt - Swiss IT Reseller",
+      "excerpt": "Jensen Huang tritt als Nvidia-CEO zurück, Colette Kress übernimmt Swiss IT Reseller",
+      "summary": "Jensen Huang tritt als Nvidia-CEO zurück, Colette Kress übernimmt Swiss IT Reseller",
+      "source": "IT Reseller / Personen",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS1BDNVZHNlJrQm41UHhsT211TWhta250Q1ZDYlVqa0czbTFUQVFKOWlFandCNGpaVFlvVm5iMG5aWDZ5UjB0SDhlMEJSS1BncHp3dlpmWG9hbWdsS0g0eG5qcXFKc3FrbVZ3WVM5cGdZWW1MRm44WENySUpvZ2J2czBFYU5hQmprbmF0T0x0MC1Rdzgyb3ZRcEU2UGNoNE9vZDh6dlJ0SXlIM1JXN3hHTGJB?oc=5",
+      "published": "2026-11-12T08:00:00+00:00",
+      "category": "Personen"
+    },
+    {
+      "id": "a339c25e3b3dfd08",
+      "title": "Nvidia-Chef Jensen Huang tritt zurück - Inside IT",
+      "excerpt": "Nvidia-Chef Jensen Huang tritt zurück Inside IT",
+      "summary": "Nvidia-Chef Jensen Huang tritt zurück Inside IT",
+      "source": "Inside IT / Personen",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yTk1VOURVWU96WHB2aThaSEgwSTF0UkpOeG51UVBVSm95Tm9RLUdwV0d0Qm95amE4X3RWRmkzWjg1anV0NHdQMGk0UkhIQkZPY1ZrZUZ1elp1ckxMVXV4Tl9YeUkyd2pPbVoxLWVNUjM3eWRQVFJjX3FSNWc?oc=5",
+      "published": "2026-11-12T08:00:00+00:00",
+      "category": "Personen"
+    },
+    {
+      "id": "4e932eef5789a548",
+      "title": "Stellvertretender CIO der Uni Zürich wechselt zu Switch - Netzwoche",
+      "excerpt": "Stellvertretender CIO der Uni Zürich wechselt zu Switch Netzwoche",
+      "summary": "Stellvertretender CIO der Uni Zürich wechselt zu Switch Netzwoche",
+      "source": "Netzwoche / Personen",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd1dja2J6OFh1bmVIRWpRSm5mSl9IYWhpaXp1dlJ3MXVTX25EZWE1NnpXdnAxYzNwY1Qwc3YxZ3Y4ZElNUkl0aUgxMXdjS0Rob1l0RmJpMTNmSnJtQ2MydnFrcTBNcXl4RFFPMUJQNTZ3UE1vTVZYUldWTl9jbWhZUFlIR0VFQ1VYZWdFSkZ6Ul96LXZmbTJzUTNKT2dxUQ?oc=5",
+      "published": "2026-11-10T08:00:00+00:00",
+      "category": "Personen"
+    },
+    {
+      "id": "e8ad53c88ad70043",
+      "title": "Emma Walmsley wird neue CEO von HP - Inside IT",
+      "excerpt": "Emma Walmsley wird neue CEO von HP Inside IT",
+      "summary": "Emma Walmsley wird neue CEO von HP Inside IT",
+      "source": "Inside IT / Personen",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80LW1TY1Y2Yms5cGc0Z1lCWmRYbDZzcVpURjZ6eHpibmtxUktzWVZscnJyQ1dEWGhCMWRoTDRSdnlrcGVoU3pkRUVwVTBPSTVHOWZ0QTdFeXJRZVdsY3c4eFE2SWNVeUd4OHNxUHowVDhlNHhxaTdZ?oc=5",
+      "published": "2026-11-04T08:00:00+00:00",
+      "category": "Personen"
+    },
+    {
+      "id": "0c7541c19cb5ffcf",
+      "title": "Ruag-Chef Oliver Müller wechselt zu Eraneos - Swiss IT Reseller",
+      "excerpt": "Ruag-Chef Oliver Müller wechselt zu Eraneos Swiss IT Reseller",
+      "summary": "Ruag-Chef Oliver Müller wechselt zu Eraneos Swiss IT Reseller",
+      "source": "IT Reseller / Personen",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNazhRUnExaGVFWV9GTjZyRWNyeHBORE1SS2dlQXRmelJJZjZ2LVVJSWFHYVdIRVVtWmZXUkM2cWhMNVc1WFQ0R2JBcTdsZHhvYTZvX2ZYNGVJRzlBc3VUZ0RMSmZ3S1NmVTFzQ1BfeFhPeVRoME45cktIc29JMk1ubVFSenFVWV9NWHZ2UE96R0J0Q1lC?oc=5",
+      "published": "2026-10-29T07:00:00+00:00",
+      "category": "Personen"
     }
   ],
-  "updatedAt": "2026-11-26T09:20:19.253352+00:00",
+  "updatedAt": "2026-11-26T09:53:24.231334+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -363,7 +413,7 @@
     "Personen": 10
   },
   "counts": {
-    "Personen": 0,
+    "Personen": 5,
     "Security": 5,
     "Microsoft 365": 5,
     "IT Schweiz": 5,
@@ -372,6 +422,6 @@
     "Markt": 5,
     "Firmen": 5
   },
-  "warning": "Nicht genügend passende aktuelle Meldungen: 10 × Personen.",
+  "warning": "Nicht genügend passende aktuelle Meldungen: 5 × Personen.",
   "aiSummaries": false
 }
