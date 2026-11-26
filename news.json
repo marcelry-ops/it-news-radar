@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "8487037040fec5a7",
+      "title": "Update: Phishing-Welle folgt auf Outlook-Panne",
+      "excerpt": "Nach mehr als 24 Stunden hat Microsoft die weltweite Störung seiner Cloud-Dienste behoben. Als Ursache nennt der Konzern ein technisches Problem im Zusammenhang mit Änderungen an seiner Netzwerkinfrastruktur. Nach dem Ausfall mehren sich nun die entsprechenden Phishing-Vorfälle.",
+      "summary": "Nach mehr als 24 Stunden hat Microsoft die weltweite Störung seiner Cloud-Dienste behoben. Als Ursache nennt der Konzern ein technisches Problem im Zusammenhang mit Änderungen an seiner Netzwerkinfrastruktur. Nach dem Ausfall mehren sich nun die entsprechenden",
+      "source": "Netzwoche",
+      "url": "https://netzwoche.ch/news/2026-11-13/microsoft-kaempft-mit-ausfaellen-von-outlook-und-teams",
+      "published": "2026-11-26T14:33:05+00:00",
+      "category": "Security"
+    },
+    {
       "id": "955648ecbea28bad",
       "title": "Basler Datenschutzbeauftragte untersagt VPN-Auslagerung an US-amerikanischen Anbieter",
       "excerpt": "Der Kanton Basel-Stadt darf seine VPN- und Proxy-Lösungen vorerst nicht in die Cloud eines US-amerikanischen Anbieters auslagern. Die Datenschutzbeauftragte blockiert das Vorhaben und warnt davor, dass der Anbieter auf unverschlüsselte Gesundheits- und Steuerdaten zugreifen könnte.",
@@ -18,26 +28,6 @@
       "source": "heise online",
       "url": "https://heise.de/news/Warnung-vor-erheblichen-Folgen-Erfolgreicher-Cyberangriff-auf-die-FIFA-11539255.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "published": "2026-11-26T13:33:00+00:00",
-      "category": "Security"
-    },
-    {
-      "id": "974494a12f74fccd",
-      "title": "SAP: Spionagevorwürfe um Startup-Partner Conduct - it-daily.net",
-      "excerpt": "SAP: Spionagevorwürfe um Startup-Partner Conduct it-daily.net",
-      "summary": "SAP: Spionagevorwürfe um Startup-Partner Conduct it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RYUFEY0x5WFVUMVJnTDNwV2dDMzNldHpGV0ZuQjFqN3FLMmJCcC13bm8wNWlfSVlwai1jYmQxR2tiYk50MkpkTGlNQ0d2WGkxcDZScFpOMDY5M0ZCRkRSRm8yWXBqUmZQVFdVSWE3QWxJdw?oc=5",
-      "published": "2026-11-26T13:27:38+00:00",
-      "category": "Firmen"
-    },
-    {
-      "id": "ffbee855be4da530",
-      "title": "Cyberangriff auf US-Behörde gegen Finanzkriminalität",
-      "excerpt": "Eine weitere US-Behörde ist Opfer eines Cyberangriffs geworden. Dieses Mal trifft es eine Abteilung gegen Finanzkriminalität.",
-      "summary": "Eine weitere US-Behörde ist Opfer eines Cyberangriffs geworden. Dieses Mal trifft es eine Abteilung gegen Finanzkriminalität.",
-      "source": "heise online",
-      "url": "https://heise.de/news/Cyberangriff-auf-US-Behoerde-gegen-Finanzkriminalitaet-11539155.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published": "2026-11-26T12:59:00+00:00",
       "category": "Security"
     },
     {
@@ -61,24 +51,14 @@
       "category": "IT Schweiz"
     },
     {
-      "id": "a8d5a5fa4019d4f9",
-      "title": "Fifa bestätigt Ransomware-Angriff",
-      "excerpt": "Der Fussballverband ist Opfer eines kriminellen Cyberangriffs geworden. Die Ransomware-Bande HBHC hat sich zu dem Angriff bekannt und will gestohlene Daten publizieren.",
-      "summary": "Der Fussballverband ist Opfer eines kriminellen Cyberangriffs geworden. Die Ransomware-Bande HBHC hat sich zu dem Angriff bekannt und will gestohlene Daten publizieren.",
-      "source": "Inside IT",
-      "url": "https://inside-it.ch/fifa-bestaetigt-ransomware-angriff-20261126",
-      "published": "2026-11-26T11:58:50+00:00",
-      "category": "Security"
-    },
-    {
-      "id": "bb910d52542a839a",
-      "title": "Vom FBI überlistet: Wie ein Datenretter Ransomware-Opfer abgezockt haben soll",
-      "excerpt": "Der Mann bot Ransomware-Opfern eine nahezu sichere Datenrettung anhand spezieller Tools an. Im Hintergrund lief aber wohl alles anders als beworben. ( Ransomware , Verschlüsselung )",
-      "summary": "Der Mann bot Ransomware-Opfern eine nahezu sichere Datenrettung anhand spezieller Tools an. Im Hintergrund lief aber wohl alles anders als beworben. ( Ransomware , Verschlüsselung )",
-      "source": "Golem.de",
-      "url": "https://golem.de/news/vom-fbi-ueberlistet-wie-ein-datenretter-ransomware-opfer-abgezockt-haben-soll-2611-215691.html",
-      "published": "2026-11-26T11:36:02+00:00",
-      "category": "Security"
+      "id": "54de5e845ace16a7",
+      "title": "Rechnung nicht verschlüsselt: Firma muss fast 20.000 Euro zahlen - it-daily.net",
+      "excerpt": "Rechnung nicht verschlüsselt: Firma muss fast 20.000 Euro zahlen it-daily.net",
+      "summary": "Rechnung nicht verschlüsselt: Firma muss fast 20.000 Euro zahlen it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RSmRseG5rSWJNZVluZWY1WGozb3Q0YXF3a3pRMkhZTTlRMnVpdHFPVlMtcmlPem5tcGd2YUxWV1Z2UlZaVTBNaE54ekFrRzhFQXg5VE1JbkNpZEh0SmpTVjZENzFZLVBDRlYwNkR2dzJNUQ?oc=5",
+      "published": "2026-11-26T11:31:48+00:00",
+      "category": "Firmen"
     },
     {
       "id": "50b3868b9687e2bc",
@@ -131,13 +111,33 @@
       "category": "Markt"
     },
     {
-      "id": "7b0944c9c2984131",
-      "title": "Cyberangriff auf Planzer trifft auch Digitec-Galaxus-Kunden - SWI swissinfo.ch",
-      "excerpt": "Cyberangriff auf Planzer trifft auch Digitec-Galaxus-Kunden SWI swissinfo.ch",
-      "summary": "Cyberangriff auf Planzer trifft auch Digitec-Galaxus-Kunden SWI swissinfo.ch",
-      "source": "SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOUNVTkljYW1BbW1WM25JdW5iREhqN3JjUnlWNHhPaGNHU3F6VXhRemtJOUkzdnp6OVRGOW92T3k4Y3pibG9tdEEtb0pfZ28yc19uZkNSZTBuUTJuM1hlWUxleGFLYnpYUk5wOVowbmowdlZlSjl4SWFma2Y4UHIzczRiQkRFWTFHVHdfMnE4cDZhcXFNZ25yaXdjMGJyZw?oc=5",
-      "published": "2026-11-26T06:35:34+00:00",
+      "id": "5866a1dccd9885b6",
+      "title": "CVE-2025-42884: JNDI-Injektion in SAP NetWeaver AS Java ermöglicht Remote-Code-Ausführung",
+      "excerpt": "CVE-2025-42884: JNDI-Injektion in SAP NetWeaver AS Java ermöglicht Remote-Code-Ausführung All About SECURITY",
+      "summary": "CVE-2025-42884: JNDI-Injektion in SAP NetWeaver AS Java ermöglicht Remote-Code-Ausführung All About SECURITY",
+      "source": "All About SECURITY",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT0dFTm1VS0V5YXFOSWtoX2JvZTkzWmxpTWpDeHhsNFpBRTFIOXZPX3VIM1phWHd5M3dJV3A0NDQxaWNXM093MnIwdmlmOURzdmM3cThrUEhsUmVoWm1IWkR2aTRabjJaa2lDUkV4WVpJbGVOanpDQnZ0enI1cWdxYzhSbVVQa3FjT2lHOXllTk44QXY5azFSMnQyLXo2RGFPWnU1Y1BEOXZTY2c2MEUxTUdrMEtPNjNjLWxBWmM1Q0h5MXc?oc=5",
+      "published": "2026-11-26T08:59:18+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "b369d55b5756f936",
+      "title": "Bechtle integriert AWS und Microsoft Marketplaces in eigene Cloud-Plattform - Swiss IT Reseller",
+      "excerpt": "Bechtle integriert AWS und Microsoft Marketplaces in eigene Cloud-Plattform Swiss IT Reseller",
+      "summary": "Bechtle integriert AWS und Microsoft Marketplaces in eigene Cloud-Plattform Swiss IT Reseller",
+      "source": "IT Reseller / Firmen",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMU8xbDhjZjFOZkJYWFA0QVRQYWpvSDdsYkVTS0dsQWRId2lmUTZ3eVA3Nnd5aTExWktTWHJVTmV2dmpXSUltU2EwMUVYcFVVYXRsc0d1eW5WWWl0akRZb0htenB1NnBMMkJwREFfMGR5Y0lBWkdnT2twQ2JQVmVFQXVtSWVVZTBsRWdkTzIxOUZRUFZ6UjE2bFozdDd5TDdwS0dWRG1XVDBRWVQ1VjV4UHF1MEhsYkN0TlBDTDNB?oc=5",
+      "published": "2026-11-26T07:12:00+00:00",
+      "category": "Cloud"
+    },
+    {
+      "id": "22f74791b7040d04",
+      "title": "Drupal: Zugriffslücke CVE-2026-136716 wird aktiv ausgenutzt",
+      "excerpt": "Drupal: Zugriffslücke CVE-2026-136716 wird aktiv ausgenutzt All About SECURITY",
+      "summary": "Drupal: Zugriffslücke CVE-2026-136716 wird aktiv ausgenutzt All About SECURITY",
+      "source": "All About SECURITY",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM2lwVzlEMTd6T2d0V0tiTG90TkNoX0JHdlhaZDY3TFVfMFdhQ1ZsX05xTnVyWWJ2cFNWMFdSNHIzdWtIRFpfUnN6V01ZNmN5WnZ3Tnkxd3dMRTk0aWFaWEFDN19KMUJtQ09uOW9odG1fenlTVHJsNUJraGdrRDJrajBheWVwbllmVUZpemN6OFMtcUQxX0Y5NGlB?oc=5",
+      "published": "2026-11-26T06:38:06+00:00",
       "category": "Security"
     },
     {
@@ -151,14 +151,14 @@
       "category": "Trends"
     },
     {
-      "id": "ca66ae0a29aece42",
-      "title": "Konkurrenz für Palantir: Berliner Firma A11 startet KI-Software als europäische Alternative - T3N",
-      "excerpt": "Konkurrenz für Palantir: Berliner Firma A11 startet KI-Software als europäische Alternative T3N",
-      "summary": "Konkurrenz für Palantir: Berliner Firma A11 startet KI-Software als europäische Alternative T3N",
-      "source": "t3n",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOREJDNHdyaXU5TUtRd3FJOUU1U0VrS3hHUEhKSm1HNGt6VU1mWEx4RnYyRW9OQUxndEpxaVZ6dF8yaVpNQTJXc3FLRFdmOFpNZmdqaHhOTWdzMmdzaUJZVkRkbTN4NlZVM3Y2eklRUHZEeTNYcEVnd2Z1TmI5NEh0R3hHS1RTUkFRb1FrclliTjRrT0lqRDMwTF82OFV2c19QMEo5QTlUMl8yZU9jX3FiQlg1bFhJc0lHVU1KdjV3?oc=5",
-      "published": "2026-11-26T06:25:38+00:00",
-      "category": "Firmen"
+      "id": "3f5d746a55af3138",
+      "title": "Chrome Zero-Day: Exploit aktiv, Update 157.0.8103.50",
+      "excerpt": "Chrome Zero-Day: Exploit aktiv, Update 157.0.8103.50 Security-Insider",
+      "summary": "Chrome Zero-Day: Exploit aktiv, Update 157.0.8103.50 Security-Insider",
+      "source": "Security-Insider",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVEdRZnl3bC02Z3FGaDN1cFhfLS1ELTA2MERTVzV6eW1KaDg5T1dzbGNUZnQzckFCNXJfV21iU3Y1ek9IUTJsNkE5aXU5OHM2bU9PRVVhUV9fZXQ2RS01S1NYU2thWlIzZnpaS3N0ZnlrQm5ZSExrLU9nM2ctc1FXdHJaSm1OdUdSd2RBOXZpZTFwV1pLQl8tOG5hRmUxUVhURnlWZ2tLVlMzS3h6OG9zdkd3?oc=5",
+      "published": "2026-11-26T06:00:00+00:00",
+      "category": "Security"
     },
     {
       "id": "7dd07042c060bf6f",
@@ -198,16 +198,6 @@
       "source": "IT-Daily",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdnVSNnVhSEdKSmJhYmN4enRRbDljeU43N19RNjJnX2E4c3JPMURpdU5jNWxQaTE1NzF2bWw3Vk1FM3daMFl0OEFQaW92UGJWUHBxc1NwUDdhbHJYTUlFUFdvUVZlMng5c3VaUXpNbW9lUTZJX2ZGdFlpWExKWE52SkltbEhTM3Y5VHNsUW51dXh1dnNfaEE?oc=5",
       "published": "2026-11-25T16:04:09+00:00",
-      "category": "Cloud"
-    },
-    {
-      "id": "0996c1e36c8a6f57",
-      "title": "Multi-Cloud-Backup: Was „Cloud-nativ“ eigentlich bedeutet - it-daily.net",
-      "excerpt": "Multi-Cloud-Backup: Was „Cloud-nativ“ eigentlich bedeutet it-daily.net",
-      "summary": "Multi-Cloud-Backup: Was „Cloud-nativ“ eigentlich bedeutet it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMUFIcXEzVFc1UnhxWDRZYUM1MVMwTDdyR2dCdUcxcXRDOW4xZG54ajBfelhFaE5CT3l5dFJFUlFQSVFzM3MxekxwcERDcUhRQmtyejVHVWE0RXNibHV2X1JSbDdFTGNSVVY0MHc1N2E3Y2dDUmRaWGxHbGMxVjRyMVFnLTNnZmJ6clFjdHpR?oc=5",
-      "published": "2026-11-25T14:59:30+00:00",
       "category": "Cloud"
     },
     {
@@ -281,13 +271,13 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "0de11cb35c678b2e",
-      "title": "Nutanix-CEO Rajiv Ramaswami kündigt Abschied an",
-      "excerpt": "Nach fast sechs Jahren als CEO von Nutanix hat Rajiv Ramaswami seinen Abschied angekündigt. Er bleibt im Amt, bis ein Nachfolger gefunden ist, und soll Nutanix danach noch eine Zeit lang als Senior Advisor begleiten.",
-      "summary": "Nach fast sechs Jahren als CEO von Nutanix hat Rajiv Ramaswami seinen Abschied angekündigt. Er bleibt im Amt, bis ein Nachfolger gefunden ist, und soll Nutanix danach noch eine Zeit lang als Senior Advisor begleiten.",
-      "source": "IT Reseller",
-      "url": "https://itreseller.ch/Artikel/106673/Nutanix-CEO_Rajiv_Ramaswami_kuendigt_Abschied_an.html",
-      "published": "2026-11-25T06:28:56+00:00",
+      "id": "c93ca087eec342e4",
+      "title": "Nutanix-CEO Rajiv Ramaswami kündigt Abschied an - Swiss IT Reseller",
+      "excerpt": "Nutanix-CEO Rajiv Ramaswami kündigt Abschied an Swiss IT Reseller",
+      "summary": "Nutanix-CEO Rajiv Ramaswami kündigt Abschied an Swiss IT Reseller",
+      "source": "IT Reseller / Personen",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZE5OZjJCcnlMTHB3dWpIeTJKa2RQdnRHLWFTeXVVNEMtdl9KYTVmN3k3SDh2OEhUMF83dVM2ZTRQU251dUp4TExLOWFIMDVxTFF4SnFDeUp4TDJlVTFQUkRlcTRVRk1Ec0JJc3c5a2FxWEJRYXNtY3g5TEg5ZDk3XzdjZmRFS2VQd3RTRUZJdENaTUJvUkNqYkRn?oc=5",
+      "published": "2026-11-25T07:12:00+00:00",
       "category": "Personen"
     },
     {
@@ -321,14 +311,24 @@
       "category": "Trends"
     },
     {
-      "id": "403ab82b316d0f70",
-      "title": "Infinigate ernennt Tom OReilly zum Chief Transformation Officer",
-      "excerpt": "Tom OReilly ist neuer Chief Transformation Officer bei Infinigate. Er soll sich vor allem auf den Ausbau und die Optimierung des Plattformgeschäftes konzentrieren.",
-      "summary": "Tom OReilly ist neuer Chief Transformation Officer bei Infinigate. Er soll sich vor allem auf den Ausbau und die Optimierung des Plattformgeschäftes konzentrieren.",
-      "source": "IT Reseller",
-      "url": "https://itreseller.ch/Artikel/106670/Infinigate_ernennt_Tom_OReilly_zum_Chief_Transformation_Officer_.html",
-      "published": "2026-11-24T08:21:51+00:00",
+      "id": "71de01c55c022bba",
+      "title": "Infinigate ernennt Tom O’Reilly zum Chief Transformation Officer - Swiss IT Reseller",
+      "excerpt": "Infinigate ernennt Tom O’Reilly zum Chief Transformation Officer Swiss IT Reseller",
+      "summary": "Infinigate ernennt Tom O’Reilly zum Chief Transformation Officer Swiss IT Reseller",
+      "source": "IT Reseller / Personen",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZV93SFU3WnBNVFlXdlJkWEJ1OG1PS1hpSUN1WVRsTUd0YUNDVHRBaDJzdmhrcnRRRnlHLXUtRTdTMll4SXNxcDU5bk5WZmtmMTFGYUt5aWVqTF8ydEFrTUJVaVJzWFd1WnE5NWFFaUhlOWg1UkxlS2lMWVN3emZMRDR3ZWU3Smh4cXRvZ0dLSW9GTUVUdGlBRVVwRDhxSTYtVWhLZTA2UmVFM0JQRmNF?oc=5",
+      "published": "2026-11-24T07:12:00+00:00",
       "category": "Personen"
+    },
+    {
+      "id": "154a0622ab6b2b10",
+      "title": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse",
+      "excerpt": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse Swiss IT Reseller",
+      "summary": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse Swiss IT Reseller",
+      "source": "Swiss IT Reseller",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY3JBZmg3bDJmVlJjSXVCZmlSUWdNNkcyVUhjWDQ5eFJYcWZQZGowcUtJQlRaVGwweDBLOVc1c1g1YkVSeTRzZDhNZUJWclQycy1VRzBtM2hEN012dzdJTTZSWmswZEtJRUtNNzF3dkRGLUp0QTZONktKMlJ2Ymxib3l0NkJEdmFyZ2RlN3V0b3ZYOF9UZkpwa1AwUU1rNS10TE5vVS1vbm5zb0Nk?oc=5",
+      "published": "2026-11-24T07:12:00+00:00",
+      "category": "Firmen"
     },
     {
       "id": "48f6cf571c9179f0",
@@ -341,6 +341,16 @@
       "category": "Firmen"
     },
     {
+      "id": "75cadcc3ca8efbf0",
+      "title": "Infinigate ernennt Chief Transformation Officer - Inside IT",
+      "excerpt": "Infinigate ernennt Chief Transformation Officer Inside IT",
+      "summary": "Infinigate ernennt Chief Transformation Officer Inside IT",
+      "source": "Inside IT / Personen",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdWlIMmozeWc2dl9DT2NWbnk5RllUTVR1d2gtLUtKWE5XUDJzSnZFb0g1ZUhpZjdtbEV5TThoV21nYUp5WHNqV2ZsZzk3SDRXbzFCeDd1SHZ0aC1DUDBGOFhhcG5DQmsxY29VOUpNUEg1NnJLU25GTU1EM1RmRzM2dlVXeGVtV1Mw?oc=5",
+      "published": "2026-11-24T02:21:00+00:00",
+      "category": "Personen"
+    },
+    {
       "id": "7752aea542c6aa6e",
       "title": "Microsoft To Do wird zum 30. Juni 2027 eingestellt - BornCity",
       "excerpt": "Microsoft To Do wird zum 30. Juni 2027 eingestellt BornCity",
@@ -351,22 +361,22 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "7bd6ee3cf8c692cd",
-      "title": "Nvidia holt Jensen Huang als CEO zurück",
-      "excerpt": "Jensen Huang ist trotz der Skandale der vergangenen Wochen wieder zurück an der Spitze von Nvidia: Der Chip-Konzern hat seine Rückkehr als CEO bekanntgegeben.",
-      "summary": "Jensen Huang ist trotz der Skandale der vergangenen Wochen wieder zurück an der Spitze von Nvidia: Der Chip-Konzern hat seine Rückkehr als CEO bekanntgegeben.",
-      "source": "IT Reseller",
-      "url": "https://itreseller.ch/Artikel/106667/Nvidia_holt_Jensen_Huang_als_CEO_zurueck.html",
-      "published": "2026-11-23T13:50:07+00:00",
-      "category": "Personen"
-    },
-    {
       "id": "36a23467e0a57fc8",
       "title": "Zscaler stellt Führungsspitze der Alpine-Region neu auf - Swiss IT Reseller",
       "excerpt": "Zscaler stellt Führungsspitze der Alpine-Region neu auf Swiss IT Reseller",
       "summary": "Zscaler stellt Führungsspitze der Alpine-Region neu auf Swiss IT Reseller",
       "source": "IT Reseller / Personen",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWEwyLW5LWF9weTJpTlg1UmQxSXNUbGRuYk1GRU9ucnQyZlIyeTBlOG8zbkhSbVBpeTdLSkJHdUpBRVMwcFJNcGJVY2l3YW1VYWRYWjVtMnZpdmJDdE9TWkNSQnNnb1MzWERiQV9qa0E1MEpUdXUzM3VZV0gwSm0zcmJHMDdVdGN5d0stM2ZscTBJNG1XbzFNRzR1NmIzOWU5Y0JfWjlR?oc=5",
+      "published": "2026-11-23T07:12:00+00:00",
+      "category": "Personen"
+    },
+    {
+      "id": "2de60e26a9176ae1",
+      "title": "Nvidia holt Jensen Huang als CEO zurück - Swiss IT Reseller",
+      "excerpt": "Nvidia holt Jensen Huang als CEO zurück Swiss IT Reseller",
+      "summary": "Nvidia holt Jensen Huang als CEO zurück Swiss IT Reseller",
+      "source": "IT Reseller / Personen",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQclN1UkQtNnYwejFKSXRmaHFVQTFzRWt3SldhdE1HTERQaHlNRFNKVkIyWjhsM3RPeDY3RUh3ZkpvNkpHT2lBeXBnZzEzQVZtNWpfajRzT2dKdGhnaUJuNHRUaEtZTi1ZYXZSYXpWRXBWNWhVTkpGRGZScS05T1JxWFFiTnRRTE1teENBX1phOA?oc=5",
       "published": "2026-11-23T07:12:00+00:00",
       "category": "Personen"
     },
@@ -439,19 +449,9 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUFItLVZ3UGpfTmhuQW10amRWVTZlMnVHMjh5VFhqYmtTWUh5TVpGWFlyQVRIZU9pMDlTbHFaQkFMZlJuNVNrdmRROS1IQlRMWWgzYU9ibFpVXy00R0NodVJfV3hYMF8zQ1JBYXdMZ005NmhzQVdNV2ZSRWJqRlRSZG9ycU83dmVNQ3lZUnpnSzBGYTFPRjZEWFlySjN1S0RzSE81ZW5mck5rWFhVWFFUYVFwMU5palNDNDVHalBR?oc=5",
       "published": "2026-11-09T08:00:00+00:00",
       "category": "Personen"
-    },
-    {
-      "id": "f1544c7c871f916b",
-      "title": "Convotis Schweiz ernennt Oliver Thome zum CEO - Swiss IT Reseller",
-      "excerpt": "Convotis Schweiz ernennt Oliver Thome zum CEO Swiss IT Reseller",
-      "summary": "Convotis Schweiz ernennt Oliver Thome zum CEO Swiss IT Reseller",
-      "source": "IT Reseller / Personen",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR2h0bm1hRUFVZ0t4V1FZaFdUbGJrUjB0NzZkUjJ5WnNtZFBHRVAzeU8xTWN3alNVZTYwS1p6TlM0RlU4Znd4cXdubEJCb3VKSm1LSkRUTkJESlpFbWJ3WWhDMGsxMElmTDg5OU52bnQyZWdfNjdUVVpxNl9TSDVYQ2Q3NGVGUGdqR0lIVmZwYm44XzBPdFE?oc=5",
-      "published": "2026-11-06T08:00:00+00:00",
-      "category": "Personen"
     }
   ],
-  "updatedAt": "2026-11-26T13:52:43.857808+00:00",
+  "updatedAt": "2026-11-26T15:08:39.383996+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -472,6 +472,6 @@
     "Markt": 5,
     "Firmen": 5
   },
-  "warning": "1 von 54 RSS-Quellen waren nicht erreichbar.",
+  "warning": "2 von 54 RSS-Quellen waren nicht erreichbar.",
   "aiSummaries": false
 }
