@@ -1,6 +1,56 @@
 {
   "items": [
     {
+      "id": "22f74791b7040d04",
+      "title": "Drupal: Zugriffslücke CVE-2026-136716 wird aktiv ausgenutzt",
+      "excerpt": "Drupal: Zugriffslücke CVE-2026-136716 wird aktiv ausgenutzt All About SECURITY",
+      "summary": "Drupal: Zugriffslücke CVE-2026-136716 wird aktiv ausgenutzt All About SECURITY",
+      "source": "All About SECURITY",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM2lwVzlEMTd6T2d0V0tiTG90TkNoX0JHdlhaZDY3TFVfMFdhQ1ZsX05xTnVyWWJ2cFNWMFdSNHIzdWtIRFpfUnN6V01ZNmN5WnZ3Tnkxd3dMRTk0aWFaWEFDN19KMUJtQ09uOW9odG1fenlTVHJsNUJraGdrRDJrajBheWVwbllmVUZpemN6OFMtcUQxX0Y5NGlB?oc=5",
+      "published": "2026-11-26T06:38:06+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "4e9598764d4a437e",
+      "title": "Eine Million Satelliten: SpaceX darf Rechenzentren ins All bringen",
+      "excerpt": "Die US-Behörde FCC hat den Plan von SpaceX genehmigt, bis zu einer Million Satelliten für künstliche Intelligenz in die Umlaufbahn zu schicken. ( SpaceX , KI )",
+      "summary": "Die US-Behörde FCC hat den Plan von SpaceX genehmigt, bis zu einer Million Satelliten für künstliche Intelligenz in die Umlaufbahn zu schicken. ( SpaceX , KI )",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/eine-million-satelliten-spacex-darf-rechenzentren-ins-all-bringen-2611-215669.html",
+      "published": "2026-11-26T06:26:01+00:00",
+      "category": "Trends"
+    },
+    {
+      "id": "ca66ae0a29aece42",
+      "title": "Konkurrenz für Palantir: Berliner Firma A11 startet KI-Software als europäische Alternative - t3n",
+      "excerpt": "Konkurrenz für Palantir: Berliner Firma A11 startet KI-Software als europäische Alternative t3n",
+      "summary": "Konkurrenz für Palantir: Berliner Firma A11 startet KI-Software als europäische Alternative t3n",
+      "source": "t3n",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOREJDNHdyaXU5TUtRd3FJOUU1U0VrS3hHUEhKSm1HNGt6VU1mWEx4RnYyRW9OQUxndEpxaVZ6dF8yaVpNQTJXc3FLRFdmOFpNZmdqaHhOTWdzMmdzaUJZVkRkbTN4NlZVM3Y2eklRUHZEeTNYcEVnd2Z1TmI5NEh0R3hHS1RTUkFRb1FrclliTjRrT0lqRDMwTF82OFV2c19QMEo5QTlUMl8yZU9jX3FiQlg1bFhJc0lHVU1KdjV3?oc=5",
+      "published": "2026-11-26T06:25:38+00:00",
+      "category": "Firmen"
+    },
+    {
+      "id": "3f5d746a55af3138",
+      "title": "Chrome Zero-Day: Exploit aktiv, Update 157.0.8103.50",
+      "excerpt": "Chrome Zero-Day: Exploit aktiv, Update 157.0.8103.50 Security-Insider",
+      "summary": "Chrome Zero-Day: Exploit aktiv, Update 157.0.8103.50 Security-Insider",
+      "source": "Security-Insider",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVEdRZnl3bC02Z3FGaDN1cFhfLS1ELTA2MERTVzV6eW1KaDg5T1dzbGNUZnQzckFCNXJfV21iU3Y1ek9IUTJsNkE5aXU5OHM2bU9PRVVhUV9fZXQ2RS01S1NYU2thWlIzZnpaS3N0ZnlrQm5ZSExrLU9nM2ctc1FXdHJaSm1OdUdSd2RBOXZpZTFwV1pLQl8tOG5hRmUxUVhURnlWZ2tLVlMzS3h6OG9zdkd3?oc=5",
+      "published": "2026-11-26T06:00:00+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "2b44dd2f3c9b3cb1",
+      "title": "Berliner Start-up A11 tritt mit KI-Software gegen amerikanische Rivalen an - it-daily.net",
+      "excerpt": "Berliner Start-up A11 tritt mit KI-Software gegen amerikanische Rivalen an it-daily.net",
+      "summary": "Berliner Start-up A11 tritt mit KI-Software gegen amerikanische Rivalen an it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81N21iLWtjSm42VGx6a0FBX3JXbHIxVld0UERJaE1sNVpFRlp4TFMwQlpHNnM0Uy1WVm5XN1FtZGtDZ1QyV0NBUDdycnRDQVZhNlM3SVQtcm5fMEZ0ZjdDZm9EV2NWUGx6dUIzOXpKM3kxSDdqeVc0?oc=5",
+      "published": "2026-11-26T05:33:19+00:00",
+      "category": "Firmen"
+    },
+    {
       "id": "52f041359afb6322",
       "title": "Donnerstag: Datenabfluss bei 1Password, 1 Million Rechenzentren im All erlaubt",
       "excerpt": "Datenraub ohne Kennwörter + Genehmigung für Rechenzentrum-Satelliten + Firmenzuschuss für Homeoffice + Quad9 ohne Frankreich + Robotaxis von Lucid + #heiseshow",
@@ -31,14 +81,24 @@
       "category": "IT Schweiz"
     },
     {
-      "id": "8e396b0b8a3021fb",
-      "title": "USA genehmigen 1 Million SpaceX-Satelliten für KI-Rechenzentren im Orbit",
-      "excerpt": "Das SpaceX-Projekt „Starmind“ ist von der US-Aufsicht offiziell genehmigt - in massivem Ausmaß. Der erste Rechenzentrum-Satellit soll bis 2033 im All sein.",
-      "summary": "Das SpaceX-Projekt „Starmind“ ist von der US-Aufsicht offiziell genehmigt - in massivem Ausmaß. Der erste Rechenzentrum-Satellit soll bis 2033 im All sein.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/USA-genehmigen-1-Million-SpaceX-Satelliten-fuer-KI-Rechenzentren-im-Orbit-11538437.html",
-      "published": "2026-11-26T04:03:00+00:00",
-      "category": "Cloud"
+      "id": "0a62690ebcbc2914",
+      "title": "Wie Broadcom den VMware-Channel gestutzt hat - Swiss IT Reseller",
+      "excerpt": "Wie Broadcom den VMware-Channel gestutzt hat Swiss IT Reseller",
+      "summary": "Wie Broadcom den VMware-Channel gestutzt hat Swiss IT Reseller",
+      "source": "Focused / IT Schweiz",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQVhDOTdaVEYtVDgzNlZ2OHJYaWYzUkRseF9TVDV1U1ZIY2xsdFFLMlFpVUpTU2lqTlcwTjhLOW5wdnBRbTRvX0xxcGs2SmJUZVhxZDVxWGNFaEMyQnlrX0RqNHNYVjVTLV85bWQzT3gxeVY3SWJ0S09PZHFRQTdsb3YzR2ZCSm5JZ0NtRGNwbkZkMk55?oc=5",
+      "published": "2026-11-25T21:55:09+00:00",
+      "category": "IT Schweiz"
+    },
+    {
+      "id": "2f5c4acc14c4fded",
+      "title": "Microsoft 365 Copilot einführen und administrieren",
+      "excerpt": "Microsoft 365 Copilot einführen und administrieren Golem.de",
+      "summary": "Microsoft 365 Copilot einführen und administrieren Golem.de",
+      "source": "Golem.de",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLXlzcjItWDJiLWhnR2VfbjMxNmZGRlk3NWR3d0NhSFZXZHBjb0JLdEpZM3k1emNQS2JwVWdfLWRGbE1vZDY5NUI0cXNFWXMzU0tYNVF3LTlWd0dsV1VGMGV1ZlZ5endnZFQ4YmltRm5KcmJ3UU03aUk1Wktvc3kyRzNQekxkZTFzc0NWcGJIb042TF9nMmlza2NDTl9DaUJVdms3ekRDVG1jZ0FV?oc=5",
+      "published": "2026-11-25T17:45:02+00:00",
+      "category": "Microsoft 365"
     },
     {
       "id": "e75db06beeb7d9db",
@@ -111,16 +171,6 @@
       "category": "Firmen"
     },
     {
-      "id": "acd9b3f41779c386",
-      "title": "Quantum Act: EU will Hunderte Milliarden Euro für Quantentechnologie mobilisieren",
-      "excerpt": "Die EU-Kommission sieht Quantencomputer als das nächste große Ding nach KI. Durch ein neues Programm soll Europa hier führend werden. ( EU-Kommission , Technologie )",
-      "summary": "Die EU-Kommission sieht Quantencomputer als das nächste große Ding nach KI. Durch ein neues Programm soll Europa hier führend werden. ( EU-Kommission , Technologie )",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/quantum-act-eu-will-hunderte-milliarden-euro-fuer-quantentechnologie-mobilisieren-2611-215630.html",
-      "published": "2026-11-25T09:00:02+00:00",
-      "category": "Trends"
-    },
-    {
       "id": "1c1b4b8bd22241f7",
       "title": "Dell verdoppelt Umsatz dank starkem Servergeschäft",
       "excerpt": "Dell hat im dritten Quartal mehr als doppelt so viel umgesetzt wie vor einem Jahr. Allein mit KI-Servern erzielte der Konzern 22 Milliarden Dollar und hebt seine Umsatzprognose für das Gesamtjahr erneut an.",
@@ -159,6 +209,16 @@
       "url": "https://www.itreseller.ch/Artikel/106673/Nutanix-CEO_Rajiv_Ramaswami_kuendigt_Abschied_an.html",
       "published": "2026-11-25T06:28:56+00:00",
       "category": "Personen"
+    },
+    {
+      "id": "bd70876bb12f3eaa",
+      "title": "Mirantis Agent Plattform: KI-Agenten sicher auf Kubernetes - BigData-Insider",
+      "excerpt": "Mirantis Agent Plattform: KI-Agenten sicher auf Kubernetes BigData-Insider",
+      "summary": "Mirantis Agent Plattform: KI-Agenten sicher auf Kubernetes BigData-Insider",
+      "source": "Focused / Trends",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb2F3R0VCenZLWVpoWlpFTG9iLWZBLWdPWWZSZlNzQ2dwWGJZWFVZQ0hvZExaZkpGQzJ4TnZDdkI3OVdYRFpsb29GYVhEMTQ2YWktbDZhRE9hOUllT29ZRkRrQ24xWEUxTnV5dlNfQ1Z5RWtPeWRZY19GM1FJclNIamN5Zzc3SUxHYjU4WXFzeVFFYl8xSFp3dDZuWGJ2bHJ1cU5nNEVHT1d1anJrdS1EUS1pVU5jaDVxYlFyNUtuV2drdw?oc=5",
+      "published": "2026-11-25T06:00:00+00:00",
+      "category": "Cloud"
     },
     {
       "id": "6ecebfc8f8684dec",
@@ -278,7 +338,7 @@
       "source": "IT Reseller",
       "url": "https://www.itreseller.ch/Artikel/106663/Oliver_Wyman_uebernimmt_Zuercher_Technologieberatung_Synpulse_.html",
       "published": "2026-11-23T08:21:02+00:00",
-      "category": "Firmen"
+      "category": "IT Schweiz"
     },
     {
       "id": "f61d26a4181fe567",
@@ -291,16 +351,6 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "b5b0047a0012a2fa",
-      "title": "Kritische Schwachstelle CVE-2026-123890 in vCenter 8.0, 9.0 und 9.1Borns IT- und Windows-Blog - BornCity",
-      "excerpt": "Kritische Schwachstelle CVE-2026-123890 in vCenter 8.0, 9.0 und 9.1Borns IT- und Windows-Blog BornCity",
-      "summary": "Kritische Schwachstelle CVE-2026-123890 in vCenter 8.0, 9.0 und 9.1Borns IT- und Windows-Blog BornCity",
-      "source": "BornCity",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONE93QmotZnZxRzJKdEZQRF9OSWx6U01Wdk5KSXpVUnc4TUtVamRldXp5cUdicmtZQTNxUTRwdm85V2dORVNPbFd3RmhhR1I3aVJFTGVUQVNid2FISjZsSUpWTFpsaFI5bHAwM3dmSWVQcC1kNzJ0NnhNQWJWTUhlOFh0cEZjRDg4V3JLbXV0S2RwZUM3bElCZ1JHT2l5WW9vRFdsMXZmTQ?oc=5",
-      "published": "2026-11-20T15:20:47+00:00",
-      "category": "Security"
-    },
-    {
       "id": "f54c953af1041f65",
       "title": "Palo Alto Networks übernimmt KI-Start-up für 4,5 Milliarden Dollar",
       "excerpt": "Palo Alto Networks will den KI-Spezialisten Applied Compute übernehmen. Mit der Akquisition verstärkt der Security-Anbieter sein Portfolio um eine Plattform für das Training und den sicheren Betrieb von KI-Modellen.",
@@ -309,16 +359,6 @@
       "url": "https://www.itreseller.ch/Artikel/106656/Palo_Alto_Networks_uebernimmt_KI-Start-up_fuer_45_Milliarden_Dollar.html",
       "published": "2026-11-20T13:14:26+00:00",
       "category": "Firmen"
-    },
-    {
-      "id": "593b305001cf34f3",
-      "title": "VMware vCenter – Zero-Day seit September aktiv ausgenutzt",
-      "excerpt": "VMware vCenter – Zero-Day seit September aktiv ausgenutzt Meteora Web",
-      "summary": "VMware vCenter – Zero-Day seit September aktiv ausgenutzt Meteora Web",
-      "source": "Meteora Web",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdkE4Y09xb3pFd3AxV3NjbVE2WGVwb3ZzTEs2MHhHVGV5VHc2NTAtV2pNUE1Ob3JDZWM5Q2VyZlV1YXNKaGRXcDk2aEtvdWpHVWlNMVp4eHFvN2ktUzdNcHF4ekdmTUVIVzhRNzJjT1JvM0N4VnZEdnlMbkZPTFlDX1NEdEp2SFhYWGo2STlNbGdlMkpaSVg1VHpfYmU?oc=5",
-      "published": "2026-11-20T09:16:22+00:00",
-      "category": "Security"
     },
     {
       "id": "6ed08bbf34784f84",
@@ -331,36 +371,6 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "b2f1c0d4e5a33351",
-      "title": "IT-S Group übernimmt Allnet Solutions - Swiss IT Reseller",
-      "excerpt": "IT-S Group übernimmt Allnet Solutions Swiss IT Reseller",
-      "summary": "IT-S Group übernimmt Allnet Solutions Swiss IT Reseller",
-      "source": "Focused / IT Schweiz",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRDRla04tWlpBbi1HTlZ3WVhXVmphOHNBc1l2Mm01U2EwRVRkM1o2N1JZOVlfeVZyTExYT0tFNzhwZkZ5VnlXbjM2YUJTUjQ3bTBPaG9IUTJ5MDlEczZCc0Ixcno2cm5RQmtIVFFjRklHVDFaV1VkNHZvaEM3S2U3eWhaUHpGUndKeFNnMQ?oc=5",
-      "published": "2026-11-19T07:12:00+00:00",
-      "category": "IT Schweiz"
-    },
-    {
-      "id": "56813d5a6ab6391c",
-      "title": "Alvin Ou übernimmt Leitung von TP-Link Schweiz - Swiss IT Reseller",
-      "excerpt": "Alvin Ou übernimmt Leitung von TP-Link Schweiz Swiss IT Reseller",
-      "summary": "Alvin Ou übernimmt Leitung von TP-Link Schweiz Swiss IT Reseller",
-      "source": "Focused / IT Schweiz",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMTV1ODlTblhDampwS0d1YUwybC1sekhwQ1lIOUhwd1FscGtWMVFVcGR1aU1sNHlha3VhQ3RfNTY1bURGQk9GYy1XRFY5ZlUxMUo2Nlh1a1daZGhpNVBFZ3R3RUNkYndOTjd2aDk1LTVCdWxscE5PcDZCQzdQMjlnUkdJZnhDTTdId3A5NXVIa01XSmdITmFfVA?oc=5",
-      "published": "2026-11-19T07:12:00+00:00",
-      "category": "IT Schweiz"
-    },
-    {
-      "id": "bdb8e482dffc2871",
-      "title": "Microsoft To Do wird eingestellt",
-      "excerpt": "Microsoft To Do wird eingestellt Caschys Blog",
-      "summary": "Microsoft To Do wird eingestellt Caschys Blog",
-      "source": "Caschys Blog",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wMDUycnJzLWdBZHFvZmh0MmRLV25OSnF2MVBESXFqdHVzaE9vRzRybTJxTjI2d3RuOVJTa0FuQmtfMXF6eFE2cHBXMVJtZTEwN25XTTRtU2JYZ1luR09XY1daSnVDcktyaHZfd0dJYw?oc=5",
-      "published": "2026-11-19T05:31:25+00:00",
-      "category": "Microsoft 365"
-    },
-    {
       "id": "9d6ff97bb6a3b227",
       "title": "Volaris übernimmt Luzerner Wealth-Management-Spezialisten - Netzwoche",
       "excerpt": "Volaris übernimmt Luzerner Wealth-Management-Spezialisten Netzwoche",
@@ -369,16 +379,6 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcEhpSkhMbkpWdjN1MXV3bWROSXRydXRLaVJJcTUyR1BwZFptS1ZseXBzcVJyRzBqNV9td2dvX3QteEhlRnB4Rmh1c1o4N2cybFB0amNVMXBOT1Nla0R4N090NzlpUy1qcU5IUDBsOVZ2eURMbElWSFdoZmpobTVIdkM1QVhwb0xLRHB6c0dNaFQ4djJod0tQZDJFaWdNM1JFbnZMdzNZamxEbVdZ?oc=5",
       "published": "2026-11-13T08:00:00+00:00",
       "category": "Personen"
-    },
-    {
-      "id": "4ea6717da5a887aa",
-      "title": "JD.com schliesst Übernahme von Media Markt Saturn ab - Swiss IT Reseller",
-      "excerpt": "JD.com schliesst Übernahme von Media Markt Saturn ab Swiss IT Reseller",
-      "summary": "JD.com schliesst Übernahme von Media Markt Saturn ab Swiss IT Reseller",
-      "source": "IT Reseller / Personen",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMTdNbVdiMGtUeEM0Ym5RZEJkMlloUWRiZTltNEZpejJTWW5SazVGTDRTVDFtOGFydGdHYndPbVV0R0V3MHBPbS05Um9jZVVzSkt0MktDSGRSdzBlMHlJN0VITkZaV2tlUmtmWEZwZ0FmODNSQ2FnU3pZTl9hSl9aSHU2c3FkeWY5alpuOTg5bEhHME1uQ3N1bHE4R0dvbXUz?oc=5",
-      "published": "2026-11-13T08:00:00+00:00",
-      "category": "Firmen"
     },
     {
       "id": "9e6b5f5480a8185a",
@@ -451,7 +451,7 @@
       "category": "Personen"
     }
   ],
-  "updatedAt": "2026-11-26T05:24:26.152147+00:00",
+  "updatedAt": "2026-11-26T07:33:07.915924+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
