@@ -1,11 +1,8 @@
 {
-  "updatedAt": "2026-11-26T15:08:39.383996+00:00",
-  "feedFailures": [
-    "IT Reseller",
-    "Google News / Trends"
-  ],
-  "rawCandidates": 1086,
-  "uniqueCandidates": 868,
+  "updatedAt": "2026-11-26T15:14:32.893190+00:00",
+  "feedFailures": [],
+  "rawCandidates": 1115,
+  "uniqueCandidates": 878,
   "selectedPerCategory": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -18,7 +15,7 @@
   },
   "personnelDiagnostics": {
     "fetched": 136,
-    "eligible": 14,
+    "eligible": 13,
     "selected": 10,
     "fetchedByFeed": {
       "IT Reseller": 96,
@@ -26,9 +23,119 @@
       "Inside IT": 20
     },
     "failedFeeds": [],
-    "approvedSourceCandidates": 175,
-    "uniqueEligibleCandidates": 14,
+    "approvedSourceCandidates": 200,
+    "uniqueEligibleCandidates": 13,
     "rejectedExamples": [
+      {
+        "title": "Bechtle integriert AWS und Microsoft Marketplaces in eigene Cloud-Plattform",
+        "source": "IT Reseller",
+        "reason": "headline_not_personnel_change"
+      },
+      {
+        "title": "GTA VI bricht sämtliche Verkaufsrekorde",
+        "source": "IT Reseller",
+        "reason": "headline_not_personnel_change"
+      },
+      {
+        "title": "Bitdefender beruft Florian Pennings zum Beauftragten für Public Affairs",
+        "source": "IT Reseller",
+        "reason": "headline_not_personnel_change"
+      },
+      {
+        "title": "Günstige PCs von Asus bald nur noch mit 8 GB RAM",
+        "source": "IT Reseller",
+        "reason": "headline_not_personnel_change"
+      },
+      {
+        "title": "Die Köpfe des Monats - Oktober 2026",
+        "source": "IT Reseller",
+        "reason": "headline_not_personnel_change"
+      },
+      {
+        "title": "Samsung steigt mit 210 Millionen Euro bei AMS Osram ein",
+        "source": "IT Reseller",
+        "reason": "headline_not_personnel_change"
+      },
+      {
+        "title": "KI-Boom treibt PC-Preise in Europa in die Höhe",
+        "source": "IT Reseller",
+        "reason": "headline_not_personnel_change"
+      },
+      {
+        "title": "Android bleibt trotz Rückgang die Nummer eins bei Smartphone-OS",
+        "source": "IT Reseller",
+        "reason": "headline_not_personnel_change"
+      },
+      {
+        "title": "Anthropic soll sich in der Fraumünsterpost eingemietet haben",
+        "source": "IT Reseller",
+        "reason": "headline_not_personnel_change"
+      },
+      {
+        "title": "NAND-Flash-Preise dürften Anfang 2027 sinken",
+        "source": "IT Reseller",
+        "reason": "headline_not_personnel_change"
+      },
+      {
+        "title": "HP meldet mehr Umsatz und weniger Gewinn",
+        "source": "IT Reseller",
+        "reason": "headline_not_personnel_change"
+      },
+      {
+        "title": "Dell verdoppelt Umsatz dank starkem Servergeschäft",
+        "source": "IT Reseller",
+        "reason": "headline_not_personnel_change"
+      },
+      {
+        "title": "Bending Spoons übernimmt Mailchimp für 3,68 Milliarden Dollar",
+        "source": "IT Reseller",
+        "reason": "headline_not_personnel_change"
+      },
+      {
+        "title": "UMB zügelt Hauptsitz innerhalb von Cham",
+        "source": "IT Reseller",
+        "reason": "headline_not_personnel_change"
+      },
+      {
+        "title": "KI-Boom treibt auch Produktionskosten von LCD-Panels in die Höhe",
+        "source": "IT Reseller",
+        "reason": "headline_not_personnel_change"
+      },
+      {
+        "title": "Europas IT-Ausgaben steigen 2027 um knapp 10 Prozent",
+        "source": "IT Reseller",
+        "reason": "headline_not_personnel_change"
+      },
+      {
+        "title": "Zoom legt im dritten Quartal dank Unternehmenskunden zu",
+        "source": "IT Reseller",
+        "reason": "headline_not_personnel_change"
+      },
+      {
+        "title": "HPE steigert Umsatz um 50 Prozent",
+        "source": "IT Reseller",
+        "reason": "headline_not_personnel_change"
+      },
+      {
+        "title": "iPhone-Fertiger baut OpenAIs erstes Smartphone",
+        "source": "IT Reseller",
+        "reason": "headline_not_personnel_change"
+      },
+      {
+        "title": "Allgeier plant Verkauf der Evora-Gruppe",
+        "source": "IT Reseller",
+        "reason": "headline_not_personnel_change"
+      },
+      {
+        "title": "Elovade erweitert KI-Portfolio um Goodweek",
+        "source": "IT Reseller",
+        "reason": "headline_not_personnel_change"
+      },
+      {
+        "title": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse",
+        "source": "IT Reseller",
+        "reason": "headline_not_personnel_change"
+      },
       {
         "title": "Betrüger täuschen fehlgeschlagene Zahlungen für Claude-Abos vor",
         "source": "Netzwoche",
@@ -168,119 +275,42 @@
         "title": "Cybervorfall bei Dosenbach-Mutter Deichmann",
         "source": "Inside IT",
         "reason": "headline_not_personnel_change"
-      },
-      {
-        "title": "Schwyz will vorerst an M365 festhalten",
-        "source": "Inside IT",
-        "reason": "headline_not_personnel_change"
-      },
-      {
-        "title": "Basler Datenschutzbeauftragte verhindert Datenauslagerung",
-        "source": "Inside IT",
-        "reason": "headline_not_personnel_change"
-      },
-      {
-        "title": "Zürcher Digital Society Initiative feiert Jubiläum",
-        "source": "Inside IT",
-        "reason": "headline_not_personnel_change"
-      },
-      {
-        "title": "HP wächst trotz Margendruck",
-        "source": "Inside IT",
-        "reason": "headline_not_personnel_change"
-      },
-      {
-        "title": "Anthropic mietet 150 Arbeitsplätze in Zürich",
-        "source": "Inside IT",
-        "reason": "headline_not_personnel_change"
-      },
-      {
-        "title": "Cyberangriffe mit KI: 100% Erfolgsquote in der Schweiz",
-        "source": "Inside IT",
-        "reason": "headline_not_personnel_change"
-      },
-      {
-        "title": "Parldigi direkt: Der Genfer KI-Gipfel muss Resultate bringen",
-        "source": "Inside IT",
-        "reason": "headline_not_personnel_change"
-      },
-      {
-        "title": "Bending Spoons kauft Mailchimp",
-        "source": "Inside IT",
-        "reason": "headline_not_personnel_change"
-      },
-      {
-        "title": "Zoll-Digitalisierung erreicht gesteckte Ziele fast",
-        "source": "Inside IT",
-        "reason": "headline_not_personnel_change"
-      },
-      {
-        "title": "NDB beschafft KI-gestützte Spionage-Software",
-        "source": "Inside IT",
-        "reason": "headline_not_personnel_change"
-      },
-      {
-        "title": "HPE und Lenovo warten Server der Bundesverwaltung",
-        "source": "Inside IT",
-        "reason": "headline_not_personnel_change"
-      },
-      {
-        "title": "Henning Gronki übernimmt Leitung von Dentsu Schweiz - Swiss IT Reseller",
-        "source": "IT Reseller / Personen",
-        "reason": "headline_not_personnel_change"
-      },
-      {
-        "title": "Signicat macht Keith Fenner zum neuen CEO - Swiss IT Reseller",
-        "source": "IT Reseller / Personen",
-        "reason": "headline_not_personnel_change"
-      },
-      {
-        "title": "Roger Halbheer wird neuer Security-Chef bei Swisscom - Swiss IT Reseller",
-        "source": "IT Reseller / Personen",
-        "reason": "headline_not_personnel_change"
-      },
-      {
-        "title": "SAP-Vorstand Thomas Saueressig wechselt zu Ionos - Swiss IT Reseller",
-        "source": "IT Reseller / Personen",
-        "reason": "headline_not_personnel_change"
-      },
-      {
-        "title": "Lausanne bekommt mit Philippe Catirane neuen IT-Chef - Swiss IT Reseller",
-        "source": "IT Reseller / Personen",
-        "reason": "headline_not_personnel_change"
-      },
-      {
-        "title": "Convotis Schweiz ernennt Oliver Thome zum CEO - Swiss IT Reseller",
-        "source": "IT Reseller / Personen",
-        "reason": "not_selected_after_ranking_or_deduplication"
-      },
-      {
-        "title": "Roland Keller übernimmt Operations bei Tech Data Schweiz - Swiss IT Reseller",
-        "source": "IT Reseller / Personen",
-        "reason": "headline_not_personnel_change"
-      },
-      {
-        "title": "Roger Lay übernimmt DACH-Geschäft bei Valtech - Swiss IT Reseller",
-        "source": "IT Reseller / Personen",
-        "reason": "headline_not_personnel_change"
-      },
-      {
-        "title": "Carrie Francey übernimmt weltweites Partnergeschäft bei Netskope - Swiss IT Reseller",
-        "source": "IT Reseller / Personen",
-        "reason": "headline_not_personnel_change"
-      },
-      {
-        "title": "Thomas Saueressig nimmt Einsitz im SAP-Vorstand - Swiss IT Reseller",
-        "source": "IT Reseller / Personen",
-        "reason": "headline_not_personnel_change"
-      },
-      {
-        "title": "Genesys ernennt Daniel Karadza zum Leiter des Partnergeschäfts - Swiss IT Reseller",
-        "source": "IT Reseller / Personen",
-        "reason": "not_selected_after_ranking_or_deduplication"
       }
     ],
     "eventDuplicates": [
+      {
+        "titles": [
+          "Nutanix-CEO Rajiv Ramaswami kündigt Abschied an",
+          "Nutanix-CEO Rajiv Ramaswami kündigt Abschied an - Swiss IT Reseller"
+        ],
+        "urls": [
+          "https://itreseller.ch/Artikel/106673/Nutanix-CEO_Rajiv_Ramaswami_kuendigt_Abschied_an.html",
+          "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZE5OZjJCcnlMTHB3dWpIeTJKa2RQdnRHLWFTeXVVNEMtdl9KYTVmN3k3SDh2OEhUMF83dVM2ZTRQU251dUp4TExLOWFIMDVxTFF4SnFDeUp4TDJlVTFQUkRlcTRVRk1Ec0JJc3c5a2FxWEJRYXNtY3g5TEg5ZDk3XzdjZmRFS2VQd3RTRUZJdENaTUJvUkNqYkRn?oc=5"
+        ],
+        "reason": "same_person_company_action"
+      },
+      {
+        "titles": [
+          "Nvidia holt Jensen Huang als CEO zurück",
+          "Nvidia holt Jensen Huang als CEO zurück - Swiss IT Reseller"
+        ],
+        "urls": [
+          "https://itreseller.ch/Artikel/106667/Nvidia_holt_Jensen_Huang_als_CEO_zurueck.html",
+          "https://news.google.com/rss/articles/CBMijwFBVV95cUxQclN1UkQtNnYwejFKSXRmaHFVQTFzRWt3SldhdE1HTERQaHlNRFNKVkIyWjhsM3RPeDY3RUh3ZkpvNkpHT2lBeXBnZzEzQVZtNWpfajRzT2dKdGhnaUJuNHRUaEtZTi1ZYXZSYXpWRXBWNWhVTkpGRGZScS05T1JxWFFiTnRRTE1teENBX1phOA?oc=5"
+        ],
+        "reason": "same_person_company_action"
+      },
+      {
+        "titles": [
+          "Nvidia holt Jensen Huang als CEO zurück",
+          "Nvidia holt CEO Jensen Huang zurück - Inside IT"
+        ],
+        "urls": [
+          "https://itreseller.ch/Artikel/106667/Nvidia_holt_Jensen_Huang_als_CEO_zurueck.html",
+          "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQbmR5dXRMeGpsTHI3ZEc1akxFdzF6NDViZ1FYbHJzcVZSd1FCbzFWQnI4c2Q2cXd0b2lkOVVoeWhvY2tIb011bVY0YTFTb0dQazg5UWVHb1NQSUpyckRvanpyQmdTMVVPX2UzekFIX3QyVWQ2QzE2cVNB?oc=5"
+        ],
+        "reason": "same_person_company_action"
+      },
       {
         "titles": [
           "Jensen Huang tritt als Nvidia-CEO zurück, Colette Kress übernimmt - Swiss IT Reseller",
@@ -306,8 +336,8 @@
     ],
     "potentialConflicts": [
       {
-        "firstTitle": "Nvidia holt Jensen Huang als CEO zurück - Swiss IT Reseller",
-        "firstUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQclN1UkQtNnYwejFKSXRmaHFVQTFzRWt3SldhdE1HTERQaHlNRFNKVkIyWjhsM3RPeDY3RUh3ZkpvNkpHT2lBeXBnZzEzQVZtNWpfajRzT2dKdGhnaUJuNHRUaEtZTi1ZYXZSYXpWRXBWNWhVTkpGRGZScS05T1JxWFFiTnRRTE1teENBX1phOA?oc=5",
+        "firstTitle": "Nvidia holt Jensen Huang als CEO zurück",
+        "firstUrl": "https://itreseller.ch/Artikel/106667/Nvidia_holt_Jensen_Huang_als_CEO_zurueck.html",
         "secondTitle": "Jensen Huang tritt als Nvidia-CEO zurück, Colette Kress übernimmt - Swiss IT Reseller",
         "secondUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS1BDNVZHNlJrQm41UHhsT211TWhta250Q1ZDYlVqa0czbTFUQVFKOWlFandCNGpaVFlvVm5iMG5aWDZ5UjB0SDhlMEJSS1BncHp3dlpmWG9hbWdsS0g0eG5qcXFKc3FrbVZ3WVM5cGdZWW1MRm44WENySUpvZ2J2czBFYU5hQmprbmF0T0x0MC1Rdzgyb3ZRcEU2UGNoNE9vZDh6dlJ0SXlIM1JXN3hHTGJB?oc=5",
         "reason": "same_person_company_opposing_personnel_actions",
@@ -587,8 +617,8 @@
       "status": "topic_filter"
     },
     {
-      "title": "Ubisoft vor Gericht: Das „AAAA“-Spiel war bloß Werbesprech",
-      "url": "https://www.heise.de/news/Skull-and-Bones-als-AAAA-Ubisofts-Prahlerei-hatte-juristisches-Nachspiel-11538543.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "title": "i-Kfz-App: Digitaler Führerschein startet verzögert",
+      "url": "https://www.heise.de/news/i-Kfz-App-Digitaler-Fuehrerschein-startet-verzoegert-11538559.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "source": "heise online",
       "published": "2026-11-26T07:37:00+00:00",
       "eligibleCategories": [],
@@ -596,8 +626,8 @@
       "status": "topic_filter"
     },
     {
-      "title": "i-Kfz-App: Digitaler Führerschein startet verzögert",
-      "url": "https://www.heise.de/news/i-Kfz-App-Digitaler-Fuehrerschein-startet-verzoegert-11538559.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "title": "Ubisoft vor Gericht: Das „AAAA“-Spiel war bloß Werbesprech",
+      "url": "https://www.heise.de/news/Skull-and-Bones-als-AAAA-Ubisofts-Prahlerei-hatte-juristisches-Nachspiel-11538543.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "source": "heise online",
       "published": "2026-11-26T07:37:00+00:00",
       "eligibleCategories": [],
@@ -669,10 +699,8 @@
         "Security",
         "Cloud"
       ],
-      "selectedCategories": [
-        "Cloud"
-      ],
-      "status": "selected"
+      "selectedCategories": [],
+      "status": "not_in_top_limit_or_allocated_to_other_category"
     },
     {
       "title": "#heiseshow: Jensen ist zurück, Ladybird-Browser, GTA 6",
@@ -1352,6 +1380,275 @@
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
+    },
+    {
+      "title": "Bechtle integriert AWS und Microsoft Marketplaces in eigene Cloud-Plattform",
+      "url": "https://www.itreseller.ch/Artikel/106689/Bechtle_integriert_AWS_und_Microsoft_Marketplaces_in_eigene_Cloud-Plattform.html",
+      "source": "IT Reseller",
+      "published": "2026-11-26T07:58:24+00:00",
+      "eligibleCategories": [
+        "IT Schweiz",
+        "Cloud"
+      ],
+      "selectedCategories": [
+        "Cloud"
+      ],
+      "status": "selected"
+    },
+    {
+      "title": "GTA VI bricht sämtliche Verkaufsrekorde",
+      "url": "https://www.itreseller.ch/Artikel/106688/GTA_VI_bricht_saemtliche_Verkaufsrekorde.html",
+      "source": "IT Reseller",
+      "published": "2026-11-26T07:24:30+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Bitdefender beruft Florian Pennings zum Beauftragten für Public Affairs",
+      "url": "https://www.itreseller.ch/Artikel/106686/Bitdefender_beruft_Florian_Pennings_zum_Beauftragten_fuer_Public_Affairs.html",
+      "source": "IT Reseller",
+      "published": "2026-11-26T07:04:52+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Günstige PCs von Asus bald nur noch mit 8 GB RAM",
+      "url": "https://www.itreseller.ch/Artikel/106685/Guenstige_PCs_von_Asus_bald_nur_noch_mit_8_GB_RAM.html",
+      "source": "IT Reseller",
+      "published": "2026-11-26T06:59:37+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Die Köpfe des Monats - Oktober 2026",
+      "url": "https://www.itreseller.ch/Artikel/106588/Die_Koepfe_des_Monats_-_Oktober_2026.html",
+      "source": "IT Reseller",
+      "published": "2026-11-25T15:56:09+00:00",
+      "eligibleCategories": [
+        "IT Schweiz"
+      ],
+      "selectedCategories": [],
+      "status": "not_in_top_limit_or_allocated_to_other_category"
+    },
+    {
+      "title": "Samsung steigt mit 210 Millionen Euro bei AMS Osram ein",
+      "url": "https://www.itreseller.ch/Artikel/106683/Samsung_steigt_mit_210_Millionen_Euro_bei_AMS_Osram_ein.html",
+      "source": "IT Reseller",
+      "published": "2026-11-25T15:55:46+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "KI-Boom treibt PC-Preise in Europa in die Höhe",
+      "url": "https://www.itreseller.ch/Artikel/106682/KI-Boom_treibt_PC-Preise_in_Europa_in_die_Hoehe.html",
+      "source": "IT Reseller",
+      "published": "2026-11-25T15:40:37+00:00",
+      "eligibleCategories": [
+        "IT Schweiz"
+      ],
+      "selectedCategories": [],
+      "status": "not_in_top_limit_or_allocated_to_other_category"
+    },
+    {
+      "title": "Android bleibt trotz Rückgang die Nummer eins bei Smartphone-OS",
+      "url": "https://www.itreseller.ch/Artikel/106681/Android_bleibt_trotz_Rueckgang_die_Nummer_eins_bei_Smartphone-OS.html",
+      "source": "IT Reseller",
+      "published": "2026-11-25T12:58:43+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Anthropic soll sich in der Fraumünsterpost eingemietet haben",
+      "url": "https://www.itreseller.ch/Artikel/106680/Anthropic_soll_sich_in_der_Fraumuensterpost_eingemietet_haben.html",
+      "source": "IT Reseller",
+      "published": "2026-11-25T11:30:30+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "NAND-Flash-Preise dürften Anfang 2027 sinken",
+      "url": "https://www.itreseller.ch/Artikel/106679/NAND-Flash-Preise_duerften_Anfang_2027_sinken.html",
+      "source": "IT Reseller",
+      "published": "2026-11-25T10:52:08+00:00",
+      "eligibleCategories": [
+        "IT Schweiz",
+        "Cloud"
+      ],
+      "selectedCategories": [],
+      "status": "not_in_top_limit_or_allocated_to_other_category"
+    },
+    {
+      "title": "HP meldet mehr Umsatz und weniger Gewinn",
+      "url": "https://www.itreseller.ch/Artikel/106677/HP_meldet_mehr_Umsatz_und_weniger_Gewinn.html",
+      "source": "IT Reseller",
+      "published": "2026-11-25T08:59:55+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Dell verdoppelt Umsatz dank starkem Servergeschäft",
+      "url": "https://www.itreseller.ch/Artikel/106676/Dell_verdoppelt_Umsatz_dank_starkem_Servergeschaeft.html",
+      "source": "IT Reseller",
+      "published": "2026-11-25T08:09:05+00:00",
+      "eligibleCategories": [
+        "IT Schweiz",
+        "Markt",
+        "Firmen"
+      ],
+      "selectedCategories": [],
+      "status": "not_in_top_limit_or_allocated_to_other_category"
+    },
+    {
+      "title": "Bending Spoons übernimmt Mailchimp für 3,68 Milliarden Dollar",
+      "url": "https://www.itreseller.ch/Artikel/106675/Bending_Spoons_uebernimmt_Mailchimp_fuer_368_Milliarden_Dollar.html",
+      "source": "IT Reseller",
+      "published": "2026-11-25T07:48:41+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "UMB zügelt Hauptsitz innerhalb von Cham",
+      "url": "https://www.itreseller.ch/Artikel/106674/UMB_zuegelt_Hauptsitz_innerhalb_von_Cham.html",
+      "source": "IT Reseller",
+      "published": "2026-11-25T07:06:49+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Nutanix-CEO Rajiv Ramaswami kündigt Abschied an",
+      "url": "https://www.itreseller.ch/Artikel/106673/Nutanix-CEO_Rajiv_Ramaswami_kuendigt_Abschied_an.html",
+      "source": "IT Reseller",
+      "published": "2026-11-25T06:28:56+00:00",
+      "eligibleCategories": [
+        "Personen"
+      ],
+      "selectedCategories": [
+        "Personen"
+      ],
+      "status": "selected"
+    },
+    {
+      "title": "KI-Boom treibt auch Produktionskosten von LCD-Panels in die Höhe",
+      "url": "https://www.itreseller.ch/Artikel/106672/KI-Boom_treibt_auch_Produktionskosten_von_LCD-Panels_in_die_Hoehe.html",
+      "source": "IT Reseller",
+      "published": "2026-11-24T12:00:25+00:00",
+      "eligibleCategories": [
+        "IT Schweiz"
+      ],
+      "selectedCategories": [],
+      "status": "not_in_top_limit_or_allocated_to_other_category"
+    },
+    {
+      "title": "Europas IT-Ausgaben steigen 2027 um knapp 10 Prozent",
+      "url": "https://www.itreseller.ch/Artikel/106671/Europas_IT-Ausgaben_steigen_2027_um_knapp_10_Prozent.html",
+      "source": "IT Reseller",
+      "published": "2026-11-24T09:28:38+00:00",
+      "eligibleCategories": [
+        "IT Schweiz",
+        "Markt"
+      ],
+      "selectedCategories": [],
+      "status": "not_in_top_limit_or_allocated_to_other_category"
+    },
+    {
+      "title": "Infinigate ernennt Tom OReilly zum Chief Transformation Officer",
+      "url": "https://www.itreseller.ch/Artikel/106670/Infinigate_ernennt_Tom_OReilly_zum_Chief_Transformation_Officer_.html",
+      "source": "IT Reseller",
+      "published": "2026-11-24T08:21:51+00:00",
+      "eligibleCategories": [
+        "Personen"
+      ],
+      "selectedCategories": [
+        "Personen"
+      ],
+      "status": "selected"
+    },
+    {
+      "title": "Zoom legt im dritten Quartal dank Unternehmenskunden zu",
+      "url": "https://www.itreseller.ch/Artikel/106669/Zoom_legt_im_dritten_Quartal_dank_Unternehmenskunden_zu.html",
+      "source": "IT Reseller",
+      "published": "2026-11-24T07:23:03+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "HPE steigert Umsatz um 50 Prozent",
+      "url": "https://www.itreseller.ch/Artikel/106668/HPE_steigert_Umsatz_um_50_Prozent.html",
+      "source": "IT Reseller",
+      "published": "2026-11-24T07:12:09+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Nvidia holt Jensen Huang als CEO zurück",
+      "url": "https://www.itreseller.ch/Artikel/106667/Nvidia_holt_Jensen_Huang_als_CEO_zurueck.html",
+      "source": "IT Reseller",
+      "published": "2026-11-23T13:50:07+00:00",
+      "eligibleCategories": [
+        "IT Schweiz",
+        "Firmen",
+        "Personen"
+      ],
+      "selectedCategories": [
+        "Personen"
+      ],
+      "status": "selected"
+    },
+    {
+      "title": "iPhone-Fertiger baut OpenAIs erstes Smartphone",
+      "url": "https://www.itreseller.ch/Artikel/106666/iPhone-Fertiger_baut_OpenAIs_erstes_Smartphone.html",
+      "source": "IT Reseller",
+      "published": "2026-11-23T12:03:56+00:00",
+      "eligibleCategories": [
+        "IT Schweiz"
+      ],
+      "selectedCategories": [],
+      "status": "not_in_top_limit_or_allocated_to_other_category"
+    },
+    {
+      "title": "Allgeier plant Verkauf der Evora-Gruppe",
+      "url": "https://www.itreseller.ch/Artikel/106665/Allgeier_plant_Verkauf_der_Evora-Gruppe.html",
+      "source": "IT Reseller",
+      "published": "2026-11-23T10:22:31+00:00",
+      "eligibleCategories": [
+        "IT Schweiz"
+      ],
+      "selectedCategories": [],
+      "status": "not_in_top_limit_or_allocated_to_other_category"
+    },
+    {
+      "title": "Elovade erweitert KI-Portfolio um Goodweek",
+      "url": "https://www.itreseller.ch/Artikel/106664/Elovade_erweitert_KI-Portfolio_um_Goodweek.html",
+      "source": "IT Reseller",
+      "published": "2026-11-23T09:27:04+00:00",
+      "eligibleCategories": [
+        "IT Schweiz"
+      ],
+      "selectedCategories": [],
+      "status": "not_in_top_limit_or_allocated_to_other_category"
+    },
+    {
+      "title": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse",
+      "url": "https://www.itreseller.ch/Artikel/106663/Oliver_Wyman_uebernimmt_Zuercher_Technologieberatung_Synpulse_.html",
+      "source": "IT Reseller",
+      "published": "2026-11-23T08:21:02+00:00",
+      "eligibleCategories": [
+        "IT Schweiz",
+        "Firmen"
+      ],
+      "selectedCategories": [],
+      "status": "not_in_top_limit_or_allocated_to_other_category"
     },
     {
       "title": "Betrüger täuschen fehlgeschlagene Zahlungen für Claude-Abos vor",
@@ -2153,15 +2450,6 @@
       "status": "selected"
     },
     {
-      "title": "Gemini Notebook: Google macht aus Dateien interaktive Webseiten zum Teilen",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYnMwZEQtMWluVzhrdmFCWmVuZUNaOEtWU2FscVQ4ZVQ3Y2t1UnNCUnZlakxTWExxNnVhX0JPTXBmTUJsMlczeF82UkgyZExOSllWS3VhdEU5cHViOEFYZnpOaGprNDlkZlZ0SGlmNDlkVlQ0S1d0clJ4bHo3bkJwZkZKcmVNM2hmTm1iRkRLZzhMcENQZGIwUjFMLTRiNTlCYXIzWkN5YnBIUDBBSjFpOGllcF9YNEdLWmFZUUZqQQ?oc=5",
-      "source": "ad-hoc-news.de",
-      "published": "2026-11-19T15:13:05+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
       "title": "Microsoft stellt beliebte Gratis-App ein: Nutzer müssen sich umstellen",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOE81SHNmdzVXNEFkemNSYWVUR2N5bGVCMWFOelpsUTF6N01kRHgxLUNvTk10RTlidVN3U3JkZHBMTDJhUDFhTnVQbG00QkZjcnFBLW9ST3hJcmFMV3RzTGR1ZFBaODJxMDhFUmF2TnBRMnlZMWhwNHlSNUhsVkJYRXVUZXJkcDBQV1hqbnh1VkRIOTdFeEItcVNyempGd0tXUnpQMmdTdy10eTlnVVk5RTd6bGxqRDI4TUZpMS16RmVXR1FlMG9VRURCdWNtQWFzY0U3d2lCM09Pa19SWDVJ?oc=5",
       "source": "CHIP",
@@ -2290,10 +2578,8 @@
         "IT Schweiz",
         "Firmen"
       ],
-      "selectedCategories": [
-        "Firmen"
-      ],
-      "status": "selected"
+      "selectedCategories": [],
+      "status": "not_in_top_limit_or_allocated_to_other_category"
     },
     {
       "title": "«Höhle der Löwen»: Emmer IT-Firma knackt Millionen-Rekord – doch der Deal platzt",
@@ -2717,6 +3003,15 @@
       "status": "topic_filter"
     },
     {
+      "title": "BadBox 3.0: Infizierte TV-Boxen erzeugen Milliarden Werbeanfragen - ComputerBase",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM2kyRk51dlJtUmNGVTMxQy0xM2hzemljSmpzTVpscnhCQVdoNzdRTWkzM0tUVzR1RlN6dFpfT1JjVXFlclNiT3g3eG5Ka3lLeU1YRWNZMnRRRHFnVVo2b2ttVzE4czhNMG4ybzZhaElYRTN4TE1uc1pvVFdzOXRGc01sbkxlX3JoOHFBalRyV3p1Nmc4MHdzQy11enZVSzM5WHp4N1g2Rmo2NDBsaHB0SHpSRUQ?oc=5",
+      "source": "ComputerBase",
+      "published": "2026-11-22T14:33:00+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
       "title": "MB.Drive Assist Pro: Mercedes erhält KBA-Zulassung als erster Hersteller - ComputerBase",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZDFiRkRjMWhyZTFaSGVNdGZwc0NObHhDZDVudHRGeElMa2txRElhQV9pQTA0QWJwTXphVEFnS2RyMnlIdXFTOTVrSDhnSmdHQWVVNG5VYzZsYjVIQ0tnUnlTdHhEMmhIRXZKZ015UGdXZkdJa1JIX1dxRldubE9VUnJPd2hGTS1FMEVwUjIwLWVDYW9BS2VtY1VzOG5jdm1zQkExdEN4MXRiWDB3MVhxOFY0NXQwcFh1QjJ1SU5aUTQ?oc=5",
       "source": "ComputerBase",
@@ -2861,10 +3156,10 @@
       "status": "topic_filter"
     },
     {
-      "title": "3DMark CPU Rumble: Neuer Bench­mark misst CPU-Leistung in Spielen - ComputerBase",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeXQyMGZTQzJJVGRoTDBPVDF6aVhueG1scHN2czdkaXJObjVSREhnZkV3NWRwekttSzQ0QXppMHhIcXJ5YTRzcG5BVndFLWk4M3EtVkV1TkFxZXpEYXpLdGxHMXpvbi1TYnV3cGQ0NjJ6STk5VHNWTElzQTBLcUZEb1dXWmlGRkJZd2RDSThSUTR1cjc4VVlaLTd0WEMyMk83OGVvRWxiMHk5Ui03YUE?oc=5",
+      "title": "Debian Download - ComputerBase",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zUUZadFM0SDFyTXNSYVd5OXN0MmZIMUY2LXJ0d3o0aWxFWlowckhHai1UQ0RtRDk3bTkxY2UzVWlhMGpTbVBBTUVNUnBWTkN6RnBPNGxFdnJqa3RHWjNqRXFSUnJXcl9Ccnl2bVdn?oc=5",
       "source": "ComputerBase",
-      "published": "2026-11-25T17:00:00+00:00",
+      "published": "2026-11-21T19:02:00+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -2883,6 +3178,15 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNa1B4VDBwM29BYUdfTGxFWldUbGx2bnB3eDBqeTN1TUFKZEN5bFF6UDg1VDdEUHpTaTBiNHlxUFpheDZCMEtuajBOeWI5dEx3MlBpS05yYlJQRWdGU3V2WGJIaS00Yl9YZXJlQmFaN2g5OWxzOG5nMkVGY19KQ1lwQVNtMG1BalQ4U2RpUjZBNEMtbFBTclRiejEtY2hhRWJ6c29XVFlYNTVfenY4ZWVod09OS3ZzNHd6a2REWWdXNF9ETnQ3dEFIaV9pLXBjTlJBQnc?oc=5",
       "source": "ComputerBase",
       "published": "2026-11-25T05:00:00+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "3DMark CPU Rumble: Neuer Bench­mark misst CPU-Leistung in Spielen - ComputerBase",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeXQyMGZTQzJJVGRoTDBPVDF6aVhueG1scHN2czdkaXJObjVSREhnZkV3NWRwekttSzQ0QXppMHhIcXJ5YTRzcG5BVndFLWk4M3EtVkV1TkFxZXpEYXpLdGxHMXpvbi1TYnV3cGQ0NjJ6STk5VHNWTElzQTBLcUZEb1dXWmlGRkJZd2RDSThSUTR1cjc4VVlaLTd0WEMyMk83OGVvRWxiMHk5Ui03YUE?oc=5",
+      "source": "ComputerBase",
+      "published": "2026-11-25T17:00:00+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -2951,15 +3255,6 @@
       "status": "topic_filter"
     },
     {
-      "title": "ProArt GR1X mit RTX Spark: Für 9.299 Euro liefert Asus Kupfer und einen zweiten M.2-Slot - ComputerBase",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOUhCdHd3YTV6NGViTEFPdU8xcjhwdjJKMzFXTWZ2VWprZ0FJckpRQ1hJWFhQbU9RQjg2UjBmV1VpWnR2LXdQWGg1Z1NrbDJvb1NXNW03N3VuU3dzbVZhTVBad0U4RU5HUUVaaFc1eENrQ2g4YnRaS1diRWlUdjBYN1ZyOTQ2bEl3QXpKWW4tbFRyV2c4WU5jdGtyY1lKanF5bGljVGtEeDBfMG1XRTVUcGtDSkl3UTdGYUtsUC1qcFZMOFd3WFU3M1p5OGpIb2NPMF9BblA0Yw?oc=5",
-      "source": "ComputerBase",
-      "published": "2026-11-19T15:13:00+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
       "title": "Signal gegen KI: Siri und Gemini sollen Chats nicht mitlesen - ComputerBase",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSE5Ib18xZE5PdHFTU3Qzdk5YZXJmVFItV0hLMWYyemRvdkQzUWV1N191bjRremFWemVKQ1VySTM5X1BWQzN3YjVVNVgxV0xudU1kM1BQZThTOUNmaVJBRllIcGZyRjBOcXpEVXU0U1luVzVleGlhSll0UmVjYTVjZ3k3WEY4Tzd6RGsyZFhNMV8xMDZ3M2p5c2dtUGRPZE9MM1ZnZ3hSenU?oc=5",
       "source": "ComputerBase",
@@ -2989,15 +3284,6 @@
       ],
       "selectedCategories": [],
       "status": "not_in_top_limit_or_allocated_to_other_category"
-    },
-    {
-      "title": "GTA 6: Am PC-Port wird gebastelt, auch .exe der Xbox ist jetzt geleakt - ComputerBase",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZW5naXNNRU5nYmU4OFRaSnc1dkJjeVozM0Z2NVZ4bmxQNXVoWEVvUTU0alBTcFhCWmtZOFdfNkU2YmxzTVQ3WGJrbDBFdWdBS21JSjFqYkNWQm9ROGNDek9qenJHT1VLSjhIcnQzVS10RkVMWnRKVFVpelEySzhwOXNBLUlxSUdIeElOM2Y0ZlR0eVpNS1BJbzJwZGZhZEN5MGtsQjdYLS1kbk4wd0loVWxTaWd2c1dta2NWQ1gtSTQ?oc=5",
-      "source": "ComputerBase",
-      "published": "2026-11-22T14:00:00+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
     },
     {
       "title": "Wochenrück- und Ausblick: Alle Wege führen nach Vice City - ComputerBase",
@@ -3031,10 +3317,37 @@
       "status": "topic_filter"
     },
     {
+      "title": "TSMC-Fabriken in den USA: Trump weiht Ausbau ein, TSMC will Staatshilfen für Texas - ComputerBase",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZVNJUTNRUkVKdHdPUHkyNWV5OHNkS2o3Y3loejVKZTQwVG13QlYtN0RCR3BheVpoUjNEb0NwTXdTMGlQOThTa05JZ2diWllXaGNoOXhqRmVYMFRaY1dLRUYtUU44bExHLWNUckg3bHVmUWZvbHpyN0l0QS0zZVMtdjRrTGljWXpQQnpEOXZ0TlBFR2pYVHhILU1ncTd4UjlEYVZSLWJTbVEwb1JvOEkwSThJQjBxU25QVjNCbEtORFBEaV9QTUNtM0k1VGh0QQ?oc=5",
+      "source": "ComputerBase",
+      "published": "2026-11-26T08:30:00+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
       "title": "OLED-Monitore: Absatz hat sich verdoppelt und MSI überholt Samsung - ComputerBase",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYVI3LUYzOE96OEQ5WXMtcG5WREVueThxQ1NnQVdnM1VER3JRZ0MwOEk0WnJwM2lWWkRGVV9pNkNmMzRpWTh5LVE3RjQ3MUZhUXgycEJNWHNKVlNnYmVWWHdadjNlWXM0bkloU2tFZjNGSWxsU08tZEx3QXRsQzFsOE1jTVJCblctRkNOWS15bmdtYm81eE9DLUZWWEVBbEJMdGM5RlF0YlMwVnFGSTVNRWJWQkRjaFk?oc=5",
       "source": "ComputerBase",
       "published": "2026-11-20T19:16:00+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "GTA 6: Am PC-Port wird gebastelt, auch .exe der Xbox ist jetzt geleakt - ComputerBase",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZW5naXNNRU5nYmU4OFRaSnc1dkJjeVozM0Z2NVZ4bmxQNXVoWEVvUTU0alBTcFhCWmtZOFdfNkU2YmxzTVQ3WGJrbDBFdWdBS21JSjFqYkNWQm9ROGNDek9qenJHT1VLSjhIcnQzVS10RkVMWnRKVFVpelEySzhwOXNBLUlxSUdIeElOM2Y0ZlR0eVpNS1BJbzJwZGZhZEN5MGtsQjdYLS1kbk4wd0loVWxTaWd2c1dta2NWQ1gtSTQ?oc=5",
+      "source": "ComputerBase",
+      "published": "2026-11-22T14:00:00+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Geringere Nachfrage: LG Display streicht OLED-Fertigungslinie für große TVs - ComputerBase",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOS0FVQUdhRTEycjJMaVZmcXZMMmV0TWpfYUtPQkN0RGxqcFdLeTcxQWJGbFlnMXNqS2dKbVhzU2s1aC14bGtvYjBoZXBFaHZwNkVOVWx0WFNhSHA2NzJQZmd5MDhlR2ZwbUczbFJSajk4azNxYXliQXVxT0xwLTVIb1BwZy1ZMUdUbkRtVXprb0NHc0dUU2c2Q2tjWEU2aXY3Rkt5eUpEaVU1ZVdwNVRUWS1KMkJNTXBDVU45M0JpblVVR2JHdGxSZW5JdFhaZVU?oc=5",
+      "source": "ComputerBase",
+      "published": "2026-11-19T17:45:00+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -3087,15 +3400,6 @@
       "status": "topic_filter"
     },
     {
-      "title": "TSMC-Fabriken in den USA: Trump weiht Ausbau ein, TSMC will Staatshilfen für Texas - ComputerBase",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZVNJUTNRUkVKdHdPUHkyNWV5OHNkS2o3Y3loejVKZTQwVG13QlYtN0RCR3BheVpoUjNEb0NwTXdTMGlQOThTa05JZ2diWllXaGNoOXhqRmVYMFRaY1dLRUYtUU44bExHLWNUckg3bHVmUWZvbHpyN0l0QS0zZVMtdjRrTGljWXpQQnpEOXZ0TlBFR2pYVHhILU1ncTd4UjlEYVZSLWJTbVEwb1JvOEkwSThJQjBxU25QVjNCbEtORFBEaV9QTUNtM0k1VGh0QQ?oc=5",
-      "source": "ComputerBase",
-      "published": "2026-11-26T08:30:00+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
       "title": "eGPU-Dock: ROG XG Station 3 ist jetzt für 399 Euro erhältlich - ComputerBase",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUU5WZm1mODJSbXRIMkw3WW5ZY3FCZk1mYkE5SGQ1RkwwcWxjWUNzcGNWRGM5NDUxbWhDVFRGNFNHTGtweTBGem55TGhwSTRrcmRYQnhJSEpwUUJxSnFaQkRuR2t3S0VFS1hQQ3VoLUZjSGlIUVlQMnl3M3FsNS15a1lQTHY1Mmx3dDlJTDRTRTZkYml1ZDJjdjBfd21XUmxqSVFULThjMzZIMGpnbkV3TW5EOGVOZDkteXR4OG4ya3Ytdw?oc=5",
       "source": "ComputerBase",
@@ -3123,10 +3427,28 @@
       "status": "topic_filter"
     },
     {
+      "title": "The Game Awards 2026 - ComputerBase",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MeFBPcnd1U29nZGZuS0tXZnJmQktWUXNtRkFlaGJqZldLdVhwS1U3czhDa1V4R3RMM0xyM241UllnYnIyOFRPRmpkMGlSZlZKbHZxSW5GMi1vd01IZEZYOUM3WUw?oc=5",
+      "source": "ComputerBase",
+      "published": "2026-11-20T19:55:00+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
       "title": "Amazon Echo Time im Test: Smarter Wecker mit Schlaferfassung - ComputerBase",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNW05ZG9sM2txTXdOUW9sNEZrVzl0YlRoZDZqNVZ3VXNISlRUVFpKRFhtY3NxUHZBd0Q1Sm9LX2NIZHVpQTk1bjlJV2ZpRFhWekR6cnpUckVkRVEtZkdpZkQtQ2FiV19OcG9lemZLc1dSZ1lBaWJoMTk1VG1pNl9uNVBfU2FIcVp0dVkwVXlLb1NXTEpCMXYwN1JkcXBSMHVHaWFIQTREa1VwQjQ?oc=5",
       "source": "ComputerBase",
       "published": "2026-11-26T11:00:00+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Studie zur Games-Branche: Bei Epic Games und Ubisoft entfallen die meisten Jobs - ComputerBase",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSjdmMEVySm5nc1lqbUlKeTB4LUVXbmVfREVJRUd3ejBPQUM3bjEzZlZtamxOaXJkeTUxQnlOZTVCY1F5cGlxQ25hLUpIOF8yY3RHcjgtbmtJcVdyVGQ3OVVsUThRc2FQc2ZnRUEtakZTNDh1MkMtZHBkaWtqdlhrTkZhelF4YW90SXNoV0tPMWdZeU42b25BVnlFc25BcTI4R1RnU2YwMENnaXdhaVdDNE0wOFRSUXlSZ3VJOTIyWGFtRU9JSUZ3NnFB?oc=5",
+      "source": "ComputerBase",
+      "published": "2026-11-21T10:00:00+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -3159,55 +3481,19 @@
       "status": "topic_filter"
     },
     {
-      "title": "Neuer Samsung-Monitor: Wenn rekordverdächtige 1.100 Hz auf 1.280 × 720 treffen - ComputerBase",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa2tkRTE5UDlyaHlEQXNVZXQ4UFU0UmR5QWFJTTRRSVU4dVlKdGpxNnZzM0JIdTFuQWxkWjJkMzBaNG5XMHozQk9FSjlYSnNEX2hMNFM0cThQekt1T21EcnZJam05ZDZlNDJrX3JqNjM0NjNMNlVRalQxSlVCSUlVUlFiVEQtd09NRUF6eW5KTDREMXdlVHE5NU1mT0tLbkZSTGFyRjZPQXNJYVNFVjRHTmNhZmdsa3dxYzJXQnFpMlRHZjhPTXJj?oc=5",
+      "title": "Computex 2027 - ComputerBase",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YSVVQYXBqMk9ZNzFKbVQzYVNvbVA3R1g0cWZMcThMWEo3YVU1S0Q3WG5jbmJLYlY1ek51U1NuQmtScXgyT3lwMFVqbmh1V1VlUWlfOExjMVA4NDQ?oc=5",
       "source": "ComputerBase",
-      "published": "2026-11-24T05:30:00+00:00",
+      "published": "2026-11-20T08:15:00+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
     },
     {
-      "title": "Lenovo Legion Go Beam: Leak zeigt Handheld ohne Touchpad - ComputerBase",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdV95b3BOUGN3eVN6YnViRFYxSFpKMTY3R1RCR1d4SE1oZ0UwRDBJSnRySHBmQWpHNHZnMGRCZFcxUTI5bXh2cXpyN1JIaTBmZGxlUVlSMklHdWlaNGxrTFFrMDRjV3laUkRwaW94bU10YmF1Q3U5MUJybENkWV9VMkNPT29XU0hXRk9wUVdCaWZ4dDRwd1pzUnhRTVFHdDNZcGZHeEZB?oc=5",
+      "title": "Retro Games - ComputerBase",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92TENPRHVnM05oNjQ2anBxSmE0NHBsb0Y4T3BMeUhXWTJmWWZ5SDRIUl9EZUJCcnVyeUs2R3ZNQ0NFRVBQUGkxTE11SzZwaHBGd05wU3J2Q3o?oc=5",
       "source": "ComputerBase",
-      "published": "2026-11-20T05:00:00+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "ASML zu China-Exporten: Verbote könnten Chinas Eigenentwicklung beflügeln - ComputerBase",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY3BNYmpJVkFNMHFPVjE3Qzczc2phMDczSzBjMGVXWWtoN09ka0J4em1LZkdMNVkxME8zNGtDSEVFQ2xIeXBKS2VrU3V0dzFnWkw1NDlGVmpZQndzMVY1UnBmYi11aWhuNzVUOW55TTFuMFA3bEdYR0xjbW5RVnlxckx4MlIxWTZ3SE15UFhLVE4yQkdUMTk4MXlUSWVaVC16MFdoVlROQm1UR2JucVdiRkNlWnY5S0ZzcTVkN01CdDkwd1RY?oc=5",
-      "source": "ComputerBase",
-      "published": "2026-11-26T14:07:00+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Dauerbrenner 12V-2×6: Gratis-Tool RTX Lens überwacht Strom Pin für Pin - ComputerBase",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZmpBNUt2UG1wcVpmTUJwWkZHd0ZycGZXOWNsZ1M3QjF5Vi1uUnJ1c2FCeWxrTTlLczZWWG1uTTJDR1NSM1FpZDBQOGpUT211bVR6UmNIZ0N4WjNNOWk4SVNUNW5hVTJJUkFoSlVtdWNodWI4VDh3ZkFmQmhfYkdVci01RFc5NS1JSk1rcGxkSl93WkJMS3ppQzBSQUM4MlBROTZnWkNMVk5SUUgtalQ2andFdUJKX19Qb01LT1h3UUg3cWc?oc=5",
-      "source": "ComputerBase",
-      "published": "2026-11-24T06:33:00+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Apple: Eigener KI-Agent soll Apps bedienen und autark arbeiten - ComputerBase",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTEY0aGRoU0tHV2hHVV9jV0pOYTVMYTV3c2tkcGtyU2hud3RYRlFzaHRBLTlQQjZsdXZJd3VjRmxoSnVvYlRKbDhVbk1HV1BNYW12bDhsRUI2aTJnSDdoZTlLeVNqaUZYbHhodmpicXVuYlRnQnd2UjhhMWQ3bks2aTl1clFoclViakNmU1NnM2xycy1FMDAwTkM2cnVhTEYxdGRyYktQZUlOUDg?oc=5",
-      "source": "ComputerBase",
-      "published": "2026-11-20T11:05:00+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Black Week: GeForce Now bietet sechs Monate zum Sparpreis - ComputerBase",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLUdZWERFYzJLV19IX2VpRXg5S19QMVBNN2ZmRzJ4RE9ueXV2WkZGMDlMUnF2VFhLVzlfaU1SeXVpaHI3a2RzelRmakl5RFNIOTJtc3h4dzJURHhRUEgwYXVFZ1E5ekRCLUliMWlFWGZPTmhUaWJXU3d2QTRwaW11emMySEVjQmE5UEpkbk5lanA4Nm13V1U3emZsV0FOMU91MnVVWUwzMA?oc=5",
-      "source": "ComputerBase",
-      "published": "2026-11-21T09:29:00+00:00",
+      "published": "2026-11-23T19:30:00+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -3296,8 +3582,10 @@
       "eligibleCategories": [
         "Firmen"
       ],
-      "selectedCategories": [],
-      "status": "not_in_top_limit_or_allocated_to_other_category"
+      "selectedCategories": [
+        "Firmen"
+      ],
+      "status": "selected"
     },
     {
       "title": "„Man ist als Sicherheitsnetz da“: Was der Job als Fluglotse für Lieferdrohnen mit sich bringt - t3n",
@@ -3462,15 +3750,6 @@
       "status": "topic_filter"
     },
     {
-      "title": "75 % weniger HR-Tickets: Wie IBM KI im Personalwesen einsetzt - T3N",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOWNmd0FhZUtfd1RfdEVteWdBajVWMDRnb0FKY0lWTkZYLXJ2UXhQQ25pak9KeEtHVGM3NVdfeUlQd1JpbVM3ZXo0RWY2ajJSSWJ4M3NzcDlpOElZM3dQVGVjNUN6RS1ONmZaRy1HR2ppcVd1TDJyYkpVcWhDcHE1SXNXWEVBUkNuUlhhR0NuYktyNmU4bk16b3R6OEVSQTNUN3pEVDRkOURtbGVScm5OMkxRTThYaXpVelZVZjBBa2ZHa0pjZ1pVMm51UVl0Zk4w?oc=5",
-      "source": "t3n",
-      "published": "2026-11-26T13:30:52+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
       "title": "Der Strom-Hunger der KI: Warum sich Anwohner gegen Rechenzentren wehren - T3N",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9CWUNUUkdVeXFld29YUGhfWFE0YmdKNll2WFpvTmFrd2l5RXZRaGh0U0Juci1jdmxiSHJ4LVlmSHVWMHBDUnRSTHFRdUhxTU51VzBqdjBGeDdMM3hlXzhqWGxodndtdTY2RW5sbGNvNjh4MTVOTTA1VQ?oc=5",
       "source": "t3n",
@@ -3552,7 +3831,7 @@
       "status": "topic_filter"
     },
     {
-      "title": "Wird GTA 6 das Gaming verändern? Wahrscheinlich kaum - aber andere Branchen dafür schon - t3n",
+      "title": "Wird GTA 6 das Gaming verändern? Wahrscheinlich kaum - aber andere Branchen dafür schon - T3N",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZbHRla1FiVWVNNW1GLXpWOFMxa1E3R1NTOEhSZW1vOXg0QXpEeXZITDZEOWdzbzhGLWlYdEJIZFZDTEdPWTR2djVKWGhuNW5RSXJIYWp0QzFlVG1STVJpMXZn?oc=5",
       "source": "t3n",
       "published": "2026-11-20T07:00:07+00:00",
@@ -3806,6 +4085,15 @@
       "status": "topic_filter"
     },
     {
+      "title": "Einkaufen, Gym, Kita – mitten im Arbeitstag: Warum Chefs Microshifting trotzdem erlauben sollten - t3n",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE91QXJFS3ptN1FrTW4ycFJnRU5iLXlqODFYTW9hS3Jwc2JfakFncHhYUl8yMndwdWFDQ004bmpDWFFadXQyWmNCdlFJZTBIaEwxZUROejJOMmlVS0daNGd1bUdtNTUzeGZnRk1EQU9mZEVFejFlWHp5MDRWbEI?oc=5",
+      "source": "t3n",
+      "published": "2026-11-21T19:15:00+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
       "title": "Lob für Brüsseler Beschleunigungspläne - energate messenger Schweiz",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaXNlNHljd0ZyakgweG9wYUVuSlFvLXhFVXhfM0xQNkIzZkw5YVJhbW10Q1VLUHE4cXA2MWMwalZvN0RxQV82VEhwTVJ0ZmVHdE9GdUJBVjRQX1dua0puOFprQUNqWVRYX3loOWFFNG1KUzUwVGlldXBxNThlaURNQXFocUxaVzlmZ2tRMzAwMU8?oc=5",
       "source": "energate messenger Schweiz",
@@ -3837,15 +4125,6 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa3hVbDhWbmxxcFVxeW82U1dQQzBWcklTcnhUaWpXWWtzNDhGbF90Y0NqendBdGxVbXhmbkpzS29QTDJkaHNNLTVFYjY3NGY3dWdJbVQwSHJSQm5aLVVnZnNXZmQzeGU4WlNpZGVnOUFUSDZxdS1IUWo5aHpxRVJHajdSclBWT0IzWHR4UnY2eXU5b3lsMVNv?oc=5",
       "source": "energate messenger Schweiz",
       "published": "2026-11-25T12:00:00+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Kontinuität an der BNetzA-Spitze stößt auf Zustimmung - energate messenger Schweiz",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZUs0Vmg4bjhtLWgzUGo3alA1MWlta3lBZW8xRkotQnhUQU9xQlI4R0xPYWhWQUFfQUhtMlJpLVBNcjY5d1doZ3BsT0ZqYmp4RW9KVE5pUTdKLXFsZ2NkRlF4TnkydG9JemloOVdXZjNJYndZOXZCbEk0bmVRVDBRVkJSLUNVVmdmV0FfRWMtWDVCNy1PR2hBVjh6eDZTYWF5VzJIWg?oc=5",
-      "source": "energate messenger Schweiz",
-      "published": "2026-11-23T15:00:00+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -3909,15 +4188,6 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN1RKYTlsQXduR1hTMEFoaHhBeWFDcDQ3SXFneUt4eGJFd2NOQW1DbzRBX3RhblBpb0hvblZ2WklhX25fN0Y5VkRKZ0VyM0k3dGdUbXRzc0p3UXhvdjVvUG5pemMyX1puUWRVdVc4UXdGV3E1T3pUbHlRTHFnb0p1V1lwN3VxX0ZaSHZRQXY4N2IyWE1IazlWc2dMNU5ZS19h?oc=5",
       "source": "energate messenger Schweiz",
       "published": "2026-11-25T14:55:00+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Fusion von Oltner SBO und Zofinger StWZ nimmt weitere Hürde - energate messenger Schweiz",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOU40dEpCeXdPSU43bWdvcXdFLXhlNlhmbUhnbWEtWWoxVVRDamxzbnJMTTR5dUZHMG9XNzJvajhKUTQwb0oxYW4zaWR1bG9FUzdNYWtBRGxrWFZvazg0T0JtSVNtYjFGejUtZHhSRldOTGUxb2QwSGpFclF3UVR3SUd1OHhkclNUbDl2bWg3NUlCamVOekhRRnFwZlZsaVRIeUpxVnl2T0pKZmFw?oc=5",
-      "source": "energate messenger Schweiz",
-      "published": "2026-11-26T14:00:00+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -4008,6 +4278,15 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPV215RWppcW5lZHQxbVg3LTN4czdsVFlTM0RuN1cxNVV5WXFiV1djOS1lcnBrN2c3RmpXVllMdzRiVWx2RjJWdkJfeEQwUXhiWFE5WlFDWUlOWVhFLU9kZFRQRTRURTVTNlJOTzc1bmU2SkdaVUhMSGR5ckY1TFlPMkQ1YUdJUDljTkNZc1lRbVRWcEx3T2o3M1hmdHY?oc=5",
       "source": "energate messenger Schweiz",
       "published": "2026-11-24T12:50:00+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "EU-Parlament gibt grünes Licht für Änderung der Methanverordnung - energate messenger Schweiz",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPczBSMnBoVUhscmdPX0xjd3NOQkd0X0tQU0I3dXd0THRGZ0hlMHEzNE9Ma196Mzh5QXg4Uy1QR3BqTk5ETzRvSk1PTEJuUGtBdGRrQ19nQ1dhNk1JZkxPejZscE52Z3hsTnpIaDdlem9iZ0hvM09XVTJiWnJ6VThyMklFZ0RjcE5ndWVZMmxUQUdfajZwRklwWmlMc0VqczNVWHNMRDZ5aEowUnRLX0Z0aTY4TQ?oc=5",
+      "source": "energate messenger Schweiz",
+      "published": "2026-11-26T14:45:00+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -4121,6 +4400,15 @@
       "status": "topic_filter"
     },
     {
+      "title": "Hersteller halbieren E-LKW-Prognose für 2030 - energate messenger Schweiz",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWUoyaTRXMHh4UjdjWU9Nd19LekVtRXNwVU9wVmRvTmhtaTg4NFU0YzFINzZxTnM5dG5xTFZXYV9ZS3dFa3dLOV93emZmTHo4SjVJb01jTTE5c3ZReHozbWpBZ1FuZWd1UFVoSHI3RENCenBTWWZ5dE9RN0x0bnh6ZzV1RjlSREVvbVBLMUM3bTNIb2ZQcXc?oc=5",
+      "source": "energate messenger Schweiz",
+      "published": "2026-11-19T16:14:00+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
       "title": "EBS schliesst Smart-Meter-Rollout vorzeitig ab - energate messenger Schweiz",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaEtxbXNTMkljaDdySkNQeEplTHoyRWVtWEh0eS1VSkVCc2FGSVJXSU1zUDhpTE96aXVaTjJZODN4blZBZGNTN1BuRGNrV20wczBRLUtKSlNHTjloUDNZcThXOHF3R1hjWUlMNktEWUxpMWxjRjBBbE5qTXowY0EtaTktdUJnSFdWcVNWdld1NlRjVnBleS1z?oc=5",
       "source": "energate messenger Schweiz",
@@ -4134,6 +4422,15 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaElGd1loREVrRXVta1pySE5ra2tSek1WS2FTWUxmRkxhT2E5R1MwUlVIYXJCcC14M1h2Tks5YkhvU1lhVmQ2U1lpbXp5NVphMlBUcTRVbDRYUUZZcmxBRUhGRkxlTXVRSVMzYnpwU3NFNE1rX1Y2NTJrVnFUZ2pVcnF1dmZiOG94YXptb1l5dw?oc=5",
       "source": "energate messenger Schweiz",
       "published": "2026-11-20T14:43:00+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Nur wenige Bundesländer ermöglichen CO2-Speicherung - energate messenger Schweiz",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTmV3d2hmVXpjUGVnWXBZUnF6TkRkWE52UGRrcThVLUdoQXFLY0dBX0t1a21PSW9XV2t0enNoWUVUZE4tcERvd3BMZWV0X0N0dGM5S0ZNMVZJZW1jUUNtYjA3SGZvSHkzX3BjaUR4QU5rMndrcEV5azVpRUZ1dlRTalcwYmpFR0lNVDJDSUZ0MFBtVk94T3YwRl9RSHd2aDJt?oc=5",
+      "source": "energate messenger Schweiz",
+      "published": "2026-11-26T14:57:00+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -4224,6 +4521,15 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa1daalZOY2FLdmxYTVkxeWhpUy1lY1FDWkVSVW9wNlZsT2ZUc0x3UUhPM2pnclhWcFQ0VUtSeHh2UGF6eFpjdVFQVWdJY1NnbklaOUxJZXVXSWpmVTBncHZsQi01R1FKSDhyT1pISGdSOWhmR3pVdDBFMjZjVlhiRWNLekFrczdrWWs2NmpxSzA3WjZzal9pUVdkeV9YT2VMMERN?oc=5",
       "source": "energate messenger Schweiz",
       "published": "2026-11-25T15:02:00+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Fusion von Oltner SBO und Zofinger StWZ nimmt weitere Hürde - energate messenger Schweiz",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcUc3YVhXNkphVlpOTWpiakhydGxyZmZUbGQtR21CRXRTZnlfX2duVkZwX0Jxa1RtM3drdHdWZm40LTR3ZUxzLUVZTDBDLXZRSFhERFd0Q3QxR0QtNWpRcFBsLUdiakt1SnY4RUE3eThiTjFPcGxSQi1BQzhSOTR4SnF4VWJOMjlqaGdSaUpRMDdLenQ5T1BGYWRiQWx1d3BNWllZU244SlFyUQ?oc=5",
+      "source": "energate messenger Schweiz",
+      "published": "2026-11-26T14:00:00+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -4669,17 +4975,6 @@
       "status": "not_in_top_limit_or_allocated_to_other_category"
     },
     {
-      "title": "NDB investiert 5,4 Millionen Franken in KI-Analyse-Software - IT-Markt",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNakVMYkF3eURob3drRVNwVlB5dEp3c2ZuOTF3bHdIRW5UeVIxOXVwT3hUS2dycEhFclNlYjhMODJjMGlUY0NjOW9CTjFmN1V1VUdKckFZdlU2T0lkazR2aEd0QUhpc2c2c3NPYk1CNkY0U2RNNmlCR1ZPVkVlUGdTUFBXYjEyVld3QnNqMXlSZXV0eXlCcXhRLUlJYm0wMDA?oc=5",
-      "source": "IT-Markt",
-      "published": "2026-11-24T10:42:01+00:00",
-      "eligibleCategories": [
-        "Markt"
-      ],
-      "selectedCategories": [],
-      "status": "not_in_top_limit_or_allocated_to_other_category"
-    },
-    {
       "title": "Schweizer Armee sagt Satellitenüberflüge mit eigener Software voraus - IT-Markt",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdkFWZV9pNmc5cGtBTHpsdUtrTFlrYXVXckdPOVJpZURRZVQzcXNmNWtyQWdBaGN4YnhBamZZamIzQnRHV2lzU2N4X0VLaVc3em5GR1RwUmFOQmRmTER0Z2hyR2JzOFJsck5ITU03OFJrLVU2by1ETXhyeFc0Ul85TUR5bF9RSnpnYVlLODdpb1ZmRFItcllHRm1vZ0ExckdQYmNXcGxPSWN3dnlvSmVV?oc=5",
       "source": "IT-Markt",
@@ -4875,229 +5170,19 @@
       "status": "not_in_top_limit_or_allocated_to_other_category"
     },
     {
-      "title": "Newsticker - it-daily.net - Täglich relevante IT-News für Entscheider - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9rb2JBdmFiMGV6cFhlNVhXYU12QURScDE2MGNYY0tHcHVwUzQxLVpOS1NTc2pVMnV4SEZzLVJMN2VHeFB2c0RvZnFRSQ?oc=5",
+      "title": "LLMs evaluieren: Metriken, Benchmarks, AI Act - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rNjl1Q3VwT2dhZlNycTFIbk5TeGl0dWg5QWFkS0VsVENGQXpfOFdDWjRVeG4tZy1IVmlmaXFGdE9JQzh2aWhVOWFwbGIyR281bGwzd1UwWmxJd1VXQmM3TlNrb2ZmSmxnZzdObDE3Njc2WlRrc2c?oc=5",
       "source": "IT-Daily",
-      "published": "2026-11-26T14:21:58+00:00",
+      "published": "2026-11-26T06:07:00+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
     },
     {
-      "title": "Immobilienverwaltung: Hackerangriff auf Bundesagentur für Arbeit - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPUnhKeHN4Mk9jTzRxX2NndldXOF96MnJnQ0ZxcE5NZ09vSTVJX3ZFaEQ3NWJCbjYwb1RhbTk5NnZKaGs2MHVyR01iZnd6aFNPcWcwR2kwZUlPYUkzbGtrRUhCSkxTVWQxTUJxeFF1SjVtdk4t?oc=5",
+      "title": "Gesundheitsdaten verknüpfen, Identitäten schützen - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ3p5akh5VzdSbDF5QmtMeDZtQWh2NFROUHhvTTVBY1B4VVZoSTFLOW1QNVltZ2lhY0tGOWJFY042QklFd2ZmQkNTNE5xaWtJa2owbVdZeUJ1R1JtWEFxZGVuMXh3c0hHeWJVTUtDWUNEd0wyd1V6WjEwV1hCZmxFa3A0bDU2MlU5UkZR?oc=5",
       "source": "IT-Daily",
-      "published": "2026-11-21T10:38:14+00:00",
-      "eligibleCategories": [
-        "Security"
-      ],
-      "selectedCategories": [],
-      "status": "not_in_top_limit_or_allocated_to_other_category"
-    },
-    {
-      "title": "Spam und Scam im Black November - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xb2xZbzNuc0hodnk0dGoxWk5JbWtiakJwZ3JINXdxNDdYMDRJemI4LWJyYUtGeGtqb3ZaZnY2dzNNMFJMd3JINFBoVkEwMnhENnNDSGhGSzVITjRhdE1WenZ5M3F1QnZoVlBxSVpaUW9EZ3pueTJSaXNRR25weUU?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-25T06:13:33+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "NRW-Polizei wechselt von Palantir zu deutscher Software - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnbnplZ0NkbHdIVkJzQlhPNlQ3c2JFXzRWMkhUbnFLaWVUSUpRSnBYV0piU0NONjdwZVQ1bFE4NXA1U3B5Q2ZNdVA2MUYzREhyN1VNbXB5Zm53Y0gwdTZGVjluT0EwbkpWeWR5X3NreTZjQW8wdGxYMQ?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-24T09:29:32+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "ChatGPT down: Zahlende Nutzer kämpfen mit Fehlermeldungen - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUVG9BRVZ1R0p3a0dCWUdzUHNsdU1kZTRzVXY0YVViencxLXUyckUzVWlDb2N0TmxWNThVLUdxanZjN1VvSV9BLXg2d0kyZi1NUERIR1lKRUVIVl9ZcTRIQW5qSkJ2d0pDaW95MTdtWHM?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-25T12:12:26+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Windows 11: WLAN-Treiber verlassen 2027 den Kernel - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqV05vVENDeFVMd0l6d29XZEVlWFRZYjk1eXAybmh5QjY0WFNvVHB0aUJvVWE1SGFyQ2lqSGhRNVV4eXE4cDVjUzBjU05yOTRBNEJpdkFhVkU4WVRnOXRXdl9pZk05NFlReWdrU3hWWmNDSjQ?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-24T13:26:59+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "CIOs: Abgleich von KI-Nutzen und Risiko wird Top-Aufgabe - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA2ZDRTTFRnTHFNYW5sOVkyOEhOTjJqcWhwWFpiWmpoMmpaZUk4cjRKNG82enVRVEhFQnczQ0hnOHNEZF91YmdlVDlpd2JOcUVBbUt4MFJaaDBjLThndC14UjVJSmlfaGJoUVhpSlZHNFBPbDhWbGhkNg?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-20T07:01:38+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Windows 11: Microsoft testet Fernsperre für gestohlene Firmen-PCs - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lVE85Z0NOSUpxckpNemRWSUpTRHJfb01wYUxGdzB3bEI1WTMwTzFheDMzN3poR2R0M0pVQ29MUVRfcDk1UEJKVExXQ2hKbTl0aTBsSUxXLVpQSVNGTnN4THhYWWNQSTFtRVpJX1BRNGp1blZpMUE?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-20T06:36:00+00:00",
-      "eligibleCategories": [
-        "Firmen"
-      ],
-      "selectedCategories": [],
-      "status": "not_in_top_limit_or_allocated_to_other_category"
-    },
-    {
-      "title": "Zwischen Fake und Fakt: KI-Halluzinationen und Deepfakes mit spezialisierten Tools entlarven - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TRkRWSGRiVHBtakMyby1fd0lPZENSZlcwdWlVT2ZGUzNlM0Jkcml2SFVqUE9vVEZyVVdfNVhoNzEtWXZxLXRRQ0FxZ0FQR3FDb0tWOFAxWFEwNUhjSEFjX0piOWo2TlBaS3hNZTdYZWlMNERsYkJFQXQ3bm9XYzA?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-24T06:02:00+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Apple arbeitet an eigenem KI-Agenten für den Mac - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNX0Jab3lzUHFzODVmaDZKUzNyMS1FdFR0YUZoeG1vWmZXZkRyNkl5TVpHd0lGeXIzejBBZnU1d1hRd3hzdWpnSTdGZTJrZnM3QlQ4b1RiSnpiLUNxRmVvREtrVFRiblQ0ZzUtMw?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-20T09:37:39+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Nach neuer PHP-Warnung: Behörden nehmen Seiten vom Netz - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IdkllTU1mdXNTencwZGNKQ09TYUJTZ0RwTVQzak5zV0IzZnNSRnZlc25oVTBVQnZZTkpBUlpPY1RZRHhyOWZBRTNjeG1TcVJVMHV1dC1sbFZReEpKRk9fOUU2T1cwMHg1X2t1OU9sWEY?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-20T07:14:25+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Vier Jahre ChatGPT: 81 Prozent der Deutschen nutzen KI - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE03MEdhbi1lcWoyWkhnUmh0SGN0SzlxRDcyUW12MUZYU3V3QzVfcXBMSzBDZUdZdmJiTXpvRThRTXlRX1F2SUotbjJnaEowVm0zYTVJcHZnNDdKa0RLcXJwMlhmRQ?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-24T11:27:51+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Bewerbungsflut trifft Fachkräftemangel - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVzdIbDM2YVVFVWtBRGxmVjd1SVNheUsyV05jaVR6TkM0b0JiNkNCYnVublc1bGo1c1FTUXNBN1NvUWNTLVR0YkpqVENuLXBFU0FubUNFVjExYUdrTlNGbzJwOXJXSy11cFNIczROWFFRR2R1RGZnVXZoR1p6Z1ZHZHhEd091ZXB4LW03d1JMUWZUUQ?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-24T05:04:43+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "The Gentlemen drohen Nvidia mit Datenleck am 28. November - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBITWxadXFlRjNZcEt4OWw2Q09zN1RZenRqN3JuMk8xNkZYZV9ySjItM1U0NzdFcEFpbDZOX05EWWl1d0hEQ0pIdkIybW9IQnkwNlQtT1pBZzZtRUFLVGxjeDl1YkRJVml5MmJEYWpJSQ?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-24T13:58:00+00:00",
-      "eligibleCategories": [
-        "Security"
-      ],
-      "selectedCategories": [],
-      "status": "not_in_top_limit_or_allocated_to_other_category"
-    },
-    {
-      "title": "Störung: Stadt-Webseiten von Schwerin und Greifswald down - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1peW9VSE1KaC1rRFIzRHVlNV8zZlBycG9fc2t3aEpiSzBXODNFN0tRdUQzV0FfNDNaVWo1d090WE00M21xeFRNTWNObEVOcGdRQm14NGppSjc4NUhzV3NYSC1Wb05CREl6dkg4bXc4ejI?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-25T12:17:35+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Microsoft ruft nach 24-Stunden-Ausfall „Code Red“ aus - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mWkVvc3lIX1Q0RDRGUXl5bGFJWTRfMjd2aHdCNTZQS0c0MDlWVWxRUzRSQXNZeW5xdm9FaXBEVDV6X0RPMzFuXzB1VUkwVjl0bDFaWFJzaDlNa3dQZlctY2phemZCWkpOUEd0OHdNcw?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-25T10:57:00+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Claude Ship: KI-Agenten sollen Code-Änderungen freigeben - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qN0tSZ0lOd0JJbWxhaFdYZmNIVi1IbWNpTkIyLXNCU1ZUY2Nsd2dScGZWUmFwcW5ReGRQTWZkNFh0RWhlMzF1WEFjd0UyX052c0hEODJtcjhhRkR1VVpxRFZyTk5oWDhtbmd0QURTU1k?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-24T09:13:50+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Azure API Management: Lücke kostete Kunden Zugangsdaten - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHM3FNNk9VOW9HS0dDb215eGF0RFBTcjNReHFmN2M1TDlPRUhXdmZYbVFHZHhkZE03LW01ZmNrOHUxYzQxaW1wWUR6S2NWOTlKYkVvWG1JVGhGalRBRHZzYWQ3a0xBLU5VZHhsbnVhdw?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-24T10:16:56+00:00",
-      "eligibleCategories": [
-        "Cloud"
-      ],
-      "selectedCategories": [],
-      "status": "not_in_top_limit_or_allocated_to_other_category"
-    },
-    {
-      "title": "Fünf kritische Lücken gefährden NGINX-Webserver - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IYXRmZHV6U1d1Y0w2QkRsZGpSYnlaeXdoS3Ita1hzcXJXQXJjSXV1WG5zQnZhQ2ZFUkpualFZTG04R09GQmQxR0p3enFxZExTQm1XTWVJY0JBU0ZYWks3RG9ZeHNFYXZoNEE?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-20T07:47:00+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "KI-Sorgen belasten Asiens Börsen weiter - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ITE9tZDZfS1l3NUVmQnR5VDhiVktsTlhWbFBCdDYtc0o1RXpKaHBueUtSRWJaSm5OdTQtSV9xLVhXNUx2UEhlYjcwb0VEWFdMek1IcjdHMHZiTzU3VDJxLVRyWWZWOEJOM0duRnBSRjJRSXplQzZz?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-23T05:34:03+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "FinCEN nimmt nach Cyberangriff Systeme vom Netz - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PeU56NjJWX29ya0JOcXhhcHFCOTZrM2F2ZTBHeXF5ZFVBZG54VWR6bFFKRVhYa2hyLWJpdVdFQlMweEhpQzk5UGRXSzVKcnVxV09fZXR2QmUzaXJDczR5am81TE0?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-26T08:47:00+00:00",
-      "eligibleCategories": [
-        "Security"
-      ],
-      "selectedCategories": [],
-      "status": "not_in_top_limit_or_allocated_to_other_category"
-    },
-    {
-      "title": "Mehr Macht für Behörden bei Cyberangriffen - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6ZnU1Ul9aU3FLcE5ub3lkdFZKSmNfdHF6YVJuSThuN2w3TnBRcmxoSGhVRGJCekxNVmY4SC1MMlBNc2JNeTAwTjNnX3lvdTZScWdGbmpwLUhaY3h6cUZaeDNtYTN6YmFWbmdXakczOTlrNGd2TVE?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-20T12:52:08+00:00",
-      "eligibleCategories": [
-        "Security"
-      ],
-      "selectedCategories": [],
-      "status": "not_in_top_limit_or_allocated_to_other_category"
-    },
-    {
-      "title": "Hacker verantwortlich für Ausfälle von Webseiten im Nordosten - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qNGY4c2RfOWt1bUhtOUZRYUZKYUFBR2pBSGc0S2VWSlMyQjBIZ0dFVkpJczlkUjg1SjlHczdyakszR3ZLXzBoaFZEaVVqNzk0ck9ELTh6ckxocEN2cnk4bFNjTkNpNmlqNWZiNVlHaG1lb1NZQmFwWUV1SQ?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-26T09:20:24+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Dell Technologies entwickelt Dell AI Factory with Nvidia weiter - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5IYXdLQjc1Ym10SUxCd2YxMnRWbTdPRWhHMkNhRS1YY1RLcHUzb19wUXNpLV9WbFlnZGhpVGxza0xIR3FaMGhCbEY3SnZ1LU9wRzJrcFlvLW4zSGlIaVBIWHJ2a3E4RExMeFc4TGZqYw?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-25T16:40:34+00:00",
+      "published": "2026-11-26T04:32:52+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -5112,230 +5197,19 @@
       "status": "topic_filter"
     },
     {
+      "title": "Anthropic erkennt Missbrauch über mehrere Anfragen hinweg - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95V2V0LXJJNmdmTEFXMDM2TjNkN0pSM2tUVVFEUWZJNDJIX19BWHNDTThmYWxIdlk2N0JGX0NVamRKS2lEQzhZQjZELWs1emZWa25ya2Y0SjlyVS1ldW9wLVluSURXdE9SZ29YMVM0SFU?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-25T17:27:16+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
       "title": "Brundert Björn - it-daily.net - Täglich relevante IT-News für Entscheider - it-daily.net",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WWW12dHlsTk9HNEloYVJmTnVaZ3l2NGY0b2xubUhFVVJYa0ZKWnp4dm03WDJNbGdxN3hBWEhSWl8wWUZ0ak1qeFFlTnFoZWNPSXNUbG9LeTl2Zw?oc=5",
       "source": "IT-Daily",
       "published": "2026-11-26T09:14:00+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Pickhardt Felix - it-daily.net - Täglich relevante IT-News für Entscheider - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JN2pnV1hCQ3c3S0hSMXZTZGtkZkF2aUxJdGdFamxVR3FoUnJXeUIwWkRaWE1hMmhWZV9GTS0wa1NuX3pVbWJhaDljTHhIR3RrUC1BMHZHbEsxQQ?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-26T04:32:00+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "ESET NeoCortex im Plattform-Check: Spezialisierte World-Model-KI gegen die Alarmflut im SOC - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMU5rLUN3RTVaR2NhLTItZUNxYmY3bVZrNU0yei1SREVyTkRhS1RXX1djTnJDVlNKaEtySzdnQmcwdUxtclVwMEFVU1V0czV0aVV6ZFBpZFVDMHF5MHJXRU9OTWk2NndBbVo2Qm1PLVZtekZsVTE4QkNNNThial81bw?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-23T06:24:51+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Keller Lars - it-daily.net - Täglich relevante IT-News für Entscheider - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0WmxIdkpHQVFVYXlFTUVwbFlQRlJiZDVXVWlYQl9Xc3ZvcFZGa2xobVUxMnNCNHZfX0hHUnFubVlNQUpHeTE5dW1hbXBfQnB6S01QTw?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-26T04:04:00+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Singha Subhajeet - it-daily.net - Täglich relevante IT-News für Entscheider - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fc044dHVmaExNZUlSeldjTVZsOXdtS0hJUXd5bDhBNFVaV0VRUzhEa2JjR2RIUjdCdGxIcUJQam1NOEdhd2RtYjR3ZUhxeTcxRVExY2UzRzdLaXM?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-25T10:16:00+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Buchhändler Hugendubel wird Opfer von Hackern - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5yc1M1cGlDaHU0OFNiXzJxc1JhMEJTajdiLXV5YWs4cWRCek9ZaEVTamJXRkJkeU1tLWljS0VaZ0dIeVc4VVFWN2ZyZUVOSmVWM0gyMmQ1MXB5TjZSbGR2T3ZwTGtXNkpBdWtRQXl3T3I3LUxEQ25F?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-21T11:00:07+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Kipker Prof. Dr. Dennis-Kenji - it-daily.net - Täglich relevante IT-News für Entscheider - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52SFRZanVsN3NxUlhrOWNkVjZfUnZ3UzZ1OXRmVndrSkZ0TFQ4c1NZUU1HMjZoTmhTbjRKb3oyZnp0RFU5ZmhMUzZsbnhxQ2l6YlFnRWdKa1R0algzMTFzcFM1ZU1OX2Z5UkFJbw?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-24T12:03:48+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Amazon in Gera: Die Bilanz nach fünf Jahren - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xZTBZT3c0OV80MVhlN3EydzhmY1U5akVjRUtvTFBSbXlRWTBzcVBMNlRnMUw2THJyM0ZSMlpfdXZLZlJYSFUwQVMyZVQtME1hekRobktNWVZmbk13VkE?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-25T07:09:04+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "GPT-Auswahl: KI-Dienste für Unternehmen besser bewerten - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQZzA0M2VvaW1lNVRESVlrUFN0Tjhmc19PZkJqSWhIbl9YcXRrcWlaRWhxbXo5RU4tWnZRUXd3S0pQUUhSS3RzUEhDLXY5UjBlblROOFZn?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-24T07:36:00+00:00",
-      "eligibleCategories": [
-        "Firmen"
-      ],
-      "selectedCategories": [],
-      "status": "not_in_top_limit_or_allocated_to_other_category"
-    },
-    {
-      "title": "Täglich relevante IT-News für Entscheider - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObEtzLXhidld2cEdsWmI2NGxXbHByV2R5emJQME1HVmNHXzVnU0owQlV1Z25jQjBTaml2QWpLdk5TSk9HQ0pFWUlmTXRPVFBFMXZfSHh3cEE3dUNwbzZMczF0QXEwNjJ2aFZ4ajhFTVRybDctOWpvX3FvVFBDaHByRQ?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-24T22:17:43+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Arik Bünyamin - it-daily.net - Täglich relevante IT-News für Entscheider - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hTGJCU2IzOVZuVkE3TzBSa2ZaR2Jac1RrN2hNRk1SbXVDMVR2SHVnMnZUbW80M1ZBOXF6a3QtUjYwRzNTZ1VsRmE5Qi1XTGh5bVg3S2FmbFQ?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-24T16:03:34+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Ruge Frank - it-daily.net - Täglich relevante IT-News für Entscheider - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NWnRxcmR0WFFlRElLX1E2eTJVTTF4aHRudHlOc2xRVUdZM3RaT0tlRHpJRm02S210UURuRVN5TG9oal9pZmtTSHNSbFBtbmhiVHh3?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-20T04:09:00+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Wie Daten im Mittelstand zu besseren Entscheidungen führen - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMGpTUGQteDVlRFpVM3NEMm91OFNsbjhOb2l3d2JYeFZLLWlTU2xlS2JwcVIyLWI4YXlDVVlOdnlPZEpZUW9LdzJVMXNNZXFrRzFxNFMzWC1PYUk3QnZzV3h2bFJiRVZ0WW5QcU5tWGJvSTh5VXNKaDAyaXZnUXlDWEVCYUw?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-20T12:14:00+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Viswanathan Suvish - it-daily.net - Täglich relevante IT-News für Entscheider - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1S05BNUdyY092dzNkRnNMWGNUZG1LbU9nM25lZURyMXlMTWNRdVJaelJ6ZW1XLWZVNG10Y3lCYVN3M3gzMmxYR2JZNi1FdmdPaHR0NnQ5TEI3d2hULWc?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-25T22:32:22+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Rolka Björn - it-daily.net - Täglich relevante IT-News für Entscheider - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ycEtzTVI5NFNNbGdjUVNfS1NkM2VVaEtOU0RuVlM5TU43dlBVbzNmZ1Y3M0ZPNkdVQ2lWZnl4Q1ozMnVQaFd6UHVtakE0TlNHazFWaHNB?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-20T09:03:00+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Pepe James - it-daily.net - Täglich relevante IT-News für Entscheider - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00VVBvSFl6YnJyUklET05GQXBXNDhCbzJnMFdXZnVJWnFBOHJpcVc5UldUREFocW1ZbXZWQUU0NmFodGdPUUZCNmxUc1pLQ295dE00?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-26T12:16:00+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Täglich relevante IT-News für Entscheider - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLWZNYnpMMnhxdmZKNV95NWdrUjRQWXNVQzNvZkxHYWtWRHIxY2ZFYkJvLW85NHRkNkw5QWtDOXpBSVBOOUJUcDRFT2JsMHRWeFNqN1l0S0JTWUpLMkZvWC1LZkxjOGdIVlBBQUNIbnNjalFWZjFSZ1lIU1R4OExUMQ?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-24T18:32:05+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Schulze Patrick - it-daily.net - Täglich relevante IT-News für Entscheider - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NcVJQcDhNT1l2amZSYVdldjFLTEtNV2dtdjdKZDZLSHNxcUFVMkZWSlVaYmkxWFRfQ3htUkNFRUZZemkxMl9ybXM4WEFxZURXU21xVXhqdDRsUQ?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-20T04:26:00+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Frischknecht Björn - it-daily.net - Täglich relevante IT-News für Entscheider - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fWkVjcE04RWtZYXN2Y2pkU2lFbl9xS2RENWU0ZU4xRG5jcjA1enBhajIwQVBqSUZGVEEzcVcxaWhoT1Z0anR0TEkwcFVvV1kxSmFNcUpIVG56aE5pd25B?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-25T04:03:00+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Trezor bestätigt Spionage-Implantate in drei Safe-5-Wallets - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DMEU2VnI1TTZuWmVzeFhicUU2SDF4WXJxVVBJRXdad1Q1Ri1URkdLdlhORVA2Uk0zUlN1eTA4dGkzLVBBa0E2THptdTZibEtVTXUxTVJuRmVBUm54V2FvZVprMlY0d0dsbG1BUEln?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-20T09:20:16+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Salzmann Thomas - it-daily.net - Täglich relevante IT-News für Entscheider - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EazRGUzF3RzlFYkVOSkJleDJGSlhvNDEtWHlDNFpScEd3cHY5dzVZR0ZtNk9ZUThCbzBiUVAtWV9hSlFWXzd2VVY2VzkwbEdNTjRwdTZUVlZXUQ?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-20T11:14:00+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Datenleck: Zwei Milliarden Zugangsdaten offen im Netz - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xbnhlaGpEdjgxMnhMT0pBQjNWZ1I0VTVZYXZZWDdndEQxQXk5ZnlEWFpkS1dCVENYWVI2SFpGUmQ4VEZRQjducnlQeG5nUTg3d1NSLVF2d3UxMmZDTVpya1BTM05IcEtY?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-25T05:48:48+00:00",
-      "eligibleCategories": [
-        "Security"
-      ],
-      "selectedCategories": [],
-      "status": "not_in_top_limit_or_allocated_to_other_category"
-    },
-    {
-      "title": "KI verändert die Spielregeln: Was die IT jetzt leisten muss - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5WFBlTk1EaWlNNmFKYzVkQmJyNFpKczJzZDhxemVjdkRwRk5mRi1mOWFVb2g5aFhnU1lrOU1ZRThHbEpBVk9kOGFQS1dBcXFjMG5xSlNveWVPc0V2MnItekdpeWEwMWk0TGdBTGYxNkQzZnZXOThvYjhFaw?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-26T09:14:16+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "LLMs evaluieren: Metriken, Benchmarks, AI Act - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rNjl1Q3VwT2dhZlNycTFIbk5TeGl0dWg5QWFkS0VsVENGQXpfOFdDWjRVeG4tZy1IVmlmaXFGdE9JQzh2aWhVOWFwbGIyR281bGwzd1UwWmxJd1VXQmM3TlNrb2ZmSmxnZzdObDE3Njc2WlRrc2c?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-26T06:07:00+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Wie senkt individuelle Software langfristig IT-Kosten? - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRktTZDMxSEFqcG9qT0JMN0xYM0w4Qzk2SENjaF90eUVWV1VycTF1MmEwZkdXcXFMV3d3NkxKQWpIM2xTXzNMa1RPSEs1OWFYQXk2N3lNZzFVUW04U19keERKT1FHRG02WjJTWEhUa3cxaWZJMmg2MHdSVHBJZjVTYTR2RmdYNWZQSzMxSkVuTXZLYUtxdllUTDE3cG5BMUE?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-25T11:10:00+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -5354,79 +5228,48 @@
       "status": "selected"
     },
     {
-      "title": "Weimer fordert europäische TikTok-Allianz bis Ende 2027 - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4a0pFYlNmcjBxTHpLMHo4LU93SEVVOEhBOTVHelJlWHRuRkFBOWNrQXVHUXFLU1l1aTNkUHdmcGZyUE9mZ3lGR05iMF9vZlpnTlVDX2ExNThoRkJGcnR5OVROLWgwS01uWUh5UHlOdkp4eXBmZ3c?oc=5",
+      "title": "Pickhardt Felix - it-daily.net - Täglich relevante IT-News für Entscheider - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JN2pnV1hCQ3c3S0hSMXZTZGtkZkF2aUxJdGdFamxVR3FoUnJXeUIwWkRaWE1hMmhWZV9GTS0wa1NuX3pVbWJhaDljTHhIR3RrUC1BMHZHbEsxQQ?oc=5",
       "source": "IT-Daily",
-      "published": "2026-11-26T10:27:15+00:00",
+      "published": "2026-11-26T04:32:00+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
     },
     {
-      "title": "Imagine Enterprise: IBM und Microsoft bündeln KI-Agenten - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QWGFlT0M3R18tNFlsLXdac1ExNWMzc1AweXV6NXkxX3ZQSmdfWGFlX2lIcWFuRUVtVmlyWjlLMDRMV3B0MnBZOWRpQng3TUh0NHA1TGNocmM4b2FkbFR1MzlncVctNTNPcVN5MUpvTDU?oc=5",
+      "title": "Was eine Proxmox-Migration im Mittelstand wirklich kostet - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUXdDM2Y5UHBMLWFDb1FNZ2FXdm9XYkl2bklHVGdjaFRheGlpUWNLcGRFYkliSUVGRGYxdS1KU2EyQUF3dllnWC1VUmFrZ09fWmZRZ2pENDRUUjFnN2NxZGdiTEJqMGFXREZYMzlwYWdSb3JIOWRKRmdaazVkN1A5UXpFLVJwVU1PdUx6b2RZU2w5azJo?oc=5",
       "source": "IT-Daily",
-      "published": "2026-11-26T13:30:08+00:00",
+      "published": "2026-11-24T03:59:51+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
     },
     {
-      "title": "KI-gestützte Angriffe auf Check-Point-Server - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13aDdlLVVmbzVXYUZPbG5mdHo4T1ljNGFlVWRYWEVqUlo4NGJBNHZVVGJ5cUk2RjBGdjBuLXQyZmNIcWppa252eVhFVVEzMWhSWGdEQVphYjJLNE9UNjQ4ZWZsMTFUSlBKLUVUb3hZdTMwOTRITUk0LQ?oc=5",
+      "title": "Deutsche misstrauen KI-Agenten - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HZUJQZUFVNVNFNlhrWDhXUjMzYThrQ1lEVzNSNW5QcVdaNGd1U1ZYVmlhV0prX0l5ejZYeFdxbEt0Y25waE9pNlA5NDdyX1JyS3dialZjTVNCZUFNcDM4VkFhMXVBV21PbEUtWFViNUV6T2M?oc=5",
       "source": "IT-Daily",
-      "published": "2026-11-26T08:20:44+00:00",
+      "published": "2026-11-22T14:33:40+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
     },
     {
-      "title": "Danfoss-Kühlsteuerungen: CISA warnt vor kritischer Lücke - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE11a1pCSldjN20yQlY0WDg2cGRuMGZJbXJZa1ZWV0N3OVE3TTVvTHVCNnB1ajk5NUZXTDhhZlNXTXh6NUVMQnliTVo2SEI2dTZIOUVNTTExWFM4SGtTdkRpQ2ZLb1ZhUXh5ZDlqdkR5UnNkQQ?oc=5",
+      "title": "Software-Nutzung: Der Ausstieg beginnt beim Einstieg - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbWp0MndxNy01cTV1ZnVYc3pMc1RxUzMtYkNfTnVSU3h3M1N6dXN2ZjdXb1hPUHpHV0lqd3I1VHpPdFdtbnFmRm42Vm82aHdfVlpYcUZjaTFQUHllVG94c2ZlYVdQeDEyd2ptUktwYUdpb1p4aS00QjU1N1Q0Um1KZUFSd2x3cDh1a0VLYzNUM0hUZjYwc2c?oc=5",
       "source": "IT-Daily",
-      "published": "2026-11-26T07:57:00+00:00",
+      "published": "2026-11-25T15:17:21+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
     },
     {
-      "title": "Rechnung nicht verschlüsselt: Firma muss fast 20.000 Euro zahlen - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RSmRseG5rSWJNZVluZWY1WGozb3Q0YXF3a3pRMkhZTTlRMnVpdHFPVlMtcmlPem5tcGd2YUxWV1Z2UlZaVTBNaE54ekFrRzhFQXg5VE1JbkNpZEh0SmpTVjZENzFZLVBDRlYwNkR2dzJNUQ?oc=5",
+      "title": "Mehr als die Hälfte von Datenlecks betroffen - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nM19YM25hdDJKYU5tSVVWODFkSXFaaHNzMzZzZUVJY21NVUNwVUpFUjMxRFN1a0QzSUNFS20tT3VOcmJTQlhsOXdXNExHVmVkQkE0cks1c0k4c0VoLVhIRjhwV094VTdJVE42QUthYlpXaTRk?oc=5",
       "source": "IT-Daily",
-      "published": "2026-11-26T11:31:48+00:00",
+      "published": "2026-11-25T06:39:49+00:00",
       "eligibleCategories": [
-        "Firmen"
-      ],
-      "selectedCategories": [
-        "Firmen"
-      ],
-      "status": "selected"
-    },
-    {
-      "title": "KI macht Individualsoftware wieder attraktiv, aber … - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5U3I3OVhuMnpTZnhicFdGTWg4bzBSU1VzMjNXTWJLT1VpNlRWMFlTVHd5bm0wU3BpcnVfcy1aaUNEY3VFYjB5Y1cwWXVRU1pKVWhSYWNuMW1UNWpNUFJ1Ry03bUgtMXZpZWRuM2JrOHhzV1VjblQzbVJxeDVSZw?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-20T07:23:00+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Ex-ShinyHunters-Gruppe erpresst nun unter INCEPTION - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xOXlHa1NCOXNLVlpBUklSWktfekVsWm5GN28xRDJSZEpzX1JwbGwtNG1VSmY1YjNGN1NSclpVdjI4TU9QQUNnQlJYV3NxLWR1XzhMdXZqWk9hS0lXVkRmZUhhRnpxLXAtYXFaOGw5TzYwNDdjZHc?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-26T13:14:00+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Berliner Start-up A11 tritt mit KI-Software gegen amerikanische Rivalen an - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81N21iLWtjSm42VGx6a0FBX3JXbHIxVld0UERJaE1sNVpFRlp4TFMwQlpHNnM0Uy1WVm5XN1FtZGtDZ1QyV0NBUDdycnRDQVZhNlM3SVQtcm5fMEZ0ZjdDZm9EV2NWUGx6dUIzOXpKM3kxSDdqeVc0?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-26T05:33:19+00:00",
-      "eligibleCategories": [
-        "Firmen"
+        "Security"
       ],
       "selectedCategories": [],
       "status": "not_in_top_limit_or_allocated_to_other_category"
@@ -5441,28 +5284,75 @@
       "status": "topic_filter"
     },
     {
-      "title": "VMware: Erneut kritische Lücke im Verzeichnisdienst - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfYzlvVnZEVXdUZXpEVWFaNGxyb3NydmN2Z0MxNElvc0lWRERmVldFNWFWMEZTb0ZMTXAwQ1ZGYlM3d1JYQjBUaHJnNjU2TjAyNXZPUlRxbV9JVU44ZjcwaGpQY2Nsdmo2Wmc?oc=5",
+      "title": "Spam und Scam im Black November - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xb2xZbzNuc0hodnk0dGoxWk5JbWtiakJwZ3JINXdxNDdYMDRJemI4LWJyYUtGeGtqb3ZaZnY2dzNNMFJMd3JINFBoVkEwMnhENnNDSGhGSzVITjRhdE1WenZ5M3F1QnZoVlBxSVpaUW9EZ3pueTJSaXNRR25weUU?oc=5",
       "source": "IT-Daily",
-      "published": "2026-11-26T07:09:22+00:00",
+      "published": "2026-11-25T06:13:33+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
     },
     {
-      "title": "MedusaLocker will E-Mails von Yahoo erbeutet haben - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zWXEwRXlFdHc2Z1J4T2FnLW1yRy1DbWxMQkxvQUxPR0JNb3JZbEt1UDExemNLVkpaUDVwNXE4V19KcUZhZG1ZUm9Qa28wSHBFaVgxOGhsaFRkNE9EOExqV1puOA?oc=5",
+      "title": "Shirudo: OpenAI und Cisco schirmen Linux vor Exploits ab - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IMzZPdjQtZk11NUUtR3BVdlVaYlBUbFhhcXBuRzQ2WFVlSDBkTU1tM3Vqa0NRcE5VNHBJZnZkUDUyRjFFTmlrZEpmU3JuRHhLcDR5aTBMN3dnMnpGMEhGNXd5dFF0YVBwZWZ4UG1xYw?oc=5",
       "source": "IT-Daily",
-      "published": "2026-11-25T17:47:52+00:00",
+      "published": "2026-11-25T18:17:46+00:00",
+      "eligibleCategories": [
+        "Security"
+      ],
+      "selectedCategories": [],
+      "status": "not_in_top_limit_or_allocated_to_other_category"
+    },
+    {
+      "title": "Dell Technologies entwickelt Dell AI Factory with Nvidia weiter - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5IYXdLQjc1Ym10SUxCd2YxMnRWbTdPRWhHMkNhRS1YY1RLcHUzb19wUXNpLV9WbFlnZGhpVGxza0xIR3FaMGhCbEY3SnZ1LU9wRzJrcFlvLW4zSGlIaVBIWHJ2a3E4RExMeFc4TGZqYw?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-25T16:40:34+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
     },
     {
-      "title": "Rechtsabteilungen: Cyber-Meldeprozesse oft ungetestet - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGbTVpUVdDSEZKOENnYzJsQVBJTUhyTFE4ZkYxUEZ4WTFra1JIT19jOXZpOGVuejRPUm1sWUlXcVBuNERIYWF2LTlpM2V1QjVUNUFqZU1rd0hqcFNRVm9QZVlaQXBoWjhmTHhIa3hOUDBsUV90?oc=5",
+      "title": "Zwischen Fake und Fakt: KI-Halluzinationen und Deepfakes mit spezialisierten Tools entlarven - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TRkRWSGRiVHBtakMyby1fd0lPZENSZlcwdWlVT2ZGUzNlM0Jkcml2SFVqUE9vVEZyVVdfNVhoNzEtWXZxLXRRQ0FxZ0FQR3FDb0tWOFAxWFEwNUhjSEFjX0piOWo2TlBaS3hNZTdYZWlMNERsYkJFQXQ3bm9XYzA?oc=5",
       "source": "IT-Daily",
-      "published": "2026-11-26T06:48:47+00:00",
+      "published": "2026-11-24T06:02:00+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "KI verändert die Spielregeln: Was die IT jetzt leisten muss - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5WFBlTk1EaWlNNmFKYzVkQmJyNFpKczJzZDhxemVjdkRwRk5mRi1mOWFVb2g5aFhnU1lrOU1ZRThHbEpBVk9kOGFQS1dBcXFjMG5xSlNveWVPc0V2MnItekdpeWEwMWk0TGdBTGYxNkQzZnZXOThvYjhFaw?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-26T09:14:16+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Gartner: KI schafft bis 2030 netto 1,7 Millionen Jobs - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UY3RRUlBVVlpmUThBd0V1aHNnV1puNUNWNHZBM1JqTUVPSlRqd1U1b2p0U1RkZXVkOHNiRmNBZk92dk4xc255NnU5eGthXzVZd3hLbFJyTm1JMUNINlFENmVYMVZlTWxGMGNuZXN6MWxwRWhrTHpJ?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-21T12:37:04+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Imagine Enterprise: IBM und Microsoft bündeln KI-Agenten - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QWGFlT0M3R18tNFlsLXdac1ExNWMzc1AweXV6NXkxX3ZQSmdfWGFlX2lIcWFuRUVtVmlyWjlLMDRMV3B0MnBZOWRpQng3TUh0NHA1TGNocmM4b2FkbFR1MzlncVctNTNPcVN5MUpvTDU?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-26T13:30:08+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "ERP & KI: Vom Datenverwalter zum Unternehmensnavigator - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRkt2c3JwNkdhT29taU1fQmlwSGtvWGdSQ2dxS1huaFJ1M2ljbW8tSEVHUng5Um9YSkpENVJubVRIUUZzZERILWJSVUhsRXVsUXg2Q2hqeDhYVU1pcEFUTWl3amFzTW9pRk5hUGhQOXhxTHUwTm5ldHFkMzJwN3g2Xw?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-26T04:04:42+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -5477,19 +5367,421 @@
       "status": "topic_filter"
     },
     {
-      "title": "„Der Angriff auf uns ist Teil eines Angriffs auf die Demokratie“ - Netzpolitik.org",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMy10UDhoeEY1NU5DZnFFZDNvWERScTJsMWhFc294M3RaZngzdTJCRW02bjNWZHNvVjlxcVY3bXZqaUtveTd0YmFCQnZ5X1ZKZnZhTUt4X0diMjZROEx5aGp5OEpQVFpQdkxVUkk3T28zTVlWWi1IUi1RVi1vbWt4U0o3cllHZTR2WW9UYW93ZmxtZk1aRFhEWm1iQkRMU29pYUdISjdkMFF0dFpEWm95NHFIcS1DWC15T3FWR1R0RHpfYTVVU19rTm5n?oc=5",
-      "source": "netzpolitik.org",
-      "published": "2026-11-25T06:53:42+00:00",
+      "title": "«Das Endspiel ist jetzt»: Siemens-Chef über den KI-Wettlauf - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDU05qaWhJMndXVTBtV25wNUxJYWtHT3ZxNlpTVFZmREhQc0JWZ3p1akpaT3YtLVRxcVJpSkdOMnFGTVpWWjk4MHgxQTVvUGVHRVpCWldjOTZpb0pmMnYyOGppNkYtZnhmdDQ1eUJ0eFFjczhqR0lV?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-23T07:01:00+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
     },
     {
-      "title": "Vermummungsverbot: Ein Mensch muss ins Gefängnis, weil er sein Gesicht schützte - Netzpolitik.org",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaHZBZWNHNXFQSnNKbEEtS0N2NkpEMWluczRNdl9UeFFNM2hTM1czTnZBUzBKb18yS2NQRzVEZWVZa1VYbzFZQXVuZFFVbUNUZ0N2TVBkY0x0cTA0eTFsQm5NRndBcktyWWtZZ1ZnRkg4Vjk4anRodmE5ZElTYjk4TlZ5aE9OWnNiWXA0YlJKRkRNN09seWRPdW93empOR2pVaVd5cXNSNlhRRnh3YWc?oc=5",
-      "source": "netzpolitik.org",
-      "published": "2026-11-23T10:07:43+00:00",
+      "title": "Black Friday: 69 % der Verbraucher wollen KI nicht für sich einkaufen lassen - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRkR3MVRDZnRXeWtmcF9rRHBFRXhhN2c0UkdCdEFWQVQ4ZHhCUGk3NnRhaThyMmZ5OWdxU21EVTlEMm5QQVhqdFRVeDNXYVJ0b1dHWUhJbUMwcEdVTnItcmpXZ2Vpb1F3VFp5enNqTUkzb2RjcDMyX1hya1Excko5eC1qTTFXbmZjSUMw?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-25T19:06:31+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "KI macht Individualsoftware wieder attraktiv, aber … - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5U3I3OVhuMnpTZnhicFdGTWg4bzBSU1VzMjNXTWJLT1VpNlRWMFlTVHd5bm0wU3BpcnVfcy1aaUNEY3VFYjB5Y1cwWXVRU1pKVWhSYWNuMW1UNWpNUFJ1Ry03bUgtMXZpZWRuM2JrOHhzV1VjblQzbVJxeDVSZw?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-20T07:23:00+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Immobilienverwaltung: Hackerangriff auf Bundesagentur für Arbeit - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPUnhKeHN4Mk9jTzRxX2NndldXOF96MnJnQ0ZxcE5NZ09vSTVJX3ZFaEQ3NWJCbjYwb1RhbTk5NnZKaGs2MHVyR01iZnd6aFNPcWcwR2kwZUlPYUkzbGtrRUhCSkxTVWQxTUJxeFF1SjVtdk4t?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-21T10:38:14+00:00",
+      "eligibleCategories": [
+        "Security"
+      ],
+      "selectedCategories": [],
+      "status": "not_in_top_limit_or_allocated_to_other_category"
+    },
+    {
+      "title": "Mega-Deal? Crowdstrike greift nach Zscaler - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbWVxSmNHMDJfTXpqTnEyZHVnQVBHZEpQdS1zNFVGcG1IR2VCSWNfbkQtc2tERFZBZ3FoTFVLcy1WNjNoVWJtVms5b2x0YzQwX25FTW11WWVsbnBMWWJYU2xFbElJRFI1aTZCcW1GcWhZaHVKSklaRi0zVDZzamVTdzhUak5ucnZXbEdhWGZ1dVR4Uzdo?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-23T05:08:00+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Outlook-Ausfall hat doch E-Mails gekostet - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90V2ZVWkN3OEJ2SjlJbVAyOGxJajBpRHFaQWRsaERfdzJ3c1dsYWZ3ZFRObVRRdGc5WWxCMkdKMkw4WXcxTkk4U0N0WW5ISzdNUUpFQ25LQklXQUFqMElvbkpHVFJWM3QwQ05XMndDRmpTTFpqM0E?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-23T07:06:00+00:00",
+      "eligibleCategories": [
+        "Microsoft 365"
+      ],
+      "selectedCategories": [],
+      "status": "not_in_top_limit_or_allocated_to_other_category"
+    },
+    {
+      "title": "Kipker Prof. Dr. Dennis-Kenji - it-daily.net - Täglich relevante IT-News für Entscheider - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52SFRZanVsN3NxUlhrOWNkVjZfUnZ3UzZ1OXRmVndrSkZ0TFQ4c1NZUU1HMjZoTmhTbjRKb3oyZnp0RFU5ZmhMUzZsbnhxQ2l6YlFnRWdKa1R0algzMTFzcFM1ZU1OX2Z5UkFJbw?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-24T12:03:48+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Warum grüne Security-Dashboards ein trügerisches Bild vermitteln können - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLVFXUW04b3k5a09lSVNBekVyRE04clZSVHJoYkhLZ1ZDQ0dzeHQ1dHR4Y3J6Mi1aNzhOT18tdFloUGZTR01JZ3llR3FPU2tldV9KdjRIUldFVDZldUJyN2VRSVRVbzh1RTlrT2V5QVp3T0ZKb1dieVlZMVo2emxIVVJ3and6ZEhxQktQVEE4d1czb1Rv?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-20T06:14:26+00:00",
+      "eligibleCategories": [
+        "Security"
+      ],
+      "selectedCategories": [],
+      "status": "not_in_top_limit_or_allocated_to_other_category"
+    },
+    {
+      "title": "Post-Quanten-Migration: Schritt für Schritt zur sicheren Umsetzung gelangen - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZTdKREZPRURCd0dMbzdIUU12UkRvTWxMOGZfN3FLOWYxbWdIYUJjaXFOZXl6ZWNXWkpRT3hORzk2T1R4dm5HYmN4UnlEUGZXd1pPcTRyMERfWlVycE8xYi1OS2xQUWY0ejBZcDJOc0Q2bWQtMEk2ZWVYYjFKeXpYYXpIeU5Qb3E2bDhUOG5DTQ?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-20T04:26:58+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Multi-Cloud-Backup: Was „Cloud-nativ“ eigentlich bedeutet - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMUFIcXEzVFc1UnhxWDRZYUM1MVMwTDdyR2dCdUcxcXRDOW4xZG54ajBfelhFaE5CT3l5dFJFUlFQSVFzM3MxekxwcERDcUhRQmtyejVHVWE0RXNibHV2X1JSbDdFTGNSVVY0MHc1N2E3Y2dDUmRaWGxHbGMxVjRyMVFnLTNnZmJ6clFjdHpR?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-25T14:59:30+00:00",
+      "eligibleCategories": [
+        "Cloud"
+      ],
+      "selectedCategories": [
+        "Cloud"
+      ],
+      "status": "selected"
+    },
+    {
+      "title": "Bewerbungsflut trifft Fachkräftemangel - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVzdIbDM2YVVFVWtBRGxmVjd1SVNheUsyV05jaVR6TkM0b0JiNkNCYnVublc1bGo1c1FTUXNBN1NvUWNTLVR0YkpqVENuLXBFU0FubUNFVjExYUdrTlNGbzJwOXJXSy11cFNIczROWFFRR2R1RGZnVXZoR1p6Z1ZHZHhEd091ZXB4LW03d1JMUWZUUQ?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-24T05:04:43+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "KI-Erfolgsmessung: Nutzung ohne Nutzen? - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3NWRHdTNiSUNSSnF1czBNNl8yLXhTd0dyazhzenV1d29pODBCMlVwa09BVDZjTEVkeHppaFQtdzBEMV85MUtoUkQzZ285OFB2YVBtTHB3d2oyeEIyZmR1Qk9tVzJkN2hXYjJ6RzQ4VEJrNGtVdU5QU2tWeHQxdlU?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-25T10:32:00+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Computer und Konsolen werden spürbar teurer - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JS3ZJUXl6bjdjN1hzd2laY29FZ0xuRTNodE9WYnc1U1VmVXFFQlRZUGtpZmQwVTA1cF9adGxKY0dMX0tQcW1fNHdkWmdZM2IxSFlkc1VzVjEyZWhoSWhtNmtOQUZIcXR4TmpJdzZKTFdzX1hIX0Jv?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-24T08:25:03+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Wie Daten im Mittelstand zu besseren Entscheidungen führen - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMGpTUGQteDVlRFpVM3NEMm91OFNsbjhOb2l3d2JYeFZLLWlTU2xlS2JwcVIyLWI4YXlDVVlOdnlPZEpZUW9LdzJVMXNNZXFrRzFxNFMzWC1PYUk3QnZzV3h2bFJiRVZ0WW5QcU5tWGJvSTh5VXNKaDAyaXZnUXlDWEVCYUw?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-20T12:14:00+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "ESET NeoCortex im Plattform-Check: Spezialisierte World-Model-KI gegen die Alarmflut im SOC - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMU5rLUN3RTVaR2NhLTItZUNxYmY3bVZrNU0yei1SREVyTkRhS1RXX1djTnJDVlNKaEtySzdnQmcwdUxtclVwMEFVU1V0czV0aVV6ZFBpZFVDMHF5MHJXRU9OTWk2NndBbVo2Qm1PLVZtekZsVTE4QkNNNThial81bw?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-23T06:24:51+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Android: Entwicklerverifizierung gilt ab Januar weltweit - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1IUE5kaVViV1lSLWo1Si0xLXZ4OW1maVRWbmpMeC0zbVFnVHpRdmVzTFF6SGUtelk2dDJydWhDR1ZmVzFTeXhRSjB6Mk1kbmlCS3FJUlF3M2FKaFIwYVRWME1KTG9ZV3BkSWMwOVpQQlB1MjVMVFpR?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-23T13:58:30+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Automatisiertes Fahren: So weit ist Deutschland wirklich - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RdC1WME5ieVZzVFcyejJEbUMxN0RpR1BYd3o3d05aUUdhb2RRR2NGenk0YlRMbWNLTF9neUZhb2lqVGFzRV9mOE1Md0VHZ0NRNzMwY3RIbmVTbkVtMFVMQnVLZFRJUmNDak13aDk0ZnpudVFuXzdKNA?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-22T08:00:00+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Fehlkalkulation bei KI-Strategie wird Top-Risiko - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MN1ozRVFoeVMwRl8zNzN2UGdQVEtXdW04cXRfNmlEVGRBSkNvTEFaYTc5eVJudTR5Sld3c2RobVlOVkQzc19GXzBjYXA3dkZpQzVTUWdNLVpfeW1wV2FPcXYxWDBUV3ZPbTBDU2l1djU?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-25T07:04:23+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Linux: NoisyTCP-Lücke lässt Linux-Server abstürzen - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZTWdvYUhnZWxZdV9Pc3pucG8xSnc2VEVsVmtwd0NrQkcxTWxURkYxblN3aFdwVV9jNzEtRkdPRDM2S0JBSEs2ajNuYU9YR3pjcnYtdnJPejNENGNWUDB3NFN3eTd4Q2xEaVd2aVJKekE?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-24T15:26:49+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "TeleTrusT-Leitfaden soll Weg zur Post-Quanten-Kryptografie ebnen - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JaGExY2hsdFg5RUpXOF9CM1g3bDlFZXgtVnJ1d0FNR3laaEhuVVBoWWVITy1zVmhLUmtiUjFrN0VTX2F5STBLTi01YURiR1E2WG0yTzNjNi1Wd2hKSUdCT0loYlU2MUVxQlJzWg?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-23T10:26:00+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Singha Subhajeet - it-daily.net - Täglich relevante IT-News für Entscheider - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fc044dHVmaExNZUlSeldjTVZsOXdtS0hJUXd5bDhBNFVaV0VRUzhEa2JjR2RIUjdCdGxIcUJQam1NOEdhd2RtYjR3ZUhxeTcxRVExY2UzRzdLaXM?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-25T10:16:00+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Ungeklärte Unternehmensnachfolge bremst Investitionen - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdFlpTG9qR1hDcVJYWXo4SHpNSlRmUHhINnh0SFM1RjBSSFowUkF1YjR1bUFvWHJodFc2QkxkaTc3VG1KS1p2MTVMdkk2cDZLd1dBQ3dGYnNibDNjMURINC1SM09DQ0NUVjYzdDYzOEQ1QW9IZC1pTVBBQ0xsb2M3bWFNbXRpNTR4bE10ZVBIUUxKWU0?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-20T11:14:36+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Warum Designsysteme mitdenken müssen - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbjNwZ0xKUnVCUWpNZVNnMU45Y2QtNW9WQnpMc0ppcWdnMTRPVXVvU01tU1JMWkdwUnBPeTJZbEU5T2g4ZnJna3AxYmNSTjN0NXF4VkI0TlJPVEg0cHpXOXNGdW82bE53WEVnZnB2ZUg2Vkg2SGFfZUN4M3FnTjdOTDFEbGlHcHNmYm9RRHA3QUQzaGk4TmYzaQ?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-20T14:58:39+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Rechtsabteilungen: Cyber-Meldeprozesse oft ungetestet - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGbTVpUVdDSEZKOENnYzJsQVBJTUhyTFE4ZkYxUEZ4WTFra1JIT19jOXZpOGVuejRPUm1sWUlXcVBuNERIYWF2LTlpM2V1QjVUNUFqZU1rd0hqcFNRVm9QZVlaQXBoWjhmTHhIa3hOUDBsUV90?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-26T06:48:47+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "OSCAL bleibt Standard für BSI-Sicherheitsanforderungen - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tSFF5SWtTWkxaVnBuWjFSeEpVQS1mS3ZRcjlrRS1wQ3hyNnFUeVFPZ0pySkk5eU1TUWlVZ1IwXzJFMW4yQ3p5QjlkZTlkamdlN295emtILW9WZUx3YkJoMUJQMA?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-25T13:09:45+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "KI-Agenten brauchen klare Zugriffsregeln - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kRlFiVFJOMHNCdzJLenM1Z1lEc2pXaWZid0ROWDA0Nk9tNDd4Ql9JZm1DQXpKQnNsQmFvRURmSGhBT0VzclRZV2FONjQtbE1xRHVWQWRKcmF1Q1VMckdBd2x2VTFiXzhPdEtwNTRlZnRzSk9scGc?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-21T04:19:39+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "KI-Phishing: Warum die alten Warnsignale nicht mehr reichen - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNazJvSEhkOS1JbkFZaVdvcE9EdThpenJHNG1UbjVnZ2RuMVNJY0pEM1pzSDNBeExuTjc4RVdDZEZGcHh2a0VHRTFRLVVhcGlHSHBMelIyUnpCSHkzbXVSNzBaclE5cmVCS1JPQjJqN1FOQ19hSUttaWV1NUxkNTlFWkk5Rl9wdHVQZVE?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-22T04:40:45+00:00",
+      "eligibleCategories": [
+        "Security"
+      ],
+      "selectedCategories": [],
+      "status": "not_in_top_limit_or_allocated_to_other_category"
+    },
+    {
+      "title": "Mercedes: SAP-Upgrade hilft beim Formel-1-Titelkampf - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sRjl3SXFyWkE2a2NwR19sMHFKaUstbEtmWWpUbXZUTVlNUm5ienl4SGhtYi01Z2lnUUNSNTNIamFFbnBRVXVLOVk5N3hCUnp4RkVOdE5WblRsM3ltMmpWckttaUFicGkwd2o3VERsMUZnUQ?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-21T07:18:46+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Cleverbridge-Datenleck: Was Betroffene jetzt tun sollten - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd2hIZmZRbWZQajFETHZfZ0QydHBaMnlwbDI0T1ljUUpCTmdXOGpGancyTjdzTWxzN0JmRkFXR1NNSmdqNVZhZG41QzBoVnVEX0V0S2JiR29pdzBxLUhwR0ZtY25RbVB1a1NucEZKWVVJSDFGZVdaZ0pXMnMyTllIUkdtbFpDNDk1OFZTZEQ3akQ0R2gz?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-25T10:16:57+00:00",
+      "eligibleCategories": [
+        "Security"
+      ],
+      "selectedCategories": [],
+      "status": "not_in_top_limit_or_allocated_to_other_category"
+    },
+    {
+      "title": "Wie ImmutEra jetzt auch Veeam-Sicherungen auf Windows schützt - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZks1T0xPS25fWmVjWnZNZVJrcEVNT0RxdXdsc195eld2MmZwMWVuaUNSdzBJRV92SjlTc190VTRNS1pBNmtOenR2MUhxM3NGU3hiZTV5eE5HT0plYTl4UzBGdUQ5Y1pWbXpSbkJMTnZxcVhPMHNSYlNkSk5SbHc1SjIwZk1KaGhHcS1yQ2MzeWdqZVE?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-26T07:21:32+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Vier Jahre ChatGPT: 81 Prozent der Deutschen nutzen KI - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE03MEdhbi1lcWoyWkhnUmh0SGN0SzlxRDcyUW12MUZYU3V3QzVfcXBMSzBDZUdZdmJiTXpvRThRTXlRX1F2SUotbjJnaEowVm0zYTVJcHZnNDdKa0RLcXJwMlhmRQ?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-24T11:27:51+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Wie senkt individuelle Software langfristig IT-Kosten? - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRktTZDMxSEFqcG9qT0JMN0xYM0w4Qzk2SENjaF90eUVWV1VycTF1MmEwZkdXcXFMV3d3NkxKQWpIM2xTXzNMa1RPSEs1OWFYQXk2N3lNZzFVUW04U19keERKT1FHRG02WjJTWEhUa3cxaWZJMmg2MHdSVHBJZjVTYTR2RmdYNWZQSzMxSkVuTXZLYUtxdllUTDE3cG5BMUE?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-25T11:10:00+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Teures Lehrgeld im Netz: Wie Fakeshops das Vertrauen der Online-Käufer erschüttern - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5KSzFTLVROWktQMS1pODNJaTI2cHBUMWVHcDVKY2h0U0U2TGNRWHdDQ2F0ajhWZGtyQTFKdm82UWQ1MlVqakdnNUVIQ3lqRmtLelRFUEZZdURpY291VTlYaFk1aVJTclg1QjQtZmhkUmc2TERZUW9tODRiMzJOdw?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-21T04:52:00+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Was tun, wenn der Cyberkriminelle direkt vor der eigenen Haustür steht? - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCdk1MbjBxRWZhR0J1Qm1xV2x5VnU4bXpjYnB4eXN0LXUtSFotTHRjcFFPRVZhNWR4X19YbzVycHZpTVVxZUo0R0I0QWhONFNqM29vZDVuMXFtZDJ6RnA3cUNsQzFfREVhSno3d0x5R2dxZ3JwNjNnTF94eXZ5Wmc?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-24T12:00:00+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Ex-ShinyHunters-Gruppe erpresst nun unter INCEPTION - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xOXlHa1NCOXNLVlpBUklSWktfekVsWm5GN28xRDJSZEpzX1JwbGwtNG1VSmY1YjNGN1NSclpVdjI4TU9QQUNnQlJYV3NxLWR1XzhMdXZqWk9hS0lXVkRmZUhhRnpxLXAtYXFaOGw5TzYwNDdjZHc?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-26T13:14:00+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Weimer fordert europäische TikTok-Allianz bis Ende 2027 - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4a0pFYlNmcjBxTHpLMHo4LU93SEVVOEhBOTVHelJlWHRuRkFBOWNrQXVHUXFLU1l1aTNkUHdmcGZyUE9mZ3lGR05iMF9vZlpnTlVDX2ExNThoRkJGcnR5OVROLWgwS01uWUh5UHlOdkp4eXBmZ3c?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-26T10:27:15+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Berliner Start-up A11 tritt mit KI-Software gegen amerikanische Rivalen an - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81N21iLWtjSm42VGx6a0FBX3JXbHIxVld0UERJaE1sNVpFRlp4TFMwQlpHNnM0Uy1WVm5XN1FtZGtDZ1QyV0NBUDdycnRDQVZhNlM3SVQtcm5fMEZ0ZjdDZm9EV2NWUGx6dUIzOXpKM3kxSDdqeVc0?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-26T05:33:19+00:00",
+      "eligibleCategories": [
+        "Firmen"
+      ],
+      "selectedCategories": [
+        "Firmen"
+      ],
+      "status": "selected"
+    },
+    {
+      "title": "Esker integriert Source-to-Pay-Prozesse in Microsoft Copilot - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9raldMcGxaUGJpTWVtX0UzWGtYRDl0YUM4eXR1X05qdWJCNnlBVVRxZlJWUmJuWDFUYUF1Ym52dm5peHR5VHRLUnRLU3JsbDBBdDUxODVnNGdMMGFqemtiZTdIaW1YenR0MlE?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-19T16:10:14+00:00",
+      "eligibleCategories": [
+        "Microsoft 365"
+      ],
+      "selectedCategories": [],
+      "status": "not_in_top_limit_or_allocated_to_other_category"
+    },
+    {
+      "title": "Google-Startseite erhält Seitenleiste für KI-Modus-Chats - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5seWo4NExiMzgwU0ZPN09pTjJsWGJfUGpVVnhOU2l4REVRamZiQndJZFZFc1VRS2NPc3BJUVFhWEoxMWRyaG5jZGc0aVB5eThJX3piRk51M2ZfSHpvcS1YYW9vWFJUZTAzQVAzV0VjNWl5T0lybUE?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-24T16:23:12+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "KI-gestützte Angriffe auf Check-Point-Server - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13aDdlLVVmbzVXYUZPbG5mdHo4T1ljNGFlVWRYWEVqUlo4NGJBNHZVVGJ5cUk2RjBGdjBuLXQyZmNIcWppa252eVhFVVEzMWhSWGdEQVphYjJLNE9UNjQ4ZWZsMTFUSlBKLUVUb3hZdTMwOTRITUk0LQ?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-26T08:20:44+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Warum KI-Agenten in SAP ein Berechtigungsproblem haben - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOd1EwckU1elBQZ1lCN0k5ZmVJTXhrdUV1bXBOZm1ldDZPR190MFZsT05fcVZTVmd0Qjk1TE44NnN3QjBlLXBrakhtcFBWWGtJS24xMWJscDV2YWlfLThmeWZicHU4WlEwNnRkbTE5UUt2dw?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-23T04:24:08+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Datenleck: Zwei Milliarden Zugangsdaten offen im Netz - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xbnhlaGpEdjgxMnhMT0pBQjNWZ1I0VTVZYXZZWDdndEQxQXk5ZnlEWFpkS1dCVENYWVI2SFpGUmQ4VEZRQjducnlQeG5nUTg3d1NSLVF2d3UxMmZDTVpya1BTM05IcEtY?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-25T05:48:48+00:00",
+      "eligibleCategories": [
+        "Security"
+      ],
+      "selectedCategories": [],
+      "status": "not_in_top_limit_or_allocated_to_other_category"
+    },
+    {
+      "title": "The Gentlemen drohen Nvidia mit Datenleck am 28. November - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBITWxadXFlRjNZcEt4OWw2Q09zN1RZenRqN3JuMk8xNkZYZV9ySjItM1U0NzdFcEFpbDZOX05EWWl1d0hEQ0pIdkIybW9IQnkwNlQtT1pBZzZtRUFLVGxjeDl1YkRJVml5MmJEYWpJSQ?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-24T13:58:00+00:00",
+      "eligibleCategories": [
+        "Security"
+      ],
+      "selectedCategories": [],
+      "status": "not_in_top_limit_or_allocated_to_other_category"
+    },
+    {
+      "title": "Liferay bringt Headless-CMS als eigenständiges Produkt - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FcnM5UDNfNEt0dnRhUFVUX1VwQk8zWDZqRHdNVVBDSThhcTZUeXl4U2pjRXJpR2pxclJfdFlVWDVxRlIzRjhZVm1udTk3UEJsMWdINm9OUFZEZmFQRE9OYlg2d2dzNzJWdDN1b3loUQ?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-21T16:34:28+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -5508,6 +5800,15 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQWZPdUhFamdNNV9RcUY5dkpMOGpiQ3ZkellMaHBzYzU1RFdSSDB0cy1vRHB4MTJNR3FyVUxoaHdna1BibzFmVjQ0X3JTek9yVGVwU1hLQV92YlRFMVBNbW10VWZzdjZTVUZnaXhSbUFna3dwajE3b18tT2RVTnFFbmEzUFJjRHlP?oc=5",
       "source": "netzpolitik.org",
       "published": "2026-11-21T06:28:19+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "„Der Angriff auf uns ist Teil eines Angriffs auf die Demokratie“ - Netzpolitik.org",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMy10UDhoeEY1NU5DZnFFZDNvWERScTJsMWhFc294M3RaZngzdTJCRW02bjNWZHNvVjlxcVY3bXZqaUtveTd0YmFCQnZ5X1ZKZnZhTUt4X0diMjZROEx5aGp5OEpQVFpQdkxVUkk3T28zTVlWWi1IUi1RVi1vbWt4U0o3cllHZTR2WW9UYW93ZmxtZk1aRFhEWm1iQkRMU29pYUdISjdkMFF0dFpEWm95NHFIcS1DWC15T3FWR1R0RHpfYTVVU19rTm5n?oc=5",
+      "source": "netzpolitik.org",
+      "published": "2026-11-25T06:53:42+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -5585,6 +5886,15 @@
       "status": "topic_filter"
     },
     {
+      "title": "Vermummungsverbot: Ein Mensch muss ins Gefängnis, weil er sein Gesicht schützte - Netzpolitik.org",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaHZBZWNHNXFQSnNKbEEtS0N2NkpEMWluczRNdl9UeFFNM2hTM1czTnZBUzBKb18yS2NQRzVEZWVZa1VYbzFZQXVuZFFVbUNUZ0N2TVBkY0x0cTA0eTFsQm5NRndBcktyWWtZZ1ZnRkg4Vjk4anRodmE5ZElTYjk4TlZ5aE9OWnNiWXA0YlJKRkRNN09seWRPdW93empOR2pVaVd5cXNSNlhRRnh3YWc?oc=5",
+      "source": "netzpolitik.org",
+      "published": "2026-11-23T10:07:43+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
       "title": "Hamburg: Jetzt noch mehr Verhaltensscanner-Kameras - Netzpolitik.org",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM2pYaWlrZWdLVnRHT3NqMjQxTVJvQU5NRXk1Z0pyTDRoTXctemJueDNpOHQ1NXE0YlVJeFZkelB1MTFBdHJJLUE4R3NRQTRRUk10aGZ3UzQ3RVF4M3JuXzM1T3lTRnpwY0lsNXRsR3RzWkV5SWtxQmE3amxuaWdKczhfMllGdw?oc=5",
       "source": "netzpolitik.org",
@@ -5630,17 +5940,6 @@
       "status": "topic_filter"
     },
     {
-      "title": "Künstliche Intelligenz: Wie KI-Assistenten verschlüsselte Messenger unsicher machen - Netzpolitik.org",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbGxLcnFDNC1ScTh0OG9LcUVMQXFEeXc1NGZ2a0djYmV2c3dVNGVFdXhIVGJzUEkwZzBlZGpMSFVaUHl2N1N0amFldFdDdllzU0lVbXF4TmdBMlBMT0xmSlJaclRtZWt2Wi1PX1lFT2ZpdU9JLWViWGJEYWs0dXFKZUFqSWlhcUt2V2ZHVmU2ajlkZlhic3lCTEpVVFBNWE56dWowS1c4bU9UdnlSaHNmQXd2V0I?oc=5",
-      "source": "netzpolitik.org",
-      "published": "2026-11-23T15:08:04+00:00",
-      "eligibleCategories": [
-        "Trends"
-      ],
-      "selectedCategories": [],
-      "status": "not_in_top_limit_or_allocated_to_other_category"
-    },
-    {
       "title": "Verbraucherzentrale: Rechtmäßiger Einsatz der Meta-Brille im Alltag \"kaum möglich - Netzpolitik.org",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQzBLSnZaSU5IbGJrSXVGYUJXWUNtdHJOYW5KYW56RkxHNy1CWUIweEJ4YzVod0R5eGZuajV0OHdET2FSTjEtUkhETTFkNWpZbUJNSU9PR1hxUFk2QmdVd09qSnpVZUdPaDA0bDE1SUJZNFVUdTl5U1hfaHFTU2pRU0FTTGE0elNUU3l0VUlCNTNMeUFHSmFKSkVoQVFhSGZKN0x2NnZucks3RFNuS2FJTG9R?oc=5",
       "source": "netzpolitik.org",
@@ -5681,6 +5980,26 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wR2JVaWtTdVB4ejY5RUlmcVdhMmdXdDVzZ0hrczRQU2dpOGtSdUtmY3oybWpFU3VFX2NjMXZwZ1NXZmFidjRHRm14c0hDMzFVd0syQUtB?oc=5",
       "source": "netzpolitik.org",
       "published": "2026-11-22T07:40:46+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Künstliche Intelligenz: Wie KI-Assistenten verschlüsselte Messenger unsicher machen - Netzpolitik.org",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbGxLcnFDNC1ScTh0OG9LcUVMQXFEeXc1NGZ2a0djYmV2c3dVNGVFdXhIVGJzUEkwZzBlZGpMSFVaUHl2N1N0amFldFdDdllzU0lVbXF4TmdBMlBMT0xmSlJaclRtZWt2Wi1PX1lFT2ZpdU9JLWViWGJEYWs0dXFKZUFqSWlhcUt2V2ZHVmU2ajlkZlhic3lCTEpVVFBNWE56dWowS1c4bU9UdnlSaHNmQXd2V0I?oc=5",
+      "source": "netzpolitik.org",
+      "published": "2026-11-23T15:08:04+00:00",
+      "eligibleCategories": [
+        "Trends"
+      ],
+      "selectedCategories": [],
+      "status": "not_in_top_limit_or_allocated_to_other_category"
+    },
+    {
+      "title": "Ticker-News von The Guardian vom 25. 11. 2026 - Netzpolitik.org - Netzpolitik.org",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWGJUVVVXM3BWTDVQandSZ3ZLQndycy1RUkVvSm83anY2RGNMQ0tvZGZZbmFWTS1DX2pIakM1UmhaUUxYNmZuSFNmbEUzU3VxcFpHUURkVTBxQ1hnd1MzWnpFb0dHOEpjX2ptQUgwTWlHa0J3ME42TlJCSi1XZXh3WA?oc=5",
+      "source": "netzpolitik.org",
+      "published": "2026-11-25T13:50:46+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -5940,19 +6259,19 @@
       "status": "topic_filter"
     },
     {
-      "title": "Ubiquiti UniFi Access Application mit 5 kritischen Schwachstellen - BornCity",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa2U0UWN0WkQ5a2dCbWpSWTVraXhOVEdDbjNsT2d1UXZKc1BKSTUtWW5LT2F1MDdSN1VZcDhlUzFXRE9jZUhZVjJXSFZFUkZXWTBWMEhrSDVtT28xMGFHTWozdEZZNjdIaVB1UlBiS0UyRElBaVBHMEVlN0l1WGRjZVpnWmJ5TEZfRUFaWHpWRFZzcXR5X3FZSGVCbndldFJ5THQ5Z1dn?oc=5",
+      "title": "Sicherheit-News zum 21. Nov. 2026 (Zattoo, Bitwarden, Artex KI-Hacks etc.)Borns IT- und Windows-Blog - BornCity",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWUhWVnRaMVhnZXI1RFVYZXJSQ1E0ZkotY3RTYWowaWQ2cWxhRW9KVGZVUk1oS1lucEVYZXMtS2dRRzRsY2JIS045SE13ek52d2tEaE1abHNiSzNrbldIVVhMbHh3aTRRRXNyc0RqaEg1UnVyNFFsRWRtMHNyVWowLWJRLUI2MHlERzBXU3lXSjhOMFpQN1E?oc=5",
       "source": "BornCity",
-      "published": "2026-11-20T07:36:35+00:00",
+      "published": "2026-11-22T07:54:14+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
     },
     {
-      "title": "Sicherheit-News zum 21. Nov. 2026 (Zattoo, Bitwarden, Artex KI-Hacks etc.)Borns IT- und Windows-Blog - BornCity",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWUhWVnRaMVhnZXI1RFVYZXJSQ1E0ZkotY3RTYWowaWQ2cWxhRW9KVGZVUk1oS1lucEVYZXMtS2dRRzRsY2JIS045SE13ek52d2tEaE1abHNiSzNrbldIVVhMbHh3aTRRRXNyc0RqaEg1UnVyNFFsRWRtMHNyVWowLWJRLUI2MHlERzBXU3lXSjhOMFpQN1E?oc=5",
+      "title": "Ubiquiti UniFi Access Application mit 5 kritischen Schwachstellen - BornCity",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa2U0UWN0WkQ5a2dCbWpSWTVraXhOVEdDbjNsT2d1UXZKc1BKSTUtWW5LT2F1MDdSN1VZcDhlUzFXRE9jZUhZVjJXSFZFUkZXWTBWMEhrSDVtT28xMGFHTWozdEZZNjdIaVB1UlBiS0UyRElBaVBHMEVlN0l1WGRjZVpnWmJ5TEZfRUFaWHpWRFZzcXR5X3FZSGVCbndldFJ5THQ5Z1dn?oc=5",
       "source": "BornCity",
-      "published": "2026-11-22T07:54:14+00:00",
+      "published": "2026-11-20T07:36:35+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -6151,6 +6470,15 @@
       "status": "topic_filter"
     },
     {
+      "title": "StörungBorns IT- und Windows-Blog - BornCity",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZSmUwREg3R2V6ZC1sem9NNG9BbHR2VHI4bkhWaW5EMjJGYlRrM3BmSEVqcUlxNVBINTVGX0x5V1NMa1RKdmVYbW9pdklpUFA3ZmJpVDc2SQ?oc=5",
+      "source": "BornCity",
+      "published": "2026-11-25T08:00:00+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
       "title": "KI-Sicherheitsvorfälle: Kalifornien will Meldefrist von 15 Tagen auf 48 Stunden senken - BornCity",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTzJZVGJ5Rks5VTNmaXJyMmtYcksxZmRUdFlUSG1iY2N3bkRQYVJBTUR3MGttOUZfV1RDRkhLa0FmQ3FDNVlvaGo0OE93UlhYb3QxS2pIWE9aNmxGZG1nVUZVaHNEUHhEclp1ZzJWQmxGT1lWT1NpRW5CbEVYdGljVUdzU0ljQXdtaHFCbWl6M0xrUUVPZUhHa0hubVBaeWp5Sy00b19hZVU3NjZMeHkwd2NCdw?oc=5",
       "source": "BornCity",
@@ -6169,10 +6497,28 @@
       "status": "topic_filter"
     },
     {
+      "title": "ProblemBorns IT- und Windows-Blog - BornCity",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DVWh6WVI4aDdnTUlHWmZoOTFTRm82OEthemQ3VHFIaHR4RkJmWFAyR1RSWkJqMGp1RDB2MjUtTER0NVFUaTZ5V0o1OVlRb2NiclN4UnJn?oc=5",
+      "source": "BornCity",
+      "published": "2026-11-26T12:14:43+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
       "title": "PdfCraft im Test: Kostenlose Acrobat-Alternative deckt Kernfunktionen ab - BornCity",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU1JKVHZHS2IyYlFUVWFnemxWc21UZUV6SXVlNDVjdTAyaTNhTzhkb2pkcGRkU2xpY2ZqckVlY05RZ3l0a0p0RUpxMWxqcUVxX0VhcjR6NFEzM2lTbEJEb1FJc1Z0M2RPUlRPdW1MWVBVZzJ6akRTT3lQX1kyMk51T1EzMlp5Y1NwWTJKaVRsTWtRZFoyemswNlA2NVpnLWs?oc=5",
       "source": "BornCity",
       "published": "2026-11-22T02:31:05+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "SicherheitBorns IT- und Windows-Blog - BornCity",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nS1RxN3BfMDZIRUxGY1ZuRmJNNXVGNDFqcGRkSGluTGZmREZuS2pFcHlMRFVoM3BKREIwNlRfSS1wWHdjLTNuTDlXZ2hsVl94azNISGJ1U0xDdw?oc=5",
+      "source": "BornCity",
+      "published": "2026-11-26T12:18:44+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -6240,15 +6586,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdVdleEo4emFrclI0aG9CZXc2RmpBcnU2ZHBQQ0ZMOXV4WHFhOUcyWlB1bUtIQ1U1UW9wS3U0THlOY1NaY29aWTEyZGd3YkptNnNMOVhmUXctNmQ5MjVGN291eGJFS1ZndWhvQjdsTDF2NzBhLWtJVWQ3N1oyTUhBUzRYZ0J1VUNjS0RQc09xRGhhei1feFJhaGJqNERFSDRBcFcwclM3OHhYakk?oc=5",
       "source": "BornCity",
       "published": "2026-11-22T12:07:05+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "AllgemeinBorns IT- und Windows-Blog - BornCity",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZWTAwSVhBYU1NNDY3NHFqRmlILVJPeGRsNDlPSzlTOEdQdkF6TDJWVmZDYllzNnZJWmdXTHczN1cxTzgzNEI2LVllaUlHOHUtVnRxb2VNYWs?oc=5",
-      "source": "BornCity",
-      "published": "2026-11-26T12:18:42+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -6379,24 +6716,6 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSUNrOVBaZWZySFNwMWlqTHhSYlZjMTlwNFhKUW92aHB0MUtXU01HcmpsUTllZnkzSEJqYnFxNGhxakNQR19Fb0ZCOU4zeWhKbk1lR0M5VFRfdEMtckdEUV83R1d2MDlsMDdoNEg0eHlGU1JlelZJTkUycFFidFhQdDl6NTJSMGhBVHVrcHN2WGVoMEFaRmFXTk9zcm1EX2lIS0NXUEQ3VUNZNlhuS1hZ?oc=5",
       "source": "BornCity",
       "published": "2026-11-21T08:00:00+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "ITZBund vergibt Jira-Alternative: OpenProject erhält Auftrag über 48 Monate - BornCity",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV1NUVHFZTEVUX3k1UWVFUkRwT1RTWF9FQjlLY2c1QzRzUWZ2RklrZVJKa1pnZThVdkFIWlN5UV9OOWVQLU5vT3NSU1JhUlhyc1BhREs3MmZXVlNkbXoyRHlrWEMxVW4zdWwxMm92UDlDTUpTNGNWSktIVGF1NEpGZDlPU0RiZWZuRkxBUHZvN1JqOUlBUU5mODBRNHFVZnZCaUdsV0FR?oc=5",
-      "source": "BornCity",
-      "published": "2026-11-25T08:49:04+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "One UI 9.5: Samsung testet KI-Zoom für Fotos mit bis zu 100-facher Vergrößerung - BornCity",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON0k0M05SckxtTEpkeDU3U1J1dGFXX0dtVm1aSkl1Ulp3d3NpSjNVR2tGZ19qWHdWSlkxUTU3UGd0WlBFMVlrS2JVTE85RUVJanVwT1NmNE04SVpORlZWZkdzNHpRNXFRaFhKN0ppWlBYdEtabXlaUnFxSm4ydGpoSl9Ud0hpcXJPbGVzU05wVGtOWGxVaHVRNVdzOTZ1aXcyLWlnOUNQR0QwcG1o?oc=5",
-      "source": "BornCity",
-      "published": "2026-11-26T07:21:06+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -6856,6 +7175,24 @@
       "status": "not_in_top_limit_or_allocated_to_other_category"
     },
     {
+      "title": "Spezifikationen zu Intels neuen Desktop-Prozessoren geleakt - Swiss IT Magazine",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbnZXNWFMRE1SbHNUOUtPdlgzSGw4bHAtckxKemZDdlhQWnhQRWtlbXQtem55Y1VQVHJ0QWtONFd6dEZpSnV3VUVER0dZX0tIcTl0dDZZNkxIOVkxODNjZFBtUTNPc3V0bGdUdm16YWFiX2ZwS2tLeGl2WHBHR195azlmYjJ3NllicG1yR3BqaG1wMmV2NERYTXhneURuRUV2WG1kMHYxbw?oc=5",
+      "source": "IT Magazine Schweiz",
+      "published": "2026-11-26T07:12:00+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "ManicTime - Swiss IT Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCR2NjWlVzWGdjdU93LWF1cGhOUjNoX3dxRHJSV1lCQUVvU2NnaFJTYlNseW1RaGxaWVVBSzAzQmdmdXRZYTBMVXRtMEtHODlCUWdGYkdoMDY4aWxDQ1o4OTZSSVlfZw?oc=5",
+      "source": "IT Magazine Schweiz",
+      "published": "2026-11-23T08:00:00+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
       "title": "PDF24 Creator - Swiss IT Magazine",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1obmVGVFRmOUlMVlhwX1dIZjJOdmM5OF9wdlFqUllCazJJRmREbzR1OGRfUndSOXM0d0lSbDhCV2x1R1U3MEdlckdadkliNzFZRVpHQks1ZkpaSGJuWlFaZXpyUTBUQ19IS1lz?oc=5",
       "source": "IT Magazine Schweiz",
@@ -6878,6 +7215,15 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRTBJRGFWWnJ6TmtHM1FTRXF5MmFZUm9KUnBOUXdsZ2MwLUozaDllYnlPSXF4SGpodDVZRGxid1JSSWNocEZYbnFPbS1reE9qekJGRjJUUG02WXBqZFVrekdHdlhocmNoWERBMWZBYTIwZHFhc3ZyT1ZmQTUxTV9uMEhub2lqbTFlYi01VHFMYzdRRUo4WnF0dHctTnU2SDhk?oc=5",
       "source": "SWI swissinfo.ch",
       "published": "2026-11-26T14:31:47+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Die Beschlüsse des bernischen Grossen Rates - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUXFkdVpPeGprdDM5WmcwYWc0Wi1NNklXWjVBQ0QzQkJSOTZuV3ZlcWhoTzRXWDVzZHNPejFMYmcyNnh6cUNubEMwZWVQYVRGZWNSVUJjUFU3Um9LZTN1N2YzMWV2VHg1RGN2UXFJS1BuUzIzT1ozOHRNYk9BeDFDX2VzVENnYXZFRkV4akNrdw?oc=5",
+      "source": "SWI swissinfo.ch",
+      "published": "2026-11-26T15:01:40+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -6946,19 +7292,19 @@
       "status": "topic_filter"
     },
     {
-      "title": "Aargauer Verwaltungsgericht bestätigt zwei Rayonverbote für YB-Fans - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbjNFRHNQV2tHcGpNbmJlT21MaENOdnRORWcwbHVmXzZ6OFNvT3pLbERFa1dWUEFHNHZ5TVVOZHh4Ym9fN2h2WElQcXdyRVhOdmJWVkwxdTFMRUo2RS1pREtvZkNqWWR4YzFpTEJ1UmtiMVpIWldsaldVNDJORU5kYm10OER3d2J0V3A2cW1XcXl0ak96b3pwVjhyUy0yNkpuZGF2QWFvRUVXSU8wQlFJNjJBR2ZvZw?oc=5",
+      "title": "Aargau: 500 Verfahren wegen Covid-Betrugs von 46 Millionen Franken - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ29EM21NTFE3aUw4TFp6VmtDZ2NhZk1zVk5yS1Z1TkMxNER0aV9tcVhEdGkwamdXQmZja3pHX2dLbjNPM05yZjJCQnptRmotaGlvM1pqS3p4c2VtWktEUnhUNGtKT1FEdERkOVUzUjZZN3B5d29TSk9iTnc2SXlNMVRMWnV5MUsydnVsVTE1WXNEVUdQSnVtQW1WeTNVTmlRVkhJc1M4MGJCQQ?oc=5",
       "source": "SWI swissinfo.ch",
-      "published": "2026-11-26T13:09:06+00:00",
+      "published": "2026-11-26T13:49:22+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
     },
     {
-      "title": "Aargau: 500 Verfahren wegen Covid-Betrugs von 46 Millionen Franken - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ29EM21NTFE3aUw4TFp6VmtDZ2NhZk1zVk5yS1Z1TkMxNER0aV9tcVhEdGkwamdXQmZja3pHX2dLbjNPM05yZjJCQnptRmotaGlvM1pqS3p4c2VtWktEUnhUNGtKT1FEdERkOVUzUjZZN3B5d29TSk9iTnc2SXlNMVRMWnV5MUsydnVsVTE1WXNEVUdQSnVtQW1WeTNVTmlRVkhJc1M4MGJCQQ?oc=5",
+      "title": "Aargauer Verwaltungsgericht bestätigt zwei Rayonverbote für YB-Fans - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbjNFRHNQV2tHcGpNbmJlT21MaENOdnRORWcwbHVmXzZ6OFNvT3pLbERFa1dWUEFHNHZ5TVVOZHh4Ym9fN2h2WElQcXdyRVhOdmJWVkwxdTFMRUo2RS1pREtvZkNqWWR4YzFpTEJ1UmtiMVpIWldsaldVNDJORU5kYm10OER3d2J0V3A2cW1XcXl0ak96b3pwVjhyUy0yNkpuZGF2QWFvRUVXSU8wQlFJNjJBR2ZvZw?oc=5",
       "source": "SWI swissinfo.ch",
-      "published": "2026-11-26T13:49:22+00:00",
+      "published": "2026-11-26T13:09:06+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -6991,15 +7337,6 @@
       "status": "topic_filter"
     },
     {
-      "title": "Neues Gerät soll Zungenbewegungen in KI-Befehle verwandeln - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQemZDcjdBOEpvLW00Z05Gei1NWURadlZqX1VVaWkyOFd3WEktMHQyeDNYLXVEdHh3R0Y5SkY4TUZfYVdoNUl5ZXNnWTJBckJfclp1ZFF4LTM5SXVpLV9ESHB2SDY3a25ObktEUTdVc2RnQkprbFRTc1IxUlEyMm9taUtXQklkN1pfZnYxN203UHROa2g1NlJLQzhPbFJteXpqUlRF?oc=5",
-      "source": "SWI swissinfo.ch",
-      "published": "2026-11-26T12:00:52+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
       "title": "Cyberangriff auf Planzer trifft auch Digitec-Galaxus-Kunden - SWI swissinfo.ch",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOUNVTkljYW1BbW1WM25JdW5iREhqN3JjUnlWNHhPaGNHU3F6VXhRemtJOUkzdnp6OVRGOW92T3k4Y3pibG9tdEEtb0pfZ28yc19uZkNSZTBuUTJuM1hlWUxleGFLYnpYUk5wOVowbmowdlZlSjl4SWFma2Y4UHIzczRiQkRFWTFHVHdfMnE4cDZhcXFNZ25yaXdjMGJyZw?oc=5",
       "source": "SWI swissinfo.ch",
@@ -7009,6 +7346,15 @@
       ],
       "selectedCategories": [],
       "status": "not_in_top_limit_or_allocated_to_other_category"
+    },
+    {
+      "title": "Neues Gerät soll Zungenbewegungen in KI-Befehle verwandeln - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQemZDcjdBOEpvLW00Z05Gei1NWURadlZqX1VVaWkyOFd3WEktMHQyeDNYLXVEdHh3R0Y5SkY4TUZfYVdoNUl5ZXNnWTJBckJfclp1ZFF4LTM5SXVpLV9ESHB2SDY3a25ObktEUTdVc2RnQkprbFRTc1IxUlEyMm9taUtXQklkN1pfZnYxN203UHROa2g1NlJLQzhPbFJteXpqUlRF?oc=5",
+      "source": "SWI swissinfo.ch",
+      "published": "2026-11-26T12:00:52+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
     },
     {
       "title": "In Bern wird ein 510 Tonnen schweres Gebäude verschoben - SWI swissinfo.ch",
@@ -7110,10 +7456,10 @@
       "status": "topic_filter"
     },
     {
-      "title": "Mann verursacht auf der A13 bei Kriessern SG zwei Unfälle - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ01LNW5wVnBoZDBnYk4yYl9oazFVbkZSSVAwM21hc1E0Y0ZiRlVjX2IwMXNRUldzOW0xakF3dFRaM1k5NWZMLXByZWxSTm81LUtzaHJKa2VLTFpjN21JWmx5bENNUEFfdnlwdk8xWlMxdUk3blFBQkd1MkVTSGdDNnZCZXRNSGFPTENtbUNpYTNlNm00dlFmUi1ZWVhUMVdwM3c?oc=5",
+      "title": "SP Luzern will mit Gisela Widmer in den Ständerat einziehen - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLU9VWlJHS0ZEQkZwemJianRMM1FrSWxBTEtBakVucWRSN281eHhqTTBVRUNZemc1dExaU0lNYzNmeUx5X2dVSG5WTjlsZldaNlIzQklyWktCMHlKbXhuNTdkSXNZTFE0aGNJUVVFUE1tU0xDWkxnekpwWTYzTFJzb3JMRF9STUlqY0VrNEE4d1Q3Qk1zdTJITnIxV0VKYkU2N29HZQ?oc=5",
       "source": "SWI swissinfo.ch",
-      "published": "2026-11-26T11:20:09+00:00",
+      "published": "2026-11-25T21:43:09+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -7128,10 +7474,10 @@
       "status": "topic_filter"
     },
     {
-      "title": "SP Luzern will mit Gisela Widmer in den Ständerat einziehen - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLU9VWlJHS0ZEQkZwemJianRMM1FrSWxBTEtBakVucWRSN281eHhqTTBVRUNZemc1dExaU0lNYzNmeUx5X2dVSG5WTjlsZldaNlIzQklyWktCMHlKbXhuNTdkSXNZTFE0aGNJUVVFUE1tU0xDWkxnekpwWTYzTFJzb3JMRF9STUlqY0VrNEE4d1Q3Qk1zdTJITnIxV0VKYkU2N29HZQ?oc=5",
+      "title": "Mann verursacht auf der A13 bei Kriessern SG zwei Unfälle - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ01LNW5wVnBoZDBnYk4yYl9oazFVbkZSSVAwM21hc1E0Y0ZiRlVjX2IwMXNRUldzOW0xakF3dFRaM1k5NWZMLXByZWxSTm81LUtzaHJKa2VLTFpjN21JWmx5bENNUEFfdnlwdk8xWlMxdUk3blFBQkd1MkVTSGdDNnZCZXRNSGFPTENtbUNpYTNlNm00dlFmUi1ZWVhUMVdwM3c?oc=5",
       "source": "SWI swissinfo.ch",
-      "published": "2026-11-25T21:43:09+00:00",
+      "published": "2026-11-26T11:20:09+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -7200,15 +7546,6 @@
       "status": "topic_filter"
     },
     {
-      "title": "Explosion in Öldepot in Bangkok – Anwohner auf der Flucht - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUnlVN0pQeGctaXFDR1VwZC1IamhvWUw5WHMtMDFCTUs3Rkg3b2tKZW1vQzVCZmNJeTg0cHBQMWc1VEN3T3JMM1lieGhXS1J5YlhCOEY0c3Qyb3lsX2tyQzJ1U29zLVdndnd6UmZmSWYyRjFVa0lHZm1maE5VWE1wMDlvRUFyVmxnSS10X2JYbG1DTEF6T3hRcEMtNkhUMzg?oc=5",
-      "source": "SWI swissinfo.ch",
-      "published": "2026-11-26T10:58:37+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
       "title": "Stadt Bern will Schutz vor Cyberangriffen verbessern - SWI swissinfo.ch",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbnhPcjFBRHBneHRVQWJwM0hDSHpyUV80UEI2Y3A2Yk1pcW5ib25lNmVQaWNGeVFrQWUyaWtBdTg2cWdNVnpDQkhfRFVhQmZmS0FZSUdLSU56R19ZUW9jT2t5R0ZjZGpZRVgza2owWF9qV1dQeHNaRVYwdXpEREc2VGlJNGVWZ1lSaDdfaW5RTmVTU3BU?oc=5",
       "source": "SWI swissinfo.ch",
@@ -7224,6 +7561,15 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMDd3VFJlaE84QU9IRXVrQTZhYWxKSnVTd0FLRUxhRDdqNXNFN20tRjZvTkNFMEU3aWg0M2N6N3ZLZWhwNzlpWW44WUwyTjRCV09QaUxLQU43NWlRZlZVVXZwY3drWU4wcUVzTER5SVBGbGl2U3pCSWt0QVlUdWdEcDNnUlpzTWdTNWI1bUxCbHpCdEd6T1Vn?oc=5",
       "source": "SWI swissinfo.ch",
       "published": "2026-11-26T09:41:17+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Explosion in Öldepot in Bangkok – Anwohner auf der Flucht - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUnlVN0pQeGctaXFDR1VwZC1IamhvWUw5WHMtMDFCTUs3Rkg3b2tKZW1vQzVCZmNJeTg0cHBQMWc1VEN3T3JMM1lieGhXS1J5YlhCOEY0c3Qyb3lsX2tyQzJ1U29zLVdndnd6UmZmSWYyRjFVa0lHZm1maE5VWE1wMDlvRUFyVmxnSS10X2JYbG1DTEF6T3hRcEMtNkhUMzg?oc=5",
+      "source": "SWI swissinfo.ch",
+      "published": "2026-11-26T10:58:37+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -7247,15 +7593,6 @@
       "status": "topic_filter"
     },
     {
-      "title": "Fachleute beraten in St. Gallen über Bekämpfung von Schwarzarbeit - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZEk5ejJxMmFTWEFKV2JhdXVrQ0dUdU9HYzFIX2JYdHdCNG1RSzlDWWlwZ2EwR1h0Rlc3YXEyNG85MkdTMGlVU1NPMThLY0JMSk5yRTIyZks3Q3F6VjJJTjhCSF93NEoyZVY0WU5hVU1ZcU80MVpoTjRUWjdBb2piTkt3eS1OUUg4QzVwLUIwb0wweW4xaWRxWnF3YnNiRlZvb1RXWkVOaUt4cXZPaG9MU1ZSbw?oc=5",
-      "source": "SWI swissinfo.ch",
-      "published": "2026-11-26T10:32:51+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
       "title": "Türkei: Frauen protestieren trotz Verbot für mehr Schutz - SWI swissinfo.ch",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbjM0MlpfckRqeGpBOUl2c3lCREg5X1gyTlowQzg2LUQyWnhaVXlnazA2Q0huMVVmTEZEM09jc0RlUm1LOFNJdmROaFdBdUJfN3pGWUtxN1h3WTNIN3FLUEFkeUg4cjd3eDJwNzBYOEtWNU1uTlpjcko5VXJWdGFPMVoyNUFyZHRkZDRxcThVbVd2bFlfT05aa1VYTVB1a2g5ZnVrcTllbTJ3UQ?oc=5",
       "source": "SWI swissinfo.ch",
@@ -7269,6 +7606,15 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY1dsSVVwR2FHd2tlRllRLVRqektHWGdvZW1TODFFN0I5ZzNBWWd3TlNzMDJ0UDQzMHp1MXd4SzJESUtDaEtrMWV4NWdHSjg2WF9tUmFVZFk5c18yTGNvSUVwSkFJVUd3d2E0OGZ6bkhTWXF0QWVTN2pVYlJyMEJGejFfVjRQOG5sb0g5SXh2NEozazN5WjdsWWhqR0N0dmlfcHBXYi1B?oc=5",
       "source": "SWI swissinfo.ch",
       "published": "2026-11-26T10:03:04+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Fachleute beraten in St. Gallen über Bekämpfung von Schwarzarbeit - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZEk5ejJxMmFTWEFKV2JhdXVrQ0dUdU9HYzFIX2JYdHdCNG1RSzlDWWlwZ2EwR1h0Rlc3YXEyNG85MkdTMGlVU1NPMThLY0JMSk5yRTIyZks3Q3F6VjJJTjhCSF93NEoyZVY0WU5hVU1ZcU80MVpoTjRUWjdBb2piTkt3eS1OUUg4QzVwLUIwb0wweW4xaWRxWnF3YnNiRlZvb1RXWkVOaUt4cXZPaG9MU1ZSbw?oc=5",
+      "source": "SWI swissinfo.ch",
+      "published": "2026-11-26T10:32:51+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -7310,19 +7656,19 @@
       "status": "topic_filter"
     },
     {
-      "title": "Stadt Zürich zählt immer mehr Business-Apartments - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ2dQeHRTdWdRVVdBd1BMaU1jU2d4ZXE5ODR5SDNxcWRxYUE3a2pCc2lYVlZDMVN5SFFUOG56QzZ5X2tOeWpzRG5GUVAybFM4QmgybFIwUWlkb0FZLU5RemIyVll5d2tPUFF2M1RNQ0djd1NBUXpOREJjNEV5NEVzOGlTRlZXNHB0VFh4MXFKcUM2Rm0yT0ZFWFJEa0xDZw?oc=5",
+      "title": "Behörden stellen im Kanton Bern illegal gehaltenen Wolf sicher - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZnNHQkFTSUNURkVITTE5TU1XUWFUb0diRlhpS3AySEJPaUo1b3MtTldmU3FtWEF1TWZ5TFZmcHJ1NzZTcm5sWEhVU1FjVFZGMEQxWEJ1NVFmUVpXcTFiN2hBdE9WdWVBdDJDZG53clhMdzhlamFIZ0RvdXF4VXFXbWVWbWluVy1QUTh2dmNyR0ROTkNEejhiLWdYTGFYZlFOcklNR0hqdUs?oc=5",
       "source": "SWI swissinfo.ch",
-      "published": "2026-11-26T11:14:01+00:00",
+      "published": "2026-11-26T10:58:48+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
     },
     {
-      "title": "Behörden stellen im Kanton Bern illegal gehaltenen Wolf sicher - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZnNHQkFTSUNURkVITTE5TU1XUWFUb0diRlhpS3AySEJPaUo1b3MtTldmU3FtWEF1TWZ5TFZmcHJ1NzZTcm5sWEhVU1FjVFZGMEQxWEJ1NVFmUVpXcTFiN2hBdE9WdWVBdDJDZG53clhMdzhlamFIZ0RvdXF4VXFXbWVWbWluVy1QUTh2dmNyR0ROTkNEejhiLWdYTGFYZlFOcklNR0hqdUs?oc=5",
+      "title": "Stadt Zürich zählt immer mehr Business-Apartments - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ2dQeHRTdWdRVVdBd1BMaU1jU2d4ZXE5ODR5SDNxcWRxYUE3a2pCc2lYVlZDMVN5SFFUOG56QzZ5X2tOeWpzRG5GUVAybFM4QmgybFIwUWlkb0FZLU5RemIyVll5d2tPUFF2M1RNQ0djd1NBUXpOREJjNEV5NEVzOGlTRlZXNHB0VFh4MXFKcUM2Rm0yT0ZFWFJEa0xDZw?oc=5",
       "source": "SWI swissinfo.ch",
-      "published": "2026-11-26T10:58:48+00:00",
+      "published": "2026-11-26T11:14:01+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -7400,19 +7746,19 @@
       "status": "topic_filter"
     },
     {
-      "title": "Tempo 30 soll in Zug nicht Sache der Gemeindeversammlung werden - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbGNOY3V5NGMzZDhIYnFHOWhtVHllSExHMkI5ckg5enZaeTFtTmZSdHNTdHBzeDJSV3MxeHRKNWdpVWtCbEc3dlBaeVY0bzdIckdPUjlnNXVoTzQ2cm51bldEbm9kZ2I5NldSWnZPLWM4RERhak5Dc0c5akgwelBRQUx4Rk5lRVU3cmQwZXpzWkpFSW5xcllnOWF0a2V4alJSSE1n?oc=5",
+      "title": "Millionäre halten im Kanton Schwyz Grossteil des Vermögens - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT0pwNEd5UjdoRk1wRkZGanN5Qk9oWkNCWW0yQkthajhtenNPd3lqMjZVWU1oZG54OXcwbWZaejJwWnJJd2pkMENDQmpkLWNuNHhwTk05LUNSek9NckpveFlBcXItQjhid2U0cFRBMm1HYzF5WFVPS0taXzI2SmFJdU0xd240WC03alJ6dUxxT2k2WF9aM252b0tfWk80U0owNWNndkR0cC02Zw?oc=5",
       "source": "SWI swissinfo.ch",
-      "published": "2026-11-26T09:23:46+00:00",
+      "published": "2026-11-26T08:17:34+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
     },
     {
-      "title": "Millionäre halten im Kanton Schwyz Grossteil des Vermögens - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT0pwNEd5UjdoRk1wRkZGanN5Qk9oWkNCWW0yQkthajhtenNPd3lqMjZVWU1oZG54OXcwbWZaejJwWnJJd2pkMENDQmpkLWNuNHhwTk05LUNSek9NckpveFlBcXItQjhid2U0cFRBMm1HYzF5WFVPS0taXzI2SmFJdU0xd240WC03alJ6dUxxT2k2WF9aM252b0tfWk80U0owNWNndkR0cC02Zw?oc=5",
+      "title": "Tempo 30 soll in Zug nicht Sache der Gemeindeversammlung werden - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbGNOY3V5NGMzZDhIYnFHOWhtVHllSExHMkI5ckg5enZaeTFtTmZSdHNTdHBzeDJSV3MxeHRKNWdpVWtCbEc3dlBaeVY0bzdIckdPUjlnNXVoTzQ2cm51bldEbm9kZ2I5NldSWnZPLWM4RERhak5Dc0c5akgwelBRQUx4Rk5lRVU3cmQwZXpzWkpFSW5xcllnOWF0a2V4alJSSE1n?oc=5",
       "source": "SWI swissinfo.ch",
-      "published": "2026-11-26T08:17:34+00:00",
+      "published": "2026-11-26T09:23:46+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -7440,15 +7786,6 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZFdweHowV25PUlU4MjdtUkhtUlB2ek1vRkxnckRXeXVQdmhoWVV3SnYwQW5uQkdOdVQ1QUozT1VoWUlWRDZDY2RlMll3Sk93UTZwR2R5VnZ0TEN4NmVvYWFwOG5EOVNhSlBtczgycmJUcXRIOUdyV2V1ODlsekR6ZVl1cTV6dmhxN2xqaUU5aGo5YnFBVzFXQ1ln?oc=5",
       "source": "SWI swissinfo.ch",
       "published": "2026-11-26T08:22:25+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Bund nimmt Bundesasylzentrum Aesch BL wieder in Betrieb - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQkhsZXV6b2JTa0RNeHFDWkRKcXVuczZQSFJHQzNMWnRYY3lOLWQ0QzBtQXRnc3A0ajBLZkwzTDRBbHQ1YzZfTkE2emVSZDdYQnQxaEZlcHE5NldJYVdfSzlYeHpVa0ZkdEg5WWVFQnh3c2w2eTEwT1dGRjJSalM0ZjVKNURIQ1BVa2NfMmVLVG5mWGlZaF94OA?oc=5",
-      "source": "SWI swissinfo.ch",
-      "published": "2026-11-26T08:24:15+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -7650,7 +7987,7 @@
         "Firmen"
       ],
       "selectedCategories": [],
-      "status": "duplicate_or_similar_story"
+      "status": "not_in_top_limit_or_allocated_to_other_category"
     },
     {
       "title": "Palo Alto Networks übernimmt KI-Start-up für 4,5 Milliarden Dollar - Swiss IT Reseller",
@@ -7688,10 +8025,8 @@
         "IT Schweiz",
         "Cloud"
       ],
-      "selectedCategories": [
-        "Cloud"
-      ],
-      "status": "selected"
+      "selectedCategories": [],
+      "status": "duplicate_or_similar_story"
     },
     {
       "title": "Crowdstrike will Zscaler übernehmen - Swiss IT Reseller",
@@ -7759,10 +8094,8 @@
         "IT Schweiz",
         "Firmen"
       ],
-      "selectedCategories": [
-        "Personen"
-      ],
-      "status": "selected"
+      "selectedCategories": [],
+      "status": "duplicate_or_similar_story"
     },
     {
       "title": "Die Köpfe des Monats - Oktober 2026 - Swiss IT Reseller",
@@ -7816,10 +8149,8 @@
       "eligibleCategories": [
         "IT Schweiz"
       ],
-      "selectedCategories": [
-        "Personen"
-      ],
-      "status": "selected"
+      "selectedCategories": [],
+      "status": "duplicate_or_similar_story"
     },
     {
       "title": "Elovade erweitert KI-Portfolio um Goodweek - Swiss IT Reseller",
@@ -7953,10 +8284,8 @@
         "IT Schweiz",
         "Firmen"
       ],
-      "selectedCategories": [
-        "Personen"
-      ],
-      "status": "selected"
+      "selectedCategories": [],
+      "status": "duplicate_or_similar_story"
     },
     {
       "title": "Smartphone-Absatz bricht in Europa um 18 Prozent ein - Swiss IT Reseller",
@@ -8147,7 +8476,7 @@
         "Firmen"
       ],
       "selectedCategories": [],
-      "status": "duplicate_or_similar_story"
+      "status": "not_in_top_limit_or_allocated_to_other_category"
     },
     {
       "title": "Bechtle kaut mit HET IT weiter in Europa zu - Swiss IT Reseller",
@@ -8206,10 +8535,10 @@
       "status": "duplicate_or_similar_story"
     },
     {
-      "title": "UMB zügelt Hauptsitz innerhalb von Cham - Swiss IT Reseller",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdHBuMVFBbE9TZVpJQjNBSTJlZTNCSmxlaGx2SVRQdFh1MmJzQmxORjd4cGpXdTRMV2p5d0pXOGJKUXFTU0ttQXdZZTFKTGZjcXdBODNGYmFpS2l2MHRONmtLLS1vYmhzUFBpM2J4Z0ZJVTVYNjZ6Zl92QmNSdlZyb2E3c09McDFYamtnR1RPSQ?oc=5",
+      "title": "Elovade erweitert KI-Portfolio um Goodweek - Swiss IT Reseller",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONlVfVkMzMDdKdXRjME85eGNUYkJLZ09jZWwxdUwxcnRHeXdLdHJRNjNlZ09JdV8zdGlsVHkxNmRtUkw3ZnlvcERDZnhtX1k2dTkwYWxnb1VHUE5PNTZRVjJ1MldXemxSdjd5TmpVQlBSNDJHTGlTTFV2UzMwXzB2eWQtUkJOWFVvQ2E2eXRSUERzQQ?oc=5",
       "source": "IT Reseller / Firmen",
-      "published": "2026-11-25T07:12:00+00:00",
+      "published": "2026-11-24T05:02:14+00:00",
       "eligibleCategories": [
         "IT Schweiz"
       ],
@@ -8217,10 +8546,10 @@
       "status": "not_in_top_limit_or_allocated_to_other_category"
     },
     {
-      "title": "Elovade erweitert KI-Portfolio um Goodweek - Swiss IT Reseller",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONlVfVkMzMDdKdXRjME85eGNUYkJLZ09jZWwxdUwxcnRHeXdLdHJRNjNlZ09JdV8zdGlsVHkxNmRtUkw3ZnlvcERDZnhtX1k2dTkwYWxnb1VHUE5PNTZRVjJ1MldXemxSdjd5TmpVQlBSNDJHTGlTTFV2UzMwXzB2eWQtUkJOWFVvQ2E2eXRSUERzQQ?oc=5",
+      "title": "UMB zügelt Hauptsitz innerhalb von Cham - Swiss IT Reseller",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdHBuMVFBbE9TZVpJQjNBSTJlZTNCSmxlaGx2SVRQdFh1MmJzQmxORjd4cGpXdTRMV2p5d0pXOGJKUXFTU0ttQXdZZTFKTGZjcXdBODNGYmFpS2l2MHRONmtLLS1vYmhzUFBpM2J4Z0ZJVTVYNjZ6Zl92QmNSdlZyb2E3c09McDFYamtnR1RPSQ?oc=5",
       "source": "IT Reseller / Firmen",
-      "published": "2026-11-24T05:02:14+00:00",
+      "published": "2026-11-25T07:12:00+00:00",
       "eligibleCategories": [
         "IT Schweiz"
       ],
@@ -8292,7 +8621,7 @@
         "Firmen"
       ],
       "selectedCategories": [],
-      "status": "duplicate_or_similar_story"
+      "status": "not_in_top_limit_or_allocated_to_other_category"
     },
     {
       "title": "Bechtle integriert AWS und Microsoft Marketplaces in eigene Cloud-Plattform - Swiss IT Reseller",
@@ -8417,6 +8746,15 @@
       "status": "topic_filter"
     },
     {
+      "title": "Basler Datenschutzbeauftragte untersagt VPN-Auslagerung an US-amerikanischen Anbieter - Netzwoche",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRHE3dDdGX3BRdEN5VHlHeUg2d3JtQllvckNlcEYyU2o1azRQWXRnRWtTUUNMYVBIQ2M3SGJKZ3hBWXE5YUZNa2ViREw0QmstUmhGM0hrRWZOUVlmT01OTDVYcFMyTEFnYml2elA0cE14aXJqUkpHbVQ4V3dhbldROFRvelZ0U210WDNjQlJ0UGpnLTVMWG5JYmgwN2xIRHhYWk1mLUpfWk9DaWY0eE5WSzRHTC1fMlRK?oc=5",
+      "source": "Netzwoche / Firmen",
+      "published": "2026-11-26T13:44:33+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
       "title": "So hilft KI beim Onlineshopping - aber auch beim Betrug - Netzwoche",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTG9SQkhrY055am53eE1WcGItWmVPZ1podDljN1ZMUjFhRm9IVE5pbjNWNklwdUcydWpqTHREcHlDUmcxdU0telBFUDhVZUpORVlmN0FmSkZYZ3g0Zkd5cHhmNUhNeTN1cWh4Y3VwWVBDNlJsTUlPNzJJQjZocHg2eDg3ejE3LXdHWjdCQVpONG1iRE5QMzhveXlR?oc=5",
       "source": "Netzwoche / Firmen",
@@ -8426,13 +8764,25 @@
       "status": "topic_filter"
     },
     {
-      "title": "Basler Datenschutzbeauftragte untersagt VPN-Auslagerung an US-amerikanischen Anbieter - Netzwoche",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRHE3dDdGX3BRdEN5VHlHeUg2d3JtQllvckNlcEYyU2o1azRQWXRnRWtTUUNMYVBIQ2M3SGJKZ3hBWXE5YUZNa2ViREw0QmstUmhGM0hrRWZOUVlmT01OTDVYcFMyTEFnYml2elA0cE14aXJqUkpHbVQ4V3dhbldROFRvelZ0U210WDNjQlJ0UGpnLTVMWG5JYmgwN2xIRHhYWk1mLUpfWk9DaWY0eE5WSzRHTC1fMlRK?oc=5",
+      "title": "Das sind die Gewinner der Digital Economy Awards - Netzwoche",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYzlWN0FRYWhLRWF3bGpxX2NlYzlEeFZGa01VZXNHQkw0bnVBbWJZWkw4YW1uQ2JMMUhvR1lraDJ4Z3VPT0pXRndocWRpVzNYZlFSYTFWTTBVc0NIRDc3N1NYUXU3QnljSG53TlowNlJ1azZ6TTY0a3phTWRUS3FJS1pFbk5DYWctcmhxeDNnQnl4b0U?oc=5",
       "source": "Netzwoche / Firmen",
-      "published": "2026-11-26T13:44:33+00:00",
+      "published": "2026-11-20T11:10:45+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
+    },
+    {
+      "title": "Cyberangriffe mit KI-Agenten sind in der Schweiz angekommen - Netzwoche",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRkJGOEdjYUlPeXlZWGgzRU1IWHYzSkhDZ2Z0QVRnay0wcnhQcVB5LTIwQWRpeS1oZU5KLXp1SVV4WWozRTZ1a2N5emlkakxVakRZdG9JUEJzX1FXY3FkRElRVVhyVEtTTE1SU0NqQXNsaDFoZWdyb0tPbnA0cFR1WDVGTzdXZE9MZkVnallIQWh1NkFYZlpBa01pekNTNzQxNkE?oc=5",
+      "source": "Netzwoche / Firmen",
+      "published": "2026-11-25T10:35:28+00:00",
+      "eligibleCategories": [
+        "Security",
+        "IT Schweiz"
+      ],
+      "selectedCategories": [],
+      "status": "not_in_top_limit_or_allocated_to_other_category"
     },
     {
       "title": "Kritische Java-Lücke gefährdet geschäftskritische Anwendungen - Netzwoche",
@@ -8466,36 +8816,6 @@
       "status": "selected"
     },
     {
-      "title": "Das sind die Gewinner der Digital Economy Awards - Netzwoche",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYzlWN0FRYWhLRWF3bGpxX2NlYzlEeFZGa01VZXNHQkw0bnVBbWJZWkw4YW1uQ2JMMUhvR1lraDJ4Z3VPT0pXRndocWRpVzNYZlFSYTFWTTBVc0NIRDc3N1NYUXU3QnljSG53TlowNlJ1azZ6TTY0a3phTWRUS3FJS1pFbk5DYWctcmhxeDNnQnl4b0U?oc=5",
-      "source": "Netzwoche / Firmen",
-      "published": "2026-11-20T11:10:45+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Cyberangriffe mit KI-Agenten sind in der Schweiz angekommen - Netzwoche",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRkJGOEdjYUlPeXlZWGgzRU1IWHYzSkhDZ2Z0QVRnay0wcnhQcVB5LTIwQWRpeS1oZU5KLXp1SVV4WWozRTZ1a2N5emlkakxVakRZdG9JUEJzX1FXY3FkRElRVVhyVEtTTE1SU0NqQXNsaDFoZWdyb0tPbnA0cFR1WDVGTzdXZE9MZkVnallIQWh1NkFYZlpBa01pekNTNzQxNkE?oc=5",
-      "source": "Netzwoche / Firmen",
-      "published": "2026-11-25T10:35:28+00:00",
-      "eligibleCategories": [
-        "Security",
-        "IT Schweiz"
-      ],
-      "selectedCategories": [],
-      "status": "not_in_top_limit_or_allocated_to_other_category"
-    },
-    {
-      "title": "Open-i 2026 | The Swiss Innovation Platform - Netzwoche",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5BcGx0Sjc4c21lcFk0M1lzLUNMQTJtR18ySkNaVXRnTHoyckhrZE5VYnBuMU1GV2FkTHhUaGZ1cEFpd205cUo2bVo2ZTM?oc=5",
-      "source": "Netzwoche / Firmen",
-      "published": "2026-11-25T15:58:22+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
       "title": "So werden digitale Projekte wirklich barrierefrei - Netzwoche",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYmlRb0RFYnBmZmZnMy00aWhxenM4THFodXZsWGZzbW1EeVBXR3VHVzAwNmxOWUV3N1czZUUwXzJoaUtUT2dveTlMLW0xWm1zdGJvRVNob2ZtRGVaYjhnTnV1b1VHZFNvTlJUZTVPMndiMFU2VnNrSjFpWUJSMXlsdlpFekJMM0FXaEd6MXItQ243eEYz?oc=5",
       "source": "Netzwoche / Firmen",
@@ -8509,6 +8829,51 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOGpPRlBSbHhIY2t3ZE00RHpSLS1vVWF3VG5GMUJtMjVNcGdxdXN5NkM2RzlST2xMYW4wQXBxZmo5UFBLQ0lHLTBIbWlpWWlMVGc2Y2ZnaXpkWkhjdGVtNkdoRXBjS1h6RFhqT0dFY2prLVBqaWpYMW9ETDIzYzBPTGw2NVEzeFRHX3YwSGxhNVFZd3NHQzBkOUNqaXpuZ1VaOHJKSk85cVR6U09nZ2Nva0xodw?oc=5",
       "source": "Netzwoche / Firmen",
       "published": "2026-11-20T10:53:57+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Open-i 2026 | The Swiss Innovation Platform - Netzwoche",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5BcGx0Sjc4c21lcFk0M1lzLUNMQTJtR18ySkNaVXRnTHoyckhrZE5VYnBuMU1GV2FkTHhUaGZ1cEFpd205cUo2bVo2ZTM?oc=5",
+      "source": "Netzwoche / Firmen",
+      "published": "2026-11-25T15:58:22+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "SNB und Schweizer Banken prüfen Infrastruktur für tokenisierte Finanzgeschäfte - Netzwoche",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdS1nVmU5WmRzMWRnYWFRUjREUE42OEZtdEhzZTRISVdOZU5FeUN0aW9McVlqWHRuNDRSOTVXVERkWW5aNkFLdU80c1hsS1RveFk4WTFtM3hCUy0wS256bVBmQ2VTazN1S19RQ2R4LWtwTDA1T2Z3a3NHRGlTclZvMGtOWWxocWQ5c0tYYjdxcVJYSHcwakpqeVNuLURXQnFaNUV2U0hVdzdXeC1BZ19fR2ZVTVJkY2dNbVBLekEyNA?oc=5",
+      "source": "Netzwoche / Firmen",
+      "published": "2026-11-26T10:17:28+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Bundesrat will Bewilligungsverfahren für Mobilfunkantennen vereinfachen - Netzwoche",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRzMtZ05XeXJ0aThTZEZVMkVLMnN3MzA3UFM0V3RwY1Z5a21lRzk0SU45NzBSenp5YnJ1R055OXRzTkpQbHo4NHlKSDU4MngyQlE3ODRmVW05dUk1OGtZd0FPNHQzdThTYkFvWnB6OFV2MUhWaEdvYmtETnVkMnRPRExzSGdmTDA0Y3ZjRVEwODUtVXozVlhmR3Ftd1R0WnE5eWh2ajhDUHdOSU9TMmpLLVY1Yw?oc=5",
+      "source": "Netzwoche / Firmen",
+      "published": "2026-11-26T09:50:28+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "So schlecht steht es um die Accessibility von Schweizer Websites - Netzwoche",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLTRidkhhYXoxR014SVJMWnVHSEhkWnF2MFJQdjVlbGlpSzJFTnRqOHJLU2ZhdTkySWc5Z0FWTndoZDI4YV9XUEZmU0dBQkNFUlA3YVB1SzVVWVJCaXpLOEUzQVl5Wl9yc1RzcXVJc1VkcXYyRUFPOUg1bS1UQ0dKX1pkSkRUZmNTODBlQUJuTS1ERmR2b3BNanBtQzRaVVZoaDF0bWJZNHg?oc=5",
+      "source": "Netzwoche / Firmen",
+      "published": "2026-11-20T11:27:43+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Handyabos werden billiger - Netzwoche",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BS3k4eWlvMmJDYXk2R245czE2ZU1xLUNVMjJyenhReWVodGV3aTljVWR6UGIzMWtoVTVZVFdlT0pEMnBjNWQ1d080aXlKMjVCMVV6WFMxUDJrcDItaTFDdWJLMVZlWE1QYlF6ZjR4emZQaWFB?oc=5",
+      "source": "Netzwoche / Firmen",
+      "published": "2026-11-23T10:14:33+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -8538,6 +8903,15 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkJITHE1cjBhTnEzMDdIMlFEbVVQS01RUVpfSWgzSjFTU20zU2VyY2p1RkRYQ1RrN3JEUVlqMTBYU1VLSDQ2dVlBNi00cWxZMk11OFlyMGY5WWNjWk5ndVVrTEZHQTIxaVhIRU1DZjNVaG1OaXdUbjhwT2pJVHJaeGZVNlRTYS1VelpuZFpLc0NTYzg5UUtRTGNHSzl1Sm9wZ0hLS3RiTFcyMHFDRFE?oc=5",
       "source": "Netzwoche / Firmen",
       "published": "2026-11-23T06:00:00+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Google-KI-Agenten versuchen schon wieder, Website zu hacken - Netzwoche",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObGR5NGtZOTVGWFNPR2cwZFdEVlZPZjZXZ05rYWdBQ1JKX3BkRnVkbGxxM0EtT0dHR0lyamxFSHVMRTNsNGgtZ3pFSHZ2cWhWb0R3Z0hoMWlXd1FOTjZobTl3cWFmTWVNTGFObk82V2xsRjctODQtdDJydkNydzJLUU1VWjZBLXhFQWdNM2dUUDZnVjJWQjRyTEJoRWRELVJ2?oc=5",
+      "source": "Netzwoche / Firmen",
+      "published": "2026-11-25T10:40:08+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -8591,55 +8965,19 @@
       "status": "topic_filter"
     },
     {
+      "title": "Zurbuchen: \"In drei bis fünf Jahren sehen wir Rechenzentren im All\" - Netzwoche",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaUFFRTlJd2paVkpnV0RwZ2kwQWxqNDEzSDFvMkxWd2tmdm53amw3M05DcF9CZzF3Y0lNUlhtVFdDY0J5TkhIWVczalNpUTNncVlNU3BvUkt2dFJiSHVtb19vbW1DRWRlOW1BNExjR05PYTJhb3VEYmJJc2JidjhLd091OWJUWTRTV2ZGVU5lNHdFYW5RUUxrLXVaMHhQR3B4MlNaQ1pmTURXdw?oc=5",
+      "source": "Netzwoche / Firmen",
+      "published": "2026-11-20T09:49:42+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
       "title": "NDB investiert 5,4 Millionen Franken in KI-Analyse-Software - Netzwoche",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbGVfMlF0bHY5WTJMWXFMem9mUHBmWEFhamR1Ylk0azJ2V283V3BZMUpOaEIxTmloZDBURWhsaTQ0TlE0S3l1OHZFVnFQUEVxUmVza1oxZEpSTnVhMTNzRFZfdmh0TG0wYm5GbGZzTWtCRE1rdXNDdE9DNkFSem5kZ0VEX0MwVExqWVI3SE9obVl3VDVTZlplbk1BdEdlT0pG?oc=5",
       "source": "Netzwoche / Firmen",
       "published": "2026-11-24T10:40:38+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "SNB und Schweizer Banken prüfen Infrastruktur für tokenisierte Finanzgeschäfte - Netzwoche",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdS1nVmU5WmRzMWRnYWFRUjREUE42OEZtdEhzZTRISVdOZU5FeUN0aW9McVlqWHRuNDRSOTVXVERkWW5aNkFLdU80c1hsS1RveFk4WTFtM3hCUy0wS256bVBmQ2VTazN1S19RQ2R4LWtwTDA1T2Z3a3NHRGlTclZvMGtOWWxocWQ5c0tYYjdxcVJYSHcwakpqeVNuLURXQnFaNUV2U0hVdzdXeC1BZ19fR2ZVTVJkY2dNbVBLekEyNA?oc=5",
-      "source": "Netzwoche / Firmen",
-      "published": "2026-11-26T10:17:28+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "So schlecht steht es um die Accessibility von Schweizer Websites - Netzwoche",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLTRidkhhYXoxR014SVJMWnVHSEhkWnF2MFJQdjVlbGlpSzJFTnRqOHJLU2ZhdTkySWc5Z0FWTndoZDI4YV9XUEZmU0dBQkNFUlA3YVB1SzVVWVJCaXpLOEUzQVl5Wl9yc1RzcXVJc1VkcXYyRUFPOUg1bS1UQ0dKX1pkSkRUZmNTODBlQUJuTS1ERmR2b3BNanBtQzRaVVZoaDF0bWJZNHg?oc=5",
-      "source": "Netzwoche / Firmen",
-      "published": "2026-11-20T11:27:43+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Schweizer Tech-Aktionäre atmen auf - Netzwoche",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY3RIbWptRXU1NVF5RHdoaXkxNkZUemZtTzlCbGtOSkxjb3ZsZ0wzQTlzV2hFMkkyTVJBc3ppeWZJUVJwSUoxYjBxV1JCVlNRS19NVktKcmxQNDQ4Ty1DY0ZoOVdWYUJxNW11TmdxQWNrYmNpQjBYSUpaWE5vbGg3cHB3?oc=5",
-      "source": "Netzwoche / Firmen",
-      "published": "2026-11-25T10:53:10+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Handyabos werden billiger - Netzwoche",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BS3k4eWlvMmJDYXk2R245czE2ZU1xLUNVMjJyenhReWVodGV3aTljVWR6UGIzMWtoVTVZVFdlT0pEMnBjNWQ1d080aXlKMjVCMVV6WFMxUDJrcDItaTFDdWJLMVZlWE1QYlF6ZjR4emZQaWFB?oc=5",
-      "source": "Netzwoche / Firmen",
-      "published": "2026-11-23T10:14:33+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Google-KI-Agenten versuchen schon wieder, Website zu hacken - Netzwoche",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObGR5NGtZOTVGWFNPR2cwZFdEVlZPZjZXZ05rYWdBQ1JKX3BkRnVkbGxxM0EtT0dHR0lyamxFSHVMRTNsNGgtZ3pFSHZ2cWhWb0R3Z0hoMWlXd1FOTjZobTl3cWFmTWVNTGFObk82V2xsRjctODQtdDJydkNydzJLUU1VWjZBLXhFQWdNM2dUUDZnVjJWQjRyTEJoRWRELVJ2?oc=5",
-      "source": "Netzwoche / Firmen",
-      "published": "2026-11-25T10:40:08+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -8660,15 +8998,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX1VmbjU3aTFyR3BPTlhFX1hhcWdzemhUOS1RX19aZmxmVXVPZ0Z2eTF2dkIxazJmRjdfckxwMjdOMUNRQ2hPX1VoQ1phMjlta2U2Z1ViOWVFbUVxRVZ4WEtfVVNUT041bzhqOEx2b0VNbFRaZHd5Y1BXTlkwdk52Vy1jRXU1VjZVRWpDXy0xLTFaTWNWX0NJM0hDN01OZEdMeDhqQm14czZpRnNrdjAyRzZnVnVkamR5VkFQZmlLMjY?oc=5",
       "source": "Netzwoche / Firmen",
       "published": "2026-11-26T10:51:00+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Zurbuchen: \"In drei bis fünf Jahren sehen wir Rechenzentren im All\" - Netzwoche",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaUFFRTlJd2paVkpnV0RwZ2kwQWxqNDEzSDFvMkxWd2tmdm53amw3M05DcF9CZzF3Y0lNUlhtVFdDY0J5TkhIWVczalNpUTNncVlNU3BvUkt2dFJiSHVtb19vbW1DRWRlOW1BNExjR05PYTJhb3VEYmJJc2JidjhLd091OWJUWTRTV2ZGVU5lNHdFYW5RUUxrLXVaMHhQR3B4MlNaQ1pmTURXdw?oc=5",
-      "source": "Netzwoche / Firmen",
-      "published": "2026-11-20T09:49:42+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -8759,10 +9088,8 @@
       "source": "Inside IT / Firmen",
       "published": "2026-11-24T02:21:00+00:00",
       "eligibleCategories": [],
-      "selectedCategories": [
-        "Personen"
-      ],
-      "status": "selected"
+      "selectedCategories": [],
+      "status": "topic_filter"
     },
     {
       "title": "«Bei Blaser Swisslube kann ich etwas bewirken» - Inside IT",
@@ -9066,8 +9393,10 @@
         "Firmen",
         "Personen"
       ],
-      "selectedCategories": [],
-      "status": "not_in_top_limit_or_allocated_to_other_category"
+      "selectedCategories": [
+        "Personen"
+      ],
+      "status": "selected"
     },
     {
       "title": "Jensen Huang tritt als Nvidia-CEO zurück, Colette Kress übernimmt - Swiss IT Reseller",
@@ -9201,17 +9530,6 @@
       "status": "not_in_top_limit_or_allocated_to_other_category"
     },
     {
-      "title": "Adrian Rast wird CIO bei Switch - Swiss IT Reseller",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWTVWeGtYb0tTblJScldmR1Z2LXlMM2J5Z2pPcXkxbmNLRVpJOE1VSGtqQ0d4TDM5ZFRyUGJDeDJnSC01clA0NWJvX1NRb3QycHFlVzRWQmd3Ym5tWHM1WTgwSXprS0hpakNTNlFOMkF6NmhKWHJ6NTZyNEdpM1d4Yi1qNA?oc=5",
-      "source": "IT Reseller / Personen",
-      "published": "2026-11-10T07:12:00+00:00",
-      "eligibleCategories": [
-        "IT Schweiz"
-      ],
-      "selectedCategories": [],
-      "status": "not_in_top_limit_or_allocated_to_other_category"
-    },
-    {
       "title": "Infinigate ernennt Tom O’Reilly zum Chief Transformation Officer - Swiss IT Reseller",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZV93SFU3WnBNVFlXdlJkWEJ1OG1PS1hpSUN1WVRsTUd0YUNDVHRBaDJzdmhrcnRRRnlHLXUtRTdTMll4SXNxcDU5bk5WZmtmMTFGYUt5aWVqTF8ydEFrTUJVaVJzWFd1WnE5NWFFaUhlOWg1UkxlS2lMWVN3emZMRDR3ZWU3Smh4cXRvZ0dLSW9GTUVUdGlBRVVwRDhxSTYtVWhLZTA2UmVFM0JQRmNF?oc=5",
       "source": "IT Reseller / Personen",
@@ -9224,10 +9542,10 @@
       "status": "duplicate_or_similar_story"
     },
     {
-      "title": "Peoplefone legt zu und bezieht neuen Hauptsitz in Zürich - Swiss IT Reseller",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeENBMFBBVzNUQU85elc2elJlcWdlS1ktWTNzckNlRVJCUWEzbDRlR3BlS2N2bThVc3kyaDRaMDR2bkFzRDBERVFtNi11X3VqQ2dXV0ZPZTh6cjVoS1hUYk5TOTNpSkhGclA0Ti0zUlNYTXhvTklVNHRjRXRiSEYwYmpIS19UWDhFNGJKc3dIMGtMaGRKY2ZmdkNWS0pDUnoxbThPSTBn?oc=5",
+      "title": "Adrian Rast wird CIO bei Switch - Swiss IT Reseller",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWTVWeGtYb0tTblJScldmR1Z2LXlMM2J5Z2pPcXkxbmNLRVpJOE1VSGtqQ0d4TDM5ZFRyUGJDeDJnSC01clA0NWJvX1NRb3QycHFlVzRWQmd3Ym5tWHM1WTgwSXprS0hpakNTNlFOMkF6NmhKWHJ6NTZyNEdpM1d4Yi1qNA?oc=5",
       "source": "IT Reseller / Personen",
-      "published": "2026-11-02T08:00:00+00:00",
+      "published": "2026-11-10T07:12:00+00:00",
       "eligibleCategories": [
         "IT Schweiz"
       ],
@@ -9235,12 +9553,11 @@
       "status": "not_in_top_limit_or_allocated_to_other_category"
     },
     {
-      "title": "Roger Halbheer wird neuer Security-Chef bei Swisscom - Swiss IT Reseller",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSnpOX2kzVnBhQk96WERWX0lDNUZqRzdpTUtIdm5nRWRnUmN3dW9wWkoxaTNpUHhLQnJFZHdCMFJ1Y0tGaHM0MTB6eG1vSFdDUkUwdGJ2azgtWFV6MF8zOVo3YS1ZWGxQMk1ROU5haEVUV0ZscThRbnZFYTZPUlp1U3gzS1NuQ3RCOGpVRzZwSFFlUDU0TWdIRk92cmNudw?oc=5",
+      "title": "Peoplefone legt zu und bezieht neuen Hauptsitz in Zürich - Swiss IT Reseller",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeENBMFBBVzNUQU85elc2elJlcWdlS1ktWTNzckNlRVJCUWEzbDRlR3BlS2N2bThVc3kyaDRaMDR2bkFzRDBERVFtNi11X3VqQ2dXV0ZPZTh6cjVoS1hUYk5TOTNpSkhGclA0Ti0zUlNYTXhvTklVNHRjRXRiSEYwYmpIS19UWDhFNGJKc3dIMGtMaGRKY2ZmdkNWS0pDUnoxbThPSTBn?oc=5",
       "source": "IT Reseller / Personen",
-      "published": "2026-11-01T07:00:00+00:00",
+      "published": "2026-11-02T08:00:00+00:00",
       "eligibleCategories": [
-        "Security",
         "IT Schweiz"
       ],
       "selectedCategories": [],
@@ -9262,17 +9579,6 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVlBvMnh0NHIzM01KZndDb1NzamE1b2dkbXh6TUVuNVd1S0d5WDVwNTZpV1VPdVlqb3lxQ1d2bWl4eGZxTTRXeXpxeHlBUzhTZkF1ek9JbWFPdlQ2dFl3TFRPUnNoSGcwbGFnZWJyaVMtczEzcWt6SmhJWmlzUGtpc1BlUk1wTGcwR1E?oc=5",
       "source": "IT Reseller / Personen",
       "published": "2026-11-02T08:00:00+00:00",
-      "eligibleCategories": [
-        "IT Schweiz"
-      ],
-      "selectedCategories": [],
-      "status": "not_in_top_limit_or_allocated_to_other_category"
-    },
-    {
-      "title": "Crowdstrike könnte Zscaler übernehmen - Swiss IT Reseller",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYVdieG9TRmhsRUtRaDZ1MUZHamdTdjZ2TjFKTWZaWmhKQXlfOHYzaWk4Yjd0VkFaUTFFc3ZFLWNYaHpnVzVLWWJJcmxHdVh6SGZMeG8zY0g3RlhNVlBfakVTVEc4Mkd6Z0ZValBxbGJFcU5jUnN0aDNZb3l1Yzkzb2lEZVVZZjJvUWVybGh3?oc=5",
-      "source": "IT Reseller / Personen",
-      "published": "2026-11-23T07:12:00+00:00",
       "eligibleCategories": [
         "IT Schweiz"
       ],
@@ -9325,17 +9631,27 @@
       "status": "not_in_top_limit_or_allocated_to_other_category"
     },
     {
-      "title": "Jensen Huang tritt als Nvidia-CEO zurück, Colette Kress übernimmt - Swiss IT Reseller",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS1BDNVZHNlJrQm41UHhsT211TWhta250Q1ZDYlVqa0czbTFUQVFKOWlFandCNGpaVFlvVm5iMG5aWDZ5UjB0SDhlMEJSS1BncHp3dlpmWG9hbWdsS0g0eG5qcXFKc3FrbVZ3WVM5cGdZWW1MRm44WENySUpvZ2J2czBFYU5hQmprbmF0T0x0MC1Rdzgyb3ZRcEU2UGNoNE9vZDh6dlJ0SXlIM1JXN3hHTGJB?oc=5",
+      "title": "Roger Halbheer wird neuer Security-Chef bei Swisscom - Swiss IT Reseller",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSnpOX2kzVnBhQk96WERWX0lDNUZqRzdpTUtIdm5nRWRnUmN3dW9wWkoxaTNpUHhLQnJFZHdCMFJ1Y0tGaHM0MTB6eG1vSFdDUkUwdGJ2azgtWFV6MF8zOVo3YS1ZWGxQMk1ROU5haEVUV0ZscThRbnZFYTZPUlp1U3gzS1NuQ3RCOGpVRzZwSFFlUDU0TWdIRk92cmNudw?oc=5",
       "source": "IT Reseller / Personen",
-      "published": "2026-11-12T08:00:00+00:00",
+      "published": "2026-11-01T07:00:00+00:00",
       "eligibleCategories": [
-        "IT Schweiz",
-        "Firmen",
-        "Personen"
+        "Security",
+        "IT Schweiz"
       ],
       "selectedCategories": [],
-      "status": "duplicate_or_similar_story"
+      "status": "not_in_top_limit_or_allocated_to_other_category"
+    },
+    {
+      "title": "Crowdstrike könnte Zscaler übernehmen - Swiss IT Reseller",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYVdieG9TRmhsRUtRaDZ1MUZHamdTdjZ2TjFKTWZaWmhKQXlfOHYzaWk4Yjd0VkFaUTFFc3ZFLWNYaHpnVzVLWWJJcmxHdVh6SGZMeG8zY0g3RlhNVlBfakVTVEc4Mkd6Z0ZValBxbGJFcU5jUnN0aDNZb3l1Yzkzb2lEZVVZZjJvUWVybGh3?oc=5",
+      "source": "IT Reseller / Personen",
+      "published": "2026-11-23T07:12:00+00:00",
+      "eligibleCategories": [
+        "IT Schweiz"
+      ],
+      "selectedCategories": [],
+      "status": "not_in_top_limit_or_allocated_to_other_category"
     },
     {
       "title": "Nutanix-CEO Rajiv Ramaswami kündigt Abschied an - Swiss IT Reseller",
@@ -9360,6 +9676,19 @@
       ],
       "selectedCategories": [],
       "status": "not_in_top_limit_or_allocated_to_other_category"
+    },
+    {
+      "title": "Jensen Huang tritt als Nvidia-CEO zurück, Colette Kress übernimmt - Swiss IT Reseller",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS1BDNVZHNlJrQm41UHhsT211TWhta250Q1ZDYlVqa0czbTFUQVFKOWlFandCNGpaVFlvVm5iMG5aWDZ5UjB0SDhlMEJSS1BncHp3dlpmWG9hbWdsS0g0eG5qcXFKc3FrbVZ3WVM5cGdZWW1MRm44WENySUpvZ2J2czBFYU5hQmprbmF0T0x0MC1Rdzgyb3ZRcEU2UGNoNE9vZDh6dlJ0SXlIM1JXN3hHTGJB?oc=5",
+      "source": "IT Reseller / Personen",
+      "published": "2026-11-12T08:00:00+00:00",
+      "eligibleCategories": [
+        "IT Schweiz",
+        "Firmen",
+        "Personen"
+      ],
+      "selectedCategories": [],
+      "status": "duplicate_or_similar_story"
     },
     {
       "title": "Henning Gronki übernimmt Leitung von Dentsu Schweiz - Swiss IT Reseller",
@@ -9474,7 +9803,7 @@
         "Personen"
       ],
       "selectedCategories": [],
-      "status": "not_in_top_limit_or_allocated_to_other_category"
+      "status": "duplicate_or_similar_story"
     },
     {
       "title": "Noser Engineering stärkt mit Head of Energy Fokus auf Energiebranche - Swiss IT Reseller",
@@ -10340,6 +10669,17 @@
       "status": "not_in_top_limit_or_allocated_to_other_category"
     },
     {
+      "title": "Infinigate ernennt Chief Transformation Officer - Inside IT",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdWlIMmozeWc2dl9DT2NWbnk5RllUTVR1d2gtLUtKWE5XUDJzSnZFb0g1ZUhpZjdtbEV5TThoV21nYUp5WHNqV2ZsZzk3SDRXbzFCeDd1SHZ0aC1DUDBGOFhhcG5DQmsxY29VOUpNUEg1NnJLU25GTU1EM1RmRzM2dlVXeGVtV1Mw?oc=5",
+      "source": "Inside IT / Personen",
+      "published": "2026-11-24T02:21:00+00:00",
+      "eligibleCategories": [
+        "Personen"
+      ],
+      "selectedCategories": [],
+      "status": "duplicate_or_similar_story"
+    },
+    {
       "title": "BFH schafft Professur für Data-Driven Government - Inside IT",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVV8xY041elZjcEVXTl9nQnVyVWh0RTktSDY1TUQyOGpROHJrdzB1eEF1V1FxVVVwTjU1UHNKbEpDU1RFTWliTFVHSDNuVmFzNjk3NGwyNkh3TTN0NUlaOVQ5S2RRMnNzeG00YVFKV1psZElJQUNsQTBrd2VoWXRYQ2pTbkRZV0NsaXhv?oc=5",
       "source": "Inside IT / Personen",
@@ -10372,45 +10712,10 @@
       "status": "topic_filter"
     },
     {
-      "title": "Infinigate ernennt Chief Transformation Officer - Inside IT",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdWlIMmozeWc2dl9DT2NWbnk5RllUTVR1d2gtLUtKWE5XUDJzSnZFb0g1ZUhpZjdtbEV5TThoV21nYUp5WHNqV2ZsZzk3SDRXbzFCeDd1SHZ0aC1DUDBGOFhhcG5DQmsxY29VOUpNUEg1NnJLU25GTU1EM1RmRzM2dlVXeGVtV1Mw?oc=5",
-      "source": "Inside IT / Personen",
-      "published": "2026-11-24T02:21:00+00:00",
-      "eligibleCategories": [
-        "Personen"
-      ],
-      "selectedCategories": [],
-      "status": "duplicate_or_similar_story"
-    },
-    {
       "title": "Aargau stärkt Informationssicherheit - Inside IT",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ENld1RkJNMG9OTy00RmtvZTNLME53ZFh2aHdTSGl6c0hEejdKSEUzU1pKNjRhVXZwRUxKNG1DVVlFWjVwVklNQjJMcDI4YV9hRWRVa2V3VHE4Wl9pSFc2eVdyMHgtZ3RHa0dQV0JzN3ByazQ4QVpiQzVlbw?oc=5",
       "source": "Inside IT / Personen",
       "published": "2026-11-06T08:00:00+00:00",
-      "eligibleCategories": [
-        "IT Schweiz"
-      ],
-      "selectedCategories": [],
-      "status": "not_in_top_limit_or_allocated_to_other_category"
-    },
-    {
-      "title": "Switch ernennt CIO - Inside IT",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAycnNrNmhMSVh2YTdmV1RyaXh4THRHM1FtNGxlVm1YS1RUSWYydVhHeFl4SDRMYnFwWVpZc0NPbHBtTUl5ZUdINlkxcGp6VmRwNDM1VXI1eEZ4cDI2SmtDSHZ3?oc=5",
-      "source": "Inside IT / Personen",
-      "published": "2026-11-10T08:00:00+00:00",
-      "eligibleCategories": [
-        "Personen"
-      ],
-      "selectedCategories": [
-        "Personen"
-      ],
-      "status": "selected"
-    },
-    {
-      "title": "Beide Basel sehen KI an Schulen kritisch - Inside IT",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CWWtWSmdVR3UwXzA1SkNMRDgyS3ZuZ1ZfbkE3Yi1lYjN3cG9UUWhneDdoeG9Na1czQ0dXbi1VSEhPN1lXdGV5dmc4YnY4SjlHcGg1RDlYc0lzOVJIMVVoS1oxN0RoR3RKRm1xNnZqVnJYUUxabTdXTjIwaDcwQmc?oc=5",
-      "source": "Inside IT / Personen",
-      "published": "2026-11-23T05:56:00+00:00",
       "eligibleCategories": [
         "IT Schweiz"
       ],
@@ -10427,6 +10732,19 @@
       "status": "duplicate_or_similar_story"
     },
     {
+      "title": "Switch ernennt CIO - Inside IT",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAycnNrNmhMSVh2YTdmV1RyaXh4THRHM1FtNGxlVm1YS1RUSWYydVhHeFl4SDRMYnFwWVpZc0NPbHBtTUl5ZUdINlkxcGp6VmRwNDM1VXI1eEZ4cDI2SmtDSHZ3?oc=5",
+      "source": "Inside IT / Personen",
+      "published": "2026-11-10T08:00:00+00:00",
+      "eligibleCategories": [
+        "Personen"
+      ],
+      "selectedCategories": [
+        "Personen"
+      ],
+      "status": "selected"
+    },
+    {
       "title": "Trotz KI-Skepsis: Anthropic mit Rekord-Börsengang - Inside IT",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVjhoVFFwMjdFLWtIM1BVTU1hYTRNMzB0Q3lrRHlsa3lva2pUMkFMOWViSldnVEh0UFAtSFI0ZktHV251dlRIdnpzVTFhaGRlX2t2ZzdWeWFKaVotRjlkZi02Wm1QSkZuUmYxU2JfSmstaXlYRjJldU9uY0hGNHBRbHYxM1dnX2Nuc1Zj?oc=5",
       "source": "Inside IT / Personen",
@@ -10436,10 +10754,21 @@
       "status": "topic_filter"
     },
     {
-      "title": "Nvidia-Chef Jensen Huang tritt zurück - Inside IT",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yTk1VOURVWU96WHB2aThaSEgwSTF0UkpOeG51UVBVSm95Tm9RLUdwV0d0Qm95amE4X3RWRmkzWjg1anV0NHdQMGk0UkhIQkZPY1ZrZUZ1elp1ckxMVXV4Tl9YeUkyd2pPbVoxLWVNUjM3eWRQVFJjX3FSNWc?oc=5",
+      "title": "Beide Basel sehen KI an Schulen kritisch - Inside IT",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CWWtWSmdVR3UwXzA1SkNMRDgyS3ZuZ1ZfbkE3Yi1lYjN3cG9UUWhneDdoeG9Na1czQ0dXbi1VSEhPN1lXdGV5dmc4YnY4SjlHcGg1RDlYc0lzOVJIMVVoS1oxN0RoR3RKRm1xNnZqVnJYUUxabTdXTjIwaDcwQmc?oc=5",
       "source": "Inside IT / Personen",
-      "published": "2026-11-12T08:00:00+00:00",
+      "published": "2026-11-23T05:56:00+00:00",
+      "eligibleCategories": [
+        "IT Schweiz"
+      ],
+      "selectedCategories": [],
+      "status": "not_in_top_limit_or_allocated_to_other_category"
+    },
+    {
+      "title": "Switch ernennt CIO - Inside IT",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAycnNrNmhMSVh2YTdmV1RyaXh4THRHM1FtNGxlVm1YS1RUSWYydVhHeFl4SDRMYnFwWVpZc0NPbHBtTUl5ZUdINlkxcGp6VmRwNDM1VXI1eEZ4cDI2SmtDSHZ3?oc=5",
+      "source": "Inside IT / Personen",
+      "published": "2026-11-10T08:00:00+00:00",
       "eligibleCategories": [
         "Personen"
       ],
@@ -10447,10 +10776,10 @@
       "status": "duplicate_or_similar_story"
     },
     {
-      "title": "Switch ernennt CIO - Inside IT",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAycnNrNmhMSVh2YTdmV1RyaXh4THRHM1FtNGxlVm1YS1RUSWYydVhHeFl4SDRMYnFwWVpZc0NPbHBtTUl5ZUdINlkxcGp6VmRwNDM1VXI1eEZ4cDI2SmtDSHZ3?oc=5",
+      "title": "Nvidia-Chef Jensen Huang tritt zurück - Inside IT",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yTk1VOURVWU96WHB2aThaSEgwSTF0UkpOeG51UVBVSm95Tm9RLUdwV0d0Qm95amE4X3RWRmkzWjg1anV0NHdQMGk0UkhIQkZPY1ZrZUZ1elp1ckxMVXV4Tl9YeUkyd2pPbVoxLWVNUjM3eWRQVFJjX3FSNWc?oc=5",
       "source": "Inside IT / Personen",
-      "published": "2026-11-10T08:00:00+00:00",
+      "published": "2026-11-12T08:00:00+00:00",
       "eligibleCategories": [
         "Personen"
       ],
@@ -10573,15 +10902,6 @@
       "status": "not_in_top_limit_or_allocated_to_other_category"
     },
     {
-      "title": "ISO/IEC 29500-1:2016 (Office Open XML File Formats) gerade kostenlos - BornCity",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZnR1NUNPcjJMakl4NHVYVWFhdEt3Q0Z5UEc3eDdhNktLbHhtal9Gc3pGVk9LeFA2QkdMSGtQcXhhcUp6Uk1hMVFYbWdlZ0E4UTl6X05xbmZKU3VqWlpBQ1hUZldlWUVOSlo5OThZU1l5QThoejJLcV83Q2RmNHFxaHRWM0N4QXVFYkhfLWNQY2s3anFzWkw4NVo5SFNLZTRMMktsMHZ3?oc=5",
-      "source": "BornCity / Microsoft To Do",
-      "published": "2026-11-23T13:02:42+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
       "title": "Microsoft To Do endet 2027: Todoist öffnet Importer für alle Tarifstufen - BornCity",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSkJ3empfRFc0LVlNMG9vZnZQM1AzbVpWdlMyM0xwUXhvd3VNNUtYa0Q4ZlJqMEwxRFFNRm9tbnFSYTNPQWhfSWUtS1lHNERzZDRydG1ocjhrb0RLd3VlSTBrZXA4a2JnQ2hLZGtpTDVldFN1cWNwblZFZVI4YWY1VHBCSlhodzV1OXFteDhrTm1hOGFXSlJJenNmVmN2clZQOEE?oc=5",
       "source": "BornCity / Microsoft To Do",
@@ -10593,27 +10913,13 @@
       "status": "not_in_top_limit_or_allocated_to_other_category"
     },
     {
-      "title": "GL.iNet-Sicherheitsvorfall bei Cloud-Fernverwaltung – Schadsoftware auf Routern - BornCity",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMklBQUQ2SklqVWVJUEpmWDQ4clpyWWYwX3NoYXZZakRMWnVhSGNIT01SN3dVS3pXNE0taV9jM1k0clhmenVTei1oc2pJZXJkdU9XemgxNXV1aV96TkRzMk5kaGh0dVNrMlh5RDhQMERLV0Y5aGNpZUZyYWpoTDYxeDR1OXhHaHBlaUVueEJqODg2NjgyS3FQeEFEQkoyNWlHNTlnRVNhOEo3aU1EckhObGt0Vi1LQQ?oc=5",
+      "title": "ISO/IEC 29500-1:2016 (Office Open XML File Formats) gerade kostenlos - BornCity",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZnR1NUNPcjJMakl4NHVYVWFhdEt3Q0Z5UEc3eDdhNktLbHhtal9Gc3pGVk9LeFA2QkdMSGtQcXhhcUp6Uk1hMVFYbWdlZ0E4UTl6X05xbmZKU3VqWlpBQ1hUZldlWUVOSlo5OThZU1l5QThoejJLcV83Q2RmNHFxaHRWM0N4QXVFYkhfLWNQY2s3anFzWkw4NVo5SFNLZTRMMktsMHZ3?oc=5",
       "source": "BornCity / Microsoft To Do",
-      "published": "2026-11-21T15:06:49+00:00",
-      "eligibleCategories": [
-        "Security",
-        "Cloud"
-      ],
+      "published": "2026-11-23T13:02:42+00:00",
+      "eligibleCategories": [],
       "selectedCategories": [],
-      "status": "not_in_top_limit_or_allocated_to_other_category"
-    },
-    {
-      "title": "Nachlese: Cyberangriffe auf Kühlanlagen und IoT-Infrastruktur - BornCity",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSUROUm5nLXlnWEstQ1U4eGdLWGJjVm5pMlk5cnpQS2NjbDdGV2RfR2t3bFA4THJKaG5WT25sWWFPa3NTRDBEN3l2SW9TbEg2MG5GUlhfX0RrTnhyUTJDRTlsdWtzZU9jeXpOaUpITDkxWERaMmlReEJ6RGt1eHNETndvbWtsNVZzTDhqMXU4VVVPeUhTeFg2R2ZiMmxlYzNu?oc=5",
-      "source": "BornCity / Microsoft To Do",
-      "published": "2026-11-22T13:31:17+00:00",
-      "eligibleCategories": [
-        "Security"
-      ],
-      "selectedCategories": [],
-      "status": "not_in_top_limit_or_allocated_to_other_category"
+      "status": "topic_filter"
     },
     {
       "title": "NVidia Hotfix-Treiber 621.35 soll weiterhin wild auf SSDs schreiben - BornCity",
@@ -10643,6 +10949,18 @@
       "status": "topic_filter"
     },
     {
+      "title": "GL.iNet-Sicherheitsvorfall bei Cloud-Fernverwaltung – Schadsoftware auf Routern - BornCity",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMklBQUQ2SklqVWVJUEpmWDQ4clpyWWYwX3NoYXZZakRMWnVhSGNIT01SN3dVS3pXNE0taV9jM1k0clhmenVTei1oc2pJZXJkdU9XemgxNXV1aV96TkRzMk5kaGh0dVNrMlh5RDhQMERLV0Y5aGNpZUZyYWpoTDYxeDR1OXhHaHBlaUVueEJqODg2NjgyS3FQeEFEQkoyNWlHNTlnRVNhOEo3aU1EckhObGt0Vi1LQQ?oc=5",
+      "source": "BornCity / Microsoft To Do",
+      "published": "2026-11-21T15:06:49+00:00",
+      "eligibleCategories": [
+        "Security",
+        "Cloud"
+      ],
+      "selectedCategories": [],
+      "status": "not_in_top_limit_or_allocated_to_other_category"
+    },
+    {
       "title": "Windows 11 Pro: Die meisten Käufer zahlen für ungenutzte Funktionen - BornCity",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSEFsY1dHZDFfTkhyUFYzdTE1Y3J3MGhzRVp4RUQ5RW9DbWZDN21WS19ObmdZS3RVNHJfSHlJdzJqN21wUDJaMGc3TmxRblFTRjlYb0Q2MXBwUVNKYWpMMzBsWm5WYlowNDhobTdDbGFNNkEybWV6LWNqVnVFLVlKMDlFM19Qa3ZSUENocURSbXFjd3czNTJMMUhOZw?oc=5",
       "source": "BornCity / Microsoft To Do",
@@ -10661,10 +10979,21 @@
       "status": "topic_filter"
     },
     {
-      "title": "Anstieg bei Phishing-Versuchen rund um den Black Friday um 82 Prozent - BornCity",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQl94cjZQc2ZDdlhFajB6TmJ3N2FDVDFmNl9neFd0VXhyV09jNVUybWY4dG85eUtwc181WlVucmt0VmhkSmZ4NU9NeVREcVRmcnhUQkFkZ1lmaVZ0RTBfcHdMRXBOOEV1Y004MXVwVF9lOFllUWROX2RuVVVVVFZIdlNheTJKNGxjM0dFZ3h2V3RIZ3BkaUVJdFhJa01hcUFjaDZjb3dESmNrWmc?oc=5",
+      "title": "Microsoft Copilot: Word, Excel und PowerPoint jetzt direkt im KI-Chat - BornCity",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMU5rdGFFQW5JcUl2TW4tRmRnNEFJMkR5ckdmbjlsNVh4dEpiYmxtRkJLc0N4dmF5SExoU2l3WlZIdWRIUTZHVEpLZWRtdXRjbWc3dHhGcmZfMUdjS2FtaTIxajIyVjNLd2NhV3VzOS1OWURIMjczandsalZsTnBhc2RNZEFrQTJvdWpidUxuVGZWZTZzbUVsbkt3?oc=5",
       "source": "BornCity / Microsoft To Do",
-      "published": "2026-11-20T23:03:29+00:00",
+      "published": "2026-11-19T20:49:05+00:00",
+      "eligibleCategories": [
+        "Microsoft 365"
+      ],
+      "selectedCategories": [],
+      "status": "not_in_top_limit_or_allocated_to_other_category"
+    },
+    {
+      "title": "Nachlese: Cyberangriffe auf Kühlanlagen und IoT-Infrastruktur - BornCity",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSUROUm5nLXlnWEstQ1U4eGdLWGJjVm5pMlk5cnpQS2NjbDdGV2RfR2t3bFA4THJKaG5WT25sWWFPa3NTRDBEN3l2SW9TbEg2MG5GUlhfX0RrTnhyUTJDRTlsdWtzZU9jeXpOaUpITDkxWERaMmlReEJ6RGt1eHNETndvbWtsNVZzTDhqMXU4VVVPeUhTeFg2R2ZiMmxlYzNu?oc=5",
+      "source": "BornCity / Microsoft To Do",
+      "published": "2026-11-22T13:31:17+00:00",
       "eligibleCategories": [
         "Security"
       ],
@@ -10672,12 +11001,12 @@
       "status": "not_in_top_limit_or_allocated_to_other_category"
     },
     {
-      "title": "Classic Outlook: Microsoft startet neue Optik im November 2026 - BornCity",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWjZ0cFFjUXhHQUZyZ2FJdEg4eDJIT1g2dmF5cVYyTGUtQXhFT2NvLXh5RTZGVmktckxtdVQ1SUdPbmVZc1J0X3IwYjBKcEZoTHE5SlBhc3J0cVdUSlRfS2trYU5CNGR5VlRGdk9ITnNSbjBfNVkxM3MwTG1HeEFDckJSUWxUV2t3YWpHWG9vUVFHZw?oc=5",
+      "title": "Anstieg bei Phishing-Versuchen rund um den Black Friday um 82 Prozent - BornCity",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQl94cjZQc2ZDdlhFajB6TmJ3N2FDVDFmNl9neFd0VXhyV09jNVUybWY4dG85eUtwc181WlVucmt0VmhkSmZ4NU9NeVREcVRmcnhUQkFkZ1lmaVZ0RTBfcHdMRXBOOEV1Y004MXVwVF9lOFllUWROX2RuVVVVVFZIdlNheTJKNGxjM0dFZ3h2V3RIZ3BkaUVJdFhJa01hcUFjaDZjb3dESmNrWmc?oc=5",
       "source": "BornCity / Microsoft To Do",
-      "published": "2026-11-24T18:06:04+00:00",
+      "published": "2026-11-20T23:03:29+00:00",
       "eligibleCategories": [
-        "Microsoft 365"
+        "Security"
       ],
       "selectedCategories": [],
       "status": "not_in_top_limit_or_allocated_to_other_category"
@@ -10692,15 +11021,6 @@
       ],
       "selectedCategories": [],
       "status": "not_in_top_limit_or_allocated_to_other_category"
-    },
-    {
-      "title": "Windows 11 24H2-26H2: Hotpatch Update KB5132043 löst Error 0xC0000099 aus - BornCity",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNDc2Q0hCVHI1dWNseVJ4T0prWWY0cTFZeFM3dFlwWEp4c0QxT1BUWEJUaFpySDJzR3FCRkxqUy1XZkRKeDc1QTE0MzNRRXZBekVTcmxUeTBOWldLZDJVa3AtUUhzTTRqbXd2WlViN3VmN25KVzZzUnh2T2pPSzVKcUJBbGZoRUtWQWtWM2Z1cjgzZldUZmhFbFppamNldjR5bDY3dE9ZUzVLSTdtWHY5WQ?oc=5",
-      "source": "BornCity / Microsoft To Do",
-      "published": "2026-11-20T11:13:47+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
     },
     {
       "title": "Outlook-Gruppen: Warum jede Microsoft 365 Group zwei Besitzer braucht - BornCity",
@@ -10741,6 +11061,15 @@
       ],
       "selectedCategories": [],
       "status": "not_in_top_limit_or_allocated_to_other_category"
+    },
+    {
+      "title": "SicherheitBorns IT- und Windows-Blog - BornCity",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nS1RxN3BfMDZIRUxGY1ZuRmJNNXVGNDFqcGRkSGluTGZmREZuS2pFcHlMRFVoM3BKREIwNlRfSS1wWHdjLTNuTDlXZ2hsVl94azNISGJ1U0xDdw?oc=5",
+      "source": "BornCity / Microsoft To Do",
+      "published": "2026-11-26T12:18:44+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
     },
     {
       "title": "Windows 11: Microsoft stellt People, Files und Calendar am 16. Dezember ein - BornCity",
@@ -10794,6 +11123,15 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRzhEZk5HYTgtLTd6VnBDYnlpaWRzamZSYV9nM2JJQ3NhVWtSZFhOSkZROUdRdzJFNWVubXAyRGdIMXp0OVZ1OERyZ0lnMmpuelQxM3FTUnV1QTRfRTBKOEl6TC1UVDVmS1pkQVlzYlQ4VFhOZzkyaDgwUTY1QUQtZGJySDZ3bDNIaVJLZ2dlT0tXaWdNQ3B4RjVwX3pyazg?oc=5",
       "source": "BornCity / Microsoft To Do",
       "published": "2026-11-23T06:59:04+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Windows 11 24H2-26H2: Hotpatch Update KB5132043 löst Error 0xC0000099 aus - BornCity",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNDc2Q0hCVHI1dWNseVJ4T0prWWY0cTFZeFM3dFlwWEp4c0QxT1BUWEJUaFpySDJzR3FCRkxqUy1XZkRKeDc1QTE0MzNRRXZBekVTcmxUeTBOWldLZDJVa3AtUUhzTTRqbXd2WlViN3VmN25KVzZzUnh2T2pPSzVKcUJBbGZoRUtWQWtWM2Z1cjgzZldUZmhFbFppamNldjR5bDY3dE9ZUzVLSTdtWHY5WQ?oc=5",
+      "source": "BornCity / Microsoft To Do",
+      "published": "2026-11-20T11:13:47+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -10867,15 +11205,6 @@
       "status": "topic_filter"
     },
     {
-      "title": "GPT-6.2 Sol: Microsoft startet weltweiten Rollout in Office-Apps - BornCity",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVVpjVC1mSFBxZldsUXkzMUR2YnRXc3p1WktiSnY2MEh1eTg2UFc0dGNReW56ZFNYRFJ2ZGhPc2VEdm1lWmxQcExjVWJkNlY5TzNqWXNxQS1kd1BrZEdxcWk1RUxkMjg2dUwzbUNRTmVUWmVKbUx1VkV0WTZONmhWNW14NG5MRTJWOTVVY3dzQzE5TEFy?oc=5",
-      "source": "BornCity / Microsoft To Do",
-      "published": "2026-11-21T07:21:05+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
       "title": "Windows 11 26H2 zum 18.11.2026 allgemein freigegeben - BornCity",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM0NrdEhfV1lSUzZib2w1cENxNEZLeld3SUMzajJpWnB0VmpvWFhheV9nSU5lYm9Sc2hPekdMWV9Vd3Q3OHAwcEJEbmxqelZHNGNYMkxjSXJ6bEtzU1pIMWdBcW5vSl8yc1NMSFhIYWhyQ19UZTlEWTFEdHozZHlFZlhqekR6NmpnX2hUVWhiR0JQQnpZ?oc=5",
       "source": "BornCity / Microsoft To Do",
@@ -10898,6 +11227,15 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMFVmMEN2dlV6UHRPVXZucFpqd1N0T1p0a3Q5WkVVdUlVY0VTZU80LVB6bDQ2RzQzaFVhaVpWRWwxRHoxcHlWWlZ6ejBJeGRjM05aSFA2Q05STVRxZndyMy1WLUk5dG9PNkVOVEcxOEE5aDZ6Z1B2TzFCSmFCVmI1U1hHajdEWUJfdHIteTFTQzljN1VlVE95VHUtOHhxVEFBUEE?oc=5",
       "source": "BornCity / Microsoft To Do",
       "published": "2026-11-23T07:09:05+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "GPT-6.2 Sol: Microsoft startet weltweiten Rollout in Office-Apps - BornCity",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVVpjVC1mSFBxZldsUXkzMUR2YnRXc3p1WktiSnY2MEh1eTg2UFc0dGNReW56ZFNYRFJ2ZGhPc2VEdm1lWmxQcExjVWJkNlY5TzNqWXNxQS1kd1BrZEdxcWk1RUxkMjg2dUwzbUNRTmVUWmVKbUx1VkV0WTZONmhWNW14NG5MRTJWOTVVY3dzQzE5TEFy?oc=5",
+      "source": "BornCity / Microsoft To Do",
+      "published": "2026-11-21T07:21:05+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -10934,6 +11272,15 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdmZoanZxQWhTb0xlSGFIZGJjM1ZHZVVTcW1FcldaOExQbWcwVWZwcXAtNTJuT0pZMVhPUHJQeGVRYlpWam9zRnhaelljb1ZtZU92WWFaRVdtRWozRld0WmRnRVU3TW1mSktEZmVWMXFLQmhfQW8xRS1JZHZETkhuU3hwSW5kcnlST0tnWkh3djRQc0RxNFQtb19PSUZhVms?oc=5",
       "source": "BornCity / Microsoft To Do",
       "published": "2026-11-21T03:51:12+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Kritische Schwachstellen (Ruby4Shell) in Ruby - BornCity",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaEF1NlJSQ0Z0Mk1SYVlwb0QzendyR1VCUVZHVTRaZkl6Ni02ZmJNTm0wMi1rTDJRV3FBa2VqVXlMUnYzVFB4SWxRYklxSXVORnlSeHlxSWpwUEpJcXJBRUhsV2dDc2hSVUNmNmEyVFZzTHNVRXpvenc5SkJOZDFLUXJPa3huUmxS?oc=5",
+      "source": "BornCity / Microsoft To Do",
+      "published": "2026-11-20T20:50:22+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -10989,17 +11336,6 @@
       "status": "topic_filter"
     },
     {
-      "title": "Kritisches PHP-Sicherheitsupdate für den 19. November 2026 angekündigt - BornCity",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdDdOZDdERFBsbHZEZmJCTk8wUFhnYXpFUzdxREV5c3phY2U4WjdhdVhqNUZiZE92N3V2NDNxS3ZEOXo2X3k2c0cxX0NTZXVMbFZCVTVkMWJPbTFCZkZDZ20ySTdvbWUtbjVod19idUdsMTljRzR4NUJ6VDUyYmd2eWJ1RnhKazc4UlBYYXVWVnppOGFMajc5dUdMSXQtbWxzWEwtd1JKbW1sS1lxU3c?oc=5",
-      "source": "BornCity / Microsoft To Do",
-      "published": "2026-11-19T19:19:57+00:00",
-      "eligibleCategories": [
-        "Security"
-      ],
-      "selectedCategories": [],
-      "status": "not_in_top_limit_or_allocated_to_other_category"
-    },
-    {
       "title": "WhatsApp-Backups: Eigene Cloud startet mit 2 GB kostenlosem Speicher - BornCity",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ05jVEV5TjNOUWo2QmVJM3Z0SEk0cVVUbGtGZDl6Uzg4dzV3NjZHUXBoRDN6a2oyajEyamcxRkZGdm5EWURCT0tZWjZOak5nazNoSEJ6cThiNDhHNHE0eWFZemVtTUJIb09Fcnp3bk52YVN6LTFOODV4YlFQeU5NVW1GblBUN0s1ZTVvaWlaYmdaYXZsMlhGd293?oc=5",
       "source": "BornCity / Microsoft To Do",
@@ -11036,6 +11372,17 @@
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
+    },
+    {
+      "title": "Kritisches PHP-Sicherheitsupdate für den 19. November 2026 angekündigt - BornCity",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdDdOZDdERFBsbHZEZmJCTk8wUFhnYXpFUzdxREV5c3phY2U4WjdhdVhqNUZiZE92N3V2NDNxS3ZEOXo2X3k2c0cxX0NTZXVMbFZCVTVkMWJPbTFCZkZDZ20ySTdvbWUtbjVod19idUdsMTljRzR4NUJ6VDUyYmd2eWJ1RnhKazc4UlBYYXVWVnppOGFMajc5dUdMSXQtbWxzWEwtd1JKbW1sS1lxU3c?oc=5",
+      "source": "BornCity / Microsoft To Do",
+      "published": "2026-11-19T19:19:57+00:00",
+      "eligibleCategories": [
+        "Security"
+      ],
+      "selectedCategories": [],
+      "status": "not_in_top_limit_or_allocated_to_other_category"
     },
     {
       "title": "KI-Governance: IEEE 2863 setzt 17 Prinzipien für Unternehmen fest - BornCity",
@@ -11122,24 +11469,6 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVzV6UWlDU3JKdGFKNXU2cWFqeF9PVXJoSE5zdW5ZaTNUOVVTbHFidGZMX1ZQTnpoMHhXcV9yaThMQnQtM1RNbVpYUkRfamNQTDlQOVhGRnA1Nzh1Wk1OWUs1cmNUT0tnZ0RQZnB5SGF2ZXlhbi1YVVQ0czZKSUE4TUlzVzFhOWkyd09sREx2UnZJTWhTSlBBVWREREVzZw?oc=5",
       "source": "BornCity / Microsoft To Do",
       "published": "2026-11-23T20:19:04+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Wi-Fi Direct auf Samsung: WLAN-Symbol verbindet bis zu vier Geräte direkt - BornCity",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOVc3RFVucHNINjAwbVEyVXFic3ZGT0pLTTJGV1IwZXhwR0cycWs4N1NJaVhEbkNZVENoa0pZR0pkTDQ2b3lFemItLWFxSnI2bi1pcHFEWnNDMzNnVVgyeUtNUGIwamNzWFN5dGJzUktzX2t4UnJLR2VETXo3d2t1ZUJrb29KVDdJbGFsb1dZc0hwemtTQjQzbVJ0aFhqOE8yREE?oc=5",
-      "source": "BornCity / Microsoft To Do",
-      "published": "2026-11-23T03:26:04+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Windows Baseline Protection: Acht Prüfpunkte entscheiden über den Systemstatus - BornCity",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVHNlNFpuckpOamRPQ0xWeUdYQWpfM00zZWdEY2lNYzA4MExnNE1NN0dVc3F2bmxXcDctTE9XTS1QQk9PVC1iYkh4bG1Lb0cwbnR4RVQ4OHNfcUNHQlJCQUJpTzdoNXNGWm9DZy1xTG14TUtpSW9CTW1pM3FHNS1RVGtfc0VhcWlRX3ZVaDhlZmkwUHR4WG9vZm1sRXFSMUtGMklkeUJvd19aUQ?oc=5",
-      "source": "BornCity / Microsoft To Do",
-      "published": "2026-11-21T06:03:05+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
