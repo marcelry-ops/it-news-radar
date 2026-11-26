@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "id": "88f5ff738cb21db1",
+      "title": "Künstliche Intelligenz als Angreifer: „Eine neue Ära hat begonnen“",
+      "excerpt": "Attacken mit KI-Frameworks: Das BSI warnt und im heise security PRO-Talk diskutieren Sicherheitsverantwortliche, wie man die Gefahr in den Griff bekommen kann.",
+      "summary": "Attacken mit KI-Frameworks: Das BSI warnt und im heise security PRO-Talk diskutieren Sicherheitsverantwortliche, wie man die Gefahr in den Griff bekommen kann.",
+      "source": "heise online",
+      "url": "https://heise.de/news/Kuenstliche-Intelligenz-als-Angreifer-Eine-neue-Aera-hat-begonnen-11539545.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published": "2026-11-26T16:02:00+00:00",
+      "category": "Trends"
+    },
+    {
+      "id": "ec17847af3a84266",
+      "title": "KI-Startup Surelio sammelt eine Million",
+      "excerpt": "Das Lausanner Unternehmen will die Mittel für den Ausbau seiner Aktivitäten in der Schweiz und Portugal sowie für technische Weiterentwicklungen einsetzen.",
+      "summary": "Das Lausanner Unternehmen will die Mittel für den Ausbau seiner Aktivitäten in der Schweiz und Portugal sowie für technische Weiterentwicklungen einsetzen.",
+      "source": "Inside IT",
+      "url": "https://inside-it.ch/ki-startup-surelio-sammelt-eine-million-20261126",
+      "published": "2026-11-26T15:51:29+00:00",
+      "category": "Firmen"
+    },
+    {
       "id": "8487037040fec5a7",
       "title": "Update: Phishing-Welle folgt auf Outlook-Panne",
       "excerpt": "Nach mehr als 24 Stunden hat Microsoft die weltweite Störung seiner Cloud-Dienste behoben. Als Ursache nennt der Konzern ein technisches Problem im Zusammenhang mit Änderungen an seiner Netzwerkinfrastruktur. Nach dem Ausfall mehren sich nun die entsprechenden Phishing-Vorfälle.",
@@ -141,16 +161,6 @@
       "category": "Trends"
     },
     {
-      "id": "ca66ae0a29aece42",
-      "title": "Konkurrenz für Palantir: Berliner Firma A11 startet KI-Software als europäische Alternative - T3N",
-      "excerpt": "Konkurrenz für Palantir: Berliner Firma A11 startet KI-Software als europäische Alternative T3N",
-      "summary": "Konkurrenz für Palantir: Berliner Firma A11 startet KI-Software als europäische Alternative T3N",
-      "source": "t3n",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOREJDNHdyaXU5TUtRd3FJOUU1U0VrS3hHUEhKSm1HNGt6VU1mWEx4RnYyRW9OQUxndEpxaVZ6dF8yaVpNQTJXc3FLRFdmOFpNZmdqaHhOTWdzMmdzaUJZVkRkbTN4NlZVM3Y2eklRUHZEeTNYcEVnd2Z1TmI5NEh0R3hHS1RTUkFRb1FrclliTjRrT0lqRDMwTF82OFV2c19QMEo5QTlUMl8yZU9jX3FiQlg1bFhJc0lHVU1KdjV3?oc=5",
-      "published": "2026-11-26T06:25:38+00:00",
-      "category": "Firmen"
-    },
-    {
       "id": "3f5d746a55af3138",
       "title": "Chrome Zero-Day: Exploit aktiv, Update 157.0.8103.50",
       "excerpt": "Chrome Zero-Day: Exploit aktiv, Update 157.0.8103.50 Security-Insider",
@@ -159,26 +169,6 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVEdRZnl3bC02Z3FGaDN1cFhfLS1ELTA2MERTVzV6eW1KaDg5T1dzbGNUZnQzckFCNXJfV21iU3Y1ek9IUTJsNkE5aXU5OHM2bU9PRVVhUV9fZXQ2RS01S1NYU2thWlIzZnpaS3N0ZnlrQm5ZSExrLU9nM2ctc1FXdHJaSm1OdUdSd2RBOXZpZTFwV1pLQl8tOG5hRmUxUVhURnlWZ2tLVlMzS3h6OG9zdkd3?oc=5",
       "published": "2026-11-26T06:00:00+00:00",
       "category": "Security"
-    },
-    {
-      "id": "2b44dd2f3c9b3cb1",
-      "title": "Berliner Start-up A11 tritt mit KI-Software gegen amerikanische Rivalen an - it-daily.net",
-      "excerpt": "Berliner Start-up A11 tritt mit KI-Software gegen amerikanische Rivalen an it-daily.net",
-      "summary": "Berliner Start-up A11 tritt mit KI-Software gegen amerikanische Rivalen an it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81N21iLWtjSm42VGx6a0FBX3JXbHIxVld0UERJaE1sNVpFRlp4TFMwQlpHNnM0Uy1WVm5XN1FtZGtDZ1QyV0NBUDdycnRDQVZhNlM3SVQtcm5fMEZ0ZjdDZm9EV2NWUGx6dUIzOXpKM3kxSDdqeVc0?oc=5",
-      "published": "2026-11-26T05:33:19+00:00",
-      "category": "Firmen"
-    },
-    {
-      "id": "9f20e1d68043da12",
-      "title": "Gartner-Prognose: 80 Prozent neuer Apps sollen kurzlebige Einweg-Software sein - BornCity",
-      "excerpt": "Gartner-Prognose: 80 Prozent neuer Apps sollen kurzlebige Einweg-Software sein BornCity",
-      "summary": "Gartner-Prognose: 80 Prozent neuer Apps sollen kurzlebige Einweg-Software sein BornCity",
-      "source": "BornCity",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYm5zMnBVS0VRclRja2xhTk85Qlg5Zmo1cEpnZnBxcmI0SHBqRVBLUGh0NVBaRVVIS0pMWXY1YjY5aVFKYnVuZ0pwX3Faa1RWVFNQZnlkMjFob245V0h0M1FDcUZqb0FtRlRoUWp3SnVZNTFBYUdsUTl4aFlZd2h5UXYyVjdOMkxtVVdselhGTVk1dWJlNC1iTEdta2o5dGF4QVNIZ0pQVQ?oc=5",
-      "published": "2026-11-26T05:03:05+00:00",
-      "category": "Markt"
     },
     {
       "id": "2f5c4acc14c4fded",
@@ -271,6 +261,16 @@
       "category": "Markt"
     },
     {
+      "id": "6d7bc041c4b0cf66",
+      "title": "KI-Start-up Assora lanciert Modell zur Vorhersage der Produktnachfrage - Netzwoche",
+      "excerpt": "KI-Start-up Assora lanciert Modell zur Vorhersage der Produktnachfrage Netzwoche",
+      "summary": "KI-Start-up Assora lanciert Modell zur Vorhersage der Produktnachfrage Netzwoche",
+      "source": "Netzwoche / Firmen",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTzdSYUNqSng2WkMtWDVaQVk1SUF0SmVZWFhETGh6TzVhWEdjYmQtRzZlU2ZoTll0aW9HWXc2bE5uQ1F1Mzdmb1dmRzNMZFJWQjljaTZHdndCbUloMF9kZ1NuazBQTlFYQ080UXhodWdOSVpCMzJfazl4RWFlLUxmTHdrVDkwWlFFSmozVHNHRWlwdnNFbGdyX1A3aDRpaVdUTWNnalhOVlF2TnFPbWZZSQ?oc=5",
+      "published": "2026-11-25T08:16:03+00:00",
+      "category": "Firmen"
+    },
+    {
       "id": "9f87c9abaa78df95",
       "title": "Teams Rooms auf Android: HDMI-Inhalte erscheinen ab Januar auf zwei Displays",
       "excerpt": "Teams Rooms auf Android: HDMI-Inhalte erscheinen ab Januar auf zwei Displays ad-hoc-news.de",
@@ -279,6 +279,16 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ2o2aUFCdlk1SWd3OTRqNWVtZGRaLW9ieVNtSnB5c2lEbXhGUDB0YXFoeVVrLUxOWVBuOG1iWGZTYV9TOTZvY0ZMWTlXMWp4aVNSdG02dWx6ZGpPYU5ySU5SVWt1WGRUNHYtcXRDQXRETzQ4RktZU211N1FQbzNXNXY1SEd0WVQ1QmNHN3prbUhlbW1oYm9oOFRFWmJHNXlnNEFqSHc5dzk4OVIxR3FsVGxyUWwzb21ZREY1RHIzVDF0dw?oc=5",
       "published": "2026-11-25T08:13:06+00:00",
       "category": "Microsoft 365"
+    },
+    {
+      "id": "1c1b4b8bd22241f7",
+      "title": "Dell verdoppelt Umsatz dank starkem Servergeschäft",
+      "excerpt": "Dell hat im dritten Quartal mehr als doppelt so viel umgesetzt wie vor einem Jahr. Allein mit KI-Servern erzielte der Konzern 22 Milliarden Dollar und hebt seine Umsatzprognose für das Gesamtjahr erneut an.",
+      "summary": "Dell hat im dritten Quartal mehr als doppelt so viel umgesetzt wie vor einem Jahr. Allein mit KI-Servern erzielte der Konzern 22 Milliarden Dollar und hebt seine Umsatzprognose für das Gesamtjahr erneut an.",
+      "source": "IT Reseller",
+      "url": "https://itreseller.ch/Artikel/106676/Dell_verdoppelt_Umsatz_dank_starkem_Servergeschaeft.html",
+      "published": "2026-11-25T08:09:05+00:00",
+      "category": "Markt"
     },
     {
       "id": "0de11cb35c678b2e",
@@ -308,16 +318,6 @@
       "source": "Inside IT",
       "url": "https://inside-it.ch/zoll-digitalisierung-erreicht-gesteckte-ziele-fast-20261124",
       "published": "2026-11-24T14:39:33+00:00",
-      "category": "Trends"
-    },
-    {
-      "id": "8e49a89fd1672a7d",
-      "title": "Nestlé eröffnet Zentrum für KI und Robotik - Netzwoche",
-      "excerpt": "Nestlé eröffnet Zentrum für KI und Robotik Netzwoche",
-      "summary": "Nestlé eröffnet Zentrum für KI und Robotik Netzwoche",
-      "source": "Netzwoche / Firmen",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd3NhT01fZEtKSXZzY1dIY0UzRFB6UkNVSWFoSGl1VEhsQi1GYVZoX1VPTmVqZFh4TWtwZG84a0J4M0hpcXd4TXE1ZE45OFRBTXZMNDdsZ05XS2Y4YjFqMzByc3NlRGpvanlXSnE5cUZmYjB2SFZGaEFMZ04zUUdINlJsNHF3MmF4LXFVVWRR?oc=5",
-      "published": "2026-11-24T09:44:44+00:00",
       "category": "Trends"
     },
     {
@@ -451,7 +451,7 @@
       "category": "Personen"
     }
   ],
-  "updatedAt": "2026-11-26T15:14:32.893190+00:00",
+  "updatedAt": "2026-11-26T16:20:38.812638+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
