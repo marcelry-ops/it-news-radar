@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""Build a German-language 10-per-category RSS digest for GitHub Pages; stdlib only."""
+"""Build a German-language 10-per-category RSS digest for GitHub Pages; stdlib only.
+
+Version 5.7: consistent high-confidence cyber incident classification and headline scoring.
+"""
 import datetime as dt
 import difflib
 import unicodedata
@@ -274,7 +277,7 @@ def score(item, category):
  if category == 'Microsoft 365' and M365.search(title): points += 30
  # Product retirement/deprecation is an operationally important M365 change.
  if category == 'Microsoft 365' and re.search(r'\b(microsoft to[ -]?do|microsoft planner)\b', title, re.I) and re.search(r'\b(eingestellt|einstellung|abschaltung|abgek[uü]ndigt|ende|retired|retirement|discontinued)\b', text, re.I): points += 45
- if category == 'Security' and SECURITY.search(title): points += 22
+ if category == 'Security' and (SECURITY.search(title) or CYBER_INCIDENT.search(title)): points += 22
  if category == 'Cloud' and CLOUD.search(title): points += 25
  if category == 'Trends' and TRENDS.search(title): points += 25
  if category == 'Markt' and MARKT.search(title): points += 25
