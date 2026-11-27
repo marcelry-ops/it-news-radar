@@ -1,14 +1,24 @@
 {
   "items": [
     {
-      "id": "5772475f377492a3",
-      "title": "BIS-Regel für Nvidia-Chips: Cloud-Anbieter müssen binnen 90 Tagen Lizenzen beantragen - BornCity",
-      "excerpt": "BIS-Regel für Nvidia-Chips: Cloud-Anbieter müssen binnen 90 Tagen Lizenzen beantragen BornCity",
-      "summary": "BIS-Regel für Nvidia-Chips: Cloud-Anbieter müssen binnen 90 Tagen Lizenzen beantragen BornCity",
-      "source": "BornCity",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMzZiQWtqdnZ1SnVBUy1veF9DNWRlX25neHZMVjliTGJDaTNfUVYwamdiLS1YWHpmMF9aeG1VcFJJWWRuQjE2RG9wU0RRTjVpQmJuRFJOdUI0ZkZGNnVEX2x4Q3VSaUl3UzBxYlhELVdNbDZxQWtzczB0YzB0N0NsMGpTOUVxSzFGTDhtMVpScE5JNjlPMTJILXB0dmdabEU1aEQtT2pSV2x1LTJQcVNESGlyYw?oc=5",
-      "published": "2026-11-27T14:45:05+00:00",
+      "id": "72d70ed9f0c32708",
+      "title": "Hacker brechen angeblich in Cloud-Plattform der US Air Force ein",
+      "excerpt": "Laut Reuters sollen Angreifer in die Cloud-Plattform Cloud One der US Air Force eingedrungen sein. Updates sind blockiert, der Umfang des Einbruchs ist unklar.",
+      "summary": "Laut Reuters sollen Angreifer in die Cloud-Plattform Cloud One der US Air Force eingedrungen sein. Updates sind blockiert, der Umfang des Einbruchs ist unklar.",
+      "source": "heise online",
+      "url": "https://heise.de/news/Hacker-brechen-angeblich-in-Cloud-Plattform-der-US-Air-Force-ein-11541212.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published": "2026-11-27T15:26:00+00:00",
       "category": "Cloud"
+    },
+    {
+      "id": "7c7df55e9235ddaa",
+      "title": "Europas IT-Ausgaben: Server werden teurer, mehr Geld fließt in KI-Agenten",
+      "excerpt": "Laut jüngster Prognose von Gartner steigen Europas IT-Ausgaben 2027 um knapp zehn Prozent. Das Geschäft mit RZ-Equipment bleibt wachstumsstärkstes Segment.",
+      "summary": "Laut jüngster Prognose von Gartner steigen Europas IT-Ausgaben 2027 um knapp zehn Prozent. Das Geschäft mit RZ-Equipment bleibt wachstumsstärkstes Segment.",
+      "source": "heise online",
+      "url": "https://heise.de/news/Prognose-Europas-IT-Ausgaben-knacken-Marke-von-1-5-Billionen-US-Dollar-11541182.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published": "2026-11-27T15:02:00+00:00",
+      "category": "Markt"
     },
     {
       "id": "2aea70dfa99ff5f2",
@@ -71,16 +81,6 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "d61e865d03859248",
-      "title": "FIFA bestätigt Cyberangriff auf persönliche Daten - it-daily.net",
-      "excerpt": "FIFA bestätigt Cyberangriff auf persönliche Daten it-daily.net",
-      "summary": "FIFA bestätigt Cyberangriff auf persönliche Daten it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMZTBEVkdaOEdpNWU2LTVJMU9TdTJaeUVYNk12V0VVSnpyenVmcm9tUU1FYnQ2RUNvOU45azFZUDkxRUFRNFpsRUV4bUg4ZGVCOXlBWndaR0ZTQUt4UUhSd013?oc=5",
-      "published": "2026-11-27T09:54:00+00:00",
-      "category": "Security"
-    },
-    {
       "id": "d856a7701faf73d7",
       "title": "BSI schlägt Alarm: Durch KI droht eine \"Lawine neuer Cyberangriffe\"",
       "excerpt": "Cyberangriffe werden durch KI-Frameworks immer günstiger und schneller ausführbar. Das BSI sieht eine massive Verschärfung der Cyberbedrohungslage. ( Cybercrime , KI )",
@@ -108,7 +108,7 @@
       "source": "IT-Daily",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BMVpPWk91aHBJSDRaS2Zuck8wMWl4NWFGb3ktc3IxN1FzRkxwVjhZOHRLWjRJWDdvUHB0dFEwSkZoVl9XTU1CRjlTRi00cEw0QXo1YnlQdWVBajdTLXlTeVVIWld5bTMtVHBzRnZoYTAyZkZhSHJSZzQ1OA?oc=5",
       "published": "2026-11-27T09:08:02+00:00",
-      "category": "IT Schweiz"
+      "category": "Security"
     },
     {
       "id": "d4c179d8ac8ebbcd",
@@ -121,6 +121,26 @@
       "category": "Firmen"
     },
     {
+      "id": "1a9be17b0c0eac6d",
+      "title": "QommonsAI in Tatebayashi: 60 Verwaltungsbeschäftigte trainieren KI-Automatisierung - BornCity",
+      "excerpt": "QommonsAI in Tatebayashi: 60 Verwaltungsbeschäftigte trainieren KI-Automatisierung BornCity",
+      "summary": "QommonsAI in Tatebayashi: 60 Verwaltungsbeschäftigte trainieren KI-Automatisierung BornCity",
+      "source": "BornCity",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPODE3Mkc0UzhoUDJ1UmlLeXd0RUcya194SUJ0Wm5yNE0yNXJtMWZOVEVxWnFWYjgxcGRNVHFoMjE1OGt6c2J5elcwVVdjRlFIWTRaWXJmcWN3MkRveXMxdmlxS3hDcjh1WHhWWnFlSnlLSzZBaktiVUZlSjFJUHI3LXQ5ZzJLakZZSnFzUmdXX0JNWWJYSWpfZUNVNENfbE5qWjlIRmVPb0x4V0puX1E?oc=5",
+      "published": "2026-11-27T08:10:05+00:00",
+      "category": "Trends"
+    },
+    {
+      "id": "e5a9f7aeff5707d9",
+      "title": "Zugriff über Github: Cyberangriff auf SAP gefährdet Softwareprojekte",
+      "excerpt": "Berichten zufolge ist es Angreifern gelungen, Github-Zugänge von SAP-Mitarbeitern zu kapern und damit auf Quellcodes des Konzerns zuzugreifen. ( Cybercrime , KI )",
+      "summary": "Berichten zufolge ist es Angreifern gelungen, Github-Zugänge von SAP-Mitarbeitern zu kapern und damit auf Quellcodes des Konzerns zuzugreifen. ( Cybercrime , KI )",
+      "source": "Golem.de",
+      "url": "https://golem.de/news/zugriff-ueber-github-cyberangriff-auf-sap-gefaehrdet-softwareprojekte-2611-215722.html",
+      "published": "2026-11-27T07:57:02+00:00",
+      "category": "Security"
+    },
+    {
       "id": "be9e7c448c7efa2a",
       "title": "Der Kanton Thurgau stellt Amtsblatt auf digital um - SWI swissinfo.ch",
       "excerpt": "Der Kanton Thurgau stellt Amtsblatt auf digital um SWI swissinfo.ch",
@@ -131,22 +151,22 @@
       "category": "IT Schweiz"
     },
     {
-      "id": "88ca31b8af5d58e9",
-      "title": "Out-of-Band-Patch für Windows Server 2025 veröffentlicht - Swiss IT Magazine",
-      "excerpt": "Out-of-Band-Patch für Windows Server 2025 veröffentlicht Swiss IT Magazine",
-      "summary": "Out-of-Band-Patch für Windows Server 2025 veröffentlicht Swiss IT Magazine",
-      "source": "IT Magazine Schweiz",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR1VHcy1VQ1ZPdEtDdm1pZkU1MzRnUVdJQjhHSURGZnpGaWp1Q0ZVaG9hUTRUVVBLYUNHSERyZ1lBQnVVd2trQ2Q0cFgzTU5xaWdfWW42anNVTzlwQUF3QzZDaFplWFdOeEI0UU5SRXhuaWtuV1FJdTFMakE4Wkt1TnNPY0xhclE3b1duMzlaa2lNcC1KZ2JYa3ZGdE55emVScDlnSFVn?oc=5",
-      "published": "2026-11-27T07:12:00+00:00",
-      "category": "IT Schweiz"
-    },
-    {
       "id": "7e68baa165b981cd",
       "title": "SAP soll Opfer eines Hackerangriffs geworden sein - Swiss IT Magazine",
       "excerpt": "SAP soll Opfer eines Hackerangriffs geworden sein Swiss IT Magazine",
       "summary": "SAP soll Opfer eines Hackerangriffs geworden sein Swiss IT Magazine",
       "source": "IT Magazine Schweiz",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOamZ4andLVGtNOVpsT3BpSEdOcnB1b3pMZkN3MUNQMmdvUHRLaHBydXhEdEwweFRQZzhkUDVmWTR2aTA3ZHV2S0Q1dHBwdlpyMWtXRVgwWlNjTmwxNi00M3VDcXRNZHBMZWpvaEhycVA3ZmJscjh0QnA3Yk1lWXo2YjlwNHZWY0tMXzF4RlFLcTNkVWRMejVEXzBR?oc=5",
+      "published": "2026-11-27T07:12:00+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "88ca31b8af5d58e9",
+      "title": "Out-of-Band-Patch für Windows Server 2025 veröffentlicht - Swiss IT Magazine",
+      "excerpt": "Out-of-Band-Patch für Windows Server 2025 veröffentlicht Swiss IT Magazine",
+      "summary": "Out-of-Band-Patch für Windows Server 2025 veröffentlicht Swiss IT Magazine",
+      "source": "IT Magazine Schweiz",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR1VHcy1VQ1ZPdEtDdm1pZkU1MzRnUVdJQjhHSURGZnpGaWp1Q0ZVaG9hUTRUVVBLYUNHSERyZ1lBQnVVd2trQ2Q0cFgzTU5xaWdfWW42anNVTzlwQUF3QzZDaFplWFdOeEI0UU5SRXhuaWtuV1FJdTFMakE4Wkt1TnNPY0xhclE3b1duMzlaa2lNcC1KZ2JYa3ZGdE55emVScDlnSFVn?oc=5",
       "published": "2026-11-27T07:12:00+00:00",
       "category": "IT Schweiz"
     },
@@ -161,14 +181,14 @@
       "category": "IT Schweiz"
     },
     {
-      "id": "8638d54b1dd31af3",
-      "title": "Hiscox startet digitales Versicherungsangebot für KMU in der Schweiz mit Insurtech Toni Digital",
-      "excerpt": "Hiscox startet digitales Versicherungsangebot für KMU in der Schweiz mit Insurtech Toni Digital IT Finanzmagazin",
-      "summary": "Hiscox startet digitales Versicherungsangebot für KMU in der Schweiz mit Insurtech Toni Digital IT Finanzmagazin",
-      "source": "IT Finanzmagazin",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPellfcTMwMjF2Y3Q0UEk1elFuVFVUbDRPelBaSFBoRlBLTXpNTjZiZWg5R21jbnVHWEoyV2paeGdoWWpRUEswdW5ENml4RHpaY3RKQlYzMXc2cTZpMEFHWkJiRlhHUC1JVF91dDB1NWwxNXJZdmRlXzQ0Q2pnOU1pLXNoNXp6VEdlaU9MQnZsWEJocEFIVVpER1pR?oc=5",
-      "published": "2026-11-27T07:04:11+00:00",
-      "category": "IT Schweiz"
+      "id": "df64bc5e21d86059",
+      "title": "Cyberangriffe: Datenschutzbehörden melden deutlich mehr Datenpannen",
+      "excerpt": "Mehr Cyberangriffe, mehr gemeldete Datenpannen: Die Datenschutzkonferenz warnt nach ihrer 112. Tagung vor teils schwerwiegenden Vorfällen.",
+      "summary": "Mehr Cyberangriffe, mehr gemeldete Datenpannen: Die Datenschutzkonferenz warnt nach ihrer 112. Tagung vor teils schwerwiegenden Vorfällen.",
+      "source": "heise online",
+      "url": "https://heise.de/news/Datenschutzbehoerden-warnen-vor-Cyberangriffen-und-planen-Orientierungshilfe-11539641.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published": "2026-11-27T07:03:00+00:00",
+      "category": "Security"
     },
     {
       "id": "24fb92f64d3a3d87",
@@ -181,14 +201,24 @@
       "category": "IT Schweiz"
     },
     {
-      "id": "e44265bf31f43c03",
-      "title": "Microsoft-Patchday: 1.093 Schwachstellen geschlossen, 63 davon kritisch",
-      "excerpt": "Microsoft-Patchday: 1.093 Schwachstellen geschlossen, 63 davon kritisch BornCity",
-      "summary": "Microsoft-Patchday: 1.093 Schwachstellen geschlossen, 63 davon kritisch BornCity",
-      "source": "BornCity",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYUptWnRIeWVuWHZlOEYzVnVZZEhXWHNhdkR6Mmh3RzIyTU9lemJheUtBOUc0LWdTTm45Nm9Ba3hyVmtRMUx1SmZROUdmR1Flc2N2a0pYS0hKOWhaLUtXbGRqQUYtNl92eHdLa1AyWU9iQ0hROHNRbExFR3BReEdpVlpBRmh6U3FwWDhiNFFTTzlhSS1rN1E0OHY5RVc?oc=5",
-      "published": "2026-11-27T05:13:06+00:00",
+      "id": "d1d58c9c7ffd5652",
+      "title": "Freitag: SAPs massiver Stellenabbau wegen KI, FBI-Falle für Ransomware-Betrüger",
+      "excerpt": "KI bedroht 10.000 SAP-Stellen + Betrug an Ransomware-Opfern + Südostasien ohne Nvidias KI-Server + Temu in Europa für Verbraucherschutz + Datenschutz-Podcast",
+      "summary": "KI bedroht 10.000 SAP-Stellen + Betrug an Ransomware-Opfern + Südostasien ohne Nvidias KI-Server + Temu in Europa für Verbraucherschutz + Datenschutz-Podcast",
+      "source": "heise online",
+      "url": "https://heise.de/news/Freitag-SAPs-massiver-Stellenabbau-wegen-KI-FBI-Falle-fuer-Ransomware-Betrueger-11539951.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published": "2026-11-27T05:15:00+00:00",
       "category": "Security"
+    },
+    {
+      "id": "73ea9563af68b23a",
+      "title": "Android 17 verhindert Bluetooth-Switching - Swiss IT Magazine",
+      "excerpt": "Android 17 verhindert Bluetooth-Switching Swiss IT Magazine",
+      "summary": "Android 17 verhindert Bluetooth-Switching Swiss IT Magazine",
+      "source": "IT Magazine Schweiz",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdGM0aEpiMzVJSUVWR2RIdHR3TXhKT3gxTVlTRVBOMkRJRDRuT0pDRXlfTVFNM19iLW9uS3BURTRQSkVSWWF6S282UU1pM1VUeklGa0wxMnRlWlpkUE95M1dzNjZ6Q0pwNHBUcldiZ1dpNkRGUWgtaW9WNnRxWnBMSWl4bHM3cHJFbTI4U0hLTQ?oc=5",
+      "published": "2026-11-27T05:03:28+00:00",
+      "category": "IT Schweiz"
     },
     {
       "id": "2d545d185d3cb960",
@@ -261,16 +291,6 @@
       "category": "Cloud"
     },
     {
-      "id": "a3dc7f09bc33a9d2",
-      "title": "Quanten-Startup Planqc kooperiert mit SAP - it-daily.net",
-      "excerpt": "Quanten-Startup Planqc kooperiert mit SAP it-daily.net",
-      "summary": "Quanten-Startup Planqc kooperiert mit SAP it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PbzJiNnQ3RDd4eTRjbWk5NE0xNHRndGhOdHBGTUozQVQxOVdvU2dOYU5keFdxOFFFUk93NEFPVlRIR2RERkgtYUFvdnJqNVBjbU9IamppNEEwWEpaU2xjckQ0Nmp2RHU1bnY1U1pR?oc=5",
-      "published": "2026-11-26T13:43:20+00:00",
-      "category": "Firmen"
-    },
-    {
       "id": "32be4e1f4926980f",
       "title": "Warnung vor „erheblichen Folgen“: Erfolgreicher Cyberangriff auf die FIFA",
       "excerpt": "Bei der FIFA haben Cyberkriminelle persönliche und geschäftliche Daten abgegriffen. Der Verband wiegelt gleichzeitig ab und warnt.",
@@ -299,6 +319,26 @@
       "url": "https://heise.de/news/Cyberangriff-auf-US-Behoerde-gegen-Finanzkriminalitaet-11539155.html",
       "published": "2026-11-26T12:59:00+00:00",
       "category": "Security"
+    },
+    {
+      "id": "e20f50dcbfd22cd3",
+      "title": "Bundesrat will Mobilfunkbewilligungen beschleunigen - Inside IT",
+      "excerpt": "Bundesrat will Mobilfunkbewilligungen beschleunigen Inside IT",
+      "summary": "Bundesrat will Mobilfunkbewilligungen beschleunigen Inside IT",
+      "source": "Inside IT / Firmen",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPenJkRzk2eFlwTU5CS3dHV3BCaEhtN0R1RHg3SkRYVG9KaF84cGxka3NmNjM2Mk41bDNyRVJ2Rnp4akE3MjhTU24wWXN6bHJEZ1RINU9YZ3p6UUFoWGNnYi04bFNhdVBxVEIxdWFfRk5KbGN2YmI2QlEtR3RVUUppN1JWX1lmSnVJYnZWTTBR?oc=5",
+      "published": "2026-11-26T12:56:00+00:00",
+      "category": "IT Schweiz"
+    },
+    {
+      "id": "0803b42bc3f3860a",
+      "title": "News-Übersicht - Swiss IT Reseller",
+      "excerpt": "News-Übersicht Swiss IT Reseller",
+      "summary": "News-Übersicht Swiss IT Reseller",
+      "source": "IT Reseller / Firmen",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yTTBudFQ3cG1veURTR1REcFlscTJUSWJpSElDNzdOLWlhcXB0T0wzaDNzWDlRMTJTclk2THRTVVhPTTlHVEtSMHNDeDBWVlM1MDV3dms2RENEZw?oc=5",
+      "published": "2026-11-26T12:13:26+00:00",
+      "category": "IT Schweiz"
     },
     {
       "id": "50b3868b9687e2bc",
@@ -331,14 +371,14 @@
       "category": "Markt"
     },
     {
-      "id": "5866a1dccd9885b6",
-      "title": "CVE-2025-42884: JNDI-Injektion in SAP NetWeaver AS Java ermöglicht Remote-Code-Ausführung",
-      "excerpt": "CVE-2025-42884: JNDI-Injektion in SAP NetWeaver AS Java ermöglicht Remote-Code-Ausführung All About SECURITY",
-      "summary": "CVE-2025-42884: JNDI-Injektion in SAP NetWeaver AS Java ermöglicht Remote-Code-Ausführung All About SECURITY",
-      "source": "All About SECURITY",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT0dFTm1VS0V5YXFOSWtoX2JvZTkzWmxpTWpDeHhsNFpBRTFIOXZPX3VIM1phWHd5M3dJV3A0NDQxaWNXM093MnIwdmlmOURzdmM3cThrUEhsUmVoWm1IWkR2aTRabjJaa2lDUkV4WVpJbGVOanpDQnZ0enI1cWdxYzhSbVVQa3FjT2lHOXllTk44QXY5azFSMnQyLXo2RGFPWnU1Y1BEOXZTY2c2MEUxTUdrMEtPNjNjLWxBWmM1Q0h5MXc?oc=5",
-      "published": "2026-11-26T08:59:18+00:00",
-      "category": "Security"
+      "id": "c255a003d2dce690",
+      "title": "BACS bestätigt erfolgreiche Hackerangriffe von KI-Agenten - Swiss IT Magazine",
+      "excerpt": "BACS bestätigt erfolgreiche Hackerangriffe von KI-Agenten Swiss IT Magazine",
+      "summary": "BACS bestätigt erfolgreiche Hackerangriffe von KI-Agenten Swiss IT Magazine",
+      "source": "IT Magazine Schweiz",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMnVLRmdqeGNhd0hLVmFnOWZXeTZvSDQ0c1RzeEZfZkFYcC01NGxxdGw0RGxiMXJseERCRU1VcjJrR1ZPZG5BSFpjdWhHdHo3VC1CbHlnUEVTU05Wa3MwRTlBSHlYSkZfZW04eFk3ZXZvNE9sazU2Tll5UGExckNVVzZpd05RRWs3eGRQSUpfMEdFbHpxZm5KaUZDX0FreDFUZXJzS0tB?oc=5",
+      "published": "2026-11-26T07:12:00+00:00",
+      "category": "IT Schweiz"
     },
     {
       "id": "b369d55b5756f936",
@@ -349,26 +389,6 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMU8xbDhjZjFOZkJYWFA0QVRQYWpvSDdsYkVTS0dsQWRId2lmUTZ3eVA3Nnd5aTExWktTWHJVTmV2dmpXSUltU2EwMUVYcFVVYXRsc0d1eW5WWWl0akRZb0htenB1NnBMMkJwREFfMGR5Y0lBWkdnT2twQ2JQVmVFQXVtSWVVZTBsRWdkTzIxOUZRUFZ6UjE2bFozdDd5TDdwS0dWRG1XVDBRWVQ1VjV4UHF1MEhsYkN0TlBDTDNB?oc=5",
       "published": "2026-11-26T07:12:00+00:00",
       "category": "Cloud"
-    },
-    {
-      "id": "22f74791b7040d04",
-      "title": "Drupal: Zugriffslücke CVE-2026-136716 wird aktiv ausgenutzt",
-      "excerpt": "Drupal: Zugriffslücke CVE-2026-136716 wird aktiv ausgenutzt All About SECURITY",
-      "summary": "Drupal: Zugriffslücke CVE-2026-136716 wird aktiv ausgenutzt All About SECURITY",
-      "source": "All About SECURITY",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM2lwVzlEMTd6T2d0V0tiTG90TkNoX0JHdlhaZDY3TFVfMFdhQ1ZsX05xTnVyWWJ2cFNWMFdSNHIzdWtIRFpfUnN6V01ZNmN5WnZ3Tnkxd3dMRTk0aWFaWEFDN19KMUJtQ09uOW9odG1fenlTVHJsNUJraGdrRDJrajBheWVwbllmVUZpemN6OFMtcUQxX0Y5NGlB?oc=5",
-      "published": "2026-11-26T06:38:06+00:00",
-      "category": "Security"
-    },
-    {
-      "id": "3f5d746a55af3138",
-      "title": "Chrome Zero-Day: Exploit aktiv, Update 157.0.8103.50",
-      "excerpt": "Chrome Zero-Day: Exploit aktiv, Update 157.0.8103.50 Security-Insider",
-      "summary": "Chrome Zero-Day: Exploit aktiv, Update 157.0.8103.50 Security-Insider",
-      "source": "Security-Insider",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVEdRZnl3bC02Z3FGaDN1cFhfLS1ELTA2MERTVzV6eW1KaDg5T1dzbGNUZnQzckFCNXJfV21iU3Y1ek9IUTJsNkE5aXU5OHM2bU9PRVVhUV9fZXQ2RS01S1NYU2thWlIzZnpaS3N0ZnlrQm5ZSExrLU9nM2ctc1FXdHJaSm1OdUdSd2RBOXZpZTFwV1pLQl8tOG5hRmUxUVhURnlWZ2tLVlMzS3h6OG9zdkd3?oc=5",
-      "published": "2026-11-26T06:00:00+00:00",
-      "category": "Security"
     },
     {
       "id": "9f20e1d68043da12",
@@ -391,16 +411,6 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "fdbb796f7ca5666e",
-      "title": "Microsoft 365: Nach Großstörung ruft Microsoft intern „Code Red“ aus - ComputerBase",
-      "excerpt": "Microsoft 365: Nach Großstörung ruft Microsoft intern „Code Red“ aus ComputerBase",
-      "summary": "Microsoft 365: Nach Großstörung ruft Microsoft intern „Code Red“ aus ComputerBase",
-      "source": "ComputerBase",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdUhCWkdPVi1scWVodmNoVG1BeE9sVnBnSXlnZXVUTzVRUGVDVTM5aWpNSERwZVROdnBwZHppTE1XTFlNZnM2V1Zhcy00eTVSaW1OS2lhRnNSMmlBSVRPaWdLbUhTT2c2Rlh4Q183UlM4M2hXaWR2dTVwZVhzWGZJY0JkSC1tOWJXUnF6cko1a0lTeGd2bG9sczJOSTJwZkhPMUtHMGZBY3FXOUlCaGZkV3B0b3NUTGNqbFJmZUF2X1RVZ2NnOXNF?oc=5",
-      "published": "2026-11-25T16:36:00+00:00",
-      "category": "Microsoft 365"
-    },
-    {
       "id": "2e88c6fa41abf856",
       "title": "Code Red bei Microsoft nach Cloud-Ausfall; Weitere Störungen zu erwarten - BornCity",
       "excerpt": "Code Red bei Microsoft nach Cloud-Ausfall; Weitere Störungen zu erwarten BornCity",
@@ -408,6 +418,16 @@
       "source": "BornCity",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX0E3bzAwNjU2X3pGMGxhRGJoU1lKNVAyQlFVMTRnREZmbS16eENwM0t0emdCY3JDVEpBejhHNUZ0eHBhN3lXbWRDaEdwTzU0SjJCbDhGMHVMR2lDRVVlTWsxT0JlMjVfbjdoMHJ0eVRHcjVtTjdfVlhnbnZUaVFxa0ZjWkNEdHZrRWZMaUhjUE9xSUxxX0RSTDlTemhwazdSTzBuY0V3VVhmN0NH?oc=5",
       "published": "2026-11-25T15:17:38+00:00",
+      "category": "Cloud"
+    },
+    {
+      "id": "0996c1e36c8a6f57",
+      "title": "Multi-Cloud-Backup: Was „Cloud-nativ“ eigentlich bedeutet - it-daily.net",
+      "excerpt": "Multi-Cloud-Backup: Was „Cloud-nativ“ eigentlich bedeutet it-daily.net",
+      "summary": "Multi-Cloud-Backup: Was „Cloud-nativ“ eigentlich bedeutet it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMUFIcXEzVFc1UnhxWDRZYUM1MVMwTDdyR2dCdUcxcXRDOW4xZG54ajBfelhFaE5CT3l5dFJFUlFQSVFzM3MxekxwcERDcUhRQmtyejVHVWE0RXNibHV2X1JSbDdFTGNSVVY0MHc1N2E3Y2dDUmRaWGxHbGMxVjRyMVFnLTNnZmJ6clFjdHpR?oc=5",
+      "published": "2026-11-25T14:59:30+00:00",
       "category": "Cloud"
     },
     {
@@ -572,23 +592,13 @@
     },
     {
       "id": "154a0622ab6b2b10",
-      "title": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse - Swiss IT Reseller",
+      "title": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse",
       "excerpt": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse Swiss IT Reseller",
       "summary": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse Swiss IT Reseller",
-      "source": "IT Reseller / Firmen",
+      "source": "Swiss IT Reseller",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY3JBZmg3bDJmVlJjSXVCZmlSUWdNNkcyVUhjWDQ5eFJYcWZQZGowcUtJQlRaVGwweDBLOVc1c1g1YkVSeTRzZDhNZUJWclQycy1VRzBtM2hEN012dzdJTTZSWmswZEtJRUtNNzF3dkRGLUp0QTZONktKMlJ2Ymxib3l0NkJEdmFyZ2RlN3V0b3ZYOF9UZkpwa1AwUU1rNS10TE5vVS1vbm5zb0Nk?oc=5",
       "published": "2026-11-24T07:12:00+00:00",
-      "category": "IT Schweiz"
-    },
-    {
-      "id": "8ee5b0e43a1899ff",
-      "title": "HPE steigert Umsatz um 50 Prozent - IT Reseller",
-      "excerpt": "HPE steigert Umsatz um 50 Prozent IT Reseller",
-      "summary": "HPE steigert Umsatz um 50 Prozent IT Reseller",
-      "source": "IT Reseller / Firmen",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNM3BRaXVRQkhrVHJLRmQ2SEtHa2M5bmV4ZHY2cVBKa0xUM1Nrc3h6SXYwR0VnbU5kdnNIemlOc2w4S2h0bXZDMS1UUlUzV3lxV3UzZWk2OVlCQm5zT3VKX3E1NFFXN292cHltZ3pIdXp3Y2pKam5tbFZzTWJwUENELUNYSGhKdw?oc=5",
-      "published": "2026-11-24T07:12:00+00:00",
-      "category": "Markt"
+      "category": "Firmen"
     },
     {
       "id": "48f6cf571c9179f0",
@@ -611,16 +621,6 @@
       "category": "Trends"
     },
     {
-      "id": "93f78af4a6bd1526",
-      "title": "Drei Mini-PCs, ein KI-Modell: Microsoft vernetzt Windows per USB4 - ComputerBase",
-      "excerpt": "Drei Mini-PCs, ein KI-Modell: Microsoft vernetzt Windows per USB4 ComputerBase",
-      "summary": "Drei Mini-PCs, ein KI-Modell: Microsoft vernetzt Windows per USB4 ComputerBase",
-      "source": "ComputerBase",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc3RXcWhJV0tmSkRheFdkb1RNM0tJRHI5U0t1djA2a3paSjlWMTJ4RGVrZGxKTDFnUXY1NVdQWFhRV2ZNQWt2WERiNkwwS3lIamhsWFBCWUZzSTd1Q3J4dkctXzRwYzcyVTdJZ3VBLUVhbzJ2YVQwWUc2bndPMWhPQmJNUWUxM2tETGY4UEJBZkZJd0NHX3JsNFZpbzhSQ0FWVDZfNzdZdTRGQWFWMEJWQ1pmQnNQNUd4VWFCNA?oc=5",
-      "published": "2026-11-23T20:45:00+00:00",
-      "category": "Trends"
-    },
-    {
       "id": "cafe2150ada18e0e",
       "title": "Künstliche Intelligenz: Wie KI-Assistenten verschlüsselte Messenger unsicher machen - Netzpolitik.org",
       "excerpt": "Künstliche Intelligenz: Wie KI-Assistenten verschlüsselte Messenger unsicher machen Netzpolitik.org",
@@ -629,6 +629,16 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbGxLcnFDNC1ScTh0OG9LcUVMQXFEeXc1NGZ2a0djYmV2c3dVNGVFdXhIVGJzUEkwZzBlZGpMSFVaUHl2N1N0amFldFdDdllzU0lVbXF4TmdBMlBMT0xmSlJaclRtZWt2Wi1PX1lFT2ZpdU9JLWViWGJEYWs0dXFKZUFqSWlhcUt2V2ZHVmU2ajlkZlhic3lCTEpVVFBNWE56dWowS1c4bU9UdnlSaHNmQXd2V0I?oc=5",
       "published": "2026-11-23T15:08:04+00:00",
       "category": "Trends"
+    },
+    {
+      "id": "984dc5cc6fee348d",
+      "title": "Outlook-Lücke CVE-2026-124194: Angreifer greifen NTLMv2-Daten aktiv ab - BornCity",
+      "excerpt": "Outlook-Lücke CVE-2026-124194: Angreifer greifen NTLMv2-Daten aktiv ab BornCity",
+      "summary": "Outlook-Lücke CVE-2026-124194: Angreifer greifen NTLMv2-Daten aktiv ab BornCity",
+      "source": "BornCity / Microsoft To Do",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSklvMEpPaTI5TVpYdTRXYldMZTRWM2V2dmVJc25PS1htYXBfSm1RX2FqU1VaQm53RzVqZWp6ODlMVmNzTno4V0pSM1RTZXpfZm9BY21YUnRhTWN2bEpWbG9tbGYwTVNGNjRnSGwtdng1Z3JOZC00b3VjS1RUTmFEbUtOMFZYVl9hZll1MGdXLV9vekxNVkJsOUh3SVc4Zw?oc=5",
+      "published": "2026-11-23T14:31:04+00:00",
+      "category": "Microsoft 365"
     },
     {
       "id": "7752aea542c6aa6e",
@@ -661,16 +671,6 @@
       "category": "Personen"
     },
     {
-      "id": "219b00f443235a58",
-      "title": "WhatsApp-Backups: Eigene Cloud startet mit 2 GB kostenlosem Speicher - BornCity",
-      "excerpt": "WhatsApp-Backups: Eigene Cloud startet mit 2 GB kostenlosem Speicher BornCity",
-      "summary": "WhatsApp-Backups: Eigene Cloud startet mit 2 GB kostenlosem Speicher BornCity",
-      "source": "BornCity / Microsoft To Do",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ05jVEV5TjNOUWo2QmVJM3Z0SEk0cVVUbGtGZDl6Uzg4dzV3NjZHUXBoRDN6a2oyajEyamcxRkZGdm5EWURCT0tZWjZOak5nazNoSEJ6cThiNDhHNHE0eWFZemVtTUJIb09Fcnp3bk52YVN6LTFOODV4YlFQeU5NVW1GblBUN0s1ZTVvaWlaYmdaYXZsMlhGd293?oc=5",
-      "published": "2026-11-23T04:47:05+00:00",
-      "category": "Cloud"
-    },
-    {
       "id": "3c84e00fb0e41aa4",
       "title": "KI-Automatisierung: Sieben Einsatzfelder für Unternehmen – mit menschlicher Freigabe - BornCity",
       "excerpt": "KI-Automatisierung: Sieben Einsatzfelder für Unternehmen – mit menschlicher Freigabe BornCity",
@@ -678,16 +678,6 @@
       "source": "BornCity / Microsoft To Do",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVlJja3QyNGd6anZhdzZJTXoweWJ5ZUhibDlvdVl5R05PRHpRQlRQMWpLVGkyQnR3RlljRGlmcHFVblVZb0tiR2J5U0tTMmp0dU5UVUNwdjg2UnRUOFhmNEtjRDNMQ0JpZnExdm16RjQ1VDNSNU5kTnNHWkMtSGFvV19kLTFUZWNpdXJBeGFaWGdVOVVteWxLRnVnc3d0RDE4cHpNbkVHNWM0YmxDS1E?oc=5",
       "published": "2026-11-22T18:06:06+00:00",
-      "category": "Trends"
-    },
-    {
-      "id": "a2e59dfd78ce1c90",
-      "title": "Die Top 5 Technologie-Trends 2027 von Capgemini - Computerwoche",
-      "excerpt": "Die Top 5 Technologie-Trends 2027 von Capgemini Computerwoche",
-      "summary": "Die Top 5 Technologie-Trends 2027 von Capgemini Computerwoche",
-      "source": "Computerwoche",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTklka3k4Snp4bi1aaUhDT29rUGpOOVQyc0FGVkNoYm5majRLUEYzdDdFUDdnd3dseTVKMHdhUTJWZzNVUW45S3JOcG44YWdYeWZfdm5jR2dnVTZPMFJiRUNHUjA5NkdPajVobXpESUxQQmxZdnhLTXU3eTdlSlVYaVc5YXVDV1gtU0dMYjNOUWFtSXBmdUlUeEVWY3Fldw?oc=5",
-      "published": "2026-11-20T15:14:42+00:00",
       "category": "Trends"
     },
     {
@@ -751,7 +741,7 @@
       "category": "Personen"
     }
   ],
-  "updatedAt": "2026-11-27T15:09:08.716072+00:00",
+  "updatedAt": "2026-11-27T16:16:16.551982+00:00",
   "targets": {
     "Security": 10,
     "Microsoft 365": 10,
@@ -768,10 +758,10 @@
     "Microsoft 365": 10,
     "IT Schweiz": 10,
     "Cloud": 10,
-    "Trends": 5,
+    "Trends": 4,
     "Markt": 10,
     "Firmen": 10
   },
-  "warning": "Nicht genügend passende aktuelle Meldungen: 5 × Trends. 4 von 54 RSS-Quellen waren nicht erreichbar.",
+  "warning": "Nicht genügend passende aktuelle Meldungen: 6 × Trends. 7 von 54 RSS-Quellen waren nicht erreichbar.",
   "aiSummaries": false
 }
