@@ -1,16 +1,6 @@
 {
   "items": [
     {
-      "id": "26b5ea28a910cad2",
-      "title": "Datenschutzbehörden warnen vor Cyberangriffen und planen Orientierungshilfe",
-      "excerpt": "Mehr Cyberangriffe, mehr gemeldete Datenpannen: Die Datenschutzkonferenz warnt nach ihrer 112. Tagung vor teils schwerwiegenden Vorfällen.",
-      "summary": "Mehr Cyberangriffe, mehr gemeldete Datenpannen: Die Datenschutzkonferenz warnt nach ihrer 112. Tagung vor teils schwerwiegenden Vorfällen.",
-      "source": "heise Security",
-      "url": "https://heise.de/news/Datenschutzbehoerden-warnen-vor-Cyberangriffen-und-planen-Orientierungshilfe-11539641.html",
-      "published": "2026-11-27T07:03:00+00:00",
-      "category": "Security"
-    },
-    {
       "id": "d1d58c9c7ffd5652",
       "title": "Freitag: SAPs massiver Stellenabbau wegen KI, FBI-Falle für Ransomware-Betrüger",
       "excerpt": "KI bedroht 10.000 SAP-Stellen + Betrug an Ransomware-Opfern + Südostasien ohne Nvidias KI-Server + Temu in Europa für Verbraucherschutz + Datenschutz-Podcast",
@@ -181,6 +171,16 @@
       "category": "IT Schweiz"
     },
     {
+      "id": "48bdce92c317a1bc",
+      "title": "Hackerangriff bei Dienstleister: NRW.Bank schaltet Seite ab - it-daily.net",
+      "excerpt": "Hackerangriff bei Dienstleister: NRW.Bank schaltet Seite ab it-daily.net",
+      "summary": "Hackerangriff bei Dienstleister: NRW.Bank schaltet Seite ab it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE15UmxrWU1NNmYyeDBsZlJIeVpmRGZqdzlhQzAwdzRRUHpaVDlucC14QUc5bGVSYWxIaWtoV0tuZVlvWEVwN1RNR2gxTm5JNjVhUjlUUUM0ZTNzTWVFRTRXSTNicnhfQTRZWXY3LVg4X3ROZw?oc=5",
+      "published": "2026-11-26T12:29:17+00:00",
+      "category": "Security"
+    },
+    {
       "id": "0803b42bc3f3860a",
       "title": "News-Übersicht - Swiss IT Reseller",
       "excerpt": "News-Übersicht Swiss IT Reseller",
@@ -261,13 +261,23 @@
       "category": "Security"
     },
     {
-      "id": "b369d55b5756f936",
-      "title": "Bechtle integriert AWS und Microsoft Marketplaces in eigene Cloud-Plattform - IT Reseller",
-      "excerpt": "Bechtle integriert AWS und Microsoft Marketplaces in eigene Cloud-Plattform IT Reseller",
-      "summary": "Bechtle integriert AWS und Microsoft Marketplaces in eigene Cloud-Plattform IT Reseller",
-      "source": "IT Reseller / Firmen",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMU8xbDhjZjFOZkJYWFA0QVRQYWpvSDdsYkVTS0dsQWRId2lmUTZ3eVA3Nnd5aTExWktTWHJVTmV2dmpXSUltU2EwMUVYcFVVYXRsc0d1eW5WWWl0akRZb0htenB1NnBMMkJwREFfMGR5Y0lBWkdnT2twQ2JQVmVFQXVtSWVVZTBsRWdkTzIxOUZRUFZ6UjE2bFozdDd5TDdwS0dWRG1XVDBRWVQ1VjV4UHF1MEhsYkN0TlBDTDNB?oc=5",
-      "published": "2026-11-26T07:12:00+00:00",
+      "id": "3b124470fa991b83",
+      "title": "KI-Cyberangriffe in der Schweiz: NCSC warnt vor Risiken",
+      "excerpt": "KI-Cyberangriffe in der Schweiz: NCSC warnt vor Risiken All About SECURITY",
+      "summary": "KI-Cyberangriffe in der Schweiz: NCSC warnt vor Risiken All About SECURITY",
+      "source": "All About SECURITY",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ3k0enJtbUJydVBRN0FzaER4SFJZOC0tc2NqdXpkUGpHVVdtcGtmX0J3eWJ6WFlPNml3eWtmR3l6VGE1cTBPMTVndkVZM1Q5d2Zna3dVQzV3aWxra1N4RUI3YjVvcl9FZXRCY1FwdlJBUHhJTFFsMXNxdlA3MjZiS2gyTjZ3RllXVF9jdUxiVmU3YmhTLVRIcmkxRQ?oc=5",
+      "published": "2026-11-26T08:08:51+00:00",
+      "category": "IT Schweiz"
+    },
+    {
+      "id": "12ce9e5cc9330d01",
+      "title": "Bechtle integriert AWS und Microsoft Marketplaces in eigene Cloud-Plattform",
+      "excerpt": "Bechtle baut seine Position als Multi-Cloud-Provider aus und integriert den AWS Marketplace sowie den Microsoft Marketplace in die eigene Cloud-Plattform. Das schafft für Kunden einen zentralen Beschaffungskanal.",
+      "summary": "Bechtle baut seine Position als Multi-Cloud-Provider aus und integriert den AWS Marketplace sowie den Microsoft Marketplace in die eigene Cloud-Plattform. Das schafft für Kunden einen zentralen Beschaffungskanal.",
+      "source": "IT Reseller",
+      "url": "https://itreseller.ch/Artikel/106689/Bechtle_integriert_AWS_und_Microsoft_Marketplaces_in_eigene_Cloud-Plattform.html",
+      "published": "2026-11-26T07:58:24+00:00",
       "category": "Cloud"
     },
     {
@@ -341,16 +351,6 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "0996c1e36c8a6f57",
-      "title": "Multi-Cloud-Backup: Was „Cloud-nativ“ eigentlich bedeutet - it-daily.net",
-      "excerpt": "Multi-Cloud-Backup: Was „Cloud-nativ“ eigentlich bedeutet it-daily.net",
-      "summary": "Multi-Cloud-Backup: Was „Cloud-nativ“ eigentlich bedeutet it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMUFIcXEzVFc1UnhxWDRZYUM1MVMwTDdyR2dCdUcxcXRDOW4xZG54ajBfelhFaE5CT3l5dFJFUlFQSVFzM3MxekxwcERDcUhRQmtyejVHVWE0RXNibHV2X1JSbDdFTGNSVVY0MHc1N2E3Y2dDUmRaWGxHbGMxVjRyMVFnLTNnZmJ6clFjdHpR?oc=5",
-      "published": "2026-11-25T14:59:30+00:00",
-      "category": "Cloud"
-    },
-    {
       "id": "feae072fb4e25241",
       "title": "Basler Datenschutzbeauftragte verhindert Datenauslagerung",
       "excerpt": "VPN und Web Proxy sollten von einem US-Cloud-Anbieter übernommen werden.",
@@ -419,6 +419,16 @@
       "url": "https://netzwoche.ch/news/2026-11-25/schweizer-tech-aktionaere-atmen-auf",
       "published": "2026-11-25T10:53:10+00:00",
       "category": "IT Schweiz"
+    },
+    {
+      "id": "23556ad83e71e4ca",
+      "title": "NAND-Flash-Preise dürften Anfang 2027 sinken",
+      "excerpt": "Die Vertragspreise für NAND-Flash dürften im Schlussquartal weniger stark steigen als noch im Oktober erwartet. Für Anfang 2027 zeichnet sich ein Preisrückgang ab, weil chinesische Cloud-Anbieter weniger SSDs bestellen als geplant.",
+      "summary": "Die Vertragspreise für NAND-Flash dürften im Schlussquartal weniger stark steigen als noch im Oktober erwartet. Für Anfang 2027 zeichnet sich ein Preisrückgang ab, weil chinesische Cloud-Anbieter weniger SSDs bestellen als geplant.",
+      "source": "IT Reseller",
+      "url": "https://itreseller.ch/Artikel/106679/NAND-Flash-Preise_duerften_Anfang_2027_sinken.html",
+      "published": "2026-11-25T10:52:08+00:00",
+      "category": "Cloud"
     },
     {
       "id": "5f25a9a52e1284c8",
@@ -501,14 +511,14 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "c93ca087eec342e4",
-      "title": "Nutanix-CEO Rajiv Ramaswami kündigt Abschied an - Swiss IT Reseller",
-      "excerpt": "Nutanix-CEO Rajiv Ramaswami kündigt Abschied an Swiss IT Reseller",
-      "summary": "Nutanix-CEO Rajiv Ramaswami kündigt Abschied an Swiss IT Reseller",
-      "source": "IT Reseller / Personen",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZE5OZjJCcnlMTHB3dWpIeTJKa2RQdnRHLWFTeXVVNEMtdl9KYTVmN3k3SDh2OEhUMF83dVM2ZTRQU251dUp4TExLOWFIMDVxTFF4SnFDeUp4TDJlVTFQUkRlcTRVRk1Ec0JJc3c5a2FxWEJRYXNtY3g5TEg5ZDk3XzdjZmRFS2VQd3RTRUZJdENaTUJvUkNqYkRn?oc=5",
-      "published": "2026-11-25T07:12:00+00:00",
-      "category": "Personen"
+      "id": "1c1b4b8bd22241f7",
+      "title": "Dell verdoppelt Umsatz dank starkem Servergeschäft",
+      "excerpt": "Dell hat im dritten Quartal mehr als doppelt so viel umgesetzt wie vor einem Jahr. Allein mit KI-Servern erzielte der Konzern 22 Milliarden Dollar und hebt seine Umsatzprognose für das Gesamtjahr erneut an.",
+      "summary": "Dell hat im dritten Quartal mehr als doppelt so viel umgesetzt wie vor einem Jahr. Allein mit KI-Servern erzielte der Konzern 22 Milliarden Dollar und hebt seine Umsatzprognose für das Gesamtjahr erneut an.",
+      "source": "IT Reseller",
+      "url": "https://itreseller.ch/Artikel/106676/Dell_verdoppelt_Umsatz_dank_starkem_Servergeschaeft.html",
+      "published": "2026-11-25T08:09:05+00:00",
+      "category": "Markt"
     },
     {
       "id": "77c7844d1aab7d36",
@@ -521,16 +531,6 @@
       "category": "Markt"
     },
     {
-      "id": "d93660df9e147171",
-      "title": "Dell verdoppelt Umsatz dank starkem Servergeschäft - Swiss IT Reseller",
-      "excerpt": "Dell verdoppelt Umsatz dank starkem Servergeschäft Swiss IT Reseller",
-      "summary": "Dell verdoppelt Umsatz dank starkem Servergeschäft Swiss IT Reseller",
-      "source": "IT Reseller / Firmen",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbTEzM3VGelprNEsxczgxc1F4T2lYcXlkVUtWMU5lcjZPeVZFbkpfTmlZUFhyT1Y4c0dxc2JEaVM3bjJ0UGNHWENqX2tEcG1mZFVHQ1hpMGQzcnBncDFwTlVURTVvOE5OQ1RMYkI5TkdwLVVnTm1iSGl3ZC0tSUxySV81WU1lemNvUEw2dDRseGZRYUhnVXN4T2Y5UDNTUQ?oc=5",
-      "published": "2026-11-25T07:12:00+00:00",
-      "category": "Markt"
-    },
-    {
       "id": "a806c25c45d6805c",
       "title": "HP meldet mehr Umsatz und weniger Gewinn - IT Reseller",
       "excerpt": "HP meldet mehr Umsatz und weniger Gewinn IT Reseller",
@@ -539,6 +539,16 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYXd3ZGFyX2ctN3R6cmUya1Q3ckpjWUZoeXpXd2U1bGQ1aTJTd05aTi1UR2lLWGNORU9FLTk1SXEwN3NQZEZDQzV4ZUJ5aW5jMmI5U1N3OS1IVUhmdnJhaktFNEVlZmxZWnBuZTA5dWJvLUVKay1sd1hXSnV3Yzk0aVplX3lBV0xZcXptN1NDTQ?oc=5",
       "published": "2026-11-25T07:12:00+00:00",
       "category": "Markt"
+    },
+    {
+      "id": "0de11cb35c678b2e",
+      "title": "Nutanix-CEO Rajiv Ramaswami kündigt Abschied an",
+      "excerpt": "Nach fast sechs Jahren als CEO von Nutanix hat Rajiv Ramaswami seinen Abschied angekündigt. Er bleibt im Amt, bis ein Nachfolger gefunden ist, und soll Nutanix danach noch eine Zeit lang als Senior Advisor begleiten.",
+      "summary": "Nach fast sechs Jahren als CEO von Nutanix hat Rajiv Ramaswami seinen Abschied angekündigt. Er bleibt im Amt, bis ein Nachfolger gefunden ist, und soll Nutanix danach noch eine Zeit lang als Senior Advisor begleiten.",
+      "source": "IT Reseller",
+      "url": "https://itreseller.ch/Artikel/106673/Nutanix-CEO_Rajiv_Ramaswami_kuendigt_Abschied_an.html",
+      "published": "2026-11-25T06:28:56+00:00",
+      "category": "Personen"
     },
     {
       "id": "74eb333fbcefba51",
@@ -581,6 +591,16 @@
       "category": "Cloud"
     },
     {
+      "id": "403ab82b316d0f70",
+      "title": "Infinigate ernennt Tom OReilly zum Chief Transformation Officer",
+      "excerpt": "Tom OReilly ist neuer Chief Transformation Officer bei Infinigate. Er soll sich vor allem auf den Ausbau und die Optimierung des Plattformgeschäftes konzentrieren.",
+      "summary": "Tom OReilly ist neuer Chief Transformation Officer bei Infinigate. Er soll sich vor allem auf den Ausbau und die Optimierung des Plattformgeschäftes konzentrieren.",
+      "source": "IT Reseller",
+      "url": "https://itreseller.ch/Artikel/106670/Infinigate_ernennt_Tom_OReilly_zum_Chief_Transformation_Officer_.html",
+      "published": "2026-11-24T08:21:51+00:00",
+      "category": "Personen"
+    },
+    {
       "id": "30c65606d5bc23f9",
       "title": "Schwachstelle in Azure API Management (APIM) Classic führte zu Hacks - BornCity",
       "excerpt": "Schwachstelle in Azure API Management (APIM) Classic führte zu Hacks BornCity",
@@ -589,26 +609,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdzNnazdpN25hX3JwVng1MWs5dm8zeXZLeEZPOFBBOXM1Vm4wNGRSb3V1ZlkzdjdhdmpEU09PTE16VDJEaTlQZDdobV81WHhnUUxiTTRoRm5SbmpuSVVidWowUzROVFIwN1U1cjFPMThVNDJ0cG0wYnFZNVM2dE1CeHZ5M0UwRW0zSTlLN1JpYndIa214NXhKMW9EMktkUU9jSzhnRXBPWkI?oc=5",
       "published": "2026-11-24T07:22:09+00:00",
       "category": "Cloud"
-    },
-    {
-      "id": "71de01c55c022bba",
-      "title": "Infinigate ernennt Tom O’Reilly zum Chief Transformation Officer - Swiss IT Reseller",
-      "excerpt": "Infinigate ernennt Tom O’Reilly zum Chief Transformation Officer Swiss IT Reseller",
-      "summary": "Infinigate ernennt Tom O’Reilly zum Chief Transformation Officer Swiss IT Reseller",
-      "source": "IT Reseller / Personen",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZV93SFU3WnBNVFlXdlJkWEJ1OG1PS1hpSUN1WVRsTUd0YUNDVHRBaDJzdmhrcnRRRnlHLXUtRTdTMll4SXNxcDU5bk5WZmtmMTFGYUt5aWVqTF8ydEFrTUJVaVJzWFd1WnE5NWFFaUhlOWg1UkxlS2lMWVN3emZMRDR3ZWU3Smh4cXRvZ0dLSW9GTUVUdGlBRVVwRDhxSTYtVWhLZTA2UmVFM0JQRmNF?oc=5",
-      "published": "2026-11-24T07:12:00+00:00",
-      "category": "Personen"
-    },
-    {
-      "id": "154a0622ab6b2b10",
-      "title": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse - Swiss IT Reseller",
-      "excerpt": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse Swiss IT Reseller",
-      "summary": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse Swiss IT Reseller",
-      "source": "IT Reseller / Firmen",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY3JBZmg3bDJmVlJjSXVCZmlSUWdNNkcyVUhjWDQ5eFJYcWZQZGowcUtJQlRaVGwweDBLOVc1c1g1YkVSeTRzZDhNZUJWclQycy1VRzBtM2hEN012dzdJTTZSWmswZEtJRUtNNzF3dkRGLUp0QTZONktKMlJ2Ymxib3l0NkJEdmFyZ2RlN3V0b3ZYOF9UZkpwa1AwUU1rNS10TE5vVS1vbm5zb0Nk?oc=5",
-      "published": "2026-11-24T07:12:00+00:00",
-      "category": "IT Schweiz"
     },
     {
       "id": "8ee5b0e43a1899ff",
@@ -629,16 +629,6 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56SWpfQWxfR2hwRWhGc3NEaHJRN2taRGVOVnRPcEJ5c1FHMC13THFPNDJnNUNhMXYwbGtNNHFoVmZzOFJXMlZrLTNnZmF5aFd0SzY0NnVNQ3pLZHQwRFZvS0J4R0NQN0R3aTV1MW5SUEgyZw?oc=5",
       "published": "2026-11-24T06:04:00+00:00",
       "category": "Firmen"
-    },
-    {
-      "id": "75cadcc3ca8efbf0",
-      "title": "Infinigate ernennt Chief Transformation Officer - Inside IT",
-      "excerpt": "Infinigate ernennt Chief Transformation Officer Inside IT",
-      "summary": "Infinigate ernennt Chief Transformation Officer Inside IT",
-      "source": "Inside IT / Personen",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdWlIMmozeWc2dl9DT2NWbnk5RllUTVR1d2gtLUtKWE5XUDJzSnZFb0g1ZUhpZjdtbEV5TThoV21nYUp5WHNqV2ZsZzk3SDRXbzFCeDd1SHZ0aC1DUDBGOFhhcG5DQmsxY29VOUpNUEg1NnJLU25GTU1EM1RmRzM2dlVXeGVtV1Mw?oc=5",
-      "published": "2026-11-24T02:21:00+00:00",
-      "category": "Personen"
     },
     {
       "id": "7752aea542c6aa6e",
@@ -671,6 +661,16 @@
       "category": "Trends"
     },
     {
+      "id": "7bd6ee3cf8c692cd",
+      "title": "Nvidia holt Jensen Huang als CEO zurück",
+      "excerpt": "Jensen Huang ist trotz der Skandale der vergangenen Wochen wieder zurück an der Spitze von Nvidia: Der Chip-Konzern hat seine Rückkehr als CEO bekanntgegeben.",
+      "summary": "Jensen Huang ist trotz der Skandale der vergangenen Wochen wieder zurück an der Spitze von Nvidia: Der Chip-Konzern hat seine Rückkehr als CEO bekanntgegeben.",
+      "source": "IT Reseller",
+      "url": "https://itreseller.ch/Artikel/106667/Nvidia_holt_Jensen_Huang_als_CEO_zurueck.html",
+      "published": "2026-11-23T13:50:07+00:00",
+      "category": "Personen"
+    },
+    {
       "id": "cc1b7bb4d47287a7",
       "title": "Bund beauftragt Elca mit Deepfake-Erkennung für die E-ID - IT-Markt",
       "excerpt": "Bund beauftragt Elca mit Deepfake-Erkennung für die E-ID IT-Markt",
@@ -687,16 +687,6 @@
       "summary": "Zscaler stellt Führungsspitze der Alpine-Region neu auf Swiss IT Reseller",
       "source": "IT Reseller / Personen",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWEwyLW5LWF9weTJpTlg1UmQxSXNUbGRuYk1GRU9ucnQyZlIyeTBlOG8zbkhSbVBpeTdLSkJHdUpBRVMwcFJNcGJVY2l3YW1VYWRYWjVtMnZpdmJDdE9TWkNSQnNnb1MzWERiQV9qa0E1MEpUdXUzM3VZV0gwSm0zcmJHMDdVdGN5d0stM2ZscTBJNG1XbzFNRzR1NmIzOWU5Y0JfWjlR?oc=5",
-      "published": "2026-11-23T07:12:00+00:00",
-      "category": "Personen"
-    },
-    {
-      "id": "2de60e26a9176ae1",
-      "title": "Nvidia holt Jensen Huang als CEO zurück - Swiss IT Reseller",
-      "excerpt": "Nvidia holt Jensen Huang als CEO zurück Swiss IT Reseller",
-      "summary": "Nvidia holt Jensen Huang als CEO zurück Swiss IT Reseller",
-      "source": "IT Reseller / Personen",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQclN1UkQtNnYwejFKSXRmaHFVQTFzRWt3SldhdE1HTERQaHlNRFNKVkIyWjhsM3RPeDY3RUh3ZkpvNkpHT2lBeXBnZzEzQVZtNWpfajRzT2dKdGhnaUJuNHRUaEtZTi1ZYXZSYXpWRXBWNWhVTkpGRGZScS05T1JxWFFiTnRRTE1teENBX1phOA?oc=5",
       "published": "2026-11-23T07:12:00+00:00",
       "category": "Personen"
     },
@@ -799,9 +789,19 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUFItLVZ3UGpfTmhuQW10amRWVTZlMnVHMjh5VFhqYmtTWUh5TVpGWFlyQVRIZU9pMDlTbHFaQkFMZlJuNVNrdmRROS1IQlRMWWgzYU9ibFpVXy00R0NodVJfV3hYMF8zQ1JBYXdMZ005NmhzQVdNV2ZSRWJqRlRSZG9ycU83dmVNQ3lZUnpnSzBGYTFPRjZEWFlySjN1S0RzSE81ZW5mck5rWFhVWFFUYVFwMU5palNDNDVHalBR?oc=5",
       "published": "2026-11-09T08:00:00+00:00",
       "category": "Personen"
+    },
+    {
+      "id": "f1544c7c871f916b",
+      "title": "Convotis Schweiz ernennt Oliver Thome zum CEO - Swiss IT Reseller",
+      "excerpt": "Convotis Schweiz ernennt Oliver Thome zum CEO Swiss IT Reseller",
+      "summary": "Convotis Schweiz ernennt Oliver Thome zum CEO Swiss IT Reseller",
+      "source": "IT Reseller / Personen",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR2h0bm1hRUFVZ0t4V1FZaFdUbGJrUjB0NzZkUjJ5WnNtZFBHRVAzeU8xTWN3alNVZTYwS1p6TlM0RlU4Znd4cXdubEJCb3VKSm1LSkRUTkJESlpFbWJ3WWhDMGsxMElmTDg5OU52bnQyZWdfNjdUVVpxNl9TSDVYQ2Q3NGVGUGdqR0lIVmZwYm44XzBPdFE?oc=5",
+      "published": "2026-11-06T08:00:00+00:00",
+      "category": "Personen"
     }
   ],
-  "updatedAt": "2026-11-27T07:10:37.966664+00:00",
+  "updatedAt": "2026-11-27T07:34:55.382289+00:00",
   "targets": {
     "Security": 10,
     "Microsoft 365": 10,
@@ -822,6 +822,6 @@
     "Markt": 10,
     "Firmen": 10
   },
-  "warning": "1 von 54 RSS-Quellen waren nicht erreichbar.",
+  "warning": "",
   "aiSummaries": false
 }
