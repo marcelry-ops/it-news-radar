@@ -61,6 +61,16 @@
       "category": "Security"
     },
     {
+      "id": "a3dc7f09bc33a9d2",
+      "title": "Quanten-Startup Planqc kooperiert mit SAP - it-daily.net",
+      "excerpt": "Quanten-Startup Planqc kooperiert mit SAP it-daily.net",
+      "summary": "Quanten-Startup Planqc kooperiert mit SAP it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PbzJiNnQ3RDd4eTRjbWk5NE0xNHRndGhOdHBGTUozQVQxOVdvU2dOYU5keFdxOFFFUk93NEFPVlRIR2RERkgtYUFvdnJqNVBjbU9IamppNEEwWEpaU2xjckQ0Nmp2RHU1bnY1U1pR?oc=5",
+      "published": "2026-11-26T13:43:20+00:00",
+      "category": "Firmen"
+    },
+    {
       "id": "535234d784ba0bc5",
       "title": "Warnung vor „erheblichen Folgen“: Erfolgreicher Cyberangriff auf die FIFA",
       "excerpt": "Bei der FIFA haben Cyberkriminelle persönliche und geschäftliche Daten abgegriffen. Der Verband wiegelt gleichzeitig ab und warnt.",
@@ -371,16 +381,6 @@
       "category": "Personen"
     },
     {
-      "id": "5d3d5c31e17afc9c",
-      "title": "Palo Alto Networks übernimmt KI-Start-up für 4,5 Milliarden Dollar - Swiss IT Reseller",
-      "excerpt": "Palo Alto Networks übernimmt KI-Start-up für 4,5 Milliarden Dollar Swiss IT Reseller",
-      "summary": "Palo Alto Networks übernimmt KI-Start-up für 4,5 Milliarden Dollar Swiss IT Reseller",
-      "source": "IT Reseller / Firmen",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeWJMTG5Vc0ZWSDBkUmhvZEJxS1FqRWRsVGRtcnNiM3VQS1h5UXowRFBhbkdOZC1IWTVmZTE2SktpWHl0cWUya29uc3FQMjhiWGNpWFk4UXFrdVhWSmlCZHBoUm9HMHhoVkRmcWRIZElMekktRk9vbnUyQjV3SWtDbzZRV2xkSUZMZFhUTWhvWlUxcWZhRjMwbm1qMmJTSjRENktpOVowRnJqdy1IOUVaNTRvRQ?oc=5",
-      "published": "2026-11-23T07:12:00+00:00",
-      "category": "Firmen"
-    },
-    {
       "id": "f61d26a4181fe567",
       "title": "Microsoft To Do: Apps werden am 30. Juni 2027 vollständig eingestellt - BornCity",
       "excerpt": "Microsoft To Do: Apps werden am 30. Juni 2027 vollständig eingestellt BornCity",
@@ -451,7 +451,7 @@
       "category": "Personen"
     }
   ],
-  "updatedAt": "2026-11-26T23:08:07.137104+00:00",
+  "updatedAt": "2026-11-27T00:06:16.552701+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -472,6 +472,6 @@
     "Markt": 5,
     "Firmen": 5
   },
-  "warning": "",
+  "warning": "12 von 54 RSS-Quellen waren nicht erreichbar.",
   "aiSummaries": false
 }
