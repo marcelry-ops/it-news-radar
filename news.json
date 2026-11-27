@@ -71,6 +71,16 @@
       "category": "Microsoft 365"
     },
     {
+      "id": "2bd0274bd8898870",
+      "title": "Schweiz: Erste bestätigte Cyberangriffe mit KI-Agenten - it-daily.net",
+      "excerpt": "Schweiz: Erste bestätigte Cyberangriffe mit KI-Agenten it-daily.net",
+      "summary": "Schweiz: Erste bestätigte Cyberangriffe mit KI-Agenten it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BMVpPWk91aHBJSDRaS2Zuck8wMWl4NWFGb3ktc3IxN1FzRkxwVjhZOHRLWjRJWDdvUHB0dFEwSkZoVl9XTU1CRjlTRi00cEw0QXo1YnlQdWVBajdTLXlTeVVIWld5bTMtVHBzRnZoYTAyZkZhSHJSZzQ1OA?oc=5",
+      "published": "2026-11-27T09:08:02+00:00",
+      "category": "Security"
+    },
+    {
       "id": "d4c179d8ac8ebbcd",
       "title": "Datenchaos kostet Firmen ein Viertel des KI-Budgets - it-daily.net",
       "excerpt": "Datenchaos kostet Firmen ein Viertel des KI-Budgets it-daily.net",
@@ -101,32 +111,22 @@
       "category": "Trends"
     },
     {
-      "id": "e5a9f7aeff5707d9",
-      "title": "Zugriff über Github: Cyberangriff auf SAP gefährdet Softwareprojekte",
-      "excerpt": "Berichten zufolge ist es Angreifern gelungen, Github-Zugänge von SAP-Mitarbeitern zu kapern und damit auf Quellcodes des Konzerns zuzugreifen. ( Cybercrime , KI )",
-      "summary": "Berichten zufolge ist es Angreifern gelungen, Github-Zugänge von SAP-Mitarbeitern zu kapern und damit auf Quellcodes des Konzerns zuzugreifen. ( Cybercrime , KI )",
-      "source": "Golem.de",
-      "url": "https://golem.de/news/zugriff-ueber-github-cyberangriff-auf-sap-gefaehrdet-softwareprojekte-2611-215722.html",
-      "published": "2026-11-27T07:57:02+00:00",
-      "category": "Security"
-    },
-    {
-      "id": "be9e7c448c7efa2a",
-      "title": "Der Kanton Thurgau stellt Amtsblatt auf digital um - SWI swissinfo.ch",
-      "excerpt": "Der Kanton Thurgau stellt Amtsblatt auf digital um SWI swissinfo.ch",
-      "summary": "Der Kanton Thurgau stellt Amtsblatt auf digital um SWI swissinfo.ch",
-      "source": "SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWjRLbkwyMUUwYnlJN2JlNEU2bTB5WElCU0lCb0FfRXhnTGczZUkyQWdFRjJmWVQ0TmdKZW5YRTlWU1hXajR1RkFwR3k5cVE2LVQzUDd1c0RtM1ZMYjljUTBiZWNDMFd3bEljWWNENlJ0YWc0RVVTQ0NtRVY1TEx0MVlYV05VWUFBYjBzUTVTbTd1QQ?oc=5",
-      "published": "2026-11-27T07:54:26+00:00",
-      "category": "IT Schweiz"
-    },
-    {
       "id": "88ca31b8af5d58e9",
       "title": "Out-of-Band-Patch für Windows Server 2025 veröffentlicht - Swiss IT Magazine",
       "excerpt": "Out-of-Band-Patch für Windows Server 2025 veröffentlicht Swiss IT Magazine",
       "summary": "Out-of-Band-Patch für Windows Server 2025 veröffentlicht Swiss IT Magazine",
       "source": "IT Magazine Schweiz",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR1VHcy1VQ1ZPdEtDdm1pZkU1MzRnUVdJQjhHSURGZnpGaWp1Q0ZVaG9hUTRUVVBLYUNHSERyZ1lBQnVVd2trQ2Q0cFgzTU5xaWdfWW42anNVTzlwQUF3QzZDaFplWFdOeEI0UU5SRXhuaWtuV1FJdTFMakE4Wkt1TnNPY0xhclE3b1duMzlaa2lNcC1KZ2JYa3ZGdE55emVScDlnSFVn?oc=5",
+      "published": "2026-11-27T07:12:00+00:00",
+      "category": "IT Schweiz"
+    },
+    {
+      "id": "7e68baa165b981cd",
+      "title": "SAP soll Opfer eines Hackerangriffs geworden sein - Swiss IT Magazine",
+      "excerpt": "SAP soll Opfer eines Hackerangriffs geworden sein Swiss IT Magazine",
+      "summary": "SAP soll Opfer eines Hackerangriffs geworden sein Swiss IT Magazine",
+      "source": "IT Magazine Schweiz",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOamZ4andLVGtNOVpsT3BpSEdOcnB1b3pMZkN3MUNQMmdvUHRLaHBydXhEdEwweFRQZzhkUDVmWTR2aTA3ZHV2S0Q1dHBwdlpyMWtXRVgwWlNjTmwxNi00M3VDcXRNZHBMZWpvaEhycVA3ZmJscjh0QnA3Yk1lWXo2YjlwNHZWY0tMXzF4RlFLcTNkVWRMejVEXzBR?oc=5",
       "published": "2026-11-27T07:12:00+00:00",
       "category": "IT Schweiz"
     },
@@ -189,16 +189,6 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5abGNZWWFVRVJQeW5LcUQ5VUdpd2M0REQzYmc5SW5EemlnSk1KNS1oc1d3U09zRDRiNEdZZm1GMzEyT1FUakR6eUV2NWc1UXoyeG9KdEh0R3VEM0V6aEgwYmhtQXdLTlM5aFBXdldwZk9BVnNXaEE?oc=5",
       "published": "2026-11-26T18:04:07+00:00",
       "category": "Firmen"
-    },
-    {
-      "id": "d5cb461737a9b5eb",
-      "title": "AWS: Ausfall in us-east-1 blieb weitgehend unbemerkt - it-daily.net",
-      "excerpt": "AWS: Ausfall in us-east-1 blieb weitgehend unbemerkt it-daily.net",
-      "summary": "AWS: Ausfall in us-east-1 blieb weitgehend unbemerkt it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9rNXIyWUd1UkU5dlVGMFZ4QzFRX29XSlA5eVlSeTF3VkxJS19FcU1IUk5KVnF5ZGFFQUFVeXhjaGdLcldRZW1QcWpQWUxScklaYmthRUcyZEZENGJSTm1xSGRRMFd5VmlRTkFoNm11dmIzTDlmQU9RTA?oc=5",
-      "published": "2026-11-26T17:18:18+00:00",
-      "category": "Cloud"
     },
     {
       "id": "ec17847af3a84266",
@@ -331,6 +321,16 @@
       "category": "Security"
     },
     {
+      "id": "3b124470fa991b83",
+      "title": "KI-Cyberangriffe in der Schweiz: NCSC warnt vor Risiken",
+      "excerpt": "KI-Cyberangriffe in der Schweiz: NCSC warnt vor Risiken All About SECURITY",
+      "summary": "KI-Cyberangriffe in der Schweiz: NCSC warnt vor Risiken All About SECURITY",
+      "source": "All About SECURITY",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ3k0enJtbUJydVBRN0FzaER4SFJZOC0tc2NqdXpkUGpHVVdtcGtmX0J3eWJ6WFlPNml3eWtmR3l6VGE1cTBPMTVndkVZM1Q5d2Zna3dVQzV3aWxra1N4RUI3YjVvcl9FZXRCY1FwdlJBUHhJTFFsMXNxdlA3MjZiS2gyTjZ3RllXVF9jdUxiVmU3YmhTLVRIcmkxRQ?oc=5",
+      "published": "2026-11-26T08:08:51+00:00",
+      "category": "IT Schweiz"
+    },
+    {
       "id": "12ce9e5cc9330d01",
       "title": "Bechtle integriert AWS und Microsoft Marketplaces in eigene Cloud-Plattform",
       "excerpt": "Bechtle baut seine Position als Multi-Cloud-Provider aus und integriert den AWS Marketplace sowie den Microsoft Marketplace in die eigene Cloud-Plattform. Das schafft für Kunden einen zentralen Beschaffungskanal.",
@@ -389,6 +389,16 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdUhCWkdPVi1scWVodmNoVG1BeE9sVnBnSXlnZXVUTzVRUGVDVTM5aWpNSERwZVROdnBwZHppTE1XTFlNZnM2V1Zhcy00eTVSaW1OS2lhRnNSMmlBSVRPaWdLbUhTT2c2Rlh4Q183UlM4M2hXaWR2dTVwZVhzWGZJY0JkSC1tOWJXUnF6cko1a0lTeGd2bG9sczJOSTJwZkhPMUtHMGZBY3FXOUlCaGZkV3B0b3NUTGNqbFJmZUF2X1RVZ2NnOXNF?oc=5",
       "published": "2026-11-25T16:36:00+00:00",
       "category": "Microsoft 365"
+    },
+    {
+      "id": "0996c1e36c8a6f57",
+      "title": "Multi-Cloud-Backup: Was „Cloud-nativ“ eigentlich bedeutet - it-daily.net",
+      "excerpt": "Multi-Cloud-Backup: Was „Cloud-nativ“ eigentlich bedeutet it-daily.net",
+      "summary": "Multi-Cloud-Backup: Was „Cloud-nativ“ eigentlich bedeutet it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMUFIcXEzVFc1UnhxWDRZYUM1MVMwTDdyR2dCdUcxcXRDOW4xZG54ajBfelhFaE5CT3l5dFJFUlFQSVFzM3MxekxwcERDcUhRQmtyejVHVWE0RXNibHV2X1JSbDdFTGNSVVY0MHc1N2E3Y2dDUmRaWGxHbGMxVjRyMVFnLTNnZmJ6clFjdHpR?oc=5",
+      "published": "2026-11-25T14:59:30+00:00",
+      "category": "Cloud"
     },
     {
       "id": "feae072fb4e25241",
@@ -451,16 +461,6 @@
       "category": "Markt"
     },
     {
-      "id": "7c61926a630831b9",
-      "title": "Schweizer Tech-Aktionäre atmen auf",
-      "excerpt": "Schweizer Tech-Aktien haben nach dem Comeback von Nvidia-CEO Jensen Huang deutlich zugelegt. Damit atmet die KI-nahe Branche nach einer Phase unter Druck auf.",
-      "summary": "Schweizer Tech-Aktien haben nach dem Comeback von Nvidia-CEO Jensen Huang deutlich zugelegt. Damit atmet die KI-nahe Branche nach einer Phase unter Druck auf.",
-      "source": "Netzwoche",
-      "url": "https://netzwoche.ch/news/2026-11-25/schweizer-tech-aktionaere-atmen-auf",
-      "published": "2026-11-25T10:53:10+00:00",
-      "category": "IT Schweiz"
-    },
-    {
       "id": "23556ad83e71e4ca",
       "title": "NAND-Flash-Preise dürften Anfang 2027 sinken",
       "excerpt": "Die Vertragspreise für NAND-Flash dürften im Schlussquartal weniger stark steigen als noch im Oktober erwartet. Für Anfang 2027 zeichnet sich ein Preisrückgang ab, weil chinesische Cloud-Anbieter weniger SSDs bestellen als geplant.",
@@ -479,16 +479,6 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeVEyeVZ5c3dlSGxaOFg0cTdPV0RXQ19xUV9qMGpCWGlERXhpNXNESXF5Nl9KZFczUEs2cWo2RVlwYlkydGw0enpWd0p0SHpnOVZYT1A1eDJnSElNcHdvakxqQnI4TGhQdXNvV1k0aVNmWXBYWkxLZ0lSNjNQTE45SjcyMTR4b0d3NVhPc1F1RWstcGpG?oc=5",
       "published": "2026-11-25T10:36:15+00:00",
       "category": "Markt"
-    },
-    {
-      "id": "3aec6ce679f4c5b5",
-      "title": "Parldigi direkt: Der Genfer KI-Gipfel muss Resultate bringen",
-      "excerpt": "Der KI-Gipfel im Juni darf nicht nur mit einem netten Gruppenfoto enden, schreibt Nationalrat Gerhard Andrey. Er propagiert Innovation durch Vertrauen.",
-      "summary": "Der KI-Gipfel im Juni darf nicht nur mit einem netten Gruppenfoto enden, schreibt Nationalrat Gerhard Andrey. Er propagiert Innovation durch Vertrauen.",
-      "source": "Inside IT",
-      "url": "https://inside-it.ch/parldigi-direkt-der-genfer-ki-gipfel-muss-resultate-bringen-20261125",
-      "published": "2026-11-25T09:56:30+00:00",
-      "category": "Trends"
     },
     {
       "id": "ae43a86b4b83833e",
@@ -549,16 +539,6 @@
       "url": "https://itreseller.ch/Artikel/106673/Nutanix-CEO_Rajiv_Ramaswami_kuendigt_Abschied_an.html",
       "published": "2026-11-25T06:28:56+00:00",
       "category": "Personen"
-    },
-    {
-      "id": "8e49a89fd1672a7d",
-      "title": "Nestlé eröffnet Zentrum für KI und Robotik - Netzwoche",
-      "excerpt": "Nestlé eröffnet Zentrum für KI und Robotik Netzwoche",
-      "summary": "Nestlé eröffnet Zentrum für KI und Robotik Netzwoche",
-      "source": "Netzwoche / Firmen",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd3NhT01fZEtKSXZzY1dIY0UzRFB6UkNVSWFoSGl1VEhsQi1GYVZoX1VPTmVqZFh4TWtwZG84a0J4M0hpcXd4TXE1ZE45OFRBTXZMNDdsZ05XS2Y4YjFqMzByc3NlRGpvanlXSnE5cUZmYjB2SFZGaEFMZ04zUUdINlJsNHF3MmF4LXFVVWRR?oc=5",
-      "published": "2026-11-24T09:44:44+00:00",
-      "category": "Trends"
     },
     {
       "id": "d0d0efcee2e60b24",
@@ -661,16 +641,6 @@
       "category": "Trends"
     },
     {
-      "id": "7bd6ee3cf8c692cd",
-      "title": "Nvidia holt Jensen Huang als CEO zurück",
-      "excerpt": "Jensen Huang ist trotz der Skandale der vergangenen Wochen wieder zurück an der Spitze von Nvidia: Der Chip-Konzern hat seine Rückkehr als CEO bekanntgegeben.",
-      "summary": "Jensen Huang ist trotz der Skandale der vergangenen Wochen wieder zurück an der Spitze von Nvidia: Der Chip-Konzern hat seine Rückkehr als CEO bekanntgegeben.",
-      "source": "IT Reseller",
-      "url": "https://itreseller.ch/Artikel/106667/Nvidia_holt_Jensen_Huang_als_CEO_zurueck.html",
-      "published": "2026-11-23T13:50:07+00:00",
-      "category": "Personen"
-    },
-    {
       "id": "7752aea542c6aa6e",
       "title": "Microsoft To Do wird zum 30. Juni 2027 eingestellt - BornCity",
       "excerpt": "Microsoft To Do wird zum 30. Juni 2027 eingestellt BornCity",
@@ -687,6 +657,16 @@
       "summary": "Zscaler stellt Führungsspitze der Alpine-Region neu auf IT Reseller",
       "source": "IT Reseller / Personen",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWEwyLW5LWF9weTJpTlg1UmQxSXNUbGRuYk1GRU9ucnQyZlIyeTBlOG8zbkhSbVBpeTdLSkJHdUpBRVMwcFJNcGJVY2l3YW1VYWRYWjVtMnZpdmJDdE9TWkNSQnNnb1MzWERiQV9qa0E1MEpUdXUzM3VZV0gwSm0zcmJHMDdVdGN5d0stM2ZscTBJNG1XbzFNRzR1NmIzOWU5Y0JfWjlR?oc=5",
+      "published": "2026-11-23T07:12:00+00:00",
+      "category": "Personen"
+    },
+    {
+      "id": "2de60e26a9176ae1",
+      "title": "Nvidia holt Jensen Huang als CEO zurück - Swiss IT Reseller",
+      "excerpt": "Nvidia holt Jensen Huang als CEO zurück Swiss IT Reseller",
+      "summary": "Nvidia holt Jensen Huang als CEO zurück Swiss IT Reseller",
+      "source": "IT Reseller / Personen",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQclN1UkQtNnYwejFKSXRmaHFVQTFzRWt3SldhdE1HTERQaHlNRFNKVkIyWjhsM3RPeDY3RUh3ZkpvNkpHT2lBeXBnZzEzQVZtNWpfajRzT2dKdGhnaUJuNHRUaEtZTi1ZYXZSYXpWRXBWNWhVTkpGRGZScS05T1JxWFFiTnRRTE1teENBX1phOA?oc=5",
       "published": "2026-11-23T07:12:00+00:00",
       "category": "Personen"
     },
@@ -781,7 +761,7 @@
       "category": "Personen"
     }
   ],
-  "updatedAt": "2026-11-27T11:03:49.051478+00:00",
+  "updatedAt": "2026-11-27T12:07:08.518822+00:00",
   "targets": {
     "Security": 10,
     "Microsoft 365": 10,
@@ -798,10 +778,10 @@
     "Microsoft 365": 10,
     "IT Schweiz": 10,
     "Cloud": 10,
-    "Trends": 8,
+    "Trends": 6,
     "Markt": 10,
     "Firmen": 10
   },
-  "warning": "Nicht genügend passende aktuelle Meldungen: 2 × Trends.",
+  "warning": "Nicht genügend passende aktuelle Meldungen: 4 × Trends. 4 von 54 RSS-Quellen waren nicht erreichbar.",
   "aiSummaries": false
 }
