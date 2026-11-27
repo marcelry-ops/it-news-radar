@@ -81,6 +81,16 @@
       "category": "Microsoft 365"
     },
     {
+      "id": "d61e865d03859248",
+      "title": "FIFA bestätigt Cyberangriff auf persönliche Daten - it-daily.net",
+      "excerpt": "FIFA bestätigt Cyberangriff auf persönliche Daten it-daily.net",
+      "summary": "FIFA bestätigt Cyberangriff auf persönliche Daten it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMZTBEVkdaOEdpNWU2LTVJMU9TdTJaeUVYNk12V0VVSnpyenVmcm9tUU1FYnQ2RUNvOU45azFZUDkxRUFRNFpsRUV4bUg4ZGVCOXlBWndaR0ZTQUt4UUhSd013?oc=5",
+      "published": "2026-11-27T09:54:00+00:00",
+      "category": "Security"
+    },
+    {
       "id": "d856a7701faf73d7",
       "title": "BSI schlägt Alarm: Durch KI droht eine \"Lawine neuer Cyberangriffe\"",
       "excerpt": "Cyberangriffe werden durch KI-Frameworks immer günstiger und schneller ausführbar. Das BSI sieht eine massive Verschärfung der Cyberbedrohungslage. ( Cybercrime , KI )",
@@ -108,7 +118,7 @@
       "source": "IT-Daily",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BMVpPWk91aHBJSDRaS2Zuck8wMWl4NWFGb3ktc3IxN1FzRkxwVjhZOHRLWjRJWDdvUHB0dFEwSkZoVl9XTU1CRjlTRi00cEw0QXo1YnlQdWVBajdTLXlTeVVIWld5bTMtVHBzRnZoYTAyZkZhSHJSZzQ1OA?oc=5",
       "published": "2026-11-27T09:08:02+00:00",
-      "category": "Security"
+      "category": "IT Schweiz"
     },
     {
       "id": "d4c179d8ac8ebbcd",
@@ -131,16 +141,6 @@
       "category": "Trends"
     },
     {
-      "id": "e5a9f7aeff5707d9",
-      "title": "Zugriff über Github: Cyberangriff auf SAP gefährdet Softwareprojekte",
-      "excerpt": "Berichten zufolge ist es Angreifern gelungen, Github-Zugänge von SAP-Mitarbeitern zu kapern und damit auf Quellcodes des Konzerns zuzugreifen. ( Cybercrime , KI )",
-      "summary": "Berichten zufolge ist es Angreifern gelungen, Github-Zugänge von SAP-Mitarbeitern zu kapern und damit auf Quellcodes des Konzerns zuzugreifen. ( Cybercrime , KI )",
-      "source": "Golem.de",
-      "url": "https://golem.de/news/zugriff-ueber-github-cyberangriff-auf-sap-gefaehrdet-softwareprojekte-2611-215722.html",
-      "published": "2026-11-27T07:57:02+00:00",
-      "category": "Security"
-    },
-    {
       "id": "be9e7c448c7efa2a",
       "title": "Der Kanton Thurgau stellt Amtsblatt auf digital um - SWI swissinfo.ch",
       "excerpt": "Der Kanton Thurgau stellt Amtsblatt auf digital um SWI swissinfo.ch",
@@ -149,16 +149,6 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWjRLbkwyMUUwYnlJN2JlNEU2bTB5WElCU0lCb0FfRXhnTGczZUkyQWdFRjJmWVQ0TmdKZW5YRTlWU1hXajR1RkFwR3k5cVE2LVQzUDd1c0RtM1ZMYjljUTBiZWNDMFd3bEljWWNENlJ0YWc0RVVTQ0NtRVY1TEx0MVlYV05VWUFBYjBzUTVTbTd1QQ?oc=5",
       "published": "2026-11-27T07:54:26+00:00",
       "category": "IT Schweiz"
-    },
-    {
-      "id": "7e68baa165b981cd",
-      "title": "SAP soll Opfer eines Hackerangriffs geworden sein - Swiss IT Magazine",
-      "excerpt": "SAP soll Opfer eines Hackerangriffs geworden sein Swiss IT Magazine",
-      "summary": "SAP soll Opfer eines Hackerangriffs geworden sein Swiss IT Magazine",
-      "source": "IT Magazine Schweiz",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOamZ4andLVGtNOVpsT3BpSEdOcnB1b3pMZkN3MUNQMmdvUHRLaHBydXhEdEwweFRQZzhkUDVmWTR2aTA3ZHV2S0Q1dHBwdlpyMWtXRVgwWlNjTmwxNi00M3VDcXRNZHBMZWpvaEhycVA3ZmJscjh0QnA3Yk1lWXo2YjlwNHZWY0tMXzF4RlFLcTNkVWRMejVEXzBR?oc=5",
-      "published": "2026-11-27T07:12:00+00:00",
-      "category": "Security"
     },
     {
       "id": "88ca31b8af5d58e9",
@@ -181,14 +171,14 @@
       "category": "IT Schweiz"
     },
     {
-      "id": "df64bc5e21d86059",
-      "title": "Cyberangriffe: Datenschutzbehörden melden deutlich mehr Datenpannen",
-      "excerpt": "Mehr Cyberangriffe, mehr gemeldete Datenpannen: Die Datenschutzkonferenz warnt nach ihrer 112. Tagung vor teils schwerwiegenden Vorfällen.",
-      "summary": "Mehr Cyberangriffe, mehr gemeldete Datenpannen: Die Datenschutzkonferenz warnt nach ihrer 112. Tagung vor teils schwerwiegenden Vorfällen.",
-      "source": "heise online",
-      "url": "https://heise.de/news/Datenschutzbehoerden-warnen-vor-Cyberangriffen-und-planen-Orientierungshilfe-11539641.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published": "2026-11-27T07:03:00+00:00",
-      "category": "Security"
+      "id": "8638d54b1dd31af3",
+      "title": "Hiscox startet digitales Versicherungsangebot für KMU in der Schweiz mit Insurtech Toni Digital",
+      "excerpt": "Hiscox startet digitales Versicherungsangebot für KMU in der Schweiz mit Insurtech Toni Digital IT Finanzmagazin",
+      "summary": "Hiscox startet digitales Versicherungsangebot für KMU in der Schweiz mit Insurtech Toni Digital IT Finanzmagazin",
+      "source": "IT Finanzmagazin",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPellfcTMwMjF2Y3Q0UEk1elFuVFVUbDRPelBaSFBoRlBLTXpNTjZiZWg5R21jbnVHWEoyV2paeGdoWWpRUEswdW5ENml4RHpaY3RKQlYzMXc2cTZpMEFHWkJiRlhHUC1JVF91dDB1NWwxNXJZdmRlXzQ0Q2pnOU1pLXNoNXp6VEdlaU9MQnZsWEJocEFIVVpER1pR?oc=5",
+      "published": "2026-11-27T07:04:11+00:00",
+      "category": "IT Schweiz"
     },
     {
       "id": "24fb92f64d3a3d87",
@@ -201,13 +191,13 @@
       "category": "IT Schweiz"
     },
     {
-      "id": "d1d58c9c7ffd5652",
-      "title": "Freitag: SAPs massiver Stellenabbau wegen KI, FBI-Falle für Ransomware-Betrüger",
-      "excerpt": "KI bedroht 10.000 SAP-Stellen + Betrug an Ransomware-Opfern + Südostasien ohne Nvidias KI-Server + Temu in Europa für Verbraucherschutz + Datenschutz-Podcast",
-      "summary": "KI bedroht 10.000 SAP-Stellen + Betrug an Ransomware-Opfern + Südostasien ohne Nvidias KI-Server + Temu in Europa für Verbraucherschutz + Datenschutz-Podcast",
-      "source": "heise online",
-      "url": "https://heise.de/news/Freitag-SAPs-massiver-Stellenabbau-wegen-KI-FBI-Falle-fuer-Ransomware-Betrueger-11539951.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published": "2026-11-27T05:15:00+00:00",
+      "id": "e44265bf31f43c03",
+      "title": "Microsoft-Patchday: 1.093 Schwachstellen geschlossen, 63 davon kritisch",
+      "excerpt": "Microsoft-Patchday: 1.093 Schwachstellen geschlossen, 63 davon kritisch BornCity",
+      "summary": "Microsoft-Patchday: 1.093 Schwachstellen geschlossen, 63 davon kritisch BornCity",
+      "source": "BornCity",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYUptWnRIeWVuWHZlOEYzVnVZZEhXWHNhdkR6Mmh3RzIyTU9lemJheUtBOUc0LWdTTm45Nm9Ba3hyVmtRMUx1SmZROUdmR1Flc2N2a0pYS0hKOWhaLUtXbGRqQUYtNl92eHdLa1AyWU9iQ0hROHNRbExFR3BReEdpVlpBRmh6U3FwWDhiNFFTTzlhSS1rN1E0OHY5RVc?oc=5",
+      "published": "2026-11-27T05:13:06+00:00",
       "category": "Security"
     },
     {
@@ -291,6 +281,16 @@
       "category": "Cloud"
     },
     {
+      "id": "a3dc7f09bc33a9d2",
+      "title": "Quanten-Startup Planqc kooperiert mit SAP - it-daily.net",
+      "excerpt": "Quanten-Startup Planqc kooperiert mit SAP it-daily.net",
+      "summary": "Quanten-Startup Planqc kooperiert mit SAP it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PbzJiNnQ3RDd4eTRjbWk5NE0xNHRndGhOdHBGTUozQVQxOVdvU2dOYU5keFdxOFFFUk93NEFPVlRIR2RERkgtYUFvdnJqNVBjbU9IamppNEEwWEpaU2xjckQ0Nmp2RHU1bnY1U1pR?oc=5",
+      "published": "2026-11-26T13:43:20+00:00",
+      "category": "Firmen"
+    },
+    {
       "id": "32be4e1f4926980f",
       "title": "Warnung vor „erheblichen Folgen“: Erfolgreicher Cyberangriff auf die FIFA",
       "excerpt": "Bei der FIFA haben Cyberkriminelle persönliche und geschäftliche Daten abgegriffen. Der Verband wiegelt gleichzeitig ab und warnt.",
@@ -319,26 +319,6 @@
       "url": "https://heise.de/news/Cyberangriff-auf-US-Behoerde-gegen-Finanzkriminalitaet-11539155.html",
       "published": "2026-11-26T12:59:00+00:00",
       "category": "Security"
-    },
-    {
-      "id": "e20f50dcbfd22cd3",
-      "title": "Bundesrat will Mobilfunkbewilligungen beschleunigen - Inside IT",
-      "excerpt": "Bundesrat will Mobilfunkbewilligungen beschleunigen Inside IT",
-      "summary": "Bundesrat will Mobilfunkbewilligungen beschleunigen Inside IT",
-      "source": "Inside IT / Firmen",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPenJkRzk2eFlwTU5CS3dHV3BCaEhtN0R1RHg3SkRYVG9KaF84cGxka3NmNjM2Mk41bDNyRVJ2Rnp4akE3MjhTU24wWXN6bHJEZ1RINU9YZ3p6UUFoWGNnYi04bFNhdVBxVEIxdWFfRk5KbGN2YmI2QlEtR3RVUUppN1JWX1lmSnVJYnZWTTBR?oc=5",
-      "published": "2026-11-26T12:56:00+00:00",
-      "category": "IT Schweiz"
-    },
-    {
-      "id": "0803b42bc3f3860a",
-      "title": "News-Übersicht - Swiss IT Reseller",
-      "excerpt": "News-Übersicht Swiss IT Reseller",
-      "summary": "News-Übersicht Swiss IT Reseller",
-      "source": "IT Reseller / Firmen",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yTTBudFQ3cG1veURTR1REcFlscTJUSWJpSElDNzdOLWlhcXB0T0wzaDNzWDlRMTJTclk2THRTVVhPTTlHVEtSMHNDeDBWVlM1MDV3dms2RENEZw?oc=5",
-      "published": "2026-11-26T12:13:26+00:00",
-      "category": "IT Schweiz"
     },
     {
       "id": "50b3868b9687e2bc",
@@ -371,24 +351,44 @@
       "category": "Markt"
     },
     {
-      "id": "c255a003d2dce690",
-      "title": "BACS bestätigt erfolgreiche Hackerangriffe von KI-Agenten - Swiss IT Magazine",
-      "excerpt": "BACS bestätigt erfolgreiche Hackerangriffe von KI-Agenten Swiss IT Magazine",
-      "summary": "BACS bestätigt erfolgreiche Hackerangriffe von KI-Agenten Swiss IT Magazine",
-      "source": "IT Magazine Schweiz",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMnVLRmdqeGNhd0hLVmFnOWZXeTZvSDQ0c1RzeEZfZkFYcC01NGxxdGw0RGxiMXJseERCRU1VcjJrR1ZPZG5BSFpjdWhHdHo3VC1CbHlnUEVTU05Wa3MwRTlBSHlYSkZfZW04eFk3ZXZvNE9sazU2Tll5UGExckNVVzZpd05RRWs3eGRQSUpfMEdFbHpxZm5KaUZDX0FreDFUZXJzS0tB?oc=5",
-      "published": "2026-11-26T07:12:00+00:00",
-      "category": "IT Schweiz"
+      "id": "5866a1dccd9885b6",
+      "title": "CVE-2025-42884: JNDI-Injektion in SAP NetWeaver AS Java ermöglicht Remote-Code-Ausführung",
+      "excerpt": "CVE-2025-42884: JNDI-Injektion in SAP NetWeaver AS Java ermöglicht Remote-Code-Ausführung All About SECURITY",
+      "summary": "CVE-2025-42884: JNDI-Injektion in SAP NetWeaver AS Java ermöglicht Remote-Code-Ausführung All About SECURITY",
+      "source": "All About SECURITY",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT0dFTm1VS0V5YXFOSWtoX2JvZTkzWmxpTWpDeHhsNFpBRTFIOXZPX3VIM1phWHd5M3dJV3A0NDQxaWNXM093MnIwdmlmOURzdmM3cThrUEhsUmVoWm1IWkR2aTRabjJaa2lDUkV4WVpJbGVOanpDQnZ0enI1cWdxYzhSbVVQa3FjT2lHOXllTk44QXY5azFSMnQyLXo2RGFPWnU1Y1BEOXZTY2c2MEUxTUdrMEtPNjNjLWxBWmM1Q0h5MXc?oc=5",
+      "published": "2026-11-26T08:59:18+00:00",
+      "category": "Security"
     },
     {
-      "id": "b369d55b5756f936",
-      "title": "Bechtle integriert AWS und Microsoft Marketplaces in eigene Cloud-Plattform - IT Reseller",
-      "excerpt": "Bechtle integriert AWS und Microsoft Marketplaces in eigene Cloud-Plattform IT Reseller",
-      "summary": "Bechtle integriert AWS und Microsoft Marketplaces in eigene Cloud-Plattform IT Reseller",
-      "source": "IT Reseller / Firmen",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMU8xbDhjZjFOZkJYWFA0QVRQYWpvSDdsYkVTS0dsQWRId2lmUTZ3eVA3Nnd5aTExWktTWHJVTmV2dmpXSUltU2EwMUVYcFVVYXRsc0d1eW5WWWl0akRZb0htenB1NnBMMkJwREFfMGR5Y0lBWkdnT2twQ2JQVmVFQXVtSWVVZTBsRWdkTzIxOUZRUFZ6UjE2bFozdDd5TDdwS0dWRG1XVDBRWVQ1VjV4UHF1MEhsYkN0TlBDTDNB?oc=5",
-      "published": "2026-11-26T07:12:00+00:00",
+      "id": "12ce9e5cc9330d01",
+      "title": "Bechtle integriert AWS und Microsoft Marketplaces in eigene Cloud-Plattform",
+      "excerpt": "Bechtle baut seine Position als Multi-Cloud-Provider aus und integriert den AWS Marketplace sowie den Microsoft Marketplace in die eigene Cloud-Plattform. Das schafft für Kunden einen zentralen Beschaffungskanal.",
+      "summary": "Bechtle baut seine Position als Multi-Cloud-Provider aus und integriert den AWS Marketplace sowie den Microsoft Marketplace in die eigene Cloud-Plattform. Das schafft für Kunden einen zentralen Beschaffungskanal.",
+      "source": "IT Reseller",
+      "url": "https://itreseller.ch/Artikel/106689/Bechtle_integriert_AWS_und_Microsoft_Marketplaces_in_eigene_Cloud-Plattform.html",
+      "published": "2026-11-26T07:58:24+00:00",
       "category": "Cloud"
+    },
+    {
+      "id": "22f74791b7040d04",
+      "title": "Drupal: Zugriffslücke CVE-2026-136716 wird aktiv ausgenutzt",
+      "excerpt": "Drupal: Zugriffslücke CVE-2026-136716 wird aktiv ausgenutzt All About SECURITY",
+      "summary": "Drupal: Zugriffslücke CVE-2026-136716 wird aktiv ausgenutzt All About SECURITY",
+      "source": "All About SECURITY",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM2lwVzlEMTd6T2d0V0tiTG90TkNoX0JHdlhaZDY3TFVfMFdhQ1ZsX05xTnVyWWJ2cFNWMFdSNHIzdWtIRFpfUnN6V01ZNmN5WnZ3Tnkxd3dMRTk0aWFaWEFDN19KMUJtQ09uOW9odG1fenlTVHJsNUJraGdrRDJrajBheWVwbllmVUZpemN6OFMtcUQxX0Y5NGlB?oc=5",
+      "published": "2026-11-26T06:38:06+00:00",
+      "category": "Security"
+    },
+    {
+      "id": "3f5d746a55af3138",
+      "title": "Chrome Zero-Day: Exploit aktiv, Update 157.0.8103.50",
+      "excerpt": "Chrome Zero-Day: Exploit aktiv, Update 157.0.8103.50 Security-Insider",
+      "summary": "Chrome Zero-Day: Exploit aktiv, Update 157.0.8103.50 Security-Insider",
+      "source": "Security-Insider",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVEdRZnl3bC02Z3FGaDN1cFhfLS1ELTA2MERTVzV6eW1KaDg5T1dzbGNUZnQzckFCNXJfV21iU3Y1ek9IUTJsNkE5aXU5OHM2bU9PRVVhUV9fZXQ2RS01S1NYU2thWlIzZnpaS3N0ZnlrQm5ZSExrLU9nM2ctc1FXdHJaSm1OdUdSd2RBOXZpZTFwV1pLQl8tOG5hRmUxUVhURnlWZ2tLVlMzS3h6OG9zdkd3?oc=5",
+      "published": "2026-11-26T06:00:00+00:00",
+      "category": "Security"
     },
     {
       "id": "9f20e1d68043da12",
@@ -411,6 +411,16 @@
       "category": "Microsoft 365"
     },
     {
+      "id": "fdbb796f7ca5666e",
+      "title": "Microsoft 365: Nach Großstörung ruft Microsoft intern „Code Red“ aus - ComputerBase",
+      "excerpt": "Microsoft 365: Nach Großstörung ruft Microsoft intern „Code Red“ aus ComputerBase",
+      "summary": "Microsoft 365: Nach Großstörung ruft Microsoft intern „Code Red“ aus ComputerBase",
+      "source": "ComputerBase",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdUhCWkdPVi1scWVodmNoVG1BeE9sVnBnSXlnZXVUTzVRUGVDVTM5aWpNSERwZVROdnBwZHppTE1XTFlNZnM2V1Zhcy00eTVSaW1OS2lhRnNSMmlBSVRPaWdLbUhTT2c2Rlh4Q183UlM4M2hXaWR2dTVwZVhzWGZJY0JkSC1tOWJXUnF6cko1a0lTeGd2bG9sczJOSTJwZkhPMUtHMGZBY3FXOUlCaGZkV3B0b3NUTGNqbFJmZUF2X1RVZ2NnOXNF?oc=5",
+      "published": "2026-11-25T16:36:00+00:00",
+      "category": "Microsoft 365"
+    },
+    {
       "id": "2e88c6fa41abf856",
       "title": "Code Red bei Microsoft nach Cloud-Ausfall; Weitere Störungen zu erwarten - BornCity",
       "excerpt": "Code Red bei Microsoft nach Cloud-Ausfall; Weitere Störungen zu erwarten BornCity",
@@ -418,16 +428,6 @@
       "source": "BornCity",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX0E3bzAwNjU2X3pGMGxhRGJoU1lKNVAyQlFVMTRnREZmbS16eENwM0t0emdCY3JDVEpBejhHNUZ0eHBhN3lXbWRDaEdwTzU0SjJCbDhGMHVMR2lDRVVlTWsxT0JlMjVfbjdoMHJ0eVRHcjVtTjdfVlhnbnZUaVFxa0ZjWkNEdHZrRWZMaUhjUE9xSUxxX0RSTDlTemhwazdSTzBuY0V3VVhmN0NH?oc=5",
       "published": "2026-11-25T15:17:38+00:00",
-      "category": "Cloud"
-    },
-    {
-      "id": "0996c1e36c8a6f57",
-      "title": "Multi-Cloud-Backup: Was „Cloud-nativ“ eigentlich bedeutet - it-daily.net",
-      "excerpt": "Multi-Cloud-Backup: Was „Cloud-nativ“ eigentlich bedeutet it-daily.net",
-      "summary": "Multi-Cloud-Backup: Was „Cloud-nativ“ eigentlich bedeutet it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMUFIcXEzVFc1UnhxWDRZYUM1MVMwTDdyR2dCdUcxcXRDOW4xZG54ajBfelhFaE5CT3l5dFJFUlFQSVFzM3MxekxwcERDcUhRQmtyejVHVWE0RXNibHV2X1JSbDdFTGNSVVY0MHc1N2E3Y2dDUmRaWGxHbGMxVjRyMVFnLTNnZmJ6clFjdHpR?oc=5",
-      "published": "2026-11-25T14:59:30+00:00",
       "category": "Cloud"
     },
     {
@@ -471,6 +471,16 @@
       "category": "Markt"
     },
     {
+      "id": "23556ad83e71e4ca",
+      "title": "NAND-Flash-Preise dürften Anfang 2027 sinken",
+      "excerpt": "Die Vertragspreise für NAND-Flash dürften im Schlussquartal weniger stark steigen als noch im Oktober erwartet. Für Anfang 2027 zeichnet sich ein Preisrückgang ab, weil chinesische Cloud-Anbieter weniger SSDs bestellen als geplant.",
+      "summary": "Die Vertragspreise für NAND-Flash dürften im Schlussquartal weniger stark steigen als noch im Oktober erwartet. Für Anfang 2027 zeichnet sich ein Preisrückgang ab, weil chinesische Cloud-Anbieter weniger SSDs bestellen als geplant.",
+      "source": "IT Reseller",
+      "url": "https://itreseller.ch/Artikel/106679/NAND-Flash-Preise_duerften_Anfang_2027_sinken.html",
+      "published": "2026-11-25T10:52:08+00:00",
+      "category": "Cloud"
+    },
+    {
       "id": "5f25a9a52e1284c8",
       "title": "Cyberangriffe mit KI-Agenten erreichen die Schweiz - IT-Markt",
       "excerpt": "Cyberangriffe mit KI-Agenten erreichen die Schweiz IT-Markt",
@@ -501,14 +511,14 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "c93ca087eec342e4",
-      "title": "Nutanix-CEO Rajiv Ramaswami kündigt Abschied an - Swiss IT Reseller",
-      "excerpt": "Nutanix-CEO Rajiv Ramaswami kündigt Abschied an Swiss IT Reseller",
-      "summary": "Nutanix-CEO Rajiv Ramaswami kündigt Abschied an Swiss IT Reseller",
-      "source": "IT Reseller / Personen",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZE5OZjJCcnlMTHB3dWpIeTJKa2RQdnRHLWFTeXVVNEMtdl9KYTVmN3k3SDh2OEhUMF83dVM2ZTRQU251dUp4TExLOWFIMDVxTFF4SnFDeUp4TDJlVTFQUkRlcTRVRk1Ec0JJc3c5a2FxWEJRYXNtY3g5TEg5ZDk3XzdjZmRFS2VQd3RTRUZJdENaTUJvUkNqYkRn?oc=5",
-      "published": "2026-11-25T07:12:00+00:00",
-      "category": "Personen"
+      "id": "1c1b4b8bd22241f7",
+      "title": "Dell verdoppelt Umsatz dank starkem Servergeschäft",
+      "excerpt": "Dell hat im dritten Quartal mehr als doppelt so viel umgesetzt wie vor einem Jahr. Allein mit KI-Servern erzielte der Konzern 22 Milliarden Dollar und hebt seine Umsatzprognose für das Gesamtjahr erneut an.",
+      "summary": "Dell hat im dritten Quartal mehr als doppelt so viel umgesetzt wie vor einem Jahr. Allein mit KI-Servern erzielte der Konzern 22 Milliarden Dollar und hebt seine Umsatzprognose für das Gesamtjahr erneut an.",
+      "source": "IT Reseller",
+      "url": "https://itreseller.ch/Artikel/106676/Dell_verdoppelt_Umsatz_dank_starkem_Servergeschaeft.html",
+      "published": "2026-11-25T08:09:05+00:00",
+      "category": "Markt"
     },
     {
       "id": "77c7844d1aab7d36",
@@ -521,16 +531,6 @@
       "category": "Markt"
     },
     {
-      "id": "d93660df9e147171",
-      "title": "Dell verdoppelt Umsatz dank starkem Servergeschäft - Swiss IT Reseller",
-      "excerpt": "Dell verdoppelt Umsatz dank starkem Servergeschäft Swiss IT Reseller",
-      "summary": "Dell verdoppelt Umsatz dank starkem Servergeschäft Swiss IT Reseller",
-      "source": "IT Reseller / Firmen",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbTEzM3VGelprNEsxczgxc1F4T2lYcXlkVUtWMU5lcjZPeVZFbkpfTmlZUFhyT1Y4c0dxc2JEaVM3bjJ0UGNHWENqX2tEcG1mZFVHQ1hpMGQzcnBncDFwTlVURTVvOE5OQ1RMYkI5TkdwLVVnTm1iSGl3ZC0tSUxySV81WU1lemNvUEw2dDRseGZRYUhnVXN4T2Y5UDNTUQ?oc=5",
-      "published": "2026-11-25T07:12:00+00:00",
-      "category": "Markt"
-    },
-    {
       "id": "a806c25c45d6805c",
       "title": "HP meldet mehr Umsatz und weniger Gewinn - IT Reseller",
       "excerpt": "HP meldet mehr Umsatz und weniger Gewinn IT Reseller",
@@ -539,6 +539,16 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYXd3ZGFyX2ctN3R6cmUya1Q3ckpjWUZoeXpXd2U1bGQ1aTJTd05aTi1UR2lLWGNORU9FLTk1SXEwN3NQZEZDQzV4ZUJ5aW5jMmI5U1N3OS1IVUhmdnJhaktFNEVlZmxZWnBuZTA5dWJvLUVKay1sd1hXSnV3Yzk0aVplX3lBV0xZcXptN1NDTQ?oc=5",
       "published": "2026-11-25T07:12:00+00:00",
       "category": "Markt"
+    },
+    {
+      "id": "0de11cb35c678b2e",
+      "title": "Nutanix-CEO Rajiv Ramaswami kündigt Abschied an",
+      "excerpt": "Nach fast sechs Jahren als CEO von Nutanix hat Rajiv Ramaswami seinen Abschied angekündigt. Er bleibt im Amt, bis ein Nachfolger gefunden ist, und soll Nutanix danach noch eine Zeit lang als Senior Advisor begleiten.",
+      "summary": "Nach fast sechs Jahren als CEO von Nutanix hat Rajiv Ramaswami seinen Abschied angekündigt. Er bleibt im Amt, bis ein Nachfolger gefunden ist, und soll Nutanix danach noch eine Zeit lang als Senior Advisor begleiten.",
+      "source": "IT Reseller",
+      "url": "https://itreseller.ch/Artikel/106673/Nutanix-CEO_Rajiv_Ramaswami_kuendigt_Abschied_an.html",
+      "published": "2026-11-25T06:28:56+00:00",
+      "category": "Personen"
     },
     {
       "id": "ec3833a573ee4538",
@@ -571,6 +581,16 @@
       "category": "Cloud"
     },
     {
+      "id": "403ab82b316d0f70",
+      "title": "Infinigate ernennt Tom OReilly zum Chief Transformation Officer",
+      "excerpt": "Tom OReilly ist neuer Chief Transformation Officer bei Infinigate. Er soll sich vor allem auf den Ausbau und die Optimierung des Plattformgeschäftes konzentrieren.",
+      "summary": "Tom OReilly ist neuer Chief Transformation Officer bei Infinigate. Er soll sich vor allem auf den Ausbau und die Optimierung des Plattformgeschäftes konzentrieren.",
+      "source": "IT Reseller",
+      "url": "https://itreseller.ch/Artikel/106670/Infinigate_ernennt_Tom_OReilly_zum_Chief_Transformation_Officer_.html",
+      "published": "2026-11-24T08:21:51+00:00",
+      "category": "Personen"
+    },
+    {
       "id": "30c65606d5bc23f9",
       "title": "Schwachstelle in Azure API Management (APIM) Classic führte zu Hacks - BornCity",
       "excerpt": "Schwachstelle in Azure API Management (APIM) Classic führte zu Hacks BornCity",
@@ -581,24 +601,14 @@
       "category": "Cloud"
     },
     {
-      "id": "71de01c55c022bba",
-      "title": "Infinigate ernennt Tom O’Reilly zum Chief Transformation Officer - IT Reseller",
-      "excerpt": "Infinigate ernennt Tom O’Reilly zum Chief Transformation Officer IT Reseller",
-      "summary": "Infinigate ernennt Tom O’Reilly zum Chief Transformation Officer IT Reseller",
-      "source": "IT Reseller / Personen",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZV93SFU3WnBNVFlXdlJkWEJ1OG1PS1hpSUN1WVRsTUd0YUNDVHRBaDJzdmhrcnRRRnlHLXUtRTdTMll4SXNxcDU5bk5WZmtmMTFGYUt5aWVqTF8ydEFrTUJVaVJzWFd1WnE5NWFFaUhlOWg1UkxlS2lMWVN3emZMRDR3ZWU3Smh4cXRvZ0dLSW9GTUVUdGlBRVVwRDhxSTYtVWhLZTA2UmVFM0JQRmNF?oc=5",
-      "published": "2026-11-24T07:12:00+00:00",
-      "category": "Personen"
-    },
-    {
       "id": "154a0622ab6b2b10",
-      "title": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse",
+      "title": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse - Swiss IT Reseller",
       "excerpt": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse Swiss IT Reseller",
       "summary": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse Swiss IT Reseller",
-      "source": "Swiss IT Reseller",
+      "source": "IT Reseller / Firmen",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY3JBZmg3bDJmVlJjSXVCZmlSUWdNNkcyVUhjWDQ5eFJYcWZQZGowcUtJQlRaVGwweDBLOVc1c1g1YkVSeTRzZDhNZUJWclQycy1VRzBtM2hEN012dzdJTTZSWmswZEtJRUtNNzF3dkRGLUp0QTZONktKMlJ2Ymxib3l0NkJEdmFyZ2RlN3V0b3ZYOF9UZkpwa1AwUU1rNS10TE5vVS1vbm5zb0Nk?oc=5",
       "published": "2026-11-24T07:12:00+00:00",
-      "category": "Firmen"
+      "category": "IT Schweiz"
     },
     {
       "id": "48f6cf571c9179f0",
@@ -611,13 +621,13 @@
       "category": "Firmen"
     },
     {
-      "id": "0a9ec7f6ff4f7fa2",
-      "title": "Zoll-Digitalisierung erreicht gesteckte Ziele fast - Inside IT",
-      "excerpt": "Zoll-Digitalisierung erreicht gesteckte Ziele fast Inside IT",
-      "summary": "Zoll-Digitalisierung erreicht gesteckte Ziele fast Inside IT",
-      "source": "Inside IT / Firmen",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb0xxTzBZSDdYZVI3ZzctVjRfQi1GeHNzczZCTlNQS0JSRGVTbjhpUVdJVEdyN05PRXo3Z2t3YVZyd3FZdzlpZXVUY0pidmRTVHNFcmVyLUFxWk9TenlDRzJJYUhtU1A3emZ0YUw1LTJra0JmeF9MSy1MRzE1cnZYUW90LWxsR0Zxbng4bQ?oc=5",
-      "published": "2026-11-24T05:39:00+00:00",
+      "id": "93f78af4a6bd1526",
+      "title": "Drei Mini-PCs, ein KI-Modell: Microsoft vernetzt Windows per USB4 - ComputerBase",
+      "excerpt": "Drei Mini-PCs, ein KI-Modell: Microsoft vernetzt Windows per USB4 ComputerBase",
+      "summary": "Drei Mini-PCs, ein KI-Modell: Microsoft vernetzt Windows per USB4 ComputerBase",
+      "source": "ComputerBase",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc3RXcWhJV0tmSkRheFdkb1RNM0tJRHI5U0t1djA2a3paSjlWMTJ4RGVrZGxKTDFnUXY1NVdQWFhRV2ZNQWt2WERiNkwwS3lIamhsWFBCWUZzSTd1Q3J4dkctXzRwYzcyVTdJZ3VBLUVhbzJ2YVQwWUc2bndPMWhPQmJNUWUxM2tETGY4UEJBZkZJd0NHX3JsNFZpbzhSQ0FWVDZfNzdZdTRGQWFWMEJWQ1pmQnNQNUd4VWFCNA?oc=5",
+      "published": "2026-11-23T20:45:00+00:00",
       "category": "Trends"
     },
     {
@@ -629,16 +639,6 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbGxLcnFDNC1ScTh0OG9LcUVMQXFEeXc1NGZ2a0djYmV2c3dVNGVFdXhIVGJzUEkwZzBlZGpMSFVaUHl2N1N0amFldFdDdllzU0lVbXF4TmdBMlBMT0xmSlJaclRtZWt2Wi1PX1lFT2ZpdU9JLWViWGJEYWs0dXFKZUFqSWlhcUt2V2ZHVmU2ajlkZlhic3lCTEpVVFBNWE56dWowS1c4bU9UdnlSaHNmQXd2V0I?oc=5",
       "published": "2026-11-23T15:08:04+00:00",
       "category": "Trends"
-    },
-    {
-      "id": "984dc5cc6fee348d",
-      "title": "Outlook-Lücke CVE-2026-124194: Angreifer greifen NTLMv2-Daten aktiv ab - BornCity",
-      "excerpt": "Outlook-Lücke CVE-2026-124194: Angreifer greifen NTLMv2-Daten aktiv ab BornCity",
-      "summary": "Outlook-Lücke CVE-2026-124194: Angreifer greifen NTLMv2-Daten aktiv ab BornCity",
-      "source": "BornCity / Microsoft To Do",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSklvMEpPaTI5TVpYdTRXYldMZTRWM2V2dmVJc25PS1htYXBfSm1RX2FqU1VaQm53RzVqZWp6ODlMVmNzTno4V0pSM1RTZXpfZm9BY21YUnRhTWN2bEpWbG9tbGYwTVNGNjRnSGwtdng1Z3JOZC00b3VjS1RUTmFEbUtOMFZYVl9hZll1MGdXLV9vekxNVkJsOUh3SVc4Zw?oc=5",
-      "published": "2026-11-23T14:31:04+00:00",
-      "category": "Microsoft 365"
     },
     {
       "id": "7752aea542c6aa6e",
@@ -741,7 +741,7 @@
       "category": "Personen"
     }
   ],
-  "updatedAt": "2026-11-27T16:16:16.551982+00:00",
+  "updatedAt": "2026-11-27T17:24:23.965160+00:00",
   "targets": {
     "Security": 10,
     "Microsoft 365": 10,
@@ -762,6 +762,6 @@
     "Markt": 10,
     "Firmen": 10
   },
-  "warning": "Nicht genügend passende aktuelle Meldungen: 6 × Trends. 7 von 54 RSS-Quellen waren nicht erreichbar.",
+  "warning": "Nicht genügend passende aktuelle Meldungen: 6 × Trends.",
   "aiSummaries": false
 }
