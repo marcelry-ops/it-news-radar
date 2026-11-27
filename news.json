@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "df64bc5e21d86059",
+      "title": "Cyberangriffe: Datenschutzbehörden melden deutlich mehr Datenpannen",
+      "excerpt": "Mehr Cyberangriffe, mehr gemeldete Datenpannen: Die Datenschutzkonferenz warnt nach ihrer 112. Tagung vor teils schwerwiegenden Vorfällen.",
+      "summary": "Mehr Cyberangriffe, mehr gemeldete Datenpannen: Die Datenschutzkonferenz warnt nach ihrer 112. Tagung vor teils schwerwiegenden Vorfällen.",
+      "source": "heise online",
+      "url": "https://heise.de/news/Datenschutzbehoerden-warnen-vor-Cyberangriffen-und-planen-Orientierungshilfe-11539641.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published": "2026-11-27T07:03:00+00:00",
+      "category": "Security"
+    },
+    {
       "id": "d1d58c9c7ffd5652",
       "title": "Freitag: SAPs massiver Stellenabbau wegen KI, FBI-Falle für Ransomware-Betrüger",
       "excerpt": "KI bedroht 10.000 SAP-Stellen + Betrug an Ransomware-Opfern + Südostasien ohne Nvidias KI-Server + Temu in Europa für Verbraucherschutz + Datenschutz-Podcast",
@@ -91,6 +101,16 @@
       "category": "Firmen"
     },
     {
+      "id": "fcbb86bdf860808f",
+      "title": "Erste Cyberangriffe auf kritische Infrastruktur mit KI-Agenten - SWI swissinfo.ch",
+      "excerpt": "Erste Cyberangriffe auf kritische Infrastruktur mit KI-Agenten SWI swissinfo.ch",
+      "summary": "Erste Cyberangriffe auf kritische Infrastruktur mit KI-Agenten SWI swissinfo.ch",
+      "source": "SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWXpnbkt3V3BWWURFeTZOMFR5V09EbU5xcEIyaG82OVY5MERYZTFsN2h3OEpGR2hieTRzSHJKbTFwLVV2Ul9JNjlLMWVFckNRMXZHVG5wX1hFZmJocmRaYlM3UWhTSGVhakRjVjVTOUFjdE5EM0FDUzNaX1lNaFJwcWpVRnpISTZ0bzRSYUVUMXBlY2o0NDFPTDZ6cC0zN0JsOWc?oc=5",
+      "published": "2026-11-26T15:49:28+00:00",
+      "category": "Security"
+    },
+    {
       "id": "0fe7718adc21d1ee",
       "title": "Kubernetes-Backups: Warum VM-Sicherungen für Container nicht ausreichen - it-daily.net",
       "excerpt": "Kubernetes-Backups: Warum VM-Sicherungen für Container nicht ausreichen it-daily.net",
@@ -131,16 +151,6 @@
       "category": "Firmen"
     },
     {
-      "id": "535234d784ba0bc5",
-      "title": "Warnung vor „erheblichen Folgen“: Erfolgreicher Cyberangriff auf die FIFA",
-      "excerpt": "Bei der FIFA haben Cyberkriminelle persönliche und geschäftliche Daten abgegriffen. Der Verband wiegelt gleichzeitig ab und warnt.",
-      "summary": "Bei der FIFA haben Cyberkriminelle persönliche und geschäftliche Daten abgegriffen. Der Verband wiegelt gleichzeitig ab und warnt.",
-      "source": "heise online",
-      "url": "https://heise.de/news/Warnung-vor-erheblichen-Folgen-Erfolgreicher-Cyberangriff-auf-die-FIFA-11539255.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published": "2026-11-26T13:33:00+00:00",
-      "category": "Security"
-    },
-    {
       "id": "974494a12f74fccd",
       "title": "SAP: Spionagevorwürfe um Startup-Partner Conduct - it-daily.net",
       "excerpt": "SAP: Spionagevorwürfe um Startup-Partner Conduct it-daily.net",
@@ -151,16 +161,6 @@
       "category": "Firmen"
     },
     {
-      "id": "ffbee855be4da530",
-      "title": "Cyberangriff auf US-Behörde gegen Finanzkriminalität",
-      "excerpt": "Eine weitere US-Behörde ist Opfer eines Cyberangriffs geworden. Dieses Mal trifft es eine Abteilung gegen Finanzkriminalität.",
-      "summary": "Eine weitere US-Behörde ist Opfer eines Cyberangriffs geworden. Dieses Mal trifft es eine Abteilung gegen Finanzkriminalität.",
-      "source": "heise online",
-      "url": "https://heise.de/news/Cyberangriff-auf-US-Behoerde-gegen-Finanzkriminalitaet-11539155.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published": "2026-11-26T12:59:00+00:00",
-      "category": "Security"
-    },
-    {
       "id": "e20f50dcbfd22cd3",
       "title": "Bundesrat will Mobilfunkbewilligungen beschleunigen - Inside IT",
       "excerpt": "Bundesrat will Mobilfunkbewilligungen beschleunigen Inside IT",
@@ -169,16 +169,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPenJkRzk2eFlwTU5CS3dHV3BCaEhtN0R1RHg3SkRYVG9KaF84cGxka3NmNjM2Mk41bDNyRVJ2Rnp4akE3MjhTU24wWXN6bHJEZ1RINU9YZ3p6UUFoWGNnYi04bFNhdVBxVEIxdWFfRk5KbGN2YmI2QlEtR3RVUUppN1JWX1lmSnVJYnZWTTBR?oc=5",
       "published": "2026-11-26T12:56:00+00:00",
       "category": "IT Schweiz"
-    },
-    {
-      "id": "48bdce92c317a1bc",
-      "title": "Hackerangriff bei Dienstleister: NRW.Bank schaltet Seite ab - it-daily.net",
-      "excerpt": "Hackerangriff bei Dienstleister: NRW.Bank schaltet Seite ab it-daily.net",
-      "summary": "Hackerangriff bei Dienstleister: NRW.Bank schaltet Seite ab it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE15UmxrWU1NNmYyeDBsZlJIeVpmRGZqdzlhQzAwdzRRUHpaVDlucC14QUc5bGVSYWxIaWtoV0tuZVlvWEVwN1RNR2gxTm5JNjVhUjlUUUM0ZTNzTWVFRTRXSTNicnhfQTRZWXY3LVg4X3ROZw?oc=5",
-      "published": "2026-11-26T12:29:17+00:00",
-      "category": "Security"
     },
     {
       "id": "0803b42bc3f3860a",
@@ -268,7 +258,7 @@
       "source": "All About SECURITY",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ3k0enJtbUJydVBRN0FzaER4SFJZOC0tc2NqdXpkUGpHVVdtcGtmX0J3eWJ6WFlPNml3eWtmR3l6VGE1cTBPMTVndkVZM1Q5d2Zna3dVQzV3aWxra1N4RUI3YjVvcl9FZXRCY1FwdlJBUHhJTFFsMXNxdlA3MjZiS2gyTjZ3RllXVF9jdUxiVmU3YmhTLVRIcmkxRQ?oc=5",
       "published": "2026-11-26T08:08:51+00:00",
-      "category": "IT Schweiz"
+      "category": "Security"
     },
     {
       "id": "12ce9e5cc9330d01",
@@ -279,6 +269,16 @@
       "url": "https://itreseller.ch/Artikel/106689/Bechtle_integriert_AWS_und_Microsoft_Marketplaces_in_eigene_Cloud-Plattform.html",
       "published": "2026-11-26T07:58:24+00:00",
       "category": "Cloud"
+    },
+    {
+      "id": "c255a003d2dce690",
+      "title": "BACS bestätigt erfolgreiche Hackerangriffe von KI-Agenten - Swiss IT Magazine",
+      "excerpt": "BACS bestätigt erfolgreiche Hackerangriffe von KI-Agenten Swiss IT Magazine",
+      "summary": "BACS bestätigt erfolgreiche Hackerangriffe von KI-Agenten Swiss IT Magazine",
+      "source": "IT Magazine Schweiz",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMnVLRmdqeGNhd0hLVmFnOWZXeTZvSDQ0c1RzeEZfZkFYcC01NGxxdGw0RGxiMXJseERCRU1VcjJrR1ZPZG5BSFpjdWhHdHo3VC1CbHlnUEVTU05Wa3MwRTlBSHlYSkZfZW04eFk3ZXZvNE9sazU2Tll5UGExckNVVzZpd05RRWs3eGRQSUpfMEdFbHpxZm5KaUZDX0FreDFUZXJzS0tB?oc=5",
+      "published": "2026-11-26T07:12:00+00:00",
+      "category": "IT Schweiz"
     },
     {
       "id": "22f74791b7040d04",
@@ -349,6 +349,16 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdUhCWkdPVi1scWVodmNoVG1BeE9sVnBnSXlnZXVUTzVRUGVDVTM5aWpNSERwZVROdnBwZHppTE1XTFlNZnM2V1Zhcy00eTVSaW1OS2lhRnNSMmlBSVRPaWdLbUhTT2c2Rlh4Q183UlM4M2hXaWR2dTVwZVhzWGZJY0JkSC1tOWJXUnF6cko1a0lTeGd2bG9sczJOSTJwZkhPMUtHMGZBY3FXOUlCaGZkV3B0b3NUTGNqbFJmZUF2X1RVZ2NnOXNF?oc=5",
       "published": "2026-11-25T16:36:00+00:00",
       "category": "Microsoft 365"
+    },
+    {
+      "id": "0996c1e36c8a6f57",
+      "title": "Multi-Cloud-Backup: Was „Cloud-nativ“ eigentlich bedeutet - it-daily.net",
+      "excerpt": "Multi-Cloud-Backup: Was „Cloud-nativ“ eigentlich bedeutet it-daily.net",
+      "summary": "Multi-Cloud-Backup: Was „Cloud-nativ“ eigentlich bedeutet it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMUFIcXEzVFc1UnhxWDRZYUM1MVMwTDdyR2dCdUcxcXRDOW4xZG54ajBfelhFaE5CT3l5dFJFUlFQSVFzM3MxekxwcERDcUhRQmtyejVHVWE0RXNibHV2X1JSbDdFTGNSVVY0MHc1N2E3Y2dDUmRaWGxHbGMxVjRyMVFnLTNnZmJ6clFjdHpR?oc=5",
+      "published": "2026-11-25T14:59:30+00:00",
+      "category": "Cloud"
     },
     {
       "id": "feae072fb4e25241",
@@ -691,16 +701,6 @@
       "category": "Personen"
     },
     {
-      "id": "219b00f443235a58",
-      "title": "WhatsApp-Backups: Eigene Cloud startet mit 2 GB kostenlosem Speicher - BornCity",
-      "excerpt": "WhatsApp-Backups: Eigene Cloud startet mit 2 GB kostenlosem Speicher BornCity",
-      "summary": "WhatsApp-Backups: Eigene Cloud startet mit 2 GB kostenlosem Speicher BornCity",
-      "source": "BornCity / Microsoft To Do",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ05jVEV5TjNOUWo2QmVJM3Z0SEk0cVVUbGtGZDl6Uzg4dzV3NjZHUXBoRDN6a2oyajEyamcxRkZGdm5EWURCT0tZWjZOak5nazNoSEJ6cThiNDhHNHE0eWFZemVtTUJIb09Fcnp3bk52YVN6LTFOODV4YlFQeU5NVW1GblBUN0s1ZTVvaWlaYmdaYXZsMlhGd293?oc=5",
-      "published": "2026-11-23T04:47:05+00:00",
-      "category": "Cloud"
-    },
-    {
       "id": "31b867f511dce0f8",
       "title": "Robotik-Startup Coprod erhält 6 Millionen - Inside IT",
       "excerpt": "Robotik-Startup Coprod erhält 6 Millionen Inside IT",
@@ -801,7 +801,7 @@
       "category": "Personen"
     }
   ],
-  "updatedAt": "2026-11-27T07:34:55.382289+00:00",
+  "updatedAt": "2026-11-27T07:46:29.150303+00:00",
   "targets": {
     "Security": 10,
     "Microsoft 365": 10,
