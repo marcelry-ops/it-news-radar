@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "a618a7c175728757",
+      "title": "Betrug an Ransomware-Opfern: FBI stellt Doppelfalle",
+      "excerpt": "Ransomware-Opfer zahlten einer US-Firma Geld für Entschlüsselung von Daten. Stattdessen zahlte die Firma Lösegeld und behielt die Differenz, sagt die Anklage.",
+      "summary": "Ransomware-Opfer zahlten einer US-Firma Geld für Entschlüsselung von Daten. Stattdessen zahlte die Firma Lösegeld und behielt die Differenz, sagt die Anklage.",
+      "source": "heise online",
+      "url": "https://heise.de/news/Betrug-an-Ransomware-Opfern-FBI-stellt-Doppelfalle-11539919.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published": "2026-11-27T04:01:00+00:00",
+      "category": "Security"
+    },
+    {
       "id": "f45d7882a772ed24",
       "title": "SAP: KI zuerst, 10.000 Mitarbeiter weniger",
       "excerpt": "Alle SAP-Abteilungen müssen melden, welche Stellen gestrichen werden können, berichtet Bloomberg. KI soll mindestens 10.000 überflüssig machen.",
@@ -61,6 +71,16 @@
       "category": "Security"
     },
     {
+      "id": "955648ecbea28bad",
+      "title": "Basler Datenschutzbeauftragte untersagt VPN-Auslagerung an US-amerikanischen Anbieter",
+      "excerpt": "Der Kanton Basel-Stadt darf seine VPN- und Proxy-Lösungen vorerst nicht in die Cloud eines US-amerikanischen Anbieters auslagern. Die Datenschutzbeauftragte blockiert das Vorhaben und warnt davor, dass der Anbieter auf unverschlüsselte Gesundheits- und Steuerdaten zugreifen könnte.",
+      "summary": "Der Kanton Basel-Stadt darf seine VPN- und Proxy-Lösungen vorerst nicht in die Cloud eines US-amerikanischen Anbieters auslagern. Die Datenschutzbeauftragte blockiert das Vorhaben und warnt davor, dass der Anbieter auf unverschlüsselte Gesundheits- und Steuerd",
+      "source": "Netzwoche",
+      "url": "https://netzwoche.ch/news/2026-11-26/basler-datenschutzbeauftragte-untersagt-vpn-auslagerung-an-us-amerikanischen",
+      "published": "2026-11-26T13:44:33+00:00",
+      "category": "Cloud"
+    },
+    {
       "id": "a3dc7f09bc33a9d2",
       "title": "Quanten-Startup Planqc kooperiert mit SAP - it-daily.net",
       "excerpt": "Quanten-Startup Planqc kooperiert mit SAP it-daily.net",
@@ -69,16 +89,6 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PbzJiNnQ3RDd4eTRjbWk5NE0xNHRndGhOdHBGTUozQVQxOVdvU2dOYU5keFdxOFFFUk93NEFPVlRIR2RERkgtYUFvdnJqNVBjbU9IamppNEEwWEpaU2xjckQ0Nmp2RHU1bnY1U1pR?oc=5",
       "published": "2026-11-26T13:43:20+00:00",
       "category": "Firmen"
-    },
-    {
-      "id": "535234d784ba0bc5",
-      "title": "Warnung vor „erheblichen Folgen“: Erfolgreicher Cyberangriff auf die FIFA",
-      "excerpt": "Bei der FIFA haben Cyberkriminelle persönliche und geschäftliche Daten abgegriffen. Der Verband wiegelt gleichzeitig ab und warnt.",
-      "summary": "Bei der FIFA haben Cyberkriminelle persönliche und geschäftliche Daten abgegriffen. Der Verband wiegelt gleichzeitig ab und warnt.",
-      "source": "heise online",
-      "url": "https://heise.de/news/Warnung-vor-erheblichen-Folgen-Erfolgreicher-Cyberangriff-auf-die-FIFA-11539255.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "published": "2026-11-26T13:33:00+00:00",
-      "category": "Security"
     },
     {
       "id": "e20f50dcbfd22cd3",
@@ -291,16 +301,6 @@
       "category": "Personen"
     },
     {
-      "id": "ba5e5231522f1f31",
-      "title": "GL.iNet GoodCloud: Hacker kapern Router über die Hersteller-Cloud - ComputerBase",
-      "excerpt": "GL.iNet GoodCloud: Hacker kapern Router über die Hersteller-Cloud ComputerBase",
-      "summary": "GL.iNet GoodCloud: Hacker kapern Router über die Hersteller-Cloud ComputerBase",
-      "source": "ComputerBase",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORmFwMWItQ3hTeUZxdDBvTi1EUnFWeUUxMUNMbG5WaGh0SUl1bFFkUEZpM0lYUDlnVXhDb1lWWHBuMVE5c3k0aEk0MkVYbzM0bHZjZEJhRHJReTZMVDl6elNOZElTdFJzdG9JNm5vd2I1RHBFNkRQVXJvM3hBMkFLUUo2VjRlMUd1eVNHbFJlVnZWYXppX2taMEVydjhJdTMzejdrS2lwMnhKd1JycjBNd1gtb3Vydw?oc=5",
-      "published": "2026-11-24T20:12:00+00:00",
-      "category": "Cloud"
-    },
-    {
       "id": "74eb333fbcefba51",
       "title": "Zoll-Digitalisierung erreicht gesteckte Ziele fast",
       "excerpt": "In den vergangenen acht Jahren hat der Schweizer Zoll seine Geschäftsprozesse umfassend digitalisiert. Von den 70 Projekten erreichen fünf das gesteckte Ziel nicht.",
@@ -451,7 +451,7 @@
       "category": "Personen"
     }
   ],
-  "updatedAt": "2026-11-27T03:10:22.828276+00:00",
+  "updatedAt": "2026-11-27T04:19:24.665607+00:00",
   "targets": {
     "Security": 5,
     "Microsoft 365": 5,

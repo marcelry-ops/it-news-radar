@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-27T03:10:22.828276+00:00",
+  "updatedAt": "2026-11-27T04:19:24.665607+00:00",
   "feedFailures": [],
-  "rawCandidates": 1097,
-  "uniqueCandidates": 879,
+  "rawCandidates": 1101,
+  "uniqueCandidates": 883,
   "selectedPerCategory": {
     "Security": 5,
     "Microsoft 365": 5,
@@ -348,6 +348,20 @@
   },
   "articles": [
     {
+      "title": "Betrug an Ransomware-Opfern: FBI stellt Doppelfalle",
+      "url": "https://www.heise.de/news/Betrug-an-Ransomware-Opfern-FBI-stellt-Doppelfalle-11539919.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "heise online",
+      "published": "2026-11-27T04:01:00+00:00",
+      "eligibleCategories": [
+        "Security",
+        "Firmen"
+      ],
+      "selectedCategories": [
+        "Security"
+      ],
+      "status": "selected"
+    },
+    {
       "title": "Verbraucherschutz: Temu verspricht Besserung im EWR",
       "url": "https://www.heise.de/news/Verbraucherschutz-Temu-verspricht-Besserung-im-EWR-11539845.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "source": "heise online",
@@ -514,10 +528,8 @@
       "eligibleCategories": [
         "Security"
       ],
-      "selectedCategories": [
-        "Security"
-      ],
-      "status": "selected"
+      "selectedCategories": [],
+      "status": "not_in_top_limit_or_allocated_to_other_category"
     },
     {
       "title": "E-Bike- und E-Scooter-Angebote zum Black Friday: Echte Rabatte bis 23 Prozent",
@@ -677,8 +689,8 @@
       "status": "not_in_top_limit_or_allocated_to_other_category"
     },
     {
-      "title": "Ubisoft vor Gericht: Das „AAAA“-Spiel war bloß Werbesprech",
-      "url": "https://www.heise.de/news/Skull-and-Bones-als-AAAA-Ubisofts-Prahlerei-hatte-juristisches-Nachspiel-11538543.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "title": "i-Kfz-App: Digitaler Führerschein startet verzögert",
+      "url": "https://www.heise.de/news/i-Kfz-App-Digitaler-Fuehrerschein-startet-verzoegert-11538559.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "source": "heise online",
       "published": "2026-11-26T07:37:00+00:00",
       "eligibleCategories": [],
@@ -686,8 +698,8 @@
       "status": "topic_filter"
     },
     {
-      "title": "i-Kfz-App: Digitaler Führerschein startet verzögert",
-      "url": "https://www.heise.de/news/i-Kfz-App-Digitaler-Fuehrerschein-startet-verzoegert-11538559.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "title": "Ubisoft vor Gericht: Das „AAAA“-Spiel war bloß Werbesprech",
+      "url": "https://www.heise.de/news/Skull-and-Bones-als-AAAA-Ubisofts-Prahlerei-hatte-juristisches-Nachspiel-11538543.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "source": "heise online",
       "published": "2026-11-26T07:37:00+00:00",
       "eligibleCategories": [],
@@ -918,13 +930,16 @@
       "status": "topic_filter"
     },
     {
-      "title": "BMW OS 8.5, 9 und X: BMW kündigt Softwareupdate mit 24 Funktionen an",
-      "url": "https://www.heise.de/news/BMW-OS-8-5-9-und-X-BMW-kuendigt-Softwareupdate-mit-24-Funktionen-an-11537886.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "heise online",
-      "published": "2026-11-25T14:37:00+00:00",
-      "eligibleCategories": [],
+      "title": "Betrug an Ransomware-Opfern: FBI stellt Doppelfalle",
+      "url": "https://www.heise.de/news/Betrug-an-Ransomware-Opfern-FBI-stellt-Doppelfalle-11539919.html",
+      "source": "heise Security",
+      "published": "2026-11-27T04:01:00+00:00",
+      "eligibleCategories": [
+        "Security",
+        "Firmen"
+      ],
       "selectedCategories": [],
-      "status": "topic_filter"
+      "status": "duplicate_or_similar_story"
     },
     {
       "title": "Autonome KI-Angriffe: BSI warnt vor Bedrohung durch AOF",
@@ -946,7 +961,7 @@
         "Security"
       ],
       "selectedCategories": [],
-      "status": "duplicate_or_similar_story"
+      "status": "not_in_top_limit_or_allocated_to_other_category"
     },
     {
       "title": "Cyberangriff auf US-Behörde gegen Finanzkriminalität",
@@ -1115,18 +1130,6 @@
       "published": "2026-11-24T09:09:00+00:00",
       "eligibleCategories": [
         "Security"
-      ],
-      "selectedCategories": [],
-      "status": "not_in_top_limit_or_allocated_to_other_category"
-    },
-    {
-      "title": "Entra: Microsoft warnt vor Datenabfluss in „Connect Health“",
-      "url": "https://www.heise.de/news/Microsoft-Entra-Datenabfluss-bei-Connect-Health-11535576.html",
-      "source": "heise Security",
-      "published": "2026-11-24T08:28:00+00:00",
-      "eligibleCategories": [
-        "Security",
-        "Microsoft 365"
       ],
       "selectedCategories": [],
       "status": "not_in_top_limit_or_allocated_to_other_category"
@@ -1683,8 +1686,10 @@
         "IT Schweiz",
         "Cloud"
       ],
-      "selectedCategories": [],
-      "status": "not_in_top_limit_or_allocated_to_other_category"
+      "selectedCategories": [
+        "Cloud"
+      ],
+      "status": "selected"
     },
     {
       "title": "USA erlauben SpaceX eine Million Satelliten für Weltraum-Rechenzentren",
@@ -2291,6 +2296,17 @@
       "status": "selected"
     },
     {
+      "title": "VMware vCenter – Zero-Day seit September aktiv ausgenutzt",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdkE4Y09xb3pFd3AxV3NjbVE2WGVwb3ZzTEs2MHhHVGV5VHc2NTAtV2pNUE1Ob3JDZWM5Q2VyZlV1YXNKaGRXcDk2aEtvdWpHVWlNMVp4eHFvN2ktUzdNcHF4ekdmTUVIVzhRNzJjT1JvM0N4VnZEdnlMbkZPTFlDX1NEdEp2SFhYWGo2STlNbGdlMkpaSVg1VHpfYmU?oc=5",
+      "source": "Meteora Web",
+      "published": "2026-11-20T09:16:22+00:00",
+      "eligibleCategories": [
+        "Security"
+      ],
+      "selectedCategories": [],
+      "status": "not_in_top_limit_or_allocated_to_other_category"
+    },
+    {
       "title": "Microsoft 365 Copilot einführen und administrieren",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLXlzcjItWDJiLWhnR2VfbjMxNmZGRlk3NWR3d0NhSFZXZHBjb0JLdEpZM3k1emNQS2JwVWdfLWRGbE1vZDY5NUI0cXNFWXMzU0tYNVF3LTlWd0dsV1VGMGV1ZlZ5endnZFQ4YmltRm5KcmJ3UU03aUk1Wktvc3kyRzNQekxkZTFzc0NWcGJIb042TF9nMmlza2NDTl9DaUJVdms3ekRDVG1jZ0FV?oc=5",
       "source": "Golem",
@@ -2482,6 +2498,17 @@
       "status": "topic_filter"
     },
     {
+      "title": "Novistore gehört zu den ersten Schweizer Onlineshops, die direkt im KI-Assistenten einkaufen lassen",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZVI0Q2VZbVpIUDZYRkNMbFJVa0ZKZWpkeXlvZl9LODNSSkRFYzBjenNBTGFXQjdJRXROSGlTT1VTaUNSWUZ3WDR4MDJzeFhKVTFpa0Q4RV9WYUlNNWpDOGE0Vi1xSDRuMjZIWi1jLUlDc3lET1h2RFh5VjJZZ01DcjVQcmFXMmlQclJHLVpDay1nNmxmbTdvNU5EMDY3SWc1aHZEWG1RYWZXOERKZ1VfQ0VDTXNmbUFhWDRFLWxxWWNJY1J5TG01RnpiTlpTZ2fSAdQBQVVfeXFMUE40Q0dKd3NIa09QUTAyREkyc2JXTHU1YUdFZXBYMTk2NTVnSk16S2w1cVJIQ1JHV09HVkQzNERoUEgzTTUxcEc3V1lrVG9nX3FqbTkyUGRYZ0MxUWgyVEN1Q21DdFhVQVdhRTcyV0M1ajNRbE9Va0RmNkstV0YzcXVlblk3cnItUl80TjhVQ0JHQUpOMlNhREdTMEJ0eFZxT2dQVWdaMHFVbExSZUlwbGg2clFfTlE0Zzc3WVNqeF9fQWo0SFhqOHc1N0tvVGZ4ODlrcWM?oc=5",
+      "source": "Presseportal Schweiz",
+      "published": "2026-11-23T10:14:29+00:00",
+      "eligibleCategories": [
+        "IT Schweiz"
+      ],
+      "selectedCategories": [],
+      "status": "not_in_top_limit_or_allocated_to_other_category"
+    },
+    {
       "title": "Synpulse kommt in US-Hände",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NQjdvdnZ4MDZkWE9YNXlQVXZ3UXFMTG95bXp4TWpWbnhNMV9TLVlCaDJ5Z0FNV0RpdmQzS0hFdUxYdTJYM09kMTNDMURobW15VzFkUVUyNFdUcURLTDdjVHdKLWFzeEFGSnVEMUFR?oc=5",
       "source": "Inside IT",
@@ -2500,18 +2527,6 @@
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
-    },
-    {
-      "title": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY3JBZmg3bDJmVlJjSXVCZmlSUWdNNkcyVUhjWDQ5eFJYcWZQZGowcUtJQlRaVGwweDBLOVc1c1g1YkVSeTRzZDhNZUJWclQycy1VRzBtM2hEN012dzdJTTZSWmswZEtJRUtNNzF3dkRGLUp0QTZONktKMlJ2Ymxib3l0NkJEdmFyZ2RlN3V0b3ZYOF9UZkpwa1AwUU1rNS10TE5vVS1vbm5zb0Nk?oc=5",
-      "source": "Swiss IT Reseller",
-      "published": "2026-11-24T07:12:00+00:00",
-      "eligibleCategories": [
-        "IT Schweiz",
-        "Firmen"
-      ],
-      "selectedCategories": [],
-      "status": "not_in_top_limit_or_allocated_to_other_category"
     },
     {
       "title": "«Höhle der Löwen»: Emmer IT-Firma knackt Millionen-Rekord – doch der Deal platzt",
@@ -2558,6 +2573,15 @@
       "status": "duplicate_or_similar_story"
     },
     {
+      "title": "Agentic Search Schweiz: HELP.CH informiert über die nächste Generation der Unternehmenssuche",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OM2tSdzhCeS1rbmg3WlgzNGNYc0pFYWpoNE8xN2Z5SlNlU2ZUUVcwQ3dMenVjVVdTN2liTGVWdU9Cckx5Y2h4RlVFYmdhRndEbEJrRVdtaEZRMVR4NHF6VnMwVlFVd25TdVEtdzMxNTZFMnRh?oc=5",
+      "source": "Swiss-Press.com",
+      "published": "2026-11-25T06:52:39+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
       "title": "Cybervorfall bei Dosenbach-Mutter Deichmann",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRFRQS2c3b1ZBQV9vOHlnS3J3TG5FdHhVM1FzWE5jaUVSWnNkYVFGWUg2b0Fic2JVWmJMZkNBcWpGSF9GamJaU2hjaU5WeFJwbGY4Q08zMmh1RVdBVFZIVXhVaVlLdWRya0FCZW55Ty1SUjVsWVd3c2FYbFZUVzlrbl9kRQ?oc=5",
       "source": "Inside IT",
@@ -2597,6 +2621,15 @@
       "status": "topic_filter"
     },
     {
+      "title": "Königspinguine können nicht immer königlich sein - SwissCybersecurity.net",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQjVJbVpabnRDREZVQVI4NnVjT2t2aW9VQzhudzRGYWphYzhnOFFlUEVUaHBoekVmXzZzZXV1cnI0RWVyNVg5QVVDSnFQWXNMSVRoekE0R1hjMDVFRzA4ZWI5VTdEYXA0QUdJV1Q1YUFScHQ0SldIZWRnWTFIYmFVdkFuc052aHdnUUJiNVp5RUVSc015QUZpZ01MS2kxWEpFV28yRlZJbmJaYUsw?oc=5",
+      "source": "Swiss Cybersecurity",
+      "published": "2026-11-20T10:40:52+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
       "title": "Cyberangriffe mit KI-Agenten erreichen die Schweiz - SwissCybersecurity.net",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWGZ5djFhbTFGcFVtOFpoblJwODF2ZkF2ZU42UUxvbXFHMWxRNFF4YzBQQVc0bnZSWno4UzZpRDMwbjVBck5US05YckZYWlVCN2VzMG80Wmw0YkZ5Z1ZiV3pIOFl4RTUyeHNKLXZidVpjUGhiUS11MU05TjJHZmJVQkF6aEdhRTZxUjUwQ1owek9hWnZfYUxQTGhOTjZWWG9STUNv?oc=5",
       "source": "Swiss Cybersecurity",
@@ -2627,6 +2660,15 @@
       "status": "topic_filter"
     },
     {
+      "title": "Fan von \"Get Low\", aber nicht von Rap? CCR bietet Abhilfe! - SwissCybersecurity.net",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaVFzNWFmUkNZS3JQRjFCSThaVERZUXYzdEFNRjQyY2h4RzdBbDBpdGx0eExSdnpxcm0wZW8yQk1waW5mQ0I0UG5hYVF6MGFrdjF1dFFKSDRIUDFxUmpOWGIxZXVuWVExWmxOUWdLellPaVdyOW1lSUp2XzdMTEY0dng0V0s2U19WdFd0VFQyYThoVE1BLU95dlBRNHhYQzVoeXdTamQ3LWdSdmEtUEpN?oc=5",
+      "source": "Swiss Cybersecurity",
+      "published": "2026-11-24T11:08:02+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
       "title": "Cyberkriminelle greifen Daten von Planzer ab - SwissCybersecurity.net",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM3lKZHk5Z3Ftc1djekh4WU5zZU5uWmFFaGVzc3F0V05TOVFiX1ZhUEgyXzU1ZXVPSWxMQjJTOEZNY2RRSkp6cnBfMmdZOXpyQXBKT2g5Q1c4Q254ZzRjdkVzZjhhT3dVZTBjcjFGS2MxazRXVGIyaW1kanBYaHAzYnc4LTJndkpMV1Qxc1ZLbUNNSjZTMDhSWmY1UQ?oc=5",
       "source": "Swiss Cybersecurity",
@@ -2640,6 +2682,15 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb2xlbndiTVptei11dkdueHgxc3dwSmF6OVFLR0c2d3E3R2VkaTlTM05CUzJIRUJsdU5vcTJxanB4NTc5WEF0Zk1RVktoWm0tVDJPLVlYM3lKemRxRTlHc2pXZHBEaGdQeG0zUk0xZzc0QUk2SkdCNVlyRjQyXzRXZjdPaUNTb2xMdEttVHZSeFRIQzNZUHhWdFR1eG1zY0U5aFpPNHhtUQ?oc=5",
       "source": "Swiss Cybersecurity",
       "published": "2026-11-23T10:11:25+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Gibbon geht dann mal lieber - SwissCybersecurity.net",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbWtzdUpkRDNISWg1TGhBYW0yajRXb0dMM2J5MHVWOFBydlU5bjlVdEtxUE9YWHY0a0ZIY3hCTVlvWDZOdWxXbWpJaDlpS2ZoWlVmQjFaLWtfWU1LREY2ZGR1bDE3MGlnQ25iazJuWUhiMTJrX292TmMySF92LWF3cDc5c0d2d29xM0xPQw?oc=5",
+      "source": "Swiss Cybersecurity",
+      "published": "2026-11-25T11:05:42+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -2701,10 +2752,10 @@
       "status": "not_in_top_limit_or_allocated_to_other_category"
     },
     {
-      "title": "Artex - SwissCybersecurity.net",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0taU95UWgtTEMwNHNHRnhyUVZ5aDJIalNLNHhEakVkUTA3V3JSNkxNQWdyM05BS0JqdXlJNTBoTGtqaFlXU24tQUo1NlpNbW9SUWZsNVQzcU4?oc=5",
+      "title": "Weihnachtliche Bieber-Hilfe - SwissCybersecurity.net",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNU1cySWVFdC0za1Ewb3dTejN2TXMxNGdmd2hmYmlmYTRYb1NNdGlxTlFGWDZJZGg1U3NDaGNjdXZwam4tdm02eTNuUFAzWFRvME5pTnJVNXBCUlN2dFVzMjZHS1BDaHVjSHd5OENBRkVpLWNjalYwVUx1RWxXQ2pZNmwtemNWU3FUaVg2NQ?oc=5",
       "source": "Swiss Cybersecurity",
-      "published": "2026-11-25T11:11:25+00:00",
+      "published": "2026-11-23T14:51:14+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -2740,6 +2791,15 @@
       "status": "topic_filter"
     },
     {
+      "title": "Gollum stiftet Chaos nach Drehschluss für den neuen Film - SwissCybersecurity.net",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSUlhTGE3V0UtZmRUOU0zMTZUdnN4NlY3aU5GTFhETXRUeHJkNmRmaEV5QnlPdjFpOGRoelJYdVNNWHJWU0IyNmc0SkZ5M292ckd5aXFFSTdWQm0wbWFnTG1NYWZHSFJtMkVuSktvTVluUUZNVDd4bXNZSFdtT0tzZ0FYbEV3enc0TmI3N0xYa25iSHUtRXByY3dBQkFxaE5xeS1jamhNYWRLQ19jMWVHZEJ1SHE?oc=5",
+      "source": "Swiss Cybersecurity",
+      "published": "2026-11-26T08:28:19+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
       "title": "Cyberkriminelle erwischen Dosenbach-Mutter Deichmann auf dem falschen Fuss - SwissCybersecurity.net",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYTVDTTMtNnIyc19GMWlad1MxcnJJRzdnMDlvSjVCOHpLRkJMLUdVS1pRNXctYjI2M1B5dXVQSG9tNVBlSWJ3NmUyU1I5cm1ldFlTMTB3VXVkNWRpSEZ6bVNNeEVJMFF1S0NEbmVIZThqUnYwMjI5QTVkd2ZTTmUxek9pbVlBVEcyRDE4ZTN6cmVac2VHV1pYeFFRUGxLNjhIUjlLeU0ydnhRMHBWbHJHeE05UVdUV1NHRlJ2QTVuVzlPNWc?oc=5",
       "source": "Swiss Cybersecurity",
@@ -2749,37 +2809,10 @@
       "status": "topic_filter"
     },
     {
-      "title": "Königspinguine können nicht immer königlich sein - SwissCybersecurity.net",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQjVJbVpabnRDREZVQVI4NnVjT2t2aW9VQzhudzRGYWphYzhnOFFlUEVUaHBoekVmXzZzZXV1cnI0RWVyNVg5QVVDSnFQWXNMSVRoekE0R1hjMDVFRzA4ZWI5VTdEYXA0QUdJV1Q1YUFScHQ0SldIZWRnWTFIYmFVdkFuc052aHdnUUJiNVp5RUVSc015QUZpZ01MS2kxWEpFV28yRlZJbmJaYUsw?oc=5",
-      "source": "Swiss Cybersecurity",
-      "published": "2026-11-20T10:40:52+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Fan von \"Get Low\", aber nicht von Rap? CCR bietet Abhilfe! - SwissCybersecurity.net",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaVFzNWFmUkNZS3JQRjFCSThaVERZUXYzdEFNRjQyY2h4RzdBbDBpdGx0eExSdnpxcm0wZW8yQk1waW5mQ0I0UG5hYVF6MGFrdjF1dFFKSDRIUDFxUmpOWGIxZXVuWVExWmxOUWdLellPaVdyOW1lSUp2XzdMTEY0dng0V0s2U19WdFd0VFQyYThoVE1BLU95dlBRNHhYQzVoeXdTamQ3LWdSdmEtUEpN?oc=5",
-      "source": "Swiss Cybersecurity",
-      "published": "2026-11-24T11:08:02+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
       "title": "Schweizweite Kampagne gegen geschlechtsspezifische digitale Gewalt lanciert - SwissCybersecurity.net",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ0VEbHJucVR5Qlp2SjEzVWUyVWhOYjVHOFlYb1l2aTctTmRjNGQ0aWFKcVhEaW83R1dBQ1Vqc2lWTjJRYm9iSnZabGRUdklkSEVNbmZIUDhjd3MyRDBtdGkxREs0eUsxQkFFT0NoQTU3a2hYMnUzUjRmbkZjZzUycm9LWUpUY294alV2U3JxTDVwR3FIM1JoVWNIcVhFRnAzYm1pRmxnbmVnbDBYLTRLaXNmdHd4RS1sTWV5cXM3dWhUMUw3?oc=5",
       "source": "Swiss Cybersecurity",
       "published": "2026-11-25T11:45:30+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Gibbon geht dann mal lieber - SwissCybersecurity.net",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbWtzdUpkRDNISWg1TGhBYW0yajRXb0dMM2J5MHVWOFBydlU5bjlVdEtxUE9YWHY0a0ZIY3hCTVlvWDZOdWxXbWpJaDlpS2ZoWlVmQjFaLWtfWU1LREY2ZGR1bDE3MGlnQ25iazJuWUhiMTJrX292TmMySF92LWF3cDc5c0d2d29xM0xPQw?oc=5",
-      "source": "Swiss Cybersecurity",
-      "published": "2026-11-25T11:05:42+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -2826,19 +2859,10 @@
       "status": "duplicate_or_similar_story"
     },
     {
-      "title": "Weihnachtliche Bieber-Hilfe - SwissCybersecurity.net",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNU1cySWVFdC0za1Ewb3dTejN2TXMxNGdmd2hmYmlmYTRYb1NNdGlxTlFGWDZJZGg1U3NDaGNjdXZwam4tdm02eTNuUFAzWFRvME5pTnJVNXBCUlN2dFVzMjZHS1BDaHVjSHd5OENBRkVpLWNjalYwVUx1RWxXQ2pZNmwtemNWU3FUaVg2NQ?oc=5",
+      "title": "Artex - SwissCybersecurity.net",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0taU95UWgtTEMwNHNHRnhyUVZ5aDJIalNLNHhEakVkUTA3V3JSNkxNQWdyM05BS0JqdXlJNTBoTGtqaFlXU24tQUo1NlpNbW9SUWZsNVQzcU4?oc=5",
       "source": "Swiss Cybersecurity",
-      "published": "2026-11-23T14:51:14+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Gollum stiftet Chaos nach Drehschluss für den neuen Film - SwissCybersecurity.net",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSUlhTGE3V0UtZmRUOU0zMTZUdnN4NlY3aU5GTFhETXRUeHJkNmRmaEV5QnlPdjFpOGRoelJYdVNNWHJWU0IyNmc0SkZ5M292ckd5aXFFSTdWQm0wbWFnTG1NYWZHSFJtMkVuSktvTVluUUZNVDd4bXNZSFdtT0tzZ0FYbEV3enc0TmI3N0xYa25iSHUtRXByY3dBQkFxaE5xeS1jamhNYWRLQ19jMWVHZEJ1SHE?oc=5",
-      "source": "Swiss Cybersecurity",
-      "published": "2026-11-26T08:28:19+00:00",
+      "published": "2026-11-25T11:11:25+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -2880,19 +2904,19 @@
       "status": "topic_filter"
     },
     {
-      "title": "Mitarbeiterkonto kompromittiert: Angreifer gelangen bei 1Pass­word an Kundendaten und Quellcode - ComputerBase",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMG1BUzRuc3RYZXp3YTR6SmExeU5Sc045cEdyUEYtWWh0dllGb1FXNUJXMS1GRmVvdXNMbG16OFMtYnljQ3VjVXVTaEt5aTdiV3JGWlN3ZWl5d05VNUhUdEhrcWhJdEhTa29EbEoxbmFYZjVNRmxxbGxKVU1EWEZCdFpVTm9wcl9KTk5NLXVpcFBFSk84U3pOOGxqRTFHaGRocVVpSUs5RkRSdDJ0TmxHWVVZdnhwNVRVQ1I2RG1USDZ6ZmJNWk03M1pKd3dsZDNIUkJXeEYyRU5QLUNiVFE?oc=5",
+      "title": "Neuer TLC-Speicher: Samsung plant Riesensprung mit 1,5 Tbit auf 5xx Layern - ComputerBase",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN05heG1pWHE2eU5DQU9QSlM4ZXEtT2VFd2t2dENlcHdIUm82N2hCRlpfcjhzeFJDeWdGMkhYV05rQ196RlZnTWphbmlSYzVuMHZudm1GYWM5MW9WYlpMbUpLQTZmdU5xTjNmSXRITlZzUVJFWG9STFItS3Z0dUVoWWlvQ2o5UVdxQno2RU93eFlBVXdyMUlnV0UxeTQ0N3Y0NU5URDI1OGhXNU1LV0pxRzlB?oc=5",
       "source": "ComputerBase",
-      "published": "2026-11-25T19:45:00+00:00",
+      "published": "2026-11-26T16:15:00+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
     },
     {
-      "title": "Neuer TLC-Speicher: Samsung plant Riesensprung mit 1,5 Tbit auf 5xx Layern - ComputerBase",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN05heG1pWHE2eU5DQU9QSlM4ZXEtT2VFd2t2dENlcHdIUm82N2hCRlpfcjhzeFJDeWdGMkhYV05rQ196RlZnTWphbmlSYzVuMHZudm1GYWM5MW9WYlpMbUpLQTZmdU5xTjNmSXRITlZzUVJFWG9STFItS3Z0dUVoWWlvQ2o5UVdxQno2RU93eFlBVXdyMUlnV0UxeTQ0N3Y0NU5URDI1OGhXNU1LV0pxRzlB?oc=5",
+      "title": "Mitarbeiterkonto kompromittiert: Angreifer gelangen bei 1Pass­word an Kundendaten und Quellcode - ComputerBase",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMG1BUzRuc3RYZXp3YTR6SmExeU5Sc045cEdyUEYtWWh0dllGb1FXNUJXMS1GRmVvdXNMbG16OFMtYnljQ3VjVXVTaEt5aTdiV3JGWlN3ZWl5d05VNUhUdEhrcWhJdEhTa29EbEoxbmFYZjVNRmxxbGxKVU1EWEZCdFpVTm9wcl9KTk5NLXVpcFBFSk84U3pOOGxqRTFHaGRocVVpSUs5RkRSdDJ0TmxHWVVZdnhwNVRVQ1I2RG1USDZ6ZmJNWk03M1pKd3dsZDNIUkJXeEYyRU5QLUNiVFE?oc=5",
       "source": "ComputerBase",
-      "published": "2026-11-26T16:15:00+00:00",
+      "published": "2026-11-25T19:45:00+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -2938,6 +2962,15 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZDFiRkRjMWhyZTFaSGVNdGZwc0NObHhDZDVudHRGeElMa2txRElhQV9pQTA0QWJwTXphVEFnS2RyMnlIdXFTOTVrSDhnSmdHQWVVNG5VYzZsYjVIQ0tnUnlTdHhEMmhIRXZKZ015UGdXZkdJa1JIX1dxRldubE9VUnJPd2hGTS1FMEVwUjIwLWVDYW9BS2VtY1VzOG5jdm1zQkExdEN4MXRiWDB3MVhxOFY0NXQwcFh1QjJ1SU5aUTQ?oc=5",
       "source": "ComputerBase",
       "published": "2026-11-20T15:05:00+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "BadBox 3.0: Infizierte TV-Boxen erzeugen Milliarden Werbeanfragen - ComputerBase",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM2kyRk51dlJtUmNGVTMxQy0xM2hzemljSmpzTVpscnhCQVdoNzdRTWkzM0tUVzR1RlN6dFpfT1JjVXFlclNiT3g3eG5Ka3lLeU1YRWNZMnRRRHFnVVo2b2ttVzE4czhNMG4ybzZhaElYRTN4TE1uc1pvVFdzOXRGc01sbkxlX3JoOHFBalRyV3p1Nmc4MHdzQy11enZVSzM5WHp4N1g2Rmo2NDBsaHB0SHpSRUQ?oc=5",
+      "source": "ComputerBase",
+      "published": "2026-11-22T14:33:00+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -3017,19 +3050,19 @@
       "status": "topic_filter"
     },
     {
-      "title": "Kioxia XL-Flash Gen 3: Spezial-NAND beschleunigt Lesezugriffe auf 3 Mikrosekunden - ComputerBase",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTGFQa3pBTzJ6ajlJaTBJa0V1Ui01dEZLWDhfWTNJUy1KMDZoa1ZmNHEtQnR3MHBkZ0FsMDZqZ2RfTklfeGxaZ3dybTNwbWdiT2lYbkxSd2I0WDB2NWZ0SmxoaHJPYkpXWkdUekZ1cENkMXJ2c1N0QS1QT251elR0aGJqczBadjFzZkg4cWJZbzhnc0daenBfR2lUTmJLSy1SUnhoWldFRU5Gd01PT1dMN0lqX055Q0pVUXBYdnRiQkZ6OTlraklvTDJR?oc=5",
+      "title": "KI-Aktien: Enthüllungen setzen Nvidia und Branche massiv unter Druck - ComputerBase",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOEVfUEZ1MlJGUjIzcEFNWEUxUGl5R3NLUE9EZmRMd1lOd0djZXZUa1B4b2FrUFc4RW1uQlZGZ0c0TW9jOU5rZlp5WThKTHRhWHdjLUM5WTFtcWszVl9mb19GOXU4TFdWcHhlX0pfVlhWeDNoZzVQSUh4eWhBRTB6bFFEZlZyb3BlWWdNbF9iS2RJY3lyMDdTTEs1bnpmNXlnMDM0NnBxMDNwXzNJUHNiakstZnhqTVk?oc=5",
       "source": "ComputerBase",
-      "published": "2026-11-25T15:58:00+00:00",
+      "published": "2026-11-22T13:00:00+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
     },
     {
-      "title": "KI-Aktien: Enthüllungen setzen Nvidia und Branche massiv unter Druck - ComputerBase",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOEVfUEZ1MlJGUjIzcEFNWEUxUGl5R3NLUE9EZmRMd1lOd0djZXZUa1B4b2FrUFc4RW1uQlZGZ0c0TW9jOU5rZlp5WThKTHRhWHdjLUM5WTFtcWszVl9mb19GOXU4TFdWcHhlX0pfVlhWeDNoZzVQSUh4eWhBRTB6bFFEZlZyb3BlWWdNbF9iS2RJY3lyMDdTTEs1bnpmNXlnMDM0NnBxMDNwXzNJUHNiakstZnhqTVk?oc=5",
+      "title": "Kioxia XL-Flash Gen 3: Spezial-NAND beschleunigt Lesezugriffe auf 3 Mikrosekunden - ComputerBase",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTGFQa3pBTzJ6ajlJaTBJa0V1Ui01dEZLWDhfWTNJUy1KMDZoa1ZmNHEtQnR3MHBkZ0FsMDZqZ2RfTklfeGxaZ3dybTNwbWdiT2lYbkxSd2I0WDB2NWZ0SmxoaHJPYkpXWkdUekZ1cENkMXJ2c1N0QS1QT251elR0aGJqczBadjFzZkg4cWJZbzhnc0daenBfR2lUTmJLSy1SUnhoWldFRU5Gd01PT1dMN0lqX055Q0pVUXBYdnRiQkZ6OTlraklvTDJR?oc=5",
       "source": "ComputerBase",
-      "published": "2026-11-22T13:00:00+00:00",
+      "published": "2026-11-25T15:58:00+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -3057,15 +3090,6 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVUtqN1ZkR0o4aFJ1Z05nS1JNcEFRY0VPY25aWGJDMUx4Q1hiUndIWTVuVWZDNWdEalZzME1aZnRmbXlQLU11NDd1Y0VVd3FRa2RtcGpXY2IwTnYzMktkUVo2RzgyYTRCbm85OTJTM3pNbkxCVFpzc3NJbzJxbVhkVGIzbENQaHRoRE5rU1pnRGtNT3ZRWUJGMjZCR1Q5Zy10aEJrRQ?oc=5",
       "source": "ComputerBase",
       "published": "2026-11-26T05:30:00+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Speicherkrise: Computer und Konsolen teurer, immerhin Fernseher billiger - ComputerBase",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPem01WVhGSjkyaG5JU0JHSGRCandRX3JJNjJmMlhOU202eWJSMnVCZVg5OEswaXZCOWdud280Y2JfZkxkWUhqeXJFby12RGRqSW5GRFRSRzEtUnZiN04tS0xydXE3Z1lkMXlPempsX2RKdlBDVDBZUTlRTmtXSjlrZkF3UmJxbFoyclZ2bGFHSVNNb1hzTFktWU12VFVGbDVla0kyb2lBQlBmZmVIM1BfX3ltZjNiZjQxQWRSV1lQMzA1TkJ5Qnl3REpmMmhDZw?oc=5",
-      "source": "ComputerBase",
-      "published": "2026-11-24T13:10:00+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -3125,10 +3149,10 @@
       "status": "topic_filter"
     },
     {
-      "title": "GeForce RTX 5090: Mehr Ware senkt Preise im Handel unter 8.000 Euro - ComputerBase",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYXNYNG41cUduamhEQURQeC1hbUwyMjZYMzl2NEdHaXpVUF9nYmZCa0RRS19YTjNvUE5TcVBrZjg3ZjhoSk51VUZzb3FnRHNZQmp3ejZpODF2NVl6WUZWT3FHXzFjdGx1MVg2UXZTT1VoSmYxZzA1cWNfRXMyUjJYQndteEE0dmxjX1dYOC1RSWtEZDBEQW1qaDBSSFhCMmN1V3VfOW03UHZ3a1NWUV9kbmVTdl9xZlZaTHJzdg?oc=5",
+      "title": "Debian Download - ComputerBase",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zUUZadFM0SDFyTXNSYVd5OXN0MmZIMUY2LXJ0d3o0aWxFWlowckhHai1UQ0RtRDk3bTkxY2UzVWlhMGpTbVBBTUVNUnBWTkN6RnBPNGxFdnJqa3RHWjNqRXFSUnJXcl9Ccnl2bVdn?oc=5",
       "source": "ComputerBase",
-      "published": "2026-11-25T09:42:00+00:00",
+      "published": "2026-11-21T19:02:00+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -3183,19 +3207,6 @@
       "status": "selected"
     },
     {
-      "title": "GL.iNet GoodCloud: Hacker kapern Router über die Hersteller-Cloud - ComputerBase",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORmFwMWItQ3hTeUZxdDBvTi1EUnFWeUUxMUNMbG5WaGh0SUl1bFFkUEZpM0lYUDlnVXhDb1lWWHBuMVE5c3k0aEk0MkVYbzM0bHZjZEJhRHJReTZMVDl6elNOZElTdFJzdG9JNm5vd2I1RHBFNkRQVXJvM3hBMkFLUUo2VjRlMUd1eVNHbFJlVnZWYXppX2taMEVydjhJdTMzejdrS2lwMnhKd1JycjBNd1gtb3Vydw?oc=5",
-      "source": "ComputerBase",
-      "published": "2026-11-24T20:12:00+00:00",
-      "eligibleCategories": [
-        "Cloud"
-      ],
-      "selectedCategories": [
-        "Cloud"
-      ],
-      "status": "selected"
-    },
-    {
       "title": "OLED-Monitore: Absatz hat sich verdoppelt und MSI überholt Samsung - ComputerBase",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYVI3LUYzOE96OEQ5WXMtcG5WREVueThxQ1NnQVdnM1VER3JRZ0MwOEk0WnJwM2lWWkRGVV9pNkNmMzRpWTh5LVE3RjQ3MUZhUXgycEJNWHNKVlNnYmVWWHdadjNlWXM0bkloU2tFZjNGSWxsU08tZEx3QXRsQzFsOE1jTVJCblctRkNOWS15bmdtYm81eE9DLUZWWEVBbEJMdGM5RlF0YlMwVnFGSTVNRWJWQkRjaFk?oc=5",
       "source": "ComputerBase",
@@ -3214,10 +3225,10 @@
       "status": "topic_filter"
     },
     {
-      "title": "Begehrter NAND-Flash: Samsung soll Produktion schon bald deutlich aufstocken - ComputerBase",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUGVDNmUxMHdCZndFTjlVZFRIX0FNQkc4Sk5xeUZ0MGZPbk9FdkFmNkQ3VnBnTGxQeUF4c3lhTS1vcDY1Q3FweHVkb2V2ZjVQTXgwdTFadnlpcWxuLTVJR2Jzdml4a1RSTGhYb3RpZ2ppY0xmcFBmTmt6NjlHRUxUNzNMaE5JMDlXQ0MySDN2a1l3VE9MaGFPUmo4d2xiOEFPX3c0bThPMGViSl81Z0FqNEoyNUhMdkxCT09acHNsaGlzSjctdFE?oc=5",
+      "title": "Speicherkrise: Computer und Konsolen teurer, immerhin Fernseher billiger - ComputerBase",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPem01WVhGSjkyaG5JU0JHSGRCandRX3JJNjJmMlhOU202eWJSMnVCZVg5OEswaXZCOWdud280Y2JfZkxkWUhqeXJFby12RGRqSW5GRFRSRzEtUnZiN04tS0xydXE3Z1lkMXlPempsX2RKdlBDVDBZUTlRTmtXSjlrZkF3UmJxbFoyclZ2bGFHSVNNb1hzTFktWU12VFVGbDVla0kyb2lBQlBmZmVIM1BfX3ltZjNiZjQxQWRSV1lQMzA1TkJ5Qnl3REpmMmhDZw?oc=5",
       "source": "ComputerBase",
-      "published": "2026-11-24T06:00:00+00:00",
+      "published": "2026-11-24T13:10:00+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -3306,6 +3317,15 @@
       "status": "not_in_top_limit_or_allocated_to_other_category"
     },
     {
+      "title": "Begehrter NAND-Flash: Samsung soll Produktion schon bald deutlich aufstocken - ComputerBase",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUGVDNmUxMHdCZndFTjlVZFRIX0FNQkc4Sk5xeUZ0MGZPbk9FdkFmNkQ3VnBnTGxQeUF4c3lhTS1vcDY1Q3FweHVkb2V2ZjVQTXgwdTFadnlpcWxuLTVJR2Jzdml4a1RSTGhYb3RpZ2ppY0xmcFBmTmt6NjlHRUxUNzNMaE5JMDlXQ0MySDN2a1l3VE9MaGFPUmo4d2xiOEFPX3c0bThPMGViSl81Z0FqNEoyNUhMdkxCT09acHNsaGlzSjctdFE?oc=5",
+      "source": "ComputerBase",
+      "published": "2026-11-24T06:00:00+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
       "title": "CachyOS: Easy wird der Anti-Cheat v2 mit dem November-Update - ComputerBase",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWS1XTXJVdjRfTGtUNWZfR1puSVJIWXhnZWF2c1VST0JseW1SbnJzMkU2OXFpTXlmZml5b3FYNGd0NEthWEZVb3NUTDBNQzFyNl8yTU9ZR0pxRTJPa0VwM1lUYkNCMUtMSWNEb0ZEcEo5ZFdOaUk2NmRLYUpaS21DWEhqZTNuNE1ERVdVRGpJazRoRWppYW5nZE1vWWJmRXlvVi1iekRBV0hPUC1PbGx6UjFrb2RwS0E?oc=5",
       "source": "ComputerBase",
@@ -3362,6 +3382,33 @@
       "status": "topic_filter"
     },
     {
+      "title": "Studie zur Games-Branche: Bei Epic Games und Ubisoft entfallen die meisten Jobs - ComputerBase",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSjdmMEVySm5nc1lqbUlKeTB4LUVXbmVfREVJRUd3ejBPQUM3bjEzZlZtamxOaXJkeTUxQnlOZTVCY1F5cGlxQ25hLUpIOF8yY3RHcjgtbmtJcVdyVGQ3OVVsUThRc2FQc2ZnRUEtakZTNDh1MkMtZHBkaWtqdlhrTkZhelF4YW90SXNoV0tPMWdZeU42b25BVnlFc25BcTI4R1RnU2YwMENnaXdhaVdDNE0wOFRSUXlSZ3VJOTIyWGFtRU9JSUZ3NnFB?oc=5",
+      "source": "ComputerBase",
+      "published": "2026-11-21T10:00:00+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Retro Games - ComputerBase",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92TENPRHVnM05oNjQ2anBxSmE0NHBsb0Y4T3BMeUhXWTJmWWZ5SDRIUl9EZUJCcnVyeUs2R3ZNQ0NFRVBQUGkxTE11SzZwaHBGd05wU3J2Q3o?oc=5",
+      "source": "ComputerBase",
+      "published": "2026-11-23T19:30:00+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "The Game Awards 2026 - ComputerBase",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MeFBPcnd1U29nZGZuS0tXZnJmQktWUXNtRkFlaGJqZldLdVhwS1U3czhDa1V4R3RMM0xyM241UllnYnIyOFRPRmpkMGlSZlZKbHZxSW5GMi1vd01IZEZYOUM3WUw?oc=5",
+      "source": "ComputerBase",
+      "published": "2026-11-20T19:55:00+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
       "title": "Neuer Samsung-Monitor: Wenn rekordverdächtige 1.100 Hz auf 1.280 × 720 treffen - ComputerBase",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa2tkRTE5UDlyaHlEQXNVZXQ4UFU0UmR5QWFJTTRRSVU4dVlKdGpxNnZzM0JIdTFuQWxkWjJkMzBaNG5XMHozQk9FSjlYSnNEX2hMNFM0cThQekt1T21EcnZJam05ZDZlNDJrX3JqNjM0NjNMNlVRalQxSlVCSUlVUlFiVEQtd09NRUF6eW5KTDREMXdlVHE5NU1mT0tLbkZSTGFyRjZPQXNJYVNFVjRHTmNhZmdsa3dxYzJXQnFpMlRHZjhPTXJj?oc=5",
       "source": "ComputerBase",
@@ -3398,46 +3445,19 @@
       "status": "topic_filter"
     },
     {
+      "title": "Game Awards 2026: Sony erstmals seit elf Jahren ohne GOTY-Nominierung - ComputerBase",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRFNJTGhXbFNzTTJ1bGdPYTBqNnVnenMweGNLMGJSUlBKWXdYYlBDZGFER2l1SG5feDNHMzlQbGowcjdicjZzT0VyNEhtajFOYm5ySE1OYklSdi1lcnhNc3lldXBuT0lMNXJuNERGV01HUmdPWWZ3WkxfSV9rVjJDRmtDMDl0VjAwNkJ4aGFBdWplVHVJU3IyX2d3aHlBZy1RUkdfZlR4WW94TzE1RkEtTTRzS1NxMnM?oc=5",
+      "source": "ComputerBase",
+      "published": "2026-11-20T19:55:00+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
       "title": "Apple: Eigener KI-Agent soll Apps bedienen und autark arbeiten - ComputerBase",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTEY0aGRoU0tHV2hHVV9jV0pOYTVMYTV3c2tkcGtyU2hud3RYRlFzaHRBLTlQQjZsdXZJd3VjRmxoSnVvYlRKbDhVbk1HV1BNYW12bDhsRUI2aTJnSDdoZTlLeVNqaUZYbHhodmpicXVuYlRnQnd2UjhhMWQ3bks2aTl1clFoclViakNmU1NnM2xycy1FMDAwTkM2cnVhTEYxdGRyYktQZUlOUDg?oc=5",
       "source": "ComputerBase",
       "published": "2026-11-20T11:05:00+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Kryptomining: Nvidia stimmt Vergleich über 290 Millionen US-Dollar zu - ComputerBase",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWFEwVUVIejRPOWljWlE0TU85ZlByZlZFSzdlcWNyVFg5TWZBX3pxY1NONHBQb180dGRkbExheUtIVkhLaVZZWFFqZ3Z4M3VSSm9iLTgzWkxJbllOWDdvSlhNRnlxWlhqakFGQm8wb2lXYXhaVk0zbTNieGFTWEEteXRiMUk4a0E3Zl83c3FqYnhWNE5pelZhX1RseFlGVTdFMlJkcE9nMGR3QndrZFo3R3RBRVJvOG5KTF9PMHd3?oc=5",
-      "source": "ComputerBase",
-      "published": "2026-11-26T11:30:00+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Endlich ein Lichtblick: NAND-Flash soll 2027 wieder günstiger werden - ComputerBase",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWGItUkwxaU1JbXZIRFBzcGNtQnJOM2VrcU45bmk1b3ZlYjhJVkVwbFQzbVExc0lEamZqamhEUlRBTk4wbGpkQ1VWX193MG52eW00OHhrQkxDTWlCRTE3cDBoVzJ5Zlp4VXZJLWpOSU4xZXRPZW1SNlJDdkl1SnZxU0VxSUxkNzZ1emUxS3U1M1lYX0dFX1gzdy1vZ3N3aEdQUVVhQXVkMU5Da0VZZmI1XzF2RVAtR1dXMTd5RA?oc=5",
-      "source": "ComputerBase",
-      "published": "2026-11-20T06:00:00+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Nvidia droht Strafverfahren: Kalifornien prüft mögliche Täuschung von Anlegern - ComputerBase",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdkd3WkVTVU9OR2Ruc1JtM21JLTBybjlNbS1CVkxOYWc2ekU3Um43azRSTTFwMDRSbmJhVXZuaDlDRWRDbEQ3RFMxQk1rUEFDMFBnVXpFWG56YTVHQjZNcEhqTjZFNHRDX0lYOXJtOExPdEVEQ1lGazRhQUpKZ1ZneFEtcHV5bGU2VVZFX3k2b0FuOWdhV19GWDFUelowOE9xOWdCdTQ1SDBZc3BtZ2E4LVFHZ244ZUFGaHBCck5kVDVIV0I5NVJQT3NNUHM?oc=5",
-      "source": "ComputerBase",
-      "published": "2026-11-21T21:49:00+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Alles auf Anfang: Jensen Huang ist wieder CEO von Nvidia - ComputerBase",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdUp2NE1tSjRQZEZicUFMZlNLczBJOEM0YVVLalYxYWFIU1VJMEhkV0lqMHRUeDZQVHFEVVp3ejFkdjJJSFZJQWV0RWVaOWp5dkJiVHRNMmZkamlVU1d6bkUyem4wQXFHMENFV2h2V0M2aG85aXFCLTVHc05xZVloRzVuMk82OGNzeVgxeVpkYVBvaTFTUGRZVEh4SnFYRUxud1NHc1JuekhvMzg?oc=5",
-      "source": "ComputerBase",
-      "published": "2026-11-23T14:12:00+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -4096,15 +4116,6 @@
       "status": "topic_filter"
     },
     {
-      "title": "Nahende EW-Integration im Aargau, neue Wärmeverbunde und Cop 31 - energate messenger Schweiz",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMy1GTjhVVTZodzhONkNIOVMwbGlTazJhYjE3a3VuWm9QUlM4d0xDSVhmUXFveFVVVzlwazVDa2pLME9PNUJoODMyTnBIRnI3ZndXWkNlN21mWWQzSGItUXltMUxSQ20yVE9VVk1lcEk5aXFZZW5NUkRzcXJWYkk2VThfVk50QXlVZkNDTk1OT2RwX1hBREhXQ2p2VjBjOFZwYkt3OE5fOEVHUHJqZ0E?oc=5",
-      "source": "energate messenger Schweiz",
-      "published": "2026-11-23T13:10:00+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
       "title": "ProKilowatt: Programmaussetzung nährt Abschaffungsgerüchte - energate messenger Schweiz",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUU4wZ1lvUm40TEpVTDExZ0VxdEtLLWxWTTZsS09xNFZnNVY0b1ZCcHhWV05NZ0N3ejkxbDBVVUFER2E4UE1hcEM5ZVRXd2hsdF9hMVNkOVhKMG5JNG8taTJCdTVtVjlGa3ZxSlc3V2VzYUJXTXBXYlRnM2tydEZ6TEthV3BsaHI1QjlwaHRSNGMxdmcxNFdac0xvNl9XeEx4ZHkyNVM3LUk?oc=5",
       "source": "energate messenger Schweiz",
@@ -4573,6 +4584,24 @@
       "status": "topic_filter"
     },
     {
+      "title": "Podcast: Das KI-Paradoxon im Büro – Belastung statt Entlastung - Computerwoche",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcTR1cjl3Y2hJWkhaT1ZqcUFQeTl0NXE5bDNLZmt6dnVFZ2xEYzNPdlNvMl9MeHUwbHNHMG1RVUNFMU5xT2hGd0lONWlnSDRLYUlQR1VWRXVIMXJ4MGhVTXJXZ0czdVRkeGZfRzFxcHBBZVdMNWlHUEdobUNZejZJRVpmQXR5VVFESmQ5cGx3UW8yZnFrQ1M1OTByYWVhWmZyVG5ZZDk2M0FlUE9fMnc?oc=5",
+      "source": "Computerwoche",
+      "published": "2026-11-24T08:50:00+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Sichere Arbeitsplätze für die Verteidigung - Computerwoche",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSUtfNzI2cks3MG55Q3FsTmxtZmQxSEI3c3k0VndZa3pxZkVzMHc0TjBBTEZNeGhzdDNVNHk0Q3FwVXFVdmtleVZ4MHUxRXJlTC10azFtTW1nUUlGNjA4YnFab1F2MWJ3NTZBeTRHYlpfS081TF80TFZUWUxjelVxNmd6Wk9IYlJha2xVcVpkMmxrWjNKNE1B?oc=5",
+      "source": "Computerwoche",
+      "published": "2026-11-23T03:55:00+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
       "title": "Java-Sicherheitspatches: Deutsche Firmen brauchen zu lange - Computerwoche",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTlppSFJzZHhxckRFWEN6OUNUd1FSOVpueVo0dFktdEtYY1pyVE4xaHhacDA0bFltbDFsTFJzN0pRQ0RrTGxOZVp5aU1uc1RjTVppbElSY2ItaV8wSlBtb2dUS2dWRHNkSWpyckdySDdkR2JyLU1wR094Tzl6RTJ2Z1hub2JlTm9KYWwzLTNHd0RpdzFfeGdEeXFmTTFzcVZnVjNwb3k2YnRHU2M?oc=5",
       "source": "Computerwoche",
@@ -4618,28 +4647,19 @@
       "status": "topic_filter"
     },
     {
-      "title": "Podcast: Das KI-Paradoxon im Büro – Belastung statt Entlastung - Computerwoche",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcTR1cjl3Y2hJWkhaT1ZqcUFQeTl0NXE5bDNLZmt6dnVFZ2xEYzNPdlNvMl9MeHUwbHNHMG1RVUNFMU5xT2hGd0lONWlnSDRLYUlQR1VWRXVIMXJ4MGhVTXJXZ0czdVRkeGZfRzFxcHBBZVdMNWlHUEdobUNZejZJRVpmQXR5VVFESmQ5cGx3UW8yZnFrQ1M1OTByYWVhWmZyVG5ZZDk2M0FlUE9fMnc?oc=5",
-      "source": "Computerwoche",
-      "published": "2026-11-24T08:50:00+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Sichere Arbeitsplätze für die Verteidigung - Computerwoche",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSUtfNzI2cks3MG55Q3FsTmxtZmQxSEI3c3k0VndZa3pxZkVzMHc0TjBBTEZNeGhzdDNVNHk0Q3FwVXFVdmtleVZ4MHUxRXJlTC10azFtTW1nUUlGNjA4YnFab1F2MWJ3NTZBeTRHYlpfS081TF80TFZUWUxjelVxNmd6Wk9IYlJha2xVcVpkMmxrWjNKNE1B?oc=5",
-      "source": "Computerwoche",
-      "published": "2026-11-23T03:55:00+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
       "title": "Digitales Vertrauen – ein neuer Milliardenmarkt für Mobilfunker? - Computerwoche",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM21lc2xidXd2QUt3VmZHaThhajRwX21WLTBIX1FrT1RXWHpPOXlBYU1Wd0N0SXlFTmsyQjBVU3ZnUUxCYmxRREhTLWw1dG9HdTMtSHpJaXNndzB4WVNQd04wLWRPZHg3LVZ1VHRfeWpueHdwd1pMNXlwVkNLZ3F5MEhhM0Y1OHk0OXFnZnpnZW9SSzk5eUZxUGJ2MFAtOFB0THhiWkFoa0g1TVZ1TVEzOA?oc=5",
       "source": "Computerwoche",
       "published": "2026-11-23T13:54:29+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "CrowdStrike schließt mit Zscaler-Kauf Netzwerksicherheit-Lücke - Computerwoche",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX1hIdjV0OVR0X05qXzJRMUFycW8yVng0cTBEV2dZRnp1VXpWTHRnNUtiRlRWMkpTY3IzMkdzcThfVTNKNEhRb0R4dTN0WEwyZUpIekc2cXVHQVdrZUNxS0NpdWt2QmJKVWgybmI5VGFnYzlzNlpxTUNnUEVCSl9LQnFsbG11MzhmRTNYOW9fR2NIc2FGcHYxcEVTZVl0cF81V29fWkR0NE92QnpWd0JScmpB?oc=5",
+      "source": "Computerwoche",
+      "published": "2026-11-23T15:19:35+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -4654,10 +4674,10 @@
       "status": "topic_filter"
     },
     {
-      "title": "CrowdStrike schließt mit Zscaler-Kauf Netzwerksicherheit-Lücke - Computerwoche",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX1hIdjV0OVR0X05qXzJRMUFycW8yVng0cTBEV2dZRnp1VXpWTHRnNUtiRlRWMkpTY3IzMkdzcThfVTNKNEhRb0R4dTN0WEwyZUpIekc2cXVHQVdrZUNxS0NpdWt2QmJKVWgybmI5VGFnYzlzNlpxTUNnUEVCSl9LQnFsbG11MzhmRTNYOW9fR2NIc2FGcHYxcEVTZVl0cF81V29fWkR0NE92QnpWd0JScmpB?oc=5",
+      "title": "7 kolossal gescheiterte Webtechnologien - Computerwoche",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS21XUm9qWUJfYlhyenZVVmpXNWFNN0tYQW0yTXgxVDRKR1d4U1k4THhyWFpfUU00VUowdVRuMF8tbTd2dS0zOUN1RTl1NVlNcThpX1dLVVphcTg3U3lxQlNGR1R3bm82ZHprUUh1RGpiSTI5bDJTZXFUVDlEaWJyQTB2NlpYejlLY0ZNS1hMaHBKU0U?oc=5",
       "source": "Computerwoche",
-      "published": "2026-11-23T15:19:35+00:00",
+      "published": "2026-11-27T03:00:00+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -4674,15 +4694,6 @@
       "status": "not_in_top_limit_or_allocated_to_other_category"
     },
     {
-      "title": "Welche Cybersicherheits-KPIs CISOs und CIOs wirklich brauchen - Computerwoche",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMkhLdFhZT3pjSDlSOHRWS0N0X20yLU1ST3B3aWFVZWllS1dYWHhUMGtkenQyXzZhYTM5RWFPSjIwSGJ5TlpLaXZZLUtaOUtHdFQ1bkY4T3Y3VUR2Zmc3ZGZOd0xfamFRbXFJbFpQNlZZc3FRRGFxb2NHOXcydFlLbjA4QldtdGJjbE5tNkd4N2RkS0pYdWR5dTNzSWZ6U2RDZGtKMlZ3QlVGWU5RbVBKeQ?oc=5",
-      "source": "Computerwoche",
-      "published": "2026-11-24T09:44:36+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
       "title": "Kontext und Kontrolle entscheiden über den Erfolg von KI - Computerwoche",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMm1LOGFqTHlkZmR0cVlibmhRYnBXQTdoMTBwR2pmRWVlcXhSM1Byd3BhYVhidjBNc29LMmJuVXZWUXJvQWxkbzRSWFE4cWcxTlQ3NHBIOXVUUjlqZlFvM3ZPNWZ3VWxfbTBkMEJaT2xfc0N4SGJJbVh5aUR3ckRsZUN6TjZpd0gyYlhFZjF3bzB1Vkw3M1FvRTd0bGNIV2pCa0tDazdOWG5odw?oc=5",
       "source": "Computerwoche",
@@ -4696,6 +4707,15 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOenNib1Q3N0tSWWVVTEktakQxSU5XMzJEeVNZWWt2bm16WG9fNDVnb0pfTEhIY2JNQlc0SGxZbXgxeFo2RWZKcjlLZ1paS09jQnkyVEc4N2NWZnpibXJHWXF1MnV4Tm9TRFo0Wm5lNXZiUmhsMlFpU0lrT2NSS3FKLWVDamJXMEN5NnBWdkhlUTM?oc=5",
       "source": "Computerwoche",
       "published": "2026-11-25T03:00:00+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Welche Cybersicherheits-KPIs CISOs und CIOs wirklich brauchen - Computerwoche",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMkhLdFhZT3pjSDlSOHRWS0N0X20yLU1ST3B3aWFVZWllS1dYWHhUMGtkenQyXzZhYTM5RWFPSjIwSGJ5TlpLaXZZLUtaOUtHdFQ1bkY4T3Y3VUR2Zmc3ZGZOd0xfamFRbXFJbFpQNlZZc3FRRGFxb2NHOXcydFlLbjA4QldtdGJjbE5tNkd4N2RkS0pYdWR5dTNzSWZ6U2RDZGtKMlZ3QlVGWU5RbVBKeQ?oc=5",
+      "source": "Computerwoche",
+      "published": "2026-11-24T09:44:36+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -5035,7 +5055,7 @@
         "Markt"
       ],
       "selectedCategories": [],
-      "status": "not_in_top_limit_or_allocated_to_other_category"
+      "status": "duplicate_or_similar_story"
     },
     {
       "title": "Arrow lanciert Vertriebsportal für Cloud-Partner - IT-Markt",
@@ -5222,6 +5242,15 @@
       "status": "topic_filter"
     },
     {
+      "title": "Täglich relevante IT-News für Entscheider - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcUptUXY1eEczc1Q4b1ZfTkRCMkV6Nkc4OXNGQXJQWERxRnUwbkxEVVZhUDA5ZWZiQVJIWXhVSURFQ1hBcWRGT1FGcF9Edm1UTXVXazMwd094WUpOMzZiVXA2R0FDWENOMTRvX2lZXy1SSHRhT3d6OFFLb2tmbGk4TQ?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-24T22:25:57+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
       "title": "Ex-ShinyHunters-Gruppe erpresst nun unter INCEPTION - it-daily.net",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xOXlHa1NCOXNLVlpBUklSWktfekVsWm5GN28xRDJSZEpzX1JwbGwtNG1VSmY1YjNGN1NSclpVdjI4TU9QQUNnQlJYV3NxLWR1XzhMdXZqWk9hS0lXVkRmZUhhRnpxLXAtYXFaOGw5TzYwNDdjZHc?oc=5",
       "source": "IT-Daily",
@@ -5282,6 +5311,15 @@
       "status": "topic_filter"
     },
     {
+      "title": "Mehr Fokuszeit dank KI: Was der Mittelstand zurückgewinnt - it-daily.net",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iQnhjTV83VXkxRUYtTVdlNm9Eb1ViQi1ISDd3WnRzVE5tdGlkOWxwWmd2UFh5TXZWN0ZPZ1J2dWFXTmZGZ3Vpa2pHQmhJZGdGSzFyeFJEejd6ZTVyaEtYWnl1NTdQa1h1T1JWNUFaX0JYdw?oc=5",
+      "source": "IT-Daily",
+      "published": "2026-11-27T04:02:46+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
       "title": "Pickhardt Felix - it-daily.net - Täglich relevante IT-News für Entscheider - it-daily.net",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JN2pnV1hCQ3c3S0hSMXZTZGtkZkF2aUxJdGdFamxVR3FoUnJXeUIwWkRaWE1hMmhWZV9GTS0wa1NuX3pVbWJhaDljTHhIR3RrUC1BMHZHbEsxQQ?oc=5",
       "source": "IT-Daily",
@@ -5295,15 +5333,6 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HX0pIWG5BUjJQMlZvWnRocnBtbXYxOEVxVGdPSUhiUjhXdVNvSlFldlRlc2pjZDlKZGFPckwwUmdsNlpnOFBhT1RVV21uSVk5alZqbTg5a0QxMEtBdVVjVE81S2NlbFNTTGFBYlhiN1Frdw?oc=5",
       "source": "IT-Daily",
       "published": "2026-11-25T08:23:55+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Täglich relevante IT-News für Entscheider - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdXVlU2Y1ajQza1ZLYkxDWGpJS1ByZGROVXBkeHdiclhKeG5QVkJmZXJrZlRyczdsNnE2aVlKQzRlczBHa1hXV2tmSktWX2d6NjVNLVVqR1VsMFpoVm9KcUxTN19HWnZyQjdmUWpmX2tscHlxalVKVzBfODJlMHdNbw?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-24T13:03:52+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -5724,24 +5753,6 @@
       "status": "topic_filter"
     },
     {
-      "title": "Wie Daten im Mittelstand zu besseren Entscheidungen führen - it-daily.net",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMGpTUGQteDVlRFpVM3NEMm91OFNsbjhOb2l3d2JYeFZLLWlTU2xlS2JwcVIyLWI4YXlDVVlOdnlPZEpZUW9LdzJVMXNNZXFrRzFxNFMzWC1PYUk3QnZzV3h2bFJiRVZ0WW5QcU5tWGJvSTh5VXNKaDAyaXZnUXlDWEVCYUw?oc=5",
-      "source": "IT-Daily",
-      "published": "2026-11-20T12:14:00+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Schlagwort: Mobile Satellite Services - Netzpolitik.org",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NUXhVRXpvbVFla3RiaU9XU3pvemE5UjBHcXVnc2xSeTZTS3JVa200ek1kUm5lTkpIYUVwTTJBUmdhQ1FiM25oUHZ1YjROMkNGNmF5VExUSTlXY0VlQlh1U2d0eU4?oc=5",
-      "source": "netzpolitik.org",
-      "published": "2026-11-21T06:45:42+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
       "title": "Mobilfunk aus dem All: Kampf um die digitale Zukunft - Netzpolitik.org",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQWZPdUhFamdNNV9RcUY5dkpMOGpiQ3ZkellMaHBzYzU1RFdSSDB0cy1vRHB4MTJNR3FyVUxoaHdna1BibzFmVjQ0X3JTek9yVGVwU1hLQV92YlRFMVBNbW10VWZzdjZTVUZnaXhSbUFna3dwajE3b18tT2RVTnFFbmEzUFJjRHlP?oc=5",
       "source": "netzpolitik.org",
@@ -5773,6 +5784,15 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQmc4cUJqWTVyVUJPQlh1YktxVjdBa2VuUU1TMHBiUVJ2cFI0QU9sdG8zc3AwYVNKSmVIX01sekZITGl0MVd2VF9BZzAxUVByWkN0cHFTZ0JscUlGMERsdUJTcEthVGZRaWxQY3JYVTc1TXUyZVpaQ1V1amt3Vm4tZUFKYzc2V0hsSlEtVHdVOA?oc=5",
       "source": "netzpolitik.org",
       "published": "2026-11-25T12:01:30+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Schlagwort: D2D-MSS - Netzpolitik.org",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBRRGxQS2tfbHljUzZqT3gyamlKMlB2WVJhNnlQOGNQbkNra1o5WnFyRzg3c3k1RUZVR2lzbWpYZkZ5bGVzNTdBeG5zcEU?oc=5",
+      "source": "netzpolitik.org",
+      "published": "2026-11-21T06:45:39+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -5928,6 +5948,33 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wR2JVaWtTdVB4ejY5RUlmcVdhMmdXdDVzZ0hrczRQU2dpOGtSdUtmY3oybWpFU3VFX2NjMXZwZ1NXZmFidjRHRm14c0hDMzFVd0syQUtB?oc=5",
       "source": "netzpolitik.org",
       "published": "2026-11-22T07:40:46+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Ticker-News von t3n vom 20. 11. 2026 - Netzpolitik.org - Netzpolitik.org",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YSmJFb0FHM1JWS0dMQnNrREM3ZUtPb0xOdkd1QTRYTkUtTXByUmVpVEdiSDNucnl4cGRoZDRVVkhmLUQ4T19CN01zRXY5SzQyRDJxYUJJVGZVbVZUcFp4OEFWQmV3anJ5M2JPV3NEVVByd3NO?oc=5",
+      "source": "netzpolitik.org",
+      "published": "2026-11-20T16:29:35+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Ticker-News von Mediendienst Integration vom 20. 11. 2026 - Netzpolitik.org - Netzpolitik.org",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYnUxbmgyMG41aDNTRk9jSnNud1lqQ09yYndsY3ZFZ3hvTXY1TFd1Wm5OaTRhenFWNk1aSjBqQmNXM3YzaTNwckdwcE4ybTY0MmNWUEFvWmFQZXJ3QzQyajFmdEhPUHdORDRHclRfcE05RmUwZDhkNkJOZUhzOTNyOGpyejUyR3Q1WlVFdGZtVVo?oc=5",
+      "source": "netzpolitik.org",
+      "published": "2026-11-20T13:35:11+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Ticker-News von Correctiv.org vom 25. 11. 2026 - Netzpolitik.org",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQazFZQU9KZTlnUEpwaDFSclJ1Q0dYcVZ4dExuakZESzQ4TFVpSldJUWRheF85YThtRktJNDJua05oeENad1JLalBTVjFUUm9iSXp0WFBWZHJ0U1JxNGoycVhra2VtRXEwSmJkUlJYQTZKVmZVM2ZHSGVTeUNZbUYyejJR?oc=5",
+      "source": "netzpolitik.org",
+      "published": "2026-11-25T16:02:27+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -6535,15 +6582,6 @@
       "status": "topic_filter"
     },
     {
-      "title": "KI-Compliance 2027: Anbieter globaler Modelle brauchen regionale Regelpakete - BornCity",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbFIzOU5SbkFyZjBKdC11aC1hZ3RQYURncTJud212SlMzVlFycVdQMFNxY3JVOWUxRThVdW9UMW1WUkNWX1oyT21IMHhRVkdNQnZzNzhwY2FPV3J6Q19LUlozMGtNSlg5QUgtSGFhUC1OWEE3MnNJRlZ5OTBmMmdRaUJXT3UzUnhZWkJubHhwUnBNVzNLR2I5a09QU3RIRDEwX3RiYQ?oc=5",
-      "source": "BornCity",
-      "published": "2026-11-26T15:02:04+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
       "title": "Gartner-Prognose: 80 Prozent neuer Apps sollen kurzlebige Einweg-Software sein - BornCity",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYm5zMnBVS0VRclRja2xhTk85Qlg5Zmo1cEpnZnBxcmI0SHBqRVBLUGh0NVBaRVVIS0pMWXY1YjY5aVFKYnVuZ0pwX3Faa1RWVFNQZnlkMjFob245V0h0M1FDcUZqb0FtRlRoUWp3SnVZNTFBYUdsUTl4aFlZd2h5UXYyVjdOMkxtVVdselhGTVk1dWJlNC1iTEdta2o5dGF4QVNIZ0pQVQ?oc=5",
       "source": "BornCity",
@@ -6555,15 +6593,6 @@
         "Markt"
       ],
       "status": "selected"
-    },
-    {
-      "title": "Google AI Mode: Wallet, Drive und Gemini liefern persönlichere Suchantworten - BornCity",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVUJ5WHhUZTBTQUo2T3Y1aExPWmlIT0dZeUdIWkctb0szM0xtMC00eXM5YkhBS1NSeUZDU0lqTXhmNFVFZm9fQ18ycUc5WDhWODRWTGx3UWl6QkFSUEZGUURHcVJPZEJQRHBMR0kzX0tTWWlLSmptMFdkS0cyTjZ5V0ZvMW85UHRzX2w0a3dkc0ExRkd1LUFteVNEZ0ljXzNuazUzaQ?oc=5",
-      "source": "BornCity",
-      "published": "2026-11-23T22:00:07+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
     },
     {
       "title": "Siri-KI in Apple-Apps: Entwicklervorschau öffnet neue Funktionen für Drittanbieter - BornCity",
@@ -6674,10 +6703,28 @@
       "status": "topic_filter"
     },
     {
+      "title": "iiyama ProLite XCB4994DQSU-B1: 49-Zoll-Monitor startet für 668 Euro - BornCity",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUUxCMTJ6UGFEQUR5ckhzRFI0SUU2UURkNFdyT2RYN0xhRWl4TndCa0VXWUd2RVFzLWYyOG95TEdSX1JvU3RtdVBMZjNfcm9KZ1lZcmNTdFljcWtVVzBWbVVkUnZtT2FSTVlVMVVUSDBrd0dqaC1EU252MWdveUNlN2lyb0Rtc09BMHg4SHBvR1VLcHlVcU1ONnlB?oc=5",
+      "source": "BornCity",
+      "published": "2026-11-26T15:35:06+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
       "title": "Microsoft-365-Ausfall: Verwaltungen in 70 Ländern fast 24 Stunden betroffen - BornCity",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMTBhOFlPWklNLWlxOHdhank1NWQ5TTl3b2tPOFF0SEtLQ0lzUUkyeUlaNXBwNEdoUWxtMXlzZnVjODA2UGVCYlRXRi0xTF9sUEh2VVRwZFZxaHkxZ0xvSm1hR2pDdk1uel9kTDJxNXdFMGVhT1ZXcjlDYzNoQUZUMFExZ0dYWFJqY0Nob0lYa1NNaFFpOVhOVk42NlRnZTNURnVoTA?oc=5",
       "source": "BornCity",
       "published": "2026-11-20T16:12:06+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Windows 11: Oktober-Update KB5127936 löst Startprobleme mit DVD-Treibern aus - BornCity",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTU1vNDBabmdDZGphbThVdUdDOWE0YmNnVjB2RzNkbHVZbU40WTNqODg0SDhNZjk3S1EwTXNrVXZmMHpvcjJiOHNzd3ZoaXFCd3YxcjBGWjdhSE9LLWFIUjdaaHU4cjJTNjRLQ1pjNG1RZTZ4VHdfanM5TzMtcGd6WGdLS052UXJZUXQ3OGs0RkhoUklMalF3eFBqU1BfNnNHUjQ5clVB?oc=5",
+      "source": "BornCity",
+      "published": "2026-11-26T17:58:04+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -7073,7 +7120,7 @@
       "title": "HEADLINES - Swiss IT Magazine",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wZzRtemlfOUJGS01sc1VvTW1LYzVJRllSTG9fYk9kRmRrZFk4cDFkY2VtcGNKejhiWTdwVkdEY2dSdERNU1diNGVDN291WGRMZGl4ZFBOTjJGaDNQUGZsVw?oc=5",
       "source": "IT Magazine Schweiz",
-      "published": "2026-11-27T03:06:04+00:00",
+      "published": "2026-11-27T04:04:14+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -7155,19 +7202,64 @@
       "status": "not_in_top_limit_or_allocated_to_other_category"
     },
     {
-      "title": "Benzinpreise in der Schweiz sinken weiter - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOelJYWnFqMXItQ19mc0gxNjJLWkRRWGdMeUY4VHlVUHVfSGJ4QjJxenY2b2V3U1huRXJROW5pN1lLVl8yNW5yNGxRdWdBZU4xa2JkdXB6a1Utcl9hTFNmc2ExeXMxMEJ3Y0RyY2lxanlVclRIczY0eGIxY2VHYTU3WWFDRFI3UQ?oc=5",
+      "title": "EU-Sondergipfel zum Haushalt wird vorzeitig beendet - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQX08zN055X3JhTFEtZ2RHTzE5cDJRRUR1SXJZOVp0bjNFXzZ3WVM0dk9WVVZoeDVtdTZkemV3c1htSkNNaU1ZSVJFR3YtY09EZkFrdVM1ZjJwOUVpaDB3NVBWUGpkMDJRQ0FPUkc2RWNtUGtSQWlwakFyak0xaEtmRVo0V3BsYTdhZU82VW9abVl3MUk?oc=5",
       "source": "SWI swissinfo.ch",
-      "published": "2026-11-24T17:27:22+00:00",
+      "published": "2026-11-26T21:45:43+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
     },
     {
-      "title": "Kanton Zürich passt Alterspolitik demografischem Wandel an - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX1I5WjhKbU5hV0F0U3ZUdjZlbzBXMm40bVZMMWpiSGlGRGxNcS1pcGxkc00wSVdPX1Rtd0xRdmNObzRhZDVidEhHRExMQ1B2SmNPQXNHWVFTUDE2b0dRMV9mU0RodTI2SzgyVDVFMWQxUWh4bHU5eXRXX2o4ZThzeE1peC0zWG9FclQyWVZuV0Vtd3hqQmJhd0w4bTlRSHhDZjcw?oc=5",
+      "title": "Zürcher Obergericht verhandelt Beil-Attacke auf Nebenbuhler - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdVJkcGVsT2lMa1ZBb2FNazBSckdRYTlpc0p3YlBabFhmQlo0Ql83cEVzbWtKb1FpWDNzNXVVWm9sMU1lelpnYjhqY0MtTTNvallLY3VWLTRvamliYkZfc2syREt5eWNnV1Z2aEFxQ1BmZ3NydkQ3RTI2LU4tZmhycWhJLWM2UjJ3bE9KdG4yTkdTYmo0dkdfdXFiMnlYU0hKNG1EUw?oc=5",
       "source": "SWI swissinfo.ch",
-      "published": "2026-11-24T11:46:03+00:00",
+      "published": "2026-11-27T03:30:00+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Junge SVP Luzern weist Vorwürfe der Mutterpartei zurück - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQWdIWmFPV1dEODJBS1RPZUtWZ05QUmJjOG5BNmFQMzdUeEdiWXhKXzhKWmNPVEx2aE5MZTltb2dZRTl0THRUeG4ybTg1Tl9aU0JSN25WWHZWTUZkbDRrc3dtc2tmMHdFdG5yTUVoQXNidGlDTFU1LVhieFQ5VXd3U0JYUUJwa294bHBwOFRyNFd2ZjlLeFpndWVRMmZpTlRLM2MxOWxR?oc=5",
+      "source": "SWI swissinfo.ch",
+      "published": "2026-11-27T02:11:23+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Trump öffnet Tür für Zusammenarbeit mit Demokraten - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN2g0M2dYaTE3LWxvbVc1SDVZaUhKdVl3SERQdk5hT0RUSjRtWWtvdjFodVFOWWVxZlMwMDAzdHA5RG9uZVJSUHh3NG1jVW1YVW00eV96RlJrU0VZQ2NTaURQYW93ZXl1S1BzaUlyT0k4M0pNQ29yVzU0MTVCMDJDalZkMjljNGlFYVlNUHp4bEtWNF80al9OeDkzWEtBdlJnS1ljU25R?oc=5",
+      "source": "SWI swissinfo.ch",
+      "published": "2026-11-27T02:48:26+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Junge SVP begründet Ausschluss mit Unterwanderung durch «Junge Tat» - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUVdKdVVJWUhIY3BhbGFWVUI0b01pOW1pLUpnSUNRLXVmZWRxcVdqWUh2MGhhMy1hQU02WkhaazhPVjBvU3hvMTVDV2lKdERpd1daRTBiMl9BZUhybXB5eEhhTXlSUXI2bDFxU2ZBRlZSd2FyczQ5di1XYlBiVDYya2FuVWZtOGdGd0JCdDdQbkhWQWIyZFhTUE14LW5MaE8tTUdoNnRoZnlISF95b2EzYnVRWlU?oc=5",
+      "source": "SWI swissinfo.ch",
+      "published": "2026-11-26T17:38:32+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Kaum Fortschritte beim EU-Haushalt: Gipfel vorzeitig beendet - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMk1VRU12SzNPOGt5WFlyamE0eWFtbEdqZ2JEVTFWMVNQcEpvSndfUlVRVm9MSjVsUGtGalZ6UzE1WVBtZlpxOTVjMFlReWhWUHYtNzZFTkI5c2g4c2kxVDlKa3VmRVB5WGVyVDdIWW5Ldjk4Nk95R0tCLWJQaWd1SjEwQ0FKc3BFTk5FSU96bTlOZ18yemhLOGw1M2NGVzhlWHc?oc=5",
+      "source": "SWI swissinfo.ch",
+      "published": "2026-11-27T00:51:39+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Hacker verschaffen sich Zugang zu Daten der FIFA - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb19kM3AtZVdGUG1XNzJRbUFuMThRQjNGSjZ4N193cFlVeXRkSWdlRDZheGVwR3ZUSkhqSTRHLUVQUEwzV2gzblJGQU5iSk00TnNRMFhoM0xFaDJWdEVzVnNFWTNLRHZuYWRLM3RVMHZpNWtmeUNhMy1EeVJkRlBWNEpKTmNDY213akhReHU0VQ?oc=5",
+      "source": "SWI swissinfo.ch",
+      "published": "2026-11-26T08:53:06+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -7184,496 +7276,181 @@
       "status": "not_in_top_limit_or_allocated_to_other_category"
     },
     {
-      "title": "Rutte lobt Trump: Stellt Putin auf die Probe - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZWplTDktdm5ka0lHTXFmNmlkNUlaSUNYOFBJeGxrOE1ST0lhN21nLWViemZwbHBKc29DOUFzbmI3SVFMMFIwaU55Uk9aQ29PZUZkdFl3azRORWR2M1gzQUZLcFVrSF8yQ2JwRmJCZHNqYlMzVjIxd2h6d005aVlSblZIM056RlN6bWpmZg?oc=5",
+      "title": "Saudi-Arabien: Feindliches Flugobjekt trifft Raffinerie – Ein Toter - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZGVrYXR4b3BzY2dzM1BKdXRoaHduUXNzNTBSWllGQ2pUelIyZEU1Q2FERFpKbU5OYVVwdmMyRWlNQm5ua0pSTWlwUUtRMThRTjNLenN1YWxnN0VlLW5yc3VJUzhIVng5YllLQ1p2clhqWElvOGYwVU1YWU1CVkJGLU41OFh2SU1TR29sdUdFS09oQ01QaDJ5S3JQUWxsYTdaSFFRT2o5NU0?oc=5",
       "source": "SWI swissinfo.ch",
-      "published": "2026-11-25T17:45:53+00:00",
+      "published": "2026-11-26T18:54:30+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
     },
     {
-      "title": "Hacker verschaffen sich Zugang zu Daten der FIFA - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb19kM3AtZVdGUG1XNzJRbUFuMThRQjNGSjZ4N193cFlVeXRkSWdlRDZheGVwR3ZUSkhqSTRHLUVQUEwzV2gzblJGQU5iSk00TnNRMFhoM0xFaDJWdEVzVnNFWTNLRHZuYWRLM3RVMHZpNWtmeUNhMy1EeVJkRlBWNEpKTmNDY213akhReHU0VQ?oc=5",
+      "title": "Graubünden verzeichnet milliardenschweren Neuzuzug - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR1E3aTBnNzlJeTZoU3JMTll1Nm5saTRzS04zT1IzQjlwMjFOSFBabEprcGtSTnBPWHdXNmoycV9FVF9vOU4wNklfWmRWU3JxeHc2UnYweFJYUVNoMk5BSkRsNS1kSnZHVkxYOFkyaThzUy03Um1ROWRGeTFlNXAxNnQybnVER0hIN2p6N25YaTBLN09Kd2hDZg?oc=5",
       "source": "SWI swissinfo.ch",
-      "published": "2026-11-26T08:53:06+00:00",
+      "published": "2026-11-26T21:00:00+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
     },
     {
-      "title": "Umstrittene Algorithmen können in der Schweiz über Haftjahre entscheiden - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbEI3OHNwYmhHMURKZlJkMVZmNGJsdG9LNjBVd05lbXhaODVnOFV3M0Y5dHg5OHBSbnpsbzZseFVUeU9QalhwallSb3ZJY19IdGFPZHpDbkZZRFR3RWxCdDlKeVFZR1BKUTR4VUpoeEFiWnJjYks0Unp2WWp2SC1zNmt2RmNBbnBLSVdhT1ZNNmVob0VDdnF2dWVRTUZpUjJUd1hVTFVQX1N2SjdGNVpqSWEtX2lLMDF6Q0pLUnp5SEhSU184U1Zqbg?oc=5",
+      "title": "EU-Etat: Macron drängt auf Einigung vor französischen Wahlen - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRkMtRWVOMkVjTU1TX2djQ0ZOWFV0clNRT0RDRUhDX1hZamdGUmNaeVFyOFctdlZrQlo3R1FfWThiekJNRS1qNkZyRV9vX1MzbjZTZEpIUzBRRUVGNktDZERlUjh4NjRyR2MwcThNQ2hXaElfbGNQU2tIc1BISGZSUEkwSFdJZG9pVi1fVnBCSmV4V0Z1SWZKQ2dtYW84X0tlWU1mUmJLNDZnY0FvenFj?oc=5",
       "source": "SWI swissinfo.ch",
-      "published": "2026-11-24T09:00:00+00:00",
+      "published": "2026-11-26T21:14:01+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
     },
     {
-      "title": "Film über das Leben des Basler Stadtoriginals -minu geplant - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR2tzTVhtM1FZNzRXQTVtd3BtR2tadXJaNG9tcFFPd0FIdnY5Y2RnUVFPN25sanJPTjZIZ25JbHJhQ1ZYOW94eFA3OXVuWThpME8wbVZOZWdYeWxGaExpaDVOc1VxWFZSWHRmeDZLNHQ4Tm9EWnlNUXdNZHhKSVI0MTQ4eG1YeTVrVlVMc243SzY3TzlMUjNkLVdhc3JpYkFlVS1B?oc=5",
+      "title": "Ukraine und Russland tauschen weitere Soldatenleichen aus - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTGJIczBSejFGTjF3Wm5mY1NtWEJlMTMwY01PaDdnT0VrYnlYakdCZXdsZ1huVnpGN050aXFFUmwtMlQwcXA2cEtvSjdKQTYwRkFoamJJRG92eTJfTHdWdTJNWjVHZkY5M2VoVExVdWdVRlBXOEk1dEVZZDN4Vl9KUVpzTTlHQXhYY3k0ckZNWWZJS19yUndCRFpBcw?oc=5",
       "source": "SWI swissinfo.ch",
-      "published": "2026-11-24T16:20:14+00:00",
+      "published": "2026-11-26T16:51:39+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
     },
     {
-      "title": "Merz: Nicht-Aufnahme der Ukraine in Nato 2008 war Fehler - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOUlxYk9Ld3kwNktjLUV4UUU0cGVkd1BIdWdDZmRiOG9nQVlid0wzM19JUGo2NkdtazZUWVlicldUbE50YWtua2JSdVZoYURRbGFPWG13Mnhxd0ZaUExQcnpsYVVtdXhDZEkxZTB0TW9uVkppems5aUNRc0xocVFDWXd1LVVUTFdXemVWd2I0TUFYYU1RMXRVaUFmMzM?oc=5",
+      "title": "Webseite: Rund 820.000 US-Kunden an Thanksgiving ohne Strom - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTUlSRlQ5eTh2b2FfczJyQnpQVFdCTnc0bWQ5SnVCeFRnNnUtUzVsT3ZsNkxnSGNWQmd2TWwydFFRQVUtSERoNmVkUGZtNHdTdHJmZkxWLXdmdEhhZG9zMmt2bGRhMmRKYVNTdEJqbERkRDJfSzJyZ2lQUmVuRF9VNTgzUWxNT0tBVnV6RWxvbUNxaTJ5bWtWVFFKMHdsc002?oc=5",
       "source": "SWI swissinfo.ch",
-      "published": "2026-11-23T16:27:37+00:00",
+      "published": "2026-11-26T21:06:41+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
     },
     {
-      "title": "Aargauer Parlament senkt Kantonssteuer nach einem Jahr erneut - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeGNTeExkS1VKUXlGeHE3YnlxMUV3Zjc0SG1qb1gwaXNIOGx2MU80Z3pPcDJtdnFRSzJ4YVhxaVotR0xjTjdnTUNpTnlfNWNlZmRwR3N4LUZxNDZsdlpVeGVHd3ZMXzdDUnl5QndWTXVYcEVKcVloV0JxYlFaQmgwSFVkU09wbWdUNmxYa3RSazVFZml2UWNNMll5SHhYMU93?oc=5",
+      "title": "68 Zürcherinnen und Zürcher gehören zu den Reichsten der Schweiz - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWnRvOG9lb19FNTR3bW1jc1JfenFkUE0zckk0VjFoNE1iUGpGaThKRkYtTDdBMEN4UFVvZFNmbVFrbFZVcE4yRTZhNGlKR3h5VjJuRWMzZjdORFF4bWNsbVo2UG5vM01sdjhTQXdJb3ZndDNrNHRFVktjbXpKSmpHaTU1TkRzQS10bDFEVjN3M2ZsWDVDM2VhOW1QOFBYODMxcmllelc1QzdjQTllRWYwcU5rdzZaZWJw?oc=5",
       "source": "SWI swissinfo.ch",
-      "published": "2026-11-24T15:34:09+00:00",
+      "published": "2026-11-26T21:01:00+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
     },
     {
-      "title": "Wut und Frust in Antalya: Klimagipfel schafft keine Einigung - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa1BVRTJwOUV1S1Z4YmwzM0VwOXp2MHZqNUlrUDU2Q1pmMUxOX1NZV3lKRkpPN0dreHZNTnNZcTZOODItV0dheVdIcHBqRUZxLUV3TVNPWDYzSU10ZVB4ZEtrR05IY0ZkZmgyUURpSzhfdEFRazdGWlI4RDd4UERTZ3NfcWJiZzc0ekZzNURzelF6N3lfaUpzVm5YRlhFbE9INEE?oc=5",
+      "title": "Vier Verletzte bei Kollision zweier Autos in Emmen LU - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZldRaWtVMGJTVVgwTU9CRE5XeGRNaUVyYlA0Qm9ZX1I0cFhtUDdta2hYOG9TQ0VubTRHN3ZhRUxRcVRrd3ZNRDFQcnI0QURrVG9YWDdscDRDVHlqQVVjOU1YbjJaYXdIUkg1a09nelVBSHV4cldrcGpwdjlLUW1TUFFhWlhnRFZzeXhXR21xTldMeUM3VFE?oc=5",
       "source": "SWI swissinfo.ch",
-      "published": "2026-11-22T14:23:42+00:00",
+      "published": "2026-11-26T15:49:04+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
     },
     {
-      "title": "SP Luzern will mit Gisela Widmer in den Ständerat einziehen - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLU9VWlJHS0ZEQkZwemJianRMM1FrSWxBTEtBakVucWRSN281eHhqTTBVRUNZemc1dExaU0lNYzNmeUx5X2dVSG5WTjlsZldaNlIzQklyWktCMHlKbXhuNTdkSXNZTFE0aGNJUVVFUE1tU0xDWkxnekpwWTYzTFJzb3JMRF9STUlqY0VrNEE4d1Q3Qk1zdTJITnIxV0VKYkU2N29HZQ?oc=5",
+      "title": "Die Beschlüsse des Zuger Kantonsrates - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUExZRVZGWlVPVGhDZVR1Z1VXSFAyWFRzVVJkeXJoWkYyVkJUZVNoMHRuZ3V2clJLajR3Wkt2clZqV2xnYnRzOUFzNXhDOEhwSGkxbGlyTFpORjlhYU1PTEE0cS1fcVBYLWxJbHpFb2IzX2pyTjNBam5ubVIyZEhSRzVUU09HakE?oc=5",
       "source": "SWI swissinfo.ch",
-      "published": "2026-11-25T21:43:09+00:00",
+      "published": "2026-11-26T16:20:06+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
     },
     {
-      "title": "Junge SVP begründet Ausschluss mit Unterwanderung durch «Junge Tat» - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUVdKdVVJWUhIY3BhbGFWVUI0b01pOW1pLUpnSUNRLXVmZWRxcVdqWUh2MGhhMy1hQU02WkhaazhPVjBvU3hvMTVDV2lKdERpd1daRTBiMl9BZUhybXB5eEhhTXlSUXI2bDFxU2ZBRlZSd2FyczQ5di1XYlBiVDYya2FuVWZtOGdGd0JCdDdQbkhWQWIyZFhTUE14LW5MaE8tTUdoNnRoZnlISF95b2EzYnVRWlU?oc=5",
+      "title": "Junger Motorradfahrer stirbt nach Zusammenstoss mit Auto in Genf - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS0trV1BNTDRTTWFKdmF6cDhuLUVJQkQ0RmlkMVVPVENxR01vMkg4TkM3bmF4VEdrTmVMQVhMUEE0ZHl0OHhNOEhIeko2OGItdTIzYnZ5RklERXhvaDVZYTJLU0NqX1NmaXY1cGI4TmVZMGprWjRYR09KSGdMNEZWUlNlTGNub0Q2MmZoeFJzTWY0SjJCcXBqMklKQldwNDVPaWd5RQ?oc=5",
       "source": "SWI swissinfo.ch",
-      "published": "2026-11-26T17:38:32+00:00",
+      "published": "2026-11-26T15:35:34+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
     },
     {
-      "title": "EU-Sondergipfel zum Haushalt wird vorzeitig beendet - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQX08zN055X3JhTFEtZ2RHTzE5cDJRRUR1SXJZOVp0bjNFXzZ3WVM0dk9WVVZoeDVtdTZkemV3c1htSkNNaU1ZSVJFR3YtY09EZkFrdVM1ZjJwOUVpaDB3NVBWUGpkMDJRQ0FPUkc2RWNtUGtSQWlwakFyak0xaEtmRVo0V3BsYTdhZU82VW9abVl3MUk?oc=5",
+      "title": "Italien verbietet Gesichtsschleier an Schulen per Gesetz - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTG5vS3VnLUo1U29UWnZfd3FkWnpGb2p4bVVnUVN2TVBteG5HV2V3TnItQ1I0ZXNSeFpNRnRDb0hCZjNLOHdkVG5jeHRRRFhJMGtiRVVKTC1vLVJnakY5R195ZXVlS3k5aVZ1YXEtNEZzQkt0a2dfQThGRGI1WWJ2RkcwVW52Uk9RR2RiUURxeE1QcXd2alNyWTJR?oc=5",
       "source": "SWI swissinfo.ch",
-      "published": "2026-11-26T21:45:43+00:00",
+      "published": "2026-11-26T17:25:34+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
     },
     {
-      "title": "Eröffnung eines Strafverfahrens gegen Tessiner Grossrat - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYTRFcEgxNTRydkYzRVhhNVNyYlZFRGlyS0Y1NkdtWnhxLVM4a0Z0cFJTS21aM2IwUnVMaVJCTGlSREhiTng4MXhXSlVSVmtiYWNzMmxwWUZNZVhWcVRObWo1WjlVWU1EbUpGN29CcW9uRnhOSkFKX2o3a0xObEtGLUN4NFJnWWlWaFdSVFZNUkUzRXc2eXNRMnpQT05laGc?oc=5",
+      "title": "Schaffhauser Regierungsrat will Lehrerlöhne deutlich erhöhen - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcHR5cWRBNmNEcDhKbUFnNkkza2RIblhWLUI4X0d0TWtIMG5KR21mUlJKaktxRWhHUE9GbFM4ZG5mb1ZNVE9mdVZNd0ljZXdkN2drNjlCMUJPVkMxbXV3X3dlVmR5Q0VxWWJYVVZwai1Fa0k2cG80R19TWXZKRG94WE14MWZQZXBaNlhSeWgyRHZXQS0wS2ZkNEFRTHhpOEhNZGxwV19NY3NMMHNl?oc=5",
       "source": "SWI swissinfo.ch",
-      "published": "2026-11-25T14:36:08+00:00",
+      "published": "2026-11-26T16:08:14+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
     },
     {
-      "title": "EU macht Westbalkan-Staaten Hoffnung auf Aufnahme - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFJ2Mk9nTjhNOE9YclhFSTM5TkdsS1BsWERDUEpDbU9ISXYyTURra2JYUlRSRXlDSlUzTURNdmtuYm9uY0ZQUEFUWlRPRFNmbkdLbXRFbnhnNndnaWNtb3FOWmJTU3BXdkQyZ0cwYlBLWnNvSTVSVF85T09ZY1ZxOG1Zd0QzcWhMX0pzakRQbVE?oc=5",
+      "title": "Schaffhauser Gericht verurteilt 28-Jährigen wegen Mordes - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRTBJRGFWWnJ6TmtHM1FTRXF5MmFZUm9KUnBOUXdsZ2MwLUozaDllYnlPSXF4SGpodDVZRGxid1JSSWNocEZYbnFPbS1reE9qekJGRjJUUG02WXBqZFVrekdHdlhocmNoWERBMWZBYTIwZHFhc3ZyT1ZmQTUxTV9uMEhub2lqbTFlYi01VHFMYzdRRUo4WnF0dHctTnU2SDhk?oc=5",
       "source": "SWI swissinfo.ch",
-      "published": "2026-11-25T20:21:59+00:00",
+      "published": "2026-11-26T14:31:47+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
     },
     {
-      "title": "Gemäss erster Umfrage verliert SVP zweiten Zürcher Regierungssitz - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTXZEYUItaG9OTEZTMHFUdjFDaVpBVHQzX1hQdl83MlBzeW5iNE5SRmV6aUlTTEJhTzFCTi1hVlk2dXI5VXk2QnFSd2FsNW1tc0sxMlRTSWJyNWdWcWFTQVd4N3djNGkzbmtJSmV1ME4xSVVWeThXUmVGMkpPV3Njb0kxM1czd0NGUi1NZmNpbGtSenprQ2pScU45YjljcURENkN0SUljajNhOUV3YUlEdldJZw?oc=5",
+      "title": "Mutmasslicher Russland-Spion gesteht vor deutschem Gericht - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRXZQci1LRkctdEVWa0Z3OXpWSVY2b0hDcVVEdjU0c1MxLVR0ZlZoNUpRMGNIcFY3TTg3UTZ0WG1JXzFYNmhRZFpIX3VNRWZBZ01zYS1QdXNySmVzaWJlQ01nY0pHVUZCMUctR1VocjRzTUQ0cEpwOTZ0UjhNRU9SMVVaalRmbzhUdXVSb2NrUF96UHZtT08wQ2xvc00?oc=5",
       "source": "SWI swissinfo.ch",
-      "published": "2026-11-25T16:50:48+00:00",
+      "published": "2026-11-26T14:46:34+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
     },
     {
-      "title": "Tausende Jugendliche demonstrieren in Schweizer Städten - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdkl0WVZCcDhCTmZSZzNUYzN1U0c4alNTWFJxTnR5dExmeVpXTTd2YVFsS1NTOUV0d0NwOV9KNTZoTHlvSHdDRjdrRFRVREhqczBKWkJHOEtWbXpBeHdBaWJydWRqSXBqZG91eWFpZjlicGFicFZpZlMydzFST08zOWpUb3REZjVxRlFqcTVZNGtGaGVPbHN2bVIzVVlzdDg?oc=5",
+      "title": "Eisenkot einigt sich mit Partei auf Koalitionsvereinbarung - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcUdQYUs5dWhndmtwa2c3YjdzdGlHRzVwZzFFWkVFRG5XSzl2VTFnajZIZ0JMa3U0V2pWRVkxeVc3QmdhMnVmSGNGSmxLNWR0TXc2NVgzdmNWYndobzg4T2lLUzA4Q3JKSWN4cFR6Q0FvZTJ3a2JYQi1vbVBVckZJSVhDTVp1Slg1WTY3bm5EdVdqQUp5VWlobWh0Y3U?oc=5",
       "source": "SWI swissinfo.ch",
-      "published": "2026-11-20T21:43:22+00:00",
+      "published": "2026-11-26T15:20:05+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
     },
     {
-      "title": "Putin kündigt Reaktion auf ukrainische Angriffe auf Raffinerien an - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPODBOMDdudzcxSlJRM3k4dU01ZGlmemVzRUZNc2pjd3FheGxYRVJtN2Q1bTNGU3JmcXBYUFlkQ2tHZkJEcHpoZTdMNnVPb2pRaXdrMFUwelNFNTJuUFdXVGxqTXY1X0pBRDIxejZHWTlqOUY5TWs4M3FqY1hNdXBWbE1ublI1TUVTUGpGVEtPZ0JSWXN4amx1OUprWUZIV3d5TWZmUXozR2xzblpwN1E?oc=5",
+      "title": "Kuwait: Zwei Italiener bei iranischem Angriff getötet - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV1FOV19nUzdqeTdrZzFfNExieUdXODhSWHVadDc4LUpHUUNIQS1JLVVXdnM5MHMwbFY0UkNBYjgwbEoxNGlCczN4bUdQcmNvTjU5Z1Z0dC1WZHh0WDRCaklhUDhJR0g5bm8tbE1RSzZ1UkMyYTY5RTRwRlNKWmhKMGVKVDdKQ19iMU9aNWJGWGxrRndrWkpDejFKLV9aNzQ?oc=5",
       "source": "SWI swissinfo.ch",
-      "published": "2026-11-24T19:44:37+00:00",
+      "published": "2026-11-26T14:55:56+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
     },
     {
-      "title": "Berner Energiekonzern BKW kauft deutschen Windpark - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRUZmOHNaOW5jZS1uTkFqRDZFN2dKX0JDczBVNXQtVzRRVVdIcDNGc2lhRFdKUFFOcC04MHMxSS1SbWM5TGxMYVQtZ2ZKTGtoazZYU2JXY1N0N252bDQxX3hVeVVya09BM0dTTEFXNzdBZnJVWlM2alFLcTB3M042Ny1aM1RneGFfdkEwLTBXaU15dw?oc=5",
+      "title": "Rekordsumme für Missbrauchsopfer der Kirche in Deutschland - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRHF1dzVfbmt0U1o0V2VGZFBnU2tfaG16RDZHVWI0TjFXUndqRTZhbWFpWC1oM28yZm5TNE0zOUtrUjM5YXNaYkY4MFhuX0JlVnR4elNSTlNHOGU2VU52T3FISWRXSjdXMDZYV0VFTDlvQk9IMFlhRDJyOE5QLW5nT2tJY2xsYlhpa1gwdVJWOVNTWm5IUzNfdGdZc2JCR2xkY09F?oc=5",
       "source": "SWI swissinfo.ch",
-      "published": "2026-11-24T11:33:15+00:00",
+      "published": "2026-11-26T13:08:38+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
     },
     {
-      "title": "Bombenanschlag am Jahrestag des Friedensvertrags in Kolumbien - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNzZoWGF2R0pkUTZQcXd0ZWRCUmJVYjlKODUybFJJZFFOYWQ1eWVQTG5CUUYyUS11Nk5kOFZTWEJHUm5wZldDRVJjNUh6azhwVE9nZnMwNGh6dmZvdWtuR0Q0QUJGUDl1cnN4NG9XODUxTnNLa19TX1puZ0dDMWFzRGlaNWx3dEk4SVZUdjdyOHVxcmQwaGNtVXFUVkZyZHlB?oc=5",
+      "title": "Die Beschlüsse des bernischen Grossen Rates - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUXFkdVpPeGprdDM5WmcwYWc0Wi1NNklXWjVBQ0QzQkJSOTZuV3ZlcWhoTzRXWDVzZHNPejFMYmcyNnh6cUNubEMwZWVQYVRGZWNSVUJjUFU3Um9LZTN1N2YzMWV2VHg1RGN2UXFJS1BuUzIzT1ozOHRNYk9BeDFDX2VzVENnYXZFRkV4akNrdw?oc=5",
       "source": "SWI swissinfo.ch",
-      "published": "2026-11-24T20:17:20+00:00",
+      "published": "2026-11-26T15:01:40+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
     },
     {
-      "title": "Umstrittene Abgeordnete Emde muss Linke-Fraktion verlassen - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdzNMcVRRSENVVGJoTXpMUVVrdm5Vb2N5RXVycGRISUtkM1dvU2RGQVdmS2gzQmRBRkIxMzBRZGxWY0NXVmw5bEQ4bnRVR1lCSW5lT01mWVBmS3JBUXNqSWJzNW9UaEFqV2ZGb19YMThya2NxS2dNMVZmSTc1cW5LZlZJalRUUG5MVVRvWVhxWWZHU1JZZGdwSDVhdkY?oc=5",
+      "title": "Konsumentenschutz warnt vor Kostenfallen am Black Friday - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdEZfWWNVd0pudU5uU05mM2lVcC1Vd0hDVjZiTEFXMFJQNXlnbTk1RnFNZF90c3B3VjhTbnV1bENzVl9DelA4TG5LaFJQV1lRcW1VNXJObFZOazBzOGU5dkdVT2ozSmxQT0ZueWtLb1J5aHBDemg2OGY5a3IwU2NRY18yaGtjRlJFR0p1NXFoREJsTFQzNHVkbUhn?oc=5",
       "source": "SWI swissinfo.ch",
-      "published": "2026-11-24T17:52:10+00:00",
+      "published": "2026-11-26T15:38:47+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
     },
     {
-      "title": "Huthi-Miliz greift erneut Geschäftsbezirk von Riad an - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWEJFYWRqaGlfekVUbEMzdHdjbjJld3JFVFBnWGxrN0UtSTJSNFcwejBQRTlfZDF5Q04xYk93VlNCMjRNTEZQMml1XzNFQlBGVXZ3UHFxZjZ0dUN6SHE3dkVFRW9vM01Ublp2NkZMX0xPQ0VTOE5zblMtZ2tzOVFrbU0tdm9oZEpYdEp5QjJ0NEZXWTd0RkRpcjJwU1E?oc=5",
+      "title": "Heute in der Schweiz - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTzByNHR0Wml6ZFZicGRfTnZKVHZpSElIZ1FHU0k5YlIyeVZaOEhkWVFTMV9oaWZJLU43UjRweTRVaU1VajZHSEVlSFIwekZ6Nmhnc0xTcDhjblpRQUU5SDNpLXphWERvdWxVY1dlelU3eUxIWGI5Q3BVWlJyQzQ1RmRFY1VzTWFvNkx2eGFSOW04dw?oc=5",
       "source": "SWI swissinfo.ch",
-      "published": "2026-11-24T15:59:03+00:00",
+      "published": "2026-11-26T16:00:00+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
     },
     {
-      "title": "Wahl-Nachzählung in Givisiez ändert Sitzverteilung nicht - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaFh6WTJpZlBTWlFRbFlJUTJJR3drZEdNUW5xLW43QnNzM1hIZElTRjF3QVZuUTFBUHM0Q0ZQQnFlUS10aVBuQWo0TkI2cUVsWGVBcmtFQ3dBVl92NG5JekFhWExBcFdYWmpmRnVxemVQWHo5XzJZWk53d2VkR3ItSmVZZEhPZnNOLW43OVZVSGhWN0JScW5kZU9uX3JzQWlnU2ExNmIxQQ?oc=5",
+      "title": "Bodenseeregion fordert vom Bund Einsatz für Verkehr und Energie - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUm4yNkt2Vk1KaEotSS1IT1dRLWRlM0U0b2g1TXBmb3JfRk1fSHYza1NZbVpLbnVRQjhJbThvZzBLZFZGMHFldDhaRXJnWXEzWWNfWUZXYWZjUC1scXhTcFdUY2ZhVlZQT0xZNGZic09Sa2VmYUZqSHRVVVpDQ2FnWXh6aGlFWFI1ajZDOW0tM19oZk8yT284bnBoYVZPVWtCZHMweTczWEdvdw?oc=5",
       "source": "SWI swissinfo.ch",
-      "published": "2026-11-24T11:53:12+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Berner Grosser Rat sagt Ja zu vorfrankierten Abstimmungscouverts - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX3ZIdGwybHZDMGRrd29ibWNlQWRwSWVOQmNnY2ExN29GcjZ2NEpBTTQwNjZlb1dRTVJ6QkR2N0xCRURtdjdEdkVRSTJQTUR0Zy1TcnJnMWpJa09wbUdRalpvTWljTHJyS3M0M3lNVm5JcVNtSWtYUVg4VnJNSS1Hb2p0RUZnMWdpcmh6RnhyZlVDRHZlVUJXNFcxZ0FkUXVDcWg1cg?oc=5",
-      "source": "SWI swissinfo.ch",
-      "published": "2026-11-24T13:49:04+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Kommission bestätigt bei «Lex UBS» Eigenkapital von neunzig Prozent - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbmxwa2c1aTZER01CdXVrdy13Z0l5dWxSblVRTzkwdVpsbEFrSmJaWHdrX21tamI3UERBc0Y4Z0w1VHBQOV9oYlpSNWhYSllldm05eEFzaXNpQVV1cWR2WWhGQ25aSVhiV05yMk05NkE5M2NvUGdnRDNxTi1faklfZkRiSTBSQTNuMDV5WUFIVkkxRWh1SEQ1UzcyXzYyQUs5UlRaSWJpOG5sMTAwUmhWcmwtdzY?oc=5",
-      "source": "SWI swissinfo.ch",
-      "published": "2026-11-24T13:35:42+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Drohne dringt in Luftraum über Polen ein - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMFRvNHNDWTFfbVBmdFBxR1paMnpUdERXN09XcDgwUFVnXzRNRFVRSC1wa19uVnRhZ3pfbkpZOXNSSFVxd0pBMWd2d0RlaFpZRnBNaW9Qcng3MklCMXgxRXRySDFxVVlHcFpDNDBBekxkOU5iSW1YQjBwTF91UUdkZXAtTjRDaGRWc3l3?oc=5",
-      "source": "SWI swissinfo.ch",
-      "published": "2026-11-24T09:46:51+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Russische Flieger lösen Evakuierungswarnung in Südkorea aus - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZndRNFBHbW5ZVko5Q1RkYnFlb0FaeWc2QWNwb2NnNXljV1U0YUMtSUlkaGc3aFBkaldpSXJ4bVI5d0dwSms4QTk3QlVocm5ha1hNX0xSMzRONThaUy1PQkZNRUJsY0hxTjNBNGhFdlMtSnRROHR4c3d0eTFwRmhmYUhqbGRoMEZTa1RSYXprUWU3UU9XQUR3Z1F1WmFleHFhNG9VR2FpUldLSlE?oc=5",
-      "source": "SWI swissinfo.ch",
-      "published": "2026-11-24T05:41:16+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "USA setzen Firma in Nvidia-Kontroverse auf schwarze Liste - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPajUxNndPdm02UlpzMzNaYXVBWnhDZ3hUTHlTaXZaQTFDbXlXdUJ0bmx1bnQ0MTBjMW1TdWtCYlZUNmZrb0xBa0Z2YktQaWxtVmVENlphSXc0OHlkQTl0ckI4Rjk5OGtlLVRoVlFIZW1ZTEFLSnJIeWtPVUVia2RsY0QzUjRlcUlQV3JYU1IteFYwa1Z0b1pWZXYwbw?oc=5",
-      "source": "SWI swissinfo.ch",
-      "published": "2026-11-24T00:24:53+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Von Zitronen und anderen Beleidigungen in Spaniens Wahlkampf - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaC12bkYxc1g5eXh0MlloaHkzaWI0Q3J4SWF4XzV1TzRWM2pmZ0w5a2l0RHE3YlZVUHJONVh0clBTNTByM1BsZFA4MGFKUkhsUzNLbFRQSXRFa2tWOVRIV0ZfQzh6RjIzRUtPb01uMVdkT29tbFdMQXc2QkhHeFJNV2pJN1lmdTFiaEg1emVfclRLOVdWVHVQRVFTRmRveXM?oc=5",
-      "source": "SWI swissinfo.ch",
-      "published": "2026-11-24T13:08:35+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Berner FDP lanciert Steuerinitiative - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SSGNGVUtrTmdDaTgwTDh6MDhDaGo2T2dfdUxkWkdZTzVzbEpWQldlZVdQSTlNMzZveHhtWTZLaEtMblBFckVJODd1Z2JYRkRWOW9WeVVYSGV2SFVMWHdZS3VNZVExc1pCLVhrdV9vQzZiZEdwUHpoTkFjZXpzQnM?oc=5",
-      "source": "SWI swissinfo.ch",
-      "published": "2026-11-24T15:20:01+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Nordkorea droht mit Schliessung von Schweizer Büro - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTGVVR24zQ1RKRnJ1YjQtMEYwWTMtN3FZbU5VTktFT1dTNmhBN1RvakVMeHpRd2hkNVNvVnAtQjJOSEoxMWFYc25HcTdRWnZGMUQxSnd4VXZ2a212NWsxbUl6MlY1eFlPc1lxaDN1TkhwSEdGY3lwMS0zMGJ0SlNDQWg1UExJVmx5eS1LOEYtOVg2VDVNZTBCcQ?oc=5",
-      "source": "SWI swissinfo.ch",
-      "published": "2026-11-23T22:24:57+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Hausfriedensbruch: Thunberg in Dänemark verurteilt - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVjdIOFVWM2JOMU02MUlSWHBCeUpidHRCMVhEeDI2YTkwa0p1WDZBM0h2X0ZHbkF4SnpzdVRqRzdmN2JOQVRSNjc4MFp6MllYYTNIeGZQQnVBa0pfaVN0QkdETzZraWZiWUtwN3RYYzFGbXJkVTByVzdCT1R0bmNsMHJadTFxZk5zM1pyU2xKY1Z0MVRVUTN1dXZiUQ?oc=5",
-      "source": "SWI swissinfo.ch",
-      "published": "2026-11-23T19:09:04+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Nato verstärkt Kontrolle von Polens Luftraum - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUmJYOUtacUpaQlNEdmxvcjZpb2hZenMtM1p4UkZVbjFPWkU1RzdvTFNGQlM3VzNNdHljWmFXcVAtUVlpUndiaEp4T0xxd2t2U1FfY1RrSFh0SkMzZGFaVXdPNVdqNWFxeG80blBFTHFaNERhWFlWMU1Cc0F3c3NzNlJxWlA0aVdJeXBDM0FHRUE?oc=5",
-      "source": "SWI swissinfo.ch",
-      "published": "2026-11-23T19:38:39+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Jensen Huang kehrt als Nvidia-Chef zurück - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSVo5d0FPaS1ldHVsTm1PaEp2ZmpIbjBrY1hyM0NaMEdnQlQtN1VlaEJOcG1WckxpV2k3c0ZjSlNYeC1NdjNpVFdmN01NZU9kVmk1RmZISkdScnFTVFEydkxqdFllNEp5bndNMlZ6RndDYm9MMnh0dVJjbXpkc1FCRy1YWEdMM0VUS2xfSA?oc=5",
-      "source": "SWI swissinfo.ch",
-      "published": "2026-11-23T14:38:07+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Skepsis in den beiden Basel gegenüber KI an Schulen - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa2hiNF9SOUtKR1l3b3NqT3UyZWlkQ3ZtV2NtZ1ZWeTJ6cHp2allnb09BUmhoaDlIeElFdG5NNE1HOUZpeWpBX0JTT1FidzgxdkoweUNDNVprRjg0OUdtMDFHY1NxdUxaS2tFbmhyMDh2Mi12WExTTXQxNm9qVmQ1bFpoX0VrVldyLVNWbHZ1XzFZX3JBcDRnM213?oc=5",
-      "source": "SWI swissinfo.ch",
-      "published": "2026-11-23T10:53:28+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Russland-Flagge soll bei Sportevents in EU verboten werden - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQzdReURvVWk4eXVvVkdsaTc4THpGb3pPUDJwem05UXQzaGdBbXNrdjk5YmFfMndpV2tZNDJ0MFdIYjVfUTRDRGo2Y1VNcjZsYzVEcnN3ekcyZUVyTlNvX3JiZ1N4Z1k5OEo0WHZWczcxajZ3cWlrZmxnbnhHOVZhLUhMS2RIb0RXUFhYUzJiYmNveFlSV2xPbzJicjA?oc=5",
-      "source": "SWI swissinfo.ch",
-      "published": "2026-11-23T17:52:43+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Micasa-Chef Manuel Landolt tritt zurück - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTEtZUkRfOVg2Zk9ZZmNZbUVyY21xTWF2LURuT2pQMWRfLUhmbEdIbS1ReDE3WTFYQndHTHd3SWNLbS1lRm5qYm9CSXcwRkVCWUdpWWhTUnNXdlZXcmtsS3AtQlVZWGNCcFZBZzFONWRXUjJ6Vm84bXdqLUxodWxUY0ZyV1lFMDQtQ1E?oc=5",
-      "source": "SWI swissinfo.ch",
-      "published": "2026-11-23T14:30:36+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Inzwischen neun Todesopfer nach russischem Angriff bei Kiew - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOalV3cTRfQnJCTWFBQ2VrZFNkM19qLVpPVjdYZnBwOEVLdGdGbFVJb1lrT0JZQS1IODhQZ2NVWlA5NjdMNTVidGZkTTFyX21GOXNOaVVwZVlCTm1oVVNzRTQ4ZHUyTEpCLUpEOFVSZVdwaFdVVHdjcXpHVlZMazRFekxhWVFnMmE5U2NFWHYwNmk0NktRaDdCWjhJTEVEdw?oc=5",
-      "source": "SWI swissinfo.ch",
-      "published": "2026-11-23T02:53:52+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Warum wir El Niño ernst nehmen sollten - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUG9leHFOR3JEdjRtMFNpMVZjaWlxRVdHa3FGWk1iaTFPODR1VV92NndPTC1ORDlqTWRUR01Wa1U5YldaaTJQT1BPTEJuLUdZR3FxUnVpREJGZW5BaU4za2RGYWI1VjlEZ0ZvaUR5Q00zbGx4NWhEN2pFX2FDMDZXZWFaTU9uN184c0JOU2Y5Wk14M0ZMd2dZR2JuTEM?oc=5",
-      "source": "SWI swissinfo.ch",
-      "published": "2026-11-20T05:00:00+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Streik legt am Montag Flugverkehr in Belgien lahm - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWU9SczlQNkJFM0VlNWF0eGlzRWFmMjdQMEhWWksxR3ByV0xKaUlHN2Zzczh6SEs3NmhhaHVTeE9jUW9sMExqczRKenhqdmEySU9DUUQwVUplZm9BMW5wN0tyVVlFOTFIZmw1aFBvMU5kWFZaS0pjZkFIbDBLQTVkMHA0QVNNczRqeEJBWERKUE8?oc=5",
-      "source": "SWI swissinfo.ch",
-      "published": "2026-11-22T23:50:12+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Hochdorf LU will Wasserknappheit im 2027 verhindern - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRmpTX3NoNE9GNThrR2tYMWlaRWFCZnR1WHItSGVHUTZFQU0wX0Nzbkx1WWpLSmZ0SmRVejA2N1IwQVF2Z1MwcE5rcl8zdWh1STN4bWhhdUVfV1FXWC1vZmJ6c0MwRHlnLW9NLUpVMFFMb2xCTkhCaDE3bTVDeXBEbnctdjNUWkQ0QURUdXVvNUdvTjg?oc=5",
-      "source": "SWI swissinfo.ch",
-      "published": "2026-11-23T10:57:28+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Finma sieht grosse Missstände bei Versicherungsvermittlern - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUXpEOFdOdFFQcEh5R2tjOVA5Y3hqRXlRbDROOUZLeVhSVzh1UXJ1REp4Ni02cHRWVmY3TjJ4UklQeTB6WUJhQmdkdUhsV2s4SkFEZXMtbHVGWTBMMndZd01FMzF3Q0NYbGxEOUR0R2p4czV4Q2xTb0hWN2hORzJWQUZfSzF1WmFKckYtVjJUT01aaW5hY2JOMDdNcENiQXhrTmxr?oc=5",
-      "source": "SWI swissinfo.ch",
-      "published": "2026-11-23T08:07:13+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Glückspilz knackt 47,14-Millionen-Franken-Jackpot im Swiss Lotto - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOW83NmhhX0dtMm5mUVhKbnFGWlEyWnhvQWhqaklfV2tFT1dJMl9qOGRxYnlFcTYzZS15cXp5VXVTZURGU0tsVmc2MEllLVZfR0VKdmhxRFRrWkN0azlfaEx0RjJpSHg5enRvWEZnU3N6UmJoSklVai15LVI3ekNYc2lUZl9vUVVxSVRnX2xxakRwYUV3a1YyRVljTG0zc1p4Y2JGY1A4OEZlbjNSRkE?oc=5",
-      "source": "SWI swissinfo.ch",
-      "published": "2026-11-21T17:37:21+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Kennen Sie die Geburtstafeln, mit denen Geburten öffentlich gefeiert werden? - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbzdjY0Q4a3dqWC04S0RsN0cyeTB2M1luYWZYTDhnX0xYYThab0VKTGdHS1RkbGtQWWhqYWw2elBEbzRmNXlDcmdMb0tqQk9La21pQ1hTZ19CenF4NHFucENRVTFEbGRXZDFkWlJWT3BJQkNMT0wxeXlDemtycTJCM1pXbDctVUtWYjRxTG0td21LUEpocThBZXBXQkZ4TjBNZFgtV3Y0cUlJOWNQZWVlMDJtU0xaNnlheU5vYTRsQmdkajhPbGNZVlJudTVSNzJqV25IMm5n?oc=5",
-      "source": "SWI swissinfo.ch",
-      "published": "2026-11-21T06:00:00+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Protest gegen Asylunterkunft: Dorf will nicht britisch sein - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbGRPYlUtVWI0TFNSQjZXZWxyS09PM2l4YWN3SzhBYno1bGhUcjdiNHZqaE5MRi1QUlM3bXg1U3JxOGhERm1oVUFkZU9OVDJfVURUbjNNQ2tjZnhXSlltN3dHNzJQLUhPWnJmeFVvQVphUkhWN1ZvbUt3S2xNTmRVbnpHUWhOOFR2TUFqa1VOWUhoVHAwSUpubzBDUUVSQ3lK?oc=5",
-      "source": "SWI swissinfo.ch",
-      "published": "2026-11-21T17:33:44+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Das Schweizer Videospiel des Jahres heisst «Tom the Postgirl» - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeVlMRGZyZFpXZjRNVlNKeTVVWXJzOWpqck0tMTlOZDBqM1ExQnBOOEg5TGFCV3BuRGxEeHo5WW1KanNfMmZyRlNnZWNycENLdFQtRjNhbUlyT2lnSGo4NHBLbUlEWlJYOVZJVHVIMThBMEJXX2VyVC1sSFlCT05mZkVSZW9xVXdUYXhNbDY3X1ozMnNSdHJldkZJenpqc0dVUDJrdDJR?oc=5",
-      "source": "SWI swissinfo.ch",
-      "published": "2026-11-20T19:45:00+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Webseite: Rund 770.000 US-Kunden an Thanksgiving ohne Strom - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYndHamxJb05xNTg4d3BJd3U4bkZ4SHhkUUE1M1l6MTBMcEhwZ3ViS0ZDOVl5TUpVV1R6Z3RWbWtwZ1RDWlVHT2Vyd2hWeUNGUkpmb29weTZzU2d3MHRfTmNPcjUxbGt2WnhJSzV1MGJndy1yNEd6cHNNMXFVZWtSdnVOWVJfMWVoNmxDeXEtV243YlZFYV9jWmh0bXd2ZTRN?oc=5",
-      "source": "SWI swissinfo.ch",
-      "published": "2026-11-26T19:51:58+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Explosion in Öldepot in Bangkok – Anwohner sollen fliehen - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYVBvUUY1Z3JTVTZCSTY0TUVFQlUweXpXMS1uNnJVVk5CV2tMZGVsVy1iWXlnMFlEUUVoaXZJNXM4ZW42bDZGRXhtMWV2dk9SM0RRVklrbWJ3eDZYZUVCdGI2dWJDaDNTXzg5THYxTnVfazN4V196MXA5b2tKcDFJeTBiS2dtT01lZ2xJVk1YZ3BvZ0xoTm9iRFBPcjBMeWs?oc=5",
-      "source": "SWI swissinfo.ch",
-      "published": "2026-11-26T09:20:24+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Lastwagenunfall blockiert Autobahn A2 bei Basel - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcHJ3Mk4wVGJoVlMxOE4ySnBCbVJMcG5pbVZzQ2czcEZBZ21abmdyTV80ZFpIb0J2b252aW5YSHMtZnRScGVIU0NsVDFmeWtaeDRsOXpmemJ4NjNKcUJvaUtzbEZxWm8ycWRUaTFhNk5yTUtrREVIVThRMWZ3X0d2Z3lVeGJQNlRHU3BNTlFR?oc=5",
-      "source": "SWI swissinfo.ch",
-      "published": "2026-11-25T11:54:21+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Nidwaldner Landrat berät Lohnentwicklung des Kantonspersonals - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTkw1d3BZQUJSWllhLXd6MDU2allBTWp6eTcxQzFid0tKdm1Za3ZnTTFBckF6SmkyaHpTVTNoSkU2MXZRdUhoREozUGpEY3ZzTzlNQkdITkR3Nlg5cWJDTEM3RVd6ZF9xd0xWeE5QNmFzb0pCUEhVMnVFa0E0WWF2X05DTFZEMVhlc21oRlBqVnVsU0xuTngtelNCOGl6R2NBaTh3bWY0NA?oc=5",
-      "source": "SWI swissinfo.ch",
-      "published": "2026-11-25T10:45:20+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Nidwalden nimmt neuen Anlauf für eine Umfahrung Stans - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWENNcTlvVkNROVl5NEx6TWlWajZtNEpUYnlLUG5HTUtCRjF4RFBQQTBTVVp4R0xEVDYwckY3V0thT1o0THZDNlFMU1R3N0VMTndTTnNGVlJYZF96bzJaV2p4WUdwUDZVQzd5Y3l5Rzk1S2JXc3BPaHY4Rl82YXdOUWlRM2hucXJ0Ui12SUdRbTFzZFMxVmlHNGt5c3A?oc=5",
-      "source": "SWI swissinfo.ch",
-      "published": "2026-11-25T08:50:44+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Ballon-Verbot? Thanksgiving-Parade in New York droht Sturm - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTmM4V1BaSkROSjlFODFaRUY0TVR5N2thTktpVFlxUmh2OUdibE1wMGlPaTRFNHBJSGY0dVpRYmlJZEl1OUNzNTdld1RzWTdRTUZNNFp1S3FJb0k4QWJndWFTbG1EREhKemx1anF6bXpzczl5OTgwVDB2dlZHOTFpd2VhN2c1SUk2WGF5V3lQUW5ZWVFsMmhWTzFtWWYyM2c?oc=5",
-      "source": "SWI swissinfo.ch",
-      "published": "2026-11-25T16:30:57+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Zuger Kantonsrat diskutiert Budget mit knapp 290 Millionen-Plus - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbm5sWDBvVTlGTmVXbGROZEhfeVFUSlJsVm1ibWt6VmswM3ZzNVVzMXNYNjJaTjFZaG0zcjQ1OEF4THRhdjc2bXh1aFpEX2pnVnFTaTlUSklselZZeG1VdHpHWG93Y2Vjc3ZiSEExNlR3VEtiMzNKLWl5TDhUOW9Iak9CMXRkcC1mR3Ftbmg5ODRIZGtDZmRWQ0ZaMXZURFRGZFRN?oc=5",
-      "source": "SWI swissinfo.ch",
-      "published": "2026-11-25T08:08:58+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Polizei verhaftet in Dietikon zwei junge Autodiebe - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSjVZWllkWW5NY1k0aUMyaFR0ZC1iSU41a1RkNXFNSlNIbXF4Ykt4OVFDMmpmX1dZNE5ZODloUzJhRUdYUzh2YkZXU1poWXR2dlY0bzZ4eHhHSzhMaTJhVm1QZFJGdUR6a2RTYTBmYWlzLThNSkFEZkUtcWNsNGdCUUdfcHh6Tm1sMzJoUlBiNWZrdw?oc=5",
-      "source": "SWI swissinfo.ch",
-      "published": "2026-11-25T15:11:19+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Meldung zum Zuger Ständerat Matthias Michel - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaHVhd3gySm5qRWs4bEVHQWZuZHA2bnliWGEyUjJsVWNUdEZWazd1QlphOVkzOW83U3ZCVF9QeVk3eFE0WmlCWWFsQ3FUTjVFVlhOckVyLWlNMzZaRi0xNktrSEx2Q2NvREh4SDVfdEtyR1NWU2JqMUZBU3Yxak0waTJSSDlxUTdEN0dUR1JWOA?oc=5",
-      "source": "SWI swissinfo.ch",
-      "published": "2026-11-25T16:06:05+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Rollerfahrer bei Unfall in Agno TI lebensgefährlich verletzt - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWVZlMXRGTTNES2tZTHZCY0RoS0FrczZBczQ4SlRDaFpIY19Pd1dvODQtRkJSakJITnJROWl1QmpHVVdVQUhOc3BmZ3F4R05pa3QzX2s1dmhLb21MR3J3Z2FXTmtzRExTRG00cVR4V2J2dXBPSWZmdk9fWjZjTDNjbjM5blZ1OXRodHFMbXRxclBRM3YycllfT3pBbUxBenk2aGNjSkhn?oc=5",
-      "source": "SWI swissinfo.ch",
-      "published": "2026-11-25T00:30:25+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Klimakonferenz: Schweiz macht laut Rösti Druck - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTnZnVUM4M0pPSzQ3SmE2ZjcxMERrTGs5OXJ3NjUwaUh5V3lGaW4zWUZnX1NqcjFzcEI5Q21xVF9LVkZkQXNZZXI2S1hoSU5xSDIwdFRHeENnd19uWDJEWHg3cjNPSXRDMGlEOTVXSUZTdlllMXF2MExDTWd1QnZjNWRPQlBCaThUeVpDWVBKZGt0cmNpX2c?oc=5",
-      "source": "SWI swissinfo.ch",
-      "published": "2026-11-20T10:27:50+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Chefarzt der Chirurgie am Spital Thun kündigt nach Konflikt - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPekVfZnphNGJwWGZmejEzd0FUbDhuZDhZMURUUXJlakJxOW9MY2x4WWtlaHdBa2FkelFBY2hNc1hOakE5OTVJZ3RyUHE4dzZDVDFCQjNhYmVJc19naUM0NXBidmNzcWEzSTJIamc1Z1dybC1LdEtlWFJmNkI2bGlPV2I4bXBackZrWk5jQnM1ZERlOW5xamNUbHJ1Q1VYc3dnY0JpUQ?oc=5",
-      "source": "SWI swissinfo.ch",
-      "published": "2026-11-26T12:29:35+00:00",
+      "published": "2026-11-26T15:26:36+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -7688,46 +7465,318 @@
       "status": "topic_filter"
     },
     {
-      "title": "Kostenexplosion zwingt Langnau beim Hochwasserschutz zum Umdenken - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR1l4OXRxNlF2R2FVZFFCbk5IRFhXMEltRmRJMFlaQUQwM2pZRHFwSlNacVpDVGViZFpnMGRmcjFpVVVLRFFQZ3d6Z2dQYVJqTmVRdmk4YzQxZm5jUkYxZGV5dVBaZWhSR2U3Q0VXWXRIbzhUdFFIbUxOaDNLSEs0N2V2Z0JhOUlHdTVXOVJTV2NwcEFvOG5Dck8zRzFCdHpEVEFDUV9n?oc=5",
+      "title": "Zuger Parlament lehnt Mindestanzahl an öffentlichen Parkplätzen ab - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR1IyekhwRFZiX1lDNVdhUk9pVHlFdmJaeURtX1dIMVFpc0VaUk8wN3ZITEp2bGNSYUVBSkJiUlJDRUt0TWNPM29uYm00TFhIemllcnFYb3hobVA5TVptQVJqWVFlMmdxZGFER3ZZTHl1S1cxa0U4enlOVHBTYUJkd1dNdUhnT0hjbG9HX2x1T3lOUEZnZW50QzBHVzVGT3daX21RNHVNMVBvWWxuSFVhblNWSFU?oc=5",
       "source": "SWI swissinfo.ch",
-      "published": "2026-11-25T10:23:59+00:00",
+      "published": "2026-11-26T15:13:07+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
     },
     {
-      "title": "Silicon Valley rast, die Schweiz plant - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOVFI2clJnaTM0NzZyaHZIS2pTcmFJM1BBcVE2dTVQejVfbzNxMkhacG9CRGpFX2Z5Uk9oVlNZYmdWVnRrREFDTkxXbFByenlkZkNsRVRBUzNaSlR2VGNHaTNyT0dGNy1EOEpTZ0lfUGplZWhsSnY4a3JqbWp1cFhOU1JjM05qeXFNZXA0RUszUE85NHNQdVY4OUFHb2dXNlp4RjAzNm1oWlJiRVhLczJVN0RGNXZ0LV8yYVNKUUlYdk8xSThHbE9yVHZVX2o1dnB0RWxJaUF5THdILWYwMl9WMGREdnRZN0NfdVFBVk52Z3lIb1puQ1I3TWJZQVZRVjQ5R0E?oc=5",
+      "title": "Kantonsrat will in Zug kein eigenes Mädchenhaus - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQX0NpQlJtQ3FPX2VMTHVqVmR5YXRVR0hGV3l0Q1pkS211bm5PN3pRX1d2MTdWUWhabzBQamNhV3M2bGlqbXlPd0E1NmM1TlhJQktTQzZQaEhSMXF0YUZLN250V1NrWGNjYkZuY0dPdVNBR3NlUmxneTFpUXFTakVobGtiOXdQOTFCdE11aWFDWTBFTjV6?oc=5",
       "source": "SWI swissinfo.ch",
-      "published": "2026-11-25T12:37:18+00:00",
+      "published": "2026-11-26T14:04:13+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
     },
     {
-      "title": "Biel plant Schutzmassnahmen gegen Steinschlag in Vingelz - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdWJFYUpIVjViVG9hdHNWY3VMYmJ6WFhBM3ZpOXd1UVU3NHNnaGNBVTV2dndsdFJkREZFLXJsUWZiQUxjdUNRa0Vqem1UbWN4MEJQWWFoajJYcEpJX0k1VjhsUmFhSWJlUzRheXMxYWtjbVZPdzlyaHBRU25SNmhUYUhJU3k4ZFJkWUJld09kSHBORnhXMzBDUXV3?oc=5",
+      "title": "Mehrere Tote nach Alkoholkonsum im Iran - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMldlMFN5bmZKUnhOeFV3aFZZTVYwN3hUOC1qUjAxZTdjZHVTNTlIamcxNmdyQmVpMG9JZTB4N2VzQXNJYmw3dnM5cFN4cC14RkVMVFJER0tDWkhRMUxTT1JaRmdaZXhVWmFCTTZ3UVM4ZmJxS3Axc1hQOEgtS3VOVV9HZw?oc=5",
       "source": "SWI swissinfo.ch",
-      "published": "2026-11-25T13:13:29+00:00",
+      "published": "2026-11-26T13:27:44+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
     },
     {
-      "title": "Bald ist der Einräppler nur noch Altmetall - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQXzZfVS1KOUU4TVNoRVA3Rmp0bGdlR1RLVG8yQnZVUndaVkJxT0duVUhoWml5cndIQldMdkdQM1lrQlJMdkE5bFFvVUlOSzB5TFZmRThoWjUxRlgyeFhOUkVCLUp5XzBlTktFMEpjcWNoNnQtcGpmdXZzeDltMDJXei12RFVMLVc3bHJlUGNnZlFFNlFGdndPdTAzUzlIcXZ1cC1kM2VXa3FST21vMnZGYTdNb29YTHdKVHZQNUwzTURsWllONEh6RHVBbHdOd1NNa1JFOU5GXzhiaHJ3VVBjNnZwVzZhVHp4aXZYalBCZXNrVDNWSVFTY3NwM1ZENl9RVlMzeS12M0pyYVJKX2tB?oc=5",
+      "title": "Protestaktionen gegen den Auftritt von Anna Netrebko in Basel - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVjZ5c2tKeWxQbDhOaFRqVUYzeEdCakROMFdZMWFOenlWX2VQWWdTbEJIWE42N0RjSmd5YmNOZmJlZmplWGczVU1hNVA4VzIyWm9PR21hWHlFaHBHVUZaNElIQXFNQi1OeTdPcVVaTmt5X05xWWphUW1Vc0tfdU9aUW9wT3EtbVBCLU1kOVV6alVNeEs2aHVhTkJ0Q0pRUFV3?oc=5",
       "source": "SWI swissinfo.ch",
-      "published": "2026-11-25T10:00:00+00:00",
+      "published": "2026-11-26T14:24:14+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
     },
     {
-      "title": "Zürcher Stadtrat will Beiträge für Filmfestival deutlich erhöhen - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQS1QY0lKMnFkQVNIZXZxdE9Vdy1ydndSWk1ReVJIbktybXd0UG1SS25ZMHJyX3lsYWVpR3pSOHNiZGRsMUkwMmM3QmNSQ0NHZWtTekRMTGVJZlNGUFctVW44UUd4Z3Y4YWJ6RnFMaGJPdnhEWURaRzNEa2lVQUFGdHgxcU1TSnNzM0N2bHVKa21kd1I4TUhzOXJ3WmxXZ0laTnVGVzlzZ0tla3lkZTJFclp3d3h0aURpTUZhbkNkQQ?oc=5",
+      "title": "50 Kunstschaffende zeigen ihre Werke im Aargauer Kunsthaus - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcEZqREZ4VTlFUHpWWEtLd090bG9lSHZfMTY2RWlJdEtPVU41dHQ3TTB6aWwyQVROalJoYWpkZS1oSS1wa28tZlRYaU8wc0U5ZW9ENElwREpTbC1zcDFNRTJmN3VNZkFJTm9KdzcyX3AxMmVQdm9tbGlQTkJyU1lmYXFwNzI0cWV4V0JDQmtHOXZLVjF5RVlyX0FvZHg?oc=5",
       "source": "SWI swissinfo.ch",
-      "published": "2026-11-25T11:36:20+00:00",
+      "published": "2026-11-26T14:30:00+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Ein Streifzug durch drei Sammlungen zeitgenössischer Kunst in Basel - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdEJSeFYwc19sLXR6YUdvNkpKeFpjNEJNZUlabGU5cHZCNlYwTTlwR2t4UFY3alVQNS1BVXJQdGI3WXR0aEJyeVllM0tMb0lCNk1PcG55b1p2SlprY1NFZVpqRzFXVXk0X0IycWl6OGxhaF9FSnI1Vzk5RGlQblhRYk5vdFZtSFFfZkp5QVl5d21yWkdRb2pBdEItY0ZjSThTNlNOeVhhZnQ4VWZwTUhj?oc=5",
+      "source": "SWI swissinfo.ch",
+      "published": "2026-11-26T14:01:08+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Aargau: 500 Verfahren wegen Covid-Betrugs von 46 Millionen Franken - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ29EM21NTFE3aUw4TFp6VmtDZ2NhZk1zVk5yS1Z1TkMxNER0aV9tcVhEdGkwamdXQmZja3pHX2dLbjNPM05yZjJCQnptRmotaGlvM1pqS3p4c2VtWktEUnhUNGtKT1FEdERkOVUzUjZZN3B5d29TSk9iTnc2SXlNMVRMWnV5MUsydnVsVTE1WXNEVUdQSnVtQW1WeTNVTmlRVkhJc1M4MGJCQQ?oc=5",
+      "source": "SWI swissinfo.ch",
+      "published": "2026-11-26T13:49:22+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Flughafen Zürich nimmt Schnellabrollweg bei Piste 34 in Betrieb - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR3VzNFE1R0VIN181N08xUlU5eU9pOTl3T0w4UnQtOE9SbWdncXpDc2l5RS1oc3plcjNmaHhNcGh3QTh6WHNnaEtxVUVTeWJVWmFMNFdFTEh3R0lWODBuOU1XU3ZzWmZmZm13emFLZXlvQVhTSVI0UTQtc285Yi1ETFFaakJPREl3dGpOX21CN1JGREMtNkVrYmw3ckdndE13dUFSbHgxN0FXdw?oc=5",
+      "source": "SWI swissinfo.ch",
+      "published": "2026-11-26T10:21:59+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Machtkampf am Spital Thun führt zu weiterem Chefarzt-Abgang - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY1BCcXR2SS1UUW5lMHE0ck1ZWGtwWERvb2ZtRlpzNlRwejRrcGE4MmVzbTVFMzg5WGgycnF1bHZPVVhsLW1LRlh6UWRQYjhRQUkxZVZHVENnQXVfNXFjLUJjSEZXS0w0TUZrbUs3QXF6NDNKUE5mbm94OW02TTJveGdpbjNOTy1rQktmOVBIazFDTGlLZFQzeU5IVHV2bGxJbTZyQQ?oc=5",
+      "source": "SWI swissinfo.ch",
+      "published": "2026-11-26T13:19:28+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Auto erfasst Frau auf Fussgängerstreifen in Bettlach SO - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVzQ0QXN6NEFZZG1KdzFieWdwQ3FJdXBwYTEyM3M4NUp1QzRxMFpIVTZpMXN3MHZ1VjhGZm80V0RobXdxQ0RhU1J2U19sWGJNa1ozMl9QLWppWjlKRGNfa3dUdThFeFdnMGk3eFV5SEROOHlidy1WbjlibkxtcGRxeXhQQlNtREg1Yjc1ckFPSmM0OFB4dlN0UDB5Zmx5ZFk?oc=5",
+      "source": "SWI swissinfo.ch",
+      "published": "2026-11-26T10:53:01+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Bundesrat räumt nach Untersuchung Versäumnisse im Fall Kabuga ein - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVXlXcVZuNXRhY1FpbGhjdHBvVzVQVUdYYlotSEc0YkYwNDZkNkl5VGlrcTkyNHJJbFZ1WVNNOE4zVG5WdDlkUTVTbTNIV2Z5dDdzRnd0c0FHTktkVHJvaGhMcUtETHg0bUl4TE9tRXpyR1FlMURyNzNrMlhGYXlfV3hBdU5SQVNaNHdwcE41ZFBwc1dRcDduaUw2S3NVSlJRakJLMlFRcmRfWHhoZi01cVRYdw?oc=5",
+      "source": "SWI swissinfo.ch",
+      "published": "2026-11-26T12:00:00+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "London investiert Milliarden in nukleare Abschreckung - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdzc2M3pHVG1zZVVaTHBScElvTXR3emlhcmN3U19LZXYyOUl4cUpEMVRKRy1ualNHbFZNZl9iX1ozak94cmsxakZ0ZW5SZXBmeFZOa2FBRDA2M2tDc3E4X1dJX0pPcjRkbkd5WVRlMmFVN3dYZ2REcW9oVHp6ZGJHU1lGcUlsSG45a3lBUjBoZnp1RFhOcFE?oc=5",
+      "source": "SWI swissinfo.ch",
+      "published": "2026-11-26T12:33:13+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Aargauer Verwaltungsgericht bestätigt zwei Rayonverbote für YB-Fans - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbjNFRHNQV2tHcGpNbmJlT21MaENOdnRORWcwbHVmXzZ6OFNvT3pLbERFa1dWUEFHNHZ5TVVOZHh4Ym9fN2h2WElQcXdyRVhOdmJWVkwxdTFMRUo2RS1pREtvZkNqWWR4YzFpTEJ1UmtiMVpIWldsaldVNDJORU5kYm10OER3d2J0V3A2cW1XcXl0ak96b3pwVjhyUy0yNkpuZGF2QWFvRUVXSU8wQlFJNjJBR2ZvZw?oc=5",
+      "source": "SWI swissinfo.ch",
+      "published": "2026-11-26T13:09:06+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Versuchter Menschenhandel: Ex-Gemeindeschreiber muss ins Gefängnis - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ1pjdEtUdno4b3AwT3VxTVFaNVlrTTZBZzZjeElrVGo1eWxsNUs5YkZkTDJPdEtYREVEVkhvUWoxT0FQWkY3SDRheUxyNkpHOWlRVE5XeDVqNG9pMWNEN3p3VVFuc1JyMXdubm8zQmh5M2tBZkdIMC1NZzJnNTBOb0Y3V3kwd3h1LThReUFPYTBUczNRWFJXYW5wYXBTLU5zT1AzTEJlRktmcTZFZTFSLQ?oc=5",
+      "source": "SWI swissinfo.ch",
+      "published": "2026-11-26T10:30:00+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Stadt Bern will Schutz vor Cyberangriffen verbessern - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbnhPcjFBRHBneHRVQWJwM0hDSHpyUV80UEI2Y3A2Yk1pcW5ib25lNmVQaWNGeVFrQWUyaWtBdTg2cWdNVnpDQkhfRFVhQmZmS0FZSUdLSU56R19ZUW9jT2t5R0ZjZGpZRVgza2owWF9qV1dQeHNaRVYwdXpEREc2VGlJNGVWZ1lSaDdfaW5RTmVTU3BU?oc=5",
+      "source": "SWI swissinfo.ch",
+      "published": "2026-11-26T09:32:54+00:00",
+      "eligibleCategories": [
+        "Security"
+      ],
+      "selectedCategories": [],
+      "status": "not_in_top_limit_or_allocated_to_other_category"
+    },
+    {
+      "title": "Streit um Lindor-Kugeln: Bundesgericht stützt Urteil gegen Aldi - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU25ER0V1MjRJeHQwemlxUEdmc19QbjJmMkJ4cExYSnFreTJmRWZZODFkVFdZVTRwUTBmMVl3c0Vlb3I1SzlNVFk4XzJJNllIWG9OSXVlYk9VTHBGb3FHTUVpSEplSlRwNW02TFZBN094OEU1bWFKZHZ5Sk5xZldONXliakNjQld4VkhuS0xpbjZ4bEw0dm9KSzFRVTlRTzZCQUk4MFJvUldnZjE0?oc=5",
+      "source": "SWI swissinfo.ch",
+      "published": "2026-11-26T10:36:00+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Neues Gerät soll Zungenbewegungen in KI-Befehle verwandeln - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQemZDcjdBOEpvLW00Z05Gei1NWURadlZqX1VVaWkyOFd3WEktMHQyeDNYLXVEdHh3R0Y5SkY4TUZfYVdoNUl5ZXNnWTJBckJfclp1ZFF4LTM5SXVpLV9ESHB2SDY3a25ObktEUTdVc2RnQkprbFRTc1IxUlEyMm9taUtXQklkN1pfZnYxN203UHROa2g1NlJLQzhPbFJteXpqUlRF?oc=5",
+      "source": "SWI swissinfo.ch",
+      "published": "2026-11-26T12:00:52+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Deutschland: Festnahmen nach Anschlagsplänen auf Synagogen - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWFNSTzl1SXdySUpscGhMdnZpbTd6Vm10YmZQcU1TaVJlNTFfTDBscDFYQUl4Q0loQ2V0alpNanR1ZTNLeUxHSmhtSXdKNllWd19CcWJvdXdrc3dwN3ZEekRHRThVNTFyU2M4MnJFeXBnQ2U5djBLM0ctQm5kS1VSZ3VfNm9ydkhXMVVwTjVIZzFyN19FQjdTN0tKN3JrMkR0eDdFRHN3?oc=5",
+      "source": "SWI swissinfo.ch",
+      "published": "2026-11-26T11:27:29+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Berner Grosser Rat gibt grünes Licht für neue Wasserkraftstrategie - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2gzU3NyUkFTYzltRWMxR0IwOWFFcWtWSlhLZDZ3ZDcwVXFCTXZ2UUJ0WXp3SkxvU3ZlS3FobVNzQ1NUZ2pqekw3VGVESm1NQzh5OVJhNnNia2pUQmxOWEh4RUJFNmMyS3ZZOTJwZjhHb3VvVnprQnduLVpnQ2VmQ1R4bldGZTFjMFREYmY3dk5rbzB0Vk9kM2RGRmh2NmJvNl9aRmJBc2plRDJtc2lkRmhUWUg?oc=5",
+      "source": "SWI swissinfo.ch",
+      "published": "2026-11-26T14:07:19+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Neue Bischöfe von Lugano und Sitten dürften eigene Akzente setzen - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOXVSYUlVQTJTb2FReW8tLW5ORGZ5YXdtVjJGMTd4Y05FRzhxSGY4X0VlN3RfRWc0VXlCSDE0VUI0OE1walVnN2NfaHdNeG1jVDFkSU04SzFZMlQtdkZqVzhDdDZsM2tWUFdydER5b2pHWFZPaGtUcDZyYTFRdllWZ0V4NEVsOWh6bjI0MFFzcGpRaTZzS0pOZVVxdjlrUUFaQlBWOFk0aXB6M3ZseTF6TkV6QQ?oc=5",
+      "source": "SWI swissinfo.ch",
+      "published": "2026-11-26T11:48:05+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Mann verursacht auf der A13 bei Kriessern SG zwei Unfälle - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ01LNW5wVnBoZDBnYk4yYl9oazFVbkZSSVAwM21hc1E0Y0ZiRlVjX2IwMXNRUldzOW0xakF3dFRaM1k5NWZMLXByZWxSTm81LUtzaHJKa2VLTFpjN21JWmx5bENNUEFfdnlwdk8xWlMxdUk3blFBQkd1MkVTSGdDNnZCZXRNSGFPTENtbUNpYTNlNm00dlFmUi1ZWVhUMVdwM3c?oc=5",
+      "source": "SWI swissinfo.ch",
+      "published": "2026-11-26T11:20:09+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Bund nimmt Bundesasylzentrum Aesch BL wieder in Betrieb - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQkhsZXV6b2JTa0RNeHFDWkRKcXVuczZQSFJHQzNMWnRYY3lOLWQ0QzBtQXRnc3A0ajBLZkwzTDRBbHQ1YzZfTkE2emVSZDdYQnQxaEZlcHE5NldJYVdfSzlYeHpVa0ZkdEg5WWVFQnh3c2w2eTEwT1dGRjJSalM0ZjVKNURIQ1BVa2NfMmVLVG5mWGlZaF94OA?oc=5",
+      "source": "SWI swissinfo.ch",
+      "published": "2026-11-26T08:24:15+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Explosion in Öldepot in Bangkok – Anwohner auf der Flucht - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUnlVN0pQeGctaXFDR1VwZC1IamhvWUw5WHMtMDFCTUs3Rkg3b2tKZW1vQzVCZmNJeTg0cHBQMWc1VEN3T3JMM1lieGhXS1J5YlhCOEY0c3Qyb3lsX2tyQzJ1U29zLVdndnd6UmZmSWYyRjFVa0lHZm1maE5VWE1wMDlvRUFyVmxnSS10X2JYbG1DTEF6T3hRcEMtNkhUMzg?oc=5",
+      "source": "SWI swissinfo.ch",
+      "published": "2026-11-26T10:58:37+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Alpiq reicht Plangenehmigungsgesuch für Batteriespeicher ein - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY1dsSVVwR2FHd2tlRllRLVRqektHWGdvZW1TODFFN0I5ZzNBWWd3TlNzMDJ0UDQzMHp1MXd4SzJESUtDaEtrMWV4NWdHSjg2WF9tUmFVZFk5c18yTGNvSUVwSkFJVUd3d2E0OGZ6bkhTWXF0QWVTN2pVYlJyMEJGejFfVjRQOG5sb0g5SXh2NEozazN5WjdsWWhqR0N0dmlfcHBXYi1B?oc=5",
+      "source": "SWI swissinfo.ch",
+      "published": "2026-11-26T10:03:04+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Behörden entdecken im Kanton Bern einen illegal gehaltenen Wolf - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYnpHQUtBWTZvTEZfZkFsVC1kYWFBNXJEdkluMnJFMllXWkFXdXdZc21iNnpEekFrSEdhT0tpdE5FQmNYTGxuVHpGN0NXeWE5QVpXLXMtSWhNclVMNGI1dllBWFVvWUlYMjc1bkEyRVVsZmZOb3NMQ09hbUFzT0tXU1MzQ193VlpUQTgtSXpMUzZTeUdPRmY0VzE5WkxPVC1VUjJHLWZhOG9iZw?oc=5",
+      "source": "SWI swissinfo.ch",
+      "published": "2026-11-26T10:54:56+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Die Schweiz hält den Europameistertitel im Bahnfahren - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWVhTMlhNaTQxTDc5UUEweWJCdmhEclpFY3dpNjdSWUpxX3NRY0dtNGRZdW95XzRJM1llUVI5YVYzcHpFVjFJRzd4MDVBWWhYZXZad3otNGRLd2Z2NDZDUmdxaUljMnpZeWV6dHlPNk10b1loYmtJTWNURUE0OWFXSzlNODlsNDVhZk1IZlBwQjdwdnlsX2xGZ1NtMTA?oc=5",
+      "source": "SWI swissinfo.ch",
+      "published": "2026-11-26T10:28:02+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Axpo warnt vor höherer Anfälligkeit der Energieversorgung im Winter - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeXdCNDBCUnl0MTFFT3pYVi1MbXFXUDAyQlpuaHpHc1FfcHNMWlB0M0ZLR1g2RHo0TVgtVjgzN2R0WG5DeTMxdEI2TUg5cUxhQ3AxUTlxNktCUkxfaGpUVDRJZ25IUTQ1anhKVG8zMjR0QWFGblZ5OGtwTWpOTjV0UEJGZ0NTMGZjVHpfSmdnNEpjLVhvc3QzUGo3NTdoak9qeVVRRUVnckdNYW1CNEUyOHVXZEw2dw?oc=5",
+      "source": "SWI swissinfo.ch",
+      "published": "2026-11-26T10:54:13+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Nach grossem Eisabbruch: Sperrungen bei Randa VS aufgehoben - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZVVjRWJjQ1NsalEyVUs5NGloRkc5NUZOVFlwUTFTTkxTUXNJdGx6ZjFHRUJaTy11bnZQVzZySldEc3ZaWF9HUEsxNnR1V1F1WFY5QlMxWmZLbTBuSS1JZHdNbkF0ZjA5RmFQWERVUExmTG9BQ18wUGhXZkg3VFdvTU1sOUxfRG1QNlctTVAtc3lrVVZiS1lVcHAxRHdfRnZV?oc=5",
+      "source": "SWI swissinfo.ch",
+      "published": "2026-11-26T10:03:15+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Fachleute beraten in St. Gallen über Bekämpfung von Schwarzarbeit - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZEk5ejJxMmFTWEFKV2JhdXVrQ0dUdU9HYzFIX2JYdHdCNG1RSzlDWWlwZ2EwR1h0Rlc3YXEyNG85MkdTMGlVU1NPMThLY0JMSk5yRTIyZks3Q3F6VjJJTjhCSF93NEoyZVY0WU5hVU1ZcU80MVpoTjRUWjdBb2piTkt3eS1OUUg4QzVwLUIwb0wweW4xaWRxWnF3YnNiRlZvb1RXWkVOaUt4cXZPaG9MU1ZSbw?oc=5",
+      "source": "SWI swissinfo.ch",
+      "published": "2026-11-26T10:32:51+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Bauarbeiter ziehen von der Bristenstrasse ab - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOblQ5VEhaSWhxTTdtOVlqVHFjUTZvREowRkFwVHJqclp1ejF6WW5wZkJhZlN0aDBQdmNlOWcxM281bm1Jd2xSNFBCTjd0UzBUa2VVV2c4bkRNckJKczNXSGtRamlnRFF1eHZVbzhQX3hEbGdMS1c5RWh2aUxqbmF1aXhSLXFHMWJHeEE?oc=5",
+      "source": "SWI swissinfo.ch",
+      "published": "2026-11-26T09:38:32+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "In Bern wird ein 510 Tonnen schweres Gebäude verschoben - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNlBFNWt2UUlpS29saE9JQkZNemo5MHJlRDljM1IwRFlqcWVDRW1xY3hWY1RzazJReUZZYVFNRnZYUnV0V0xDS2wydDRsU1h3Sm96d3BScXdHS0R0NXVKSHJYb0VabDNJaGIzTUZocVh3QWhKU2Z3Q1JWb3VTNHp2SFI1SVdWUUJfdGpienYyUlI4QmRZN1BRc2ZET1VBdkk?oc=5",
+      "source": "SWI swissinfo.ch",
+      "published": "2026-11-26T13:00:00+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Beschwerde zur Rettung des Aargauer Ortsnamens Linn ist ohne Chance - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRkJESU04SmtuNFRfYnFfaWtmWV9HX2FHMjJwLS1KOTRKU2JTQm1uY1V2ai1qZXIxU3BPb2QtQnVZeTFzaU9JaExyVG1vblRrbHFMUER3N1JFODlxQVhybHotNDRXeVd3X29teDhuRFphNF94Vk1TTVhKVUZHQXJYV293WHFHb1JFZ0RTeUFFakRrLVEwVlJJQUlKVWh6dnY5WHdqN1dkQkE?oc=5",
+      "source": "SWI swissinfo.ch",
+      "published": "2026-11-26T10:01:17+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Die beiden grossen Berner Kunstmuseen holen Direktorin aus Berlin - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ29RZHM4TlFxMDRQTi1hb1ROdTNHWlRIVkRidkJMQ3pad19SdXk5dVo1VmNicEppLUROZnBTNFFBTGlfOHk2TnhDME5BbHpXNTZkRFVxYlczZ0cyU1puQnRJai1xMy1hRVUxazJaS1YxYlZmTGVWaEpBWDd6RHlTVWwxNGN3MFZDU3BIXzM3X29fUlFnb2F3YjA0Y1ZMclZuemNJNkJn?oc=5",
+      "source": "SWI swissinfo.ch",
+      "published": "2026-11-26T13:13:14+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Zahl der Sozialhilfebezüger ist im Kanton Luzern gestiegen - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPajdWakJOeUJTLUdBY0laN000azRTLW9fZUpqREtSVTRfZ0N4VE5SV08tU3RGRlBLUlczNHJnX3lQbU1WY2JnNGltcFYxT1ptSHU5NXZwLVFqLVBHYk54MGdWb3BfMHo5bUMxRDRYWnFQWGdVeS0wMTRRNTQ4UHNMNUpqa3dfYlBmVkhEbG9sTDhUYk44SnpHZnB5b1VlTUFOM3dF?oc=5",
+      "source": "SWI swissinfo.ch",
+      "published": "2026-11-26T10:14:02+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Zürcher Finanzkommission will Budget um 137 Millionen verbessern - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd3oxbDNnNjdvV0tlQ2hCWnY3UlRWSmxGdkw3a0RVa3U1YzJzSEtKWHYxZFFKaHNoZU9uZlh3NDNCTXdfRHZ6RlUyWnM1TkJpVllwN3cyT211YTB4Sl84eGdGNk1jUW4wTHN3SXhmak1oNlRTSXZ4elRDWkRhc1Z1cUxIbEZZU2FweUxLNERFc18zRFA3RE1oY3JQYTA4SklVMU4xd3JoLXVlYkk?oc=5",
+      "source": "SWI swissinfo.ch",
+      "published": "2026-11-26T10:04:01+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -7827,15 +7876,6 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUS1sbUswQXk4aGtCS3drS296MFRtaTVvZTdscUI0dTNlLWxfTGM3UGxxUU81UnNURTFKdUdVOU8tYlpaLXRhYmxrTmYxdVhXZEEwWXFPS25hR0VZWl9YRm9zMlplaUJSM3lnQS1mTHJDT3BNcExRSW5XTXNTdldEcW1tbEdOVG5HWGFGZ3p3ZEQ1VVo3ZzJjVG5tbXBlNHJyQ3JYN18xaVlTclkzUV90RDI1QTdmVUV5WUc3TWg3TDlxbUs5?oc=5",
       "source": "Watson Digital",
       "published": "2026-11-21T08:58:59+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Nvidia holt Jensen Huang als CEO zurück – Trump freuts - Watson",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMXNhUF91ZFM1a1lzdGdNekJydk9XTUNGRnNDbDVwODJ6NHVmY1p1X1ZGMDBiSlNIQlJZcjg0T1pMZzlJbVBtbG5EUlJuVFpmZTFFbkpwenB5TXBGUGZNVHVjT2NFS2hsRk5rSTNtQndSSHhoRVJTN19XUlFLMFRHSkg4alQ0LWpPbkVjeTlUYnN5YXZsVzJtS3FR?oc=5",
-      "source": "Watson Digital",
-      "published": "2026-11-23T14:05:50+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -8034,15 +8074,6 @@
       "status": "topic_filter"
     },
     {
-      "title": "UMB zügelt Hauptsitz innerhalb von Cham - IT Reseller",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdHBuMVFBbE9TZVpJQjNBSTJlZTNCSmxlaGx2SVRQdFh1MmJzQmxORjd4cGpXdTRMV2p5d0pXOGJKUXFTU0ttQXdZZTFKTGZjcXdBODNGYmFpS2l2MHRONmtLLS1vYmhzUFBpM2J4Z0ZJVTVYNjZ6Zl92QmNSdlZyb2E3c09McDFYamtnR1RPSQ?oc=5",
-      "source": "IT Reseller / Firmen",
-      "published": "2026-11-25T07:12:00+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
       "title": "Infinigate ernennt Tom O’Reilly zum Chief Transformation Officer - Swiss IT Reseller",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZV93SFU3WnBNVFlXdlJkWEJ1OG1PS1hpSUN1WVRsTUd0YUNDVHRBaDJzdmhrcnRRRnlHLXUtRTdTMll4SXNxcDU5bk5WZmtmMTFGYUt5aWVqTF8ydEFrTUJVaVJzWFd1WnE5NWFFaUhlOWg1UkxlS2lMWVN3emZMRDR3ZWU3Smh4cXRvZ0dLSW9GTUVUdGlBRVVwRDhxSTYtVWhLZTA2UmVFM0JQRmNF?oc=5",
       "source": "IT Reseller / Firmen",
@@ -8074,6 +8105,15 @@
       ],
       "selectedCategories": [],
       "status": "not_in_top_limit_or_allocated_to_other_category"
+    },
+    {
+      "title": "UMB zügelt Hauptsitz innerhalb von Cham - IT Reseller",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdHBuMVFBbE9TZVpJQjNBSTJlZTNCSmxlaGx2SVRQdFh1MmJzQmxORjd4cGpXdTRMV2p5d0pXOGJKUXFTU0ttQXdZZTFKTGZjcXdBODNGYmFpS2l2MHRONmtLLS1vYmhzUFBpM2J4Z0ZJVTVYNjZ6Zl92QmNSdlZyb2E3c09McDFYamtnR1RPSQ?oc=5",
+      "source": "IT Reseller / Firmen",
+      "published": "2026-11-25T07:12:00+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
     },
     {
       "title": "Europas IT-Ausgaben steigen 2027 um knapp 10 Prozent - Swiss IT Reseller",
@@ -9261,15 +9301,13 @@
       "status": "not_in_top_limit_or_allocated_to_other_category"
     },
     {
-      "title": "Bechtle beruft Martin Kaloudis in internationale Führungsrolle - Swiss IT Reseller",
+      "title": "Bechtle beruft Martin Kaloudis in internationale Führungsrolle - IT Reseller",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPejlUWW12SzdUaVVRaEcyMl84RW1jekNKX1hublJ2SXBZc2pPTUItOExiOERMajUtZUxNUEZkNEVBR0JCMFN6RUhITS1XZGwwVi0yT2RwR1lQSEYxc0NkOGJSUWl5ZnBnM1ZUeG9MamJoeDN2U0NuOGowVlljOW9MSUdQYkdNcWRiSnczM1dENi1kM285dkZMLWNwdGZUT1o1SnBLQWlzcFpuQ2FlSlE?oc=5",
       "source": "IT Reseller / Personen",
       "published": "2026-10-29T07:00:00+00:00",
-      "eligibleCategories": [
-        "IT Schweiz"
-      ],
+      "eligibleCategories": [],
       "selectedCategories": [],
-      "status": "not_in_top_limit_or_allocated_to_other_category"
+      "status": "topic_filter"
     },
     {
       "title": "Marc Flück übernimmt Vertriebsleitung bei Lake Solutions - Swiss IT Reseller",
@@ -10084,17 +10122,6 @@
       "status": "not_in_top_limit_or_allocated_to_other_category"
     },
     {
-      "title": "HPE steigert Umsatz um 50 Prozent - IT Reseller",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNM3BRaXVRQkhrVHJLRmQ2SEtHa2M5bmV4ZHY2cVBKa0xUM1Nrc3h6SXYwR0VnbU5kdnNIemlOc2w4S2h0bXZDMS1UUlUzV3lxV3UzZWk2OVlCQm5zT3VKX3E1NFFXN292cHltZ3pIdXp3Y2pKam5tbFZzTWJwUENELUNYSGhKdw?oc=5",
-      "source": "IT Reseller / Personen",
-      "published": "2026-11-24T07:12:00+00:00",
-      "eligibleCategories": [
-        "Markt"
-      ],
-      "selectedCategories": [],
-      "status": "not_in_top_limit_or_allocated_to_other_category"
-    },
-    {
       "title": "Bechtle übernimmt zwei PLM-Spezialisten - Swiss IT Reseller",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMUEyeWdqNWg4SEVybXhFSF9jZmwyX3RQZ0ljWGF5a05OT0J6N1NqVHJ1d3RtRklyblJJZlhVcWRqem5JYUdYY0lHdGdkaGp3LUNwRlNXaFlpbjluQkpBY3VFYy1OR2U0LTVNMmFqZmcwQVI4TVhvc09sOGhyUHVjVU9yRGtudlBBUGdMVTNIcw?oc=5",
       "source": "IT Reseller / Personen",
@@ -10211,6 +10238,18 @@
       "status": "not_in_top_limit_or_allocated_to_other_category"
     },
     {
+      "title": "Also expandiert mit Joint Venture weiter in den US-Markt - Swiss IT Reseller",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSEluNkM5LVltaVFkaFNZUlBaWktRSFBCd29MdGJjZDJ4MEhGSEo1MkJXeXIwaW00QnMtSmQ2RjJzczJrNG1zd2VpYU9vWVdrSVVUVWFQcU9oTl9pNUN6UnR6WlBManF2YThyTGUwVnVPU1pub0g2SkZGb2RqTHEyd2stSkxtMkVHcHVJajlGQktZNU1XcVR3X1I4b1lfTDFqaU1BaA?oc=5",
+      "source": "IT Reseller / Personen",
+      "published": "2026-11-16T08:00:00+00:00",
+      "eligibleCategories": [
+        "IT Schweiz",
+        "Markt"
+      ],
+      "selectedCategories": [],
+      "status": "not_in_top_limit_or_allocated_to_other_category"
+    },
+    {
       "title": "Convotis Schweiz besetzt Chefsessel neu - Netzwoche",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQUFlV1NSZW03MWpMMnhIQlNQX19XMjdsOUNjQVplVy00bXpXeUt2REE2c3hqRlJ4azVqVkwzeDI0M1czb1BqeGtVZE9HWlQzTTByby05VDVFUXMtakJzMzd5WVI1V1JaOW5vRzFGM2Z3OFAzakFJTGRZVDBrRGdiV0Y3Y1pxbXc?oc=5",
       "source": "Netzwoche / Personen",
@@ -10250,7 +10289,7 @@
       "title": "Noser Engineering will in der Energiebranche durchstarten - Netzwoche",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZU1RcnluVjQ2MjBYRThMdi1vNmJ4QUR6bmxBcUJVTXlhcS16akN1Q3JXQjA5S2VBZHFFOF8wRGN4a0pwTDUzX24zY3ktamhXNllqNzJod3hlbFZQYmZqazNGY2JXU3lubklYaXVwd3RxNTh3S1hycVpIRnlpVFdDLUhnOHduVXNLc045SlhRUG1xeXRTZEFVVDZ6RHRiUWM?oc=5",
       "source": "Netzwoche / Personen",
-      "published": "2026-11-17T14:52:21+00:00",
+      "published": "2026-11-17T08:00:00+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -10783,17 +10822,6 @@
       "status": "topic_filter"
     },
     {
-      "title": "Nachlese: Cyberangriffe auf Kühlanlagen und IoT-Infrastruktur - BornCity",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSUROUm5nLXlnWEstQ1U4eGdLWGJjVm5pMlk5cnpQS2NjbDdGV2RfR2t3bFA4THJKaG5WT25sWWFPa3NTRDBEN3l2SW9TbEg2MG5GUlhfX0RrTnhyUTJDRTlsdWtzZU9jeXpOaUpITDkxWERaMmlReEJ6RGt1eHNETndvbWtsNVZzTDhqMXU4VVVPeUhTeFg2R2ZiMmxlYzNu?oc=5",
-      "source": "BornCity / Microsoft To Do",
-      "published": "2026-11-22T13:31:17+00:00",
-      "eligibleCategories": [
-        "Security"
-      ],
-      "selectedCategories": [],
-      "status": "not_in_top_limit_or_allocated_to_other_category"
-    },
-    {
       "title": "Windows-Sicherheits-App: „Emerging Risks“ warnt vor gefährlicher Software - BornCity",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUHc2ajZLUWFjczdjc21EWFlyTXRVWnFsc3NtQndjYmxhdjhVc2dLV2NPWnpfWVJCdGdUVl9Id0pmcy15RHkwaHNTUE5zejdWMTNObEdGbFAwWEpYUllDTXFsSENDaE1xTkM0bWZ1V2szRV9hbmpZTHZHdmRBbkFuU25Obk5JTVJZQ0p2dTdQZ2R2cTVtN0pQYURXZm1iY28?oc=5",
       "source": "BornCity / Microsoft To Do",
@@ -10812,19 +10840,30 @@
       "status": "topic_filter"
     },
     {
-      "title": "ISO/IEC 29500-1:2016 (Office Open XML File Formats) gerade kostenlos - BornCity",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZnR1NUNPcjJMakl4NHVYVWFhdEt3Q0Z5UEc3eDdhNktLbHhtal9Gc3pGVk9LeFA2QkdMSGtQcXhhcUp6Uk1hMVFYbWdlZ0E4UTl6X05xbmZKU3VqWlpBQ1hUZldlWUVOSlo5OThZU1l5QThoejJLcV83Q2RmNHFxaHRWM0N4QXVFYkhfLWNQY2s3anFzWkw4NVo5SFNLZTRMMktsMHZ3?oc=5",
+      "title": "Nachlese: Cyberangriffe auf Kühlanlagen und IoT-Infrastruktur - BornCity",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSUROUm5nLXlnWEstQ1U4eGdLWGJjVm5pMlk5cnpQS2NjbDdGV2RfR2t3bFA4THJKaG5WT25sWWFPa3NTRDBEN3l2SW9TbEg2MG5GUlhfX0RrTnhyUTJDRTlsdWtzZU9jeXpOaUpITDkxWERaMmlReEJ6RGt1eHNETndvbWtsNVZzTDhqMXU4VVVPeUhTeFg2R2ZiMmxlYzNu?oc=5",
       "source": "BornCity / Microsoft To Do",
-      "published": "2026-11-23T13:02:42+00:00",
-      "eligibleCategories": [],
+      "published": "2026-11-22T13:31:17+00:00",
+      "eligibleCategories": [
+        "Security"
+      ],
       "selectedCategories": [],
-      "status": "topic_filter"
+      "status": "not_in_top_limit_or_allocated_to_other_category"
     },
     {
       "title": "iOS 27: Connectivity Assist ersetzt Wi-Fi Assist und wechselt zu Mobilfunk - BornCity",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSnVwR0hjNFFYWlJkODF2Z2gyUkRXV0pFOFk2cmRvZHZXSWV1LXR3M3VkY0ZWUXBVeEFEc3o5eXM2ektXN2JOVGFmNVlZU0pKN2tsdnhJVjI0bEZXUTh3bnBHZ2FrR2ttT1c3OUlPV29CM3BhUXdlVGdvNDJUV2ZDUWo4RTZtZjY2TlBxREI2ZFFoX1FCTkRYdlo2TkloUVUteXc?oc=5",
       "source": "BornCity / Microsoft To Do",
       "published": "2026-11-23T06:31:05+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "ISO/IEC 29500-1:2016 (Office Open XML File Formats) gerade kostenlos - BornCity",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZnR1NUNPcjJMakl4NHVYVWFhdEt3Q0Z5UEc3eDdhNktLbHhtal9Gc3pGVk9LeFA2QkdMSGtQcXhhcUp6Uk1hMVFYbWdlZ0E4UTl6X05xbmZKU3VqWlpBQ1hUZldlWUVOSlo5OThZU1l5QThoejJLcV83Q2RmNHFxaHRWM0N4QXVFYkhfLWNQY2s3anFzWkw4NVo5SFNLZTRMMktsMHZ3?oc=5",
+      "source": "BornCity / Microsoft To Do",
+      "published": "2026-11-23T13:02:42+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -10859,10 +10898,10 @@
       "status": "not_in_top_limit_or_allocated_to_other_category"
     },
     {
-      "title": "Windows 11 24H2-26H2: Hotpatch Update KB5132043 löst Error 0xC0000099 aus - BornCity",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNDc2Q0hCVHI1dWNseVJ4T0prWWY0cTFZeFM3dFlwWEp4c0QxT1BUWEJUaFpySDJzR3FCRkxqUy1XZkRKeDc1QTE0MzNRRXZBekVTcmxUeTBOWldLZDJVa3AtUUhzTTRqbXd2WlViN3VmN25KVzZzUnh2T2pPSzVKcUJBbGZoRUtWQWtWM2Z1cjgzZldUZmhFbFppamNldjR5bDY3dE9ZUzVLSTdtWHY5WQ?oc=5",
+      "title": "GPT-6.2 Sol: Microsoft startet weltweiten Rollout in Office-Apps - BornCity",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVVpjVC1mSFBxZldsUXkzMUR2YnRXc3p1WktiSnY2MEh1eTg2UFc0dGNReW56ZFNYRFJ2ZGhPc2VEdm1lWmxQcExjVWJkNlY5TzNqWXNxQS1kd1BrZEdxcWk1RUxkMjg2dUwzbUNRTmVUWmVKbUx1VkV0WTZONmhWNW14NG5MRTJWOTVVY3dzQzE5TEFy?oc=5",
       "source": "BornCity / Microsoft To Do",
-      "published": "2026-11-20T11:13:47+00:00",
+      "published": "2026-11-21T07:21:05+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -10881,15 +10920,6 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMFVmMEN2dlV6UHRPVXZucFpqd1N0T1p0a3Q5WkVVdUlVY0VTZU80LVB6bDQ2RzQzaFVhaVpWRWwxRHoxcHlWWlZ6ejBJeGRjM05aSFA2Q05STVRxZndyMy1WLUk5dG9PNkVOVEcxOEE5aDZ6Z1B2TzFCSmFCVmI1U1hHajdEWUJfdHIteTFTQzljN1VlVE95VHUtOHhxVEFBUEE?oc=5",
       "source": "BornCity / Microsoft To Do",
       "published": "2026-11-23T07:09:05+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "GPT-6.2 Sol: Microsoft startet weltweiten Rollout in Office-Apps - BornCity",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVVpjVC1mSFBxZldsUXkzMUR2YnRXc3p1WktiSnY2MEh1eTg2UFc0dGNReW56ZFNYRFJ2ZGhPc2VEdm1lWmxQcExjVWJkNlY5TzNqWXNxQS1kd1BrZEdxcWk1RUxkMjg2dUwzbUNRTmVUWmVKbUx1VkV0WTZONmhWNW14NG5MRTJWOTVVY3dzQzE5TEFy?oc=5",
-      "source": "BornCity / Microsoft To Do",
-      "published": "2026-11-21T07:21:05+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -10940,15 +10970,6 @@
       "status": "topic_filter"
     },
     {
-      "title": "Kritische Schwachstellen (Ruby4Shell) in Ruby - BornCity",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaEF1NlJSQ0Z0Mk1SYVlwb0QzendyR1VCUVZHVTRaZkl6Ni02ZmJNTm0wMi1rTDJRV3FBa2VqVXlMUnYzVFB4SWxRYklxSXVORnlSeHlxSWpwUEpJcXJBRUhsV2dDc2hSVUNmNmEyVFZzTHNVRXpvenc5SkJOZDFLUXJPa3huUmxS?oc=5",
-      "source": "BornCity / Microsoft To Do",
-      "published": "2026-11-20T20:50:22+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
       "title": "KI-Automatisierung: Sieben Einsatzfelder für Unternehmen – mit menschlicher Freigabe - BornCity",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVlJja3QyNGd6anZhdzZJTXoweWJ5ZUhibDlvdVl5R05PRHpRQlRQMWpLVGkyQnR3RlljRGlmcHFVblVZb0tiR2J5U0tTMmp0dU5UVUNwdjg2UnRUOFhmNEtjRDNMQ0JpZnExdm16RjQ1VDNSNU5kTnNHWkMtSGFvV19kLTFUZWNpdXJBeGFaWGdVOVVteWxLRnVnc3d0RDE4cHpNbkVHNWM0YmxDS1E?oc=5",
       "source": "BornCity / Microsoft To Do",
@@ -10968,6 +10989,17 @@
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
+    },
+    {
+      "title": "WhatsApp-Backups: Eigene Cloud startet mit 2 GB kostenlosem Speicher - BornCity",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ05jVEV5TjNOUWo2QmVJM3Z0SEk0cVVUbGtGZDl6Uzg4dzV3NjZHUXBoRDN6a2oyajEyamcxRkZGdm5EWURCT0tZWjZOak5nazNoSEJ6cThiNDhHNHE0eWFZemVtTUJIb09Fcnp3bk52YVN6LTFOODV4YlFQeU5NVW1GblBUN0s1ZTVvaWlaYmdaYXZsMlhGd293?oc=5",
+      "source": "BornCity / Microsoft To Do",
+      "published": "2026-11-23T04:47:05+00:00",
+      "eligibleCategories": [
+        "Cloud"
+      ],
+      "selectedCategories": [],
+      "status": "not_in_top_limit_or_allocated_to_other_category"
     },
     {
       "title": "Siri-KI in Apple-Apps: Entwicklervorschau öffnet neue Funktionen für Drittanbieter - BornCity",
@@ -11041,15 +11073,6 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQVBmakZ2MnJ4c2NrRnFram94OU95OUlUZUVxUElFNERmb2xFZU1vZTR5cmwySkVLOWJIREtWSEdRSW5uRG5CTmxVWVZVaEZhOWxhTVhXbEFoZ24tZkNoeTEtWjY3cVc0NEtGQkxqVUdDSXIwdzdMdnl2bEp3eHJMVXVrNjB0dElEOUo2cERLZjNxaHdZQlhlMw?oc=5",
       "source": "BornCity / Microsoft To Do",
       "published": "2026-11-23T15:45:05+00:00",
-      "eligibleCategories": [],
-      "selectedCategories": [],
-      "status": "topic_filter"
-    },
-    {
-      "title": "Google Desktop-Suche: Drei neue KI-Funktionen ersetzen den Such-Button - BornCity",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWlgyX0E0Rm5raWYtS0pQSzZHalF1M0VQRWtybGVNZHhWZ0JnU0k2bWQxNG52VDV2Zi04T1dtekJEU3VlcGJXeHlRN2x3Y3hJekVrQ3FDQ2xBTHA4eUlIaVRlZENQc0hLWFpHS1B3MW0zOFRVSzM3Z3RfMVNSRFNQaXJNVk5kSWxfQk5hQzhldG9kbGlSMi1Lc2ZQbHo?oc=5",
-      "source": "BornCity / Microsoft To Do",
-      "published": "2026-11-23T11:19:05+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
@@ -11221,6 +11244,24 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU0ZKTHUxYVlTeEdxTE55QWdjc0N3U1ltRE1XdmZIRHJWeDlCS3lWNGhfb01NRUNpNHBmMDVrV3ZkOFRTSFAtckd4NjktQVpkV1RvZk12cU1EZ05ZVU9YT0NVaXM4ZmNtLUx6bVVCcGdTWnVxRVZObnhFeGZsMDhrZjhsYmNNZ0VPYVFySXpiRTFUYXRW?oc=5",
       "source": "BornCity / Microsoft To Do",
       "published": "2026-11-23T10:01:05+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "Gemini für Mac: Google lässt KI-Apps im Hintergrund eigenständig steuern - BornCity",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUm81QWozeFdYRXN3UWVJWjhFOTh3bXBmbklXdkRwN0FUVURNdVFIRDZPMUZPVUJaUmNXaUwtZEY5eFhQTEJQUW8yVjNocjdTR3kta01CZnJQQ0NZZEd3dm9mQW00elJpRThLQi0wUDUta1JFOHBNWTk1OHgyYjNXeXBPeXhrT3I3S0NNcnJ6VDJ1VHpzYlJFOVk0c1RORFdUWHg0?oc=5",
+      "source": "BornCity / Microsoft To Do",
+      "published": "2026-11-23T12:49:05+00:00",
+      "eligibleCategories": [],
+      "selectedCategories": [],
+      "status": "topic_filter"
+    },
+    {
+      "title": "PC selbst bauen: Elf typische Fehler können den Rechnerstart verhindern - BornCity",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMUNZZDU3cUVVU3pwbnpZWDNIbHI4ZzF4bXNPN2RIWG8xVS1JZnZRd0pjek5sQlppSlJ3OHVxOExlSWFKeUQ3SXFmTGtjaEZMSlRMX1llTlpTWHVfdVZqQkJVejkxY21Lck94bEVNb0RhYWxBM3M4MU9xejJ1ekpWdFRWYlJ0RHd0VGhaYVVzNG9MbjdFWlpNS1g1TmIwVk0?oc=5",
+      "source": "BornCity / Microsoft To Do",
+      "published": "2026-11-21T13:54:05+00:00",
       "eligibleCategories": [],
       "selectedCategories": [],
       "status": "topic_filter"
