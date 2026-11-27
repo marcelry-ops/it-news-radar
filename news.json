@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "5772475f377492a3",
+      "title": "BIS-Regel für Nvidia-Chips: Cloud-Anbieter müssen binnen 90 Tagen Lizenzen beantragen - BornCity",
+      "excerpt": "BIS-Regel für Nvidia-Chips: Cloud-Anbieter müssen binnen 90 Tagen Lizenzen beantragen BornCity",
+      "summary": "BIS-Regel für Nvidia-Chips: Cloud-Anbieter müssen binnen 90 Tagen Lizenzen beantragen BornCity",
+      "source": "BornCity",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMzZiQWtqdnZ1SnVBUy1veF9DNWRlX25neHZMVjliTGJDaTNfUVYwamdiLS1YWHpmMF9aeG1VcFJJWWRuQjE2RG9wU0RRTjVpQmJuRFJOdUI0ZkZGNnVEX2x4Q3VSaUl3UzBxYlhELVdNbDZxQWtzczB0YzB0N0NsMGpTOUVxSzFGTDhtMVpScE5JNjlPMTJILXB0dmdabEU1aEQtT2pSV2x1LTJQcVNESGlyYw?oc=5",
+      "published": "2026-11-27T14:45:05+00:00",
+      "category": "Cloud"
+    },
+    {
+      "id": "2aea70dfa99ff5f2",
+      "title": "Zürcher KI-Startup Nextesy bekommt über 10 Millionen",
+      "excerpt": "Angeführt wird die Finanzierungsrunde von Swisscom Ventures. Nextesy will mit dem Kapital seine KI-Plattform weiterentwickeln und international expandieren.",
+      "summary": "Angeführt wird die Finanzierungsrunde von Swisscom Ventures. Nextesy will mit dem Kapital seine KI-Plattform weiterentwickeln und international expandieren.",
+      "source": "Inside IT",
+      "url": "https://inside-it.ch/zuercher-ki-startup-nextesy-bekommt-ueber-10-millionen-20261127",
+      "published": "2026-11-27T14:17:40+00:00",
+      "category": "Firmen"
+    },
+    {
+      "id": "a1e85b1e22e4302e",
+      "title": "Shopware 6 Migration im Mittelstand: worauf Unternehmen bei der Wahl der Shopware Agentur achten sollten - it-daily.net",
+      "excerpt": "Shopware 6 Migration im Mittelstand: worauf Unternehmen bei der Wahl der Shopware Agentur achten sollten it-daily.net",
+      "summary": "Shopware 6 Migration im Mittelstand: worauf Unternehmen bei der Wahl der Shopware Agentur achten sollten it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYkFYUDZ4RkltLVB6ODNkUHZYNlBjWDgwTUZ4d1E5N2Fsa0syaEhqWFdaeEFFSTV3dEl2LTh6SFR0dXpxRS1tNVNRc2V3cHptYVNyVTNLWmc5TmlRNlhpclN3WXAyTXRPdWR3dU1TanJlRTV4YmEzTU9wbEtTZmdESGxMZVNfU0pBNEg2Zi1R?oc=5",
+      "published": "2026-11-27T14:14:03+00:00",
+      "category": "Firmen"
+    },
+    {
       "id": "1d58fb4a7a34878e",
       "title": "1Password meldet Datenabfluss",
       "excerpt": "Hacker haben sich Zugang zu internen Systemen des Passwortmanagers 1Password verschafft und Kundendaten gestohlen. Darunter befinden sich Namen und E-Mail-Adressen, nicht aber die im Passwortmanager hinterlegten Passwörter.",
@@ -78,7 +108,7 @@
       "source": "IT-Daily",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BMVpPWk91aHBJSDRaS2Zuck8wMWl4NWFGb3ktc3IxN1FzRkxwVjhZOHRLWjRJWDdvUHB0dFEwSkZoVl9XTU1CRjlTRi00cEw0QXo1YnlQdWVBajdTLXlTeVVIWld5bTMtVHBzRnZoYTAyZkZhSHJSZzQ1OA?oc=5",
       "published": "2026-11-27T09:08:02+00:00",
-      "category": "Security"
+      "category": "IT Schweiz"
     },
     {
       "id": "d4c179d8ac8ebbcd",
@@ -111,6 +141,16 @@
       "category": "IT Schweiz"
     },
     {
+      "id": "7e68baa165b981cd",
+      "title": "SAP soll Opfer eines Hackerangriffs geworden sein - Swiss IT Magazine",
+      "excerpt": "SAP soll Opfer eines Hackerangriffs geworden sein Swiss IT Magazine",
+      "summary": "SAP soll Opfer eines Hackerangriffs geworden sein Swiss IT Magazine",
+      "source": "IT Magazine Schweiz",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOamZ4andLVGtNOVpsT3BpSEdOcnB1b3pMZkN3MUNQMmdvUHRLaHBydXhEdEwweFRQZzhkUDVmWTR2aTA3ZHV2S0Q1dHBwdlpyMWtXRVgwWlNjTmwxNi00M3VDcXRNZHBMZWpvaEhycVA3ZmJscjh0QnA3Yk1lWXo2YjlwNHZWY0tMXzF4RlFLcTNkVWRMejVEXzBR?oc=5",
+      "published": "2026-11-27T07:12:00+00:00",
+      "category": "IT Schweiz"
+    },
+    {
       "id": "00e53bc84d9c16ea",
       "title": "Telnet-Client wird aus Windows entfernt - Swiss IT Magazine",
       "excerpt": "Telnet-Client wird aus Windows entfernt Swiss IT Magazine",
@@ -121,8 +161,18 @@
       "category": "IT Schweiz"
     },
     {
+      "id": "8638d54b1dd31af3",
+      "title": "Hiscox startet digitales Versicherungsangebot für KMU in der Schweiz mit Insurtech Toni Digital",
+      "excerpt": "Hiscox startet digitales Versicherungsangebot für KMU in der Schweiz mit Insurtech Toni Digital IT Finanzmagazin",
+      "summary": "Hiscox startet digitales Versicherungsangebot für KMU in der Schweiz mit Insurtech Toni Digital IT Finanzmagazin",
+      "source": "IT Finanzmagazin",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPellfcTMwMjF2Y3Q0UEk1elFuVFVUbDRPelBaSFBoRlBLTXpNTjZiZWg5R21jbnVHWEoyV2paeGdoWWpRUEswdW5ENml4RHpaY3RKQlYzMXc2cTZpMEFHWkJiRlhHUC1JVF91dDB1NWwxNXJZdmRlXzQ0Q2pnOU1pLXNoNXp6VEdlaU9MQnZsWEJocEFIVVpER1pR?oc=5",
+      "published": "2026-11-27T07:04:11+00:00",
+      "category": "IT Schweiz"
+    },
+    {
       "id": "24fb92f64d3a3d87",
-      "title": "Wohin 2026 Schweizer Cybersecurity-Budgets fliessen - IT-Markt",
+      "title": "Wohin 2026 Schweizer Cybersecurity-Budgets fliessen",
       "excerpt": "Wohin 2026 Schweizer Cybersecurity-Budgets fliessen IT-Markt",
       "summary": "Wohin 2026 Schweizer Cybersecurity-Budgets fliessen IT-Markt",
       "source": "IT-Markt",
@@ -139,16 +189,6 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYUptWnRIeWVuWHZlOEYzVnVZZEhXWHNhdkR6Mmh3RzIyTU9lemJheUtBOUc0LWdTTm45Nm9Ba3hyVmtRMUx1SmZROUdmR1Flc2N2a0pYS0hKOWhaLUtXbGRqQUYtNl92eHdLa1AyWU9iQ0hROHNRbExFR3BReEdpVlpBRmh6U3FwWDhiNFFTTzlhSS1rN1E0OHY5RVc?oc=5",
       "published": "2026-11-27T05:13:06+00:00",
       "category": "Security"
-    },
-    {
-      "id": "73ea9563af68b23a",
-      "title": "Android 17 verhindert Bluetooth-Switching - Swiss IT Magazine",
-      "excerpt": "Android 17 verhindert Bluetooth-Switching Swiss IT Magazine",
-      "summary": "Android 17 verhindert Bluetooth-Switching Swiss IT Magazine",
-      "source": "IT Magazine Schweiz",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdGM0aEpiMzVJSUVWR2RIdHR3TXhKT3gxTVlTRVBOMkRJRDRuT0pDRXlfTVFNM19iLW9uS3BURTRQSkVSWWF6S282UU1pM1VUeklGa0wxMnRlWlpkUE95M1dzNjZ6Q0pwNHBUcldiZ1dpNkRGUWgtaW9WNnRxWnBMSWl4bHM3cHJFbTI4U0hLTQ?oc=5",
-      "published": "2026-11-27T05:03:28+00:00",
-      "category": "IT Schweiz"
     },
     {
       "id": "2d545d185d3cb960",
@@ -231,6 +271,16 @@
       "category": "Firmen"
     },
     {
+      "id": "32be4e1f4926980f",
+      "title": "Warnung vor „erheblichen Folgen“: Erfolgreicher Cyberangriff auf die FIFA",
+      "excerpt": "Bei der FIFA haben Cyberkriminelle persönliche und geschäftliche Daten abgegriffen. Der Verband wiegelt gleichzeitig ab und warnt.",
+      "summary": "Bei der FIFA haben Cyberkriminelle persönliche und geschäftliche Daten abgegriffen. Der Verband wiegelt gleichzeitig ab und warnt.",
+      "source": "heise Security",
+      "url": "https://heise.de/news/Warnung-vor-erheblichen-Folgen-Erfolgreicher-Cyberangriff-auf-die-FIFA-11539255.html",
+      "published": "2026-11-26T13:33:00+00:00",
+      "category": "Security"
+    },
+    {
       "id": "974494a12f74fccd",
       "title": "SAP: Spionagevorwürfe um Startup-Partner Conduct - it-daily.net",
       "excerpt": "SAP: Spionagevorwürfe um Startup-Partner Conduct it-daily.net",
@@ -249,36 +299,6 @@
       "url": "https://heise.de/news/Cyberangriff-auf-US-Behoerde-gegen-Finanzkriminalitaet-11539155.html",
       "published": "2026-11-26T12:59:00+00:00",
       "category": "Security"
-    },
-    {
-      "id": "e20f50dcbfd22cd3",
-      "title": "Bundesrat will Mobilfunkbewilligungen beschleunigen - Inside IT",
-      "excerpt": "Bundesrat will Mobilfunkbewilligungen beschleunigen Inside IT",
-      "summary": "Bundesrat will Mobilfunkbewilligungen beschleunigen Inside IT",
-      "source": "Inside IT / Firmen",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPenJkRzk2eFlwTU5CS3dHV3BCaEhtN0R1RHg3SkRYVG9KaF84cGxka3NmNjM2Mk41bDNyRVJ2Rnp4akE3MjhTU24wWXN6bHJEZ1RINU9YZ3p6UUFoWGNnYi04bFNhdVBxVEIxdWFfRk5KbGN2YmI2QlEtR3RVUUppN1JWX1lmSnVJYnZWTTBR?oc=5",
-      "published": "2026-11-26T12:56:00+00:00",
-      "category": "IT Schweiz"
-    },
-    {
-      "id": "0803b42bc3f3860a",
-      "title": "News-Übersicht - Swiss IT Reseller",
-      "excerpt": "News-Übersicht Swiss IT Reseller",
-      "summary": "News-Übersicht Swiss IT Reseller",
-      "source": "IT Reseller / Firmen",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yTTBudFQ3cG1veURTR1REcFlscTJUSWJpSElDNzdOLWlhcXB0T0wzaDNzWDlRMTJTclk2THRTVVhPTTlHVEtSMHNDeDBWVlM1MDV3dms2RENEZw?oc=5",
-      "published": "2026-11-26T12:13:26+00:00",
-      "category": "IT Schweiz"
-    },
-    {
-      "id": "54de5e845ace16a7",
-      "title": "Rechnung nicht verschlüsselt: Firma muss fast 20.000 Euro zahlen - it-daily.net",
-      "excerpt": "Rechnung nicht verschlüsselt: Firma muss fast 20.000 Euro zahlen it-daily.net",
-      "summary": "Rechnung nicht verschlüsselt: Firma muss fast 20.000 Euro zahlen it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RSmRseG5rSWJNZVluZWY1WGozb3Q0YXF3a3pRMkhZTTlRMnVpdHFPVlMtcmlPem5tcGd2YUxWV1Z2UlZaVTBNaE54ekFrRzhFQXg5VE1JbkNpZEh0SmpTVjZENzFZLVBDRlYwNkR2dzJNUQ?oc=5",
-      "published": "2026-11-26T11:31:48+00:00",
-      "category": "Firmen"
     },
     {
       "id": "50b3868b9687e2bc",
@@ -321,13 +341,13 @@
       "category": "Security"
     },
     {
-      "id": "12ce9e5cc9330d01",
-      "title": "Bechtle integriert AWS und Microsoft Marketplaces in eigene Cloud-Plattform",
-      "excerpt": "Bechtle baut seine Position als Multi-Cloud-Provider aus und integriert den AWS Marketplace sowie den Microsoft Marketplace in die eigene Cloud-Plattform. Das schafft für Kunden einen zentralen Beschaffungskanal.",
-      "summary": "Bechtle baut seine Position als Multi-Cloud-Provider aus und integriert den AWS Marketplace sowie den Microsoft Marketplace in die eigene Cloud-Plattform. Das schafft für Kunden einen zentralen Beschaffungskanal.",
-      "source": "IT Reseller",
-      "url": "https://itreseller.ch/Artikel/106689/Bechtle_integriert_AWS_und_Microsoft_Marketplaces_in_eigene_Cloud-Plattform.html",
-      "published": "2026-11-26T07:58:24+00:00",
+      "id": "b369d55b5756f936",
+      "title": "Bechtle integriert AWS und Microsoft Marketplaces in eigene Cloud-Plattform - IT Reseller",
+      "excerpt": "Bechtle integriert AWS und Microsoft Marketplaces in eigene Cloud-Plattform IT Reseller",
+      "summary": "Bechtle integriert AWS und Microsoft Marketplaces in eigene Cloud-Plattform IT Reseller",
+      "source": "IT Reseller / Firmen",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMU8xbDhjZjFOZkJYWFA0QVRQYWpvSDdsYkVTS0dsQWRId2lmUTZ3eVA3Nnd5aTExWktTWHJVTmV2dmpXSUltU2EwMUVYcFVVYXRsc0d1eW5WWWl0akRZb0htenB1NnBMMkJwREFfMGR5Y0lBWkdnT2twQ2JQVmVFQXVtSWVVZTBsRWdkTzIxOUZRUFZ6UjE2bFozdDd5TDdwS0dWRG1XVDBRWVQ1VjV4UHF1MEhsYkN0TlBDTDNB?oc=5",
+      "published": "2026-11-26T07:12:00+00:00",
       "category": "Cloud"
     },
     {
@@ -351,6 +371,16 @@
       "category": "Security"
     },
     {
+      "id": "9f20e1d68043da12",
+      "title": "Gartner-Prognose: 80 Prozent neuer Apps sollen kurzlebige Einweg-Software sein - BornCity",
+      "excerpt": "Gartner-Prognose: 80 Prozent neuer Apps sollen kurzlebige Einweg-Software sein BornCity",
+      "summary": "Gartner-Prognose: 80 Prozent neuer Apps sollen kurzlebige Einweg-Software sein BornCity",
+      "source": "BornCity",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYm5zMnBVS0VRclRja2xhTk85Qlg5Zmo1cEpnZnBxcmI0SHBqRVBLUGh0NVBaRVVIS0pMWXY1YjY5aVFKYnVuZ0pwX3Faa1RWVFNQZnlkMjFob245V0h0M1FDcUZqb0FtRlRoUWp3SnVZNTFBYUdsUTl4aFlZd2h5UXYyVjdOMkxtVVdselhGTVk1dWJlNC1iTEdta2o5dGF4QVNIZ0pQVQ?oc=5",
+      "published": "2026-11-26T05:03:05+00:00",
+      "category": "Markt"
+    },
+    {
       "id": "2f5c4acc14c4fded",
       "title": "Microsoft 365 Copilot einführen und administrieren",
       "excerpt": "Microsoft 365 Copilot einführen und administrieren Golem",
@@ -369,6 +399,16 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdUhCWkdPVi1scWVodmNoVG1BeE9sVnBnSXlnZXVUTzVRUGVDVTM5aWpNSERwZVROdnBwZHppTE1XTFlNZnM2V1Zhcy00eTVSaW1OS2lhRnNSMmlBSVRPaWdLbUhTT2c2Rlh4Q183UlM4M2hXaWR2dTVwZVhzWGZJY0JkSC1tOWJXUnF6cko1a0lTeGd2bG9sczJOSTJwZkhPMUtHMGZBY3FXOUlCaGZkV3B0b3NUTGNqbFJmZUF2X1RVZ2NnOXNF?oc=5",
       "published": "2026-11-25T16:36:00+00:00",
       "category": "Microsoft 365"
+    },
+    {
+      "id": "2e88c6fa41abf856",
+      "title": "Code Red bei Microsoft nach Cloud-Ausfall; Weitere Störungen zu erwarten - BornCity",
+      "excerpt": "Code Red bei Microsoft nach Cloud-Ausfall; Weitere Störungen zu erwarten BornCity",
+      "summary": "Code Red bei Microsoft nach Cloud-Ausfall; Weitere Störungen zu erwarten BornCity",
+      "source": "BornCity",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX0E3bzAwNjU2X3pGMGxhRGJoU1lKNVAyQlFVMTRnREZmbS16eENwM0t0emdCY3JDVEpBejhHNUZ0eHBhN3lXbWRDaEdwTzU0SjJCbDhGMHVMR2lDRVVlTWsxT0JlMjVfbjdoMHJ0eVRHcjVtTjdfVlhnbnZUaVFxa0ZjWkNEdHZrRWZMaUhjUE9xSUxxX0RSTDlTemhwazdSTzBuY0V3VVhmN0NH?oc=5",
+      "published": "2026-11-25T15:17:38+00:00",
+      "category": "Cloud"
     },
     {
       "id": "feae072fb4e25241",
@@ -391,13 +431,13 @@
       "category": "Firmen"
     },
     {
-      "id": "9e2db2574740f705",
-      "title": "Schwyz will vorerst an M365 festhalten",
-      "excerpt": "Die Kantonsverwaltung soll künftig mit Microsoft 365 arbeiten. Dafür hat sich der Schwyzer Regierungsrat zum wiederholten Male stark gemacht.",
-      "summary": "Die Kantonsverwaltung soll künftig mit Microsoft 365 arbeiten. Dafür hat sich der Schwyzer Regierungsrat zum wiederholten Male stark gemacht.",
-      "source": "Inside IT",
-      "url": "https://inside-it.ch/schwyz-will-vorerst-an-m365-festhalten-20261125",
-      "published": "2026-11-25T11:40:04+00:00",
+      "id": "4f4bfc16079cfc42",
+      "title": "Microsoft Teams in Citrix-VDI: SlimCore lagert Medienverarbeitung ans Endgerät aus - BornCity",
+      "excerpt": "Microsoft Teams in Citrix-VDI: SlimCore lagert Medienverarbeitung ans Endgerät aus BornCity",
+      "summary": "Microsoft Teams in Citrix-VDI: SlimCore lagert Medienverarbeitung ans Endgerät aus BornCity",
+      "source": "BornCity",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSDVEUVAtYmQ1d2JHNEFfaDhBZGxXZDdLdEZsOU9jZUU2OUNvZXFPWXYyWGJycXNRaUFscms3VHB3X292MzBNVTRQTFVpRFNTd2hqLS01YjNJVGNKbk04QThlakNieTdWZVBDRHFWd3kwYkp1SFVfdld4RFg5dF9wMUIteWZwbmp2N2ZRSWRoMEM1QmdFa3BNRkZGY3hKTDhFaEJoSjRZMldObHg4UlE?oc=5",
+      "published": "2026-11-25T12:04:05+00:00",
       "category": "Microsoft 365"
     },
     {
@@ -409,16 +449,6 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMVRzUENRUnN5RGhuRnV1VkZxRU1fZVBOa0p0ZllYZXNRUGxsb0lIeTg2eDJyUE1WeGI5TmQ0ZmRINEg5V0ozc2JMbzZpUXJaT2g0di1WdXFPejI4bE42dUZxOGNTNm9pT0ItUVZuV1ZxdXZFeXhvamRvbVBWNVRYYQ?oc=5",
       "published": "2026-11-25T10:57:14+00:00",
       "category": "Markt"
-    },
-    {
-      "id": "23556ad83e71e4ca",
-      "title": "NAND-Flash-Preise dürften Anfang 2027 sinken",
-      "excerpt": "Die Vertragspreise für NAND-Flash dürften im Schlussquartal weniger stark steigen als noch im Oktober erwartet. Für Anfang 2027 zeichnet sich ein Preisrückgang ab, weil chinesische Cloud-Anbieter weniger SSDs bestellen als geplant.",
-      "summary": "Die Vertragspreise für NAND-Flash dürften im Schlussquartal weniger stark steigen als noch im Oktober erwartet. Für Anfang 2027 zeichnet sich ein Preisrückgang ab, weil chinesische Cloud-Anbieter weniger SSDs bestellen als geplant.",
-      "source": "IT Reseller",
-      "url": "https://itreseller.ch/Artikel/106679/NAND-Flash-Preise_duerften_Anfang_2027_sinken.html",
-      "published": "2026-11-25T10:52:08+00:00",
-      "category": "Cloud"
     },
     {
       "id": "5f25a9a52e1284c8",
@@ -441,16 +471,6 @@
       "category": "Markt"
     },
     {
-      "id": "6d7bc041c4b0cf66",
-      "title": "KI-Start-up Assora lanciert Modell zur Vorhersage der Produktnachfrage - Netzwoche",
-      "excerpt": "KI-Start-up Assora lanciert Modell zur Vorhersage der Produktnachfrage Netzwoche",
-      "summary": "KI-Start-up Assora lanciert Modell zur Vorhersage der Produktnachfrage Netzwoche",
-      "source": "Netzwoche / Firmen",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTzdSYUNqSng2WkMtWDVaQVk1SUF0SmVZWFhETGh6TzVhWEdjYmQtRzZlU2ZoTll0aW9HWXc2bE5uQ1F1Mzdmb1dmRzNMZFJWQjljaTZHdndCbUloMF9kZ1NuazBQTlFYQ080UXhodWdOSVpCMzJfazl4RWFlLUxmTHdrVDkwWlFFSmozVHNHRWlwdnNFbGdyX1A3aDRpaVdUTWNnalhOVlF2TnFPbWZZSQ?oc=5",
-      "published": "2026-11-25T08:16:03+00:00",
-      "category": "Firmen"
-    },
-    {
       "id": "9f87c9abaa78df95",
       "title": "Teams Rooms auf Android: HDMI-Inhalte erscheinen ab Januar auf zwei Displays",
       "excerpt": "Teams Rooms auf Android: HDMI-Inhalte erscheinen ab Januar auf zwei Displays ad-hoc-news.de",
@@ -461,14 +481,14 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "1c1b4b8bd22241f7",
-      "title": "Dell verdoppelt Umsatz dank starkem Servergeschäft",
-      "excerpt": "Dell hat im dritten Quartal mehr als doppelt so viel umgesetzt wie vor einem Jahr. Allein mit KI-Servern erzielte der Konzern 22 Milliarden Dollar und hebt seine Umsatzprognose für das Gesamtjahr erneut an.",
-      "summary": "Dell hat im dritten Quartal mehr als doppelt so viel umgesetzt wie vor einem Jahr. Allein mit KI-Servern erzielte der Konzern 22 Milliarden Dollar und hebt seine Umsatzprognose für das Gesamtjahr erneut an.",
-      "source": "IT Reseller",
-      "url": "https://itreseller.ch/Artikel/106676/Dell_verdoppelt_Umsatz_dank_starkem_Servergeschaeft.html",
-      "published": "2026-11-25T08:09:05+00:00",
-      "category": "Markt"
+      "id": "c93ca087eec342e4",
+      "title": "Nutanix-CEO Rajiv Ramaswami kündigt Abschied an - Swiss IT Reseller",
+      "excerpt": "Nutanix-CEO Rajiv Ramaswami kündigt Abschied an Swiss IT Reseller",
+      "summary": "Nutanix-CEO Rajiv Ramaswami kündigt Abschied an Swiss IT Reseller",
+      "source": "IT Reseller / Personen",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZE5OZjJCcnlMTHB3dWpIeTJKa2RQdnRHLWFTeXVVNEMtdl9KYTVmN3k3SDh2OEhUMF83dVM2ZTRQU251dUp4TExLOWFIMDVxTFF4SnFDeUp4TDJlVTFQUkRlcTRVRk1Ec0JJc3c5a2FxWEJRYXNtY3g5TEg5ZDk3XzdjZmRFS2VQd3RTRUZJdENaTUJvUkNqYkRn?oc=5",
+      "published": "2026-11-25T07:12:00+00:00",
+      "category": "Personen"
     },
     {
       "id": "77c7844d1aab7d36",
@@ -481,6 +501,16 @@
       "category": "Markt"
     },
     {
+      "id": "d93660df9e147171",
+      "title": "Dell verdoppelt Umsatz dank starkem Servergeschäft - Swiss IT Reseller",
+      "excerpt": "Dell verdoppelt Umsatz dank starkem Servergeschäft Swiss IT Reseller",
+      "summary": "Dell verdoppelt Umsatz dank starkem Servergeschäft Swiss IT Reseller",
+      "source": "IT Reseller / Firmen",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbTEzM3VGelprNEsxczgxc1F4T2lYcXlkVUtWMU5lcjZPeVZFbkpfTmlZUFhyT1Y4c0dxc2JEaVM3bjJ0UGNHWENqX2tEcG1mZFVHQ1hpMGQzcnBncDFwTlVURTVvOE5OQ1RMYkI5TkdwLVVnTm1iSGl3ZC0tSUxySV81WU1lemNvUEw2dDRseGZRYUhnVXN4T2Y5UDNTUQ?oc=5",
+      "published": "2026-11-25T07:12:00+00:00",
+      "category": "Markt"
+    },
+    {
       "id": "a806c25c45d6805c",
       "title": "HP meldet mehr Umsatz und weniger Gewinn - IT Reseller",
       "excerpt": "HP meldet mehr Umsatz und weniger Gewinn IT Reseller",
@@ -489,16 +519,6 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYXd3ZGFyX2ctN3R6cmUya1Q3ckpjWUZoeXpXd2U1bGQ1aTJTd05aTi1UR2lLWGNORU9FLTk1SXEwN3NQZEZDQzV4ZUJ5aW5jMmI5U1N3OS1IVUhmdnJhaktFNEVlZmxZWnBuZTA5dWJvLUVKay1sd1hXSnV3Yzk0aVplX3lBV0xZcXptN1NDTQ?oc=5",
       "published": "2026-11-25T07:12:00+00:00",
       "category": "Markt"
-    },
-    {
-      "id": "0de11cb35c678b2e",
-      "title": "Nutanix-CEO Rajiv Ramaswami kündigt Abschied an",
-      "excerpt": "Nach fast sechs Jahren als CEO von Nutanix hat Rajiv Ramaswami seinen Abschied angekündigt. Er bleibt im Amt, bis ein Nachfolger gefunden ist, und soll Nutanix danach noch eine Zeit lang als Senior Advisor begleiten.",
-      "summary": "Nach fast sechs Jahren als CEO von Nutanix hat Rajiv Ramaswami seinen Abschied angekündigt. Er bleibt im Amt, bis ein Nachfolger gefunden ist, und soll Nutanix danach noch eine Zeit lang als Senior Advisor begleiten.",
-      "source": "IT Reseller",
-      "url": "https://itreseller.ch/Artikel/106673/Nutanix-CEO_Rajiv_Ramaswami_kuendigt_Abschied_an.html",
-      "published": "2026-11-25T06:28:56+00:00",
-      "category": "Personen"
     },
     {
       "id": "ec3833a573ee4538",
@@ -531,13 +551,23 @@
       "category": "Cloud"
     },
     {
-      "id": "403ab82b316d0f70",
-      "title": "Infinigate ernennt Tom OReilly zum Chief Transformation Officer",
-      "excerpt": "Tom OReilly ist neuer Chief Transformation Officer bei Infinigate. Er soll sich vor allem auf den Ausbau und die Optimierung des Plattformgeschäftes konzentrieren.",
-      "summary": "Tom OReilly ist neuer Chief Transformation Officer bei Infinigate. Er soll sich vor allem auf den Ausbau und die Optimierung des Plattformgeschäftes konzentrieren.",
-      "source": "IT Reseller",
-      "url": "https://itreseller.ch/Artikel/106670/Infinigate_ernennt_Tom_OReilly_zum_Chief_Transformation_Officer_.html",
-      "published": "2026-11-24T08:21:51+00:00",
+      "id": "30c65606d5bc23f9",
+      "title": "Schwachstelle in Azure API Management (APIM) Classic führte zu Hacks - BornCity",
+      "excerpt": "Schwachstelle in Azure API Management (APIM) Classic führte zu Hacks BornCity",
+      "summary": "Schwachstelle in Azure API Management (APIM) Classic führte zu Hacks BornCity",
+      "source": "BornCity",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdzNnazdpN25hX3JwVng1MWs5dm8zeXZLeEZPOFBBOXM1Vm4wNGRSb3V1ZlkzdjdhdmpEU09PTE16VDJEaTlQZDdobV81WHhnUUxiTTRoRm5SbmpuSVVidWowUzROVFIwN1U1cjFPMThVNDJ0cG0wYnFZNVM2dE1CeHZ5M0UwRW0zSTlLN1JpYndIa214NXhKMW9EMktkUU9jSzhnRXBPWkI?oc=5",
+      "published": "2026-11-24T07:22:09+00:00",
+      "category": "Cloud"
+    },
+    {
+      "id": "71de01c55c022bba",
+      "title": "Infinigate ernennt Tom O’Reilly zum Chief Transformation Officer - IT Reseller",
+      "excerpt": "Infinigate ernennt Tom O’Reilly zum Chief Transformation Officer IT Reseller",
+      "summary": "Infinigate ernennt Tom O’Reilly zum Chief Transformation Officer IT Reseller",
+      "source": "IT Reseller / Personen",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZV93SFU3WnBNVFlXdlJkWEJ1OG1PS1hpSUN1WVRsTUd0YUNDVHRBaDJzdmhrcnRRRnlHLXUtRTdTMll4SXNxcDU5bk5WZmtmMTFGYUt5aWVqTF8ydEFrTUJVaVJzWFd1WnE5NWFFaUhlOWg1UkxlS2lMWVN3emZMRDR3ZWU3Smh4cXRvZ0dLSW9GTUVUdGlBRVVwRDhxSTYtVWhLZTA2UmVFM0JQRmNF?oc=5",
+      "published": "2026-11-24T07:12:00+00:00",
       "category": "Personen"
     },
     {
@@ -605,20 +635,10 @@
       "title": "Microsoft To Do wird zum 30. Juni 2027 eingestellt - BornCity",
       "excerpt": "Microsoft To Do wird zum 30. Juni 2027 eingestellt BornCity",
       "summary": "Microsoft To Do wird zum 30. Juni 2027 eingestellt BornCity",
-      "source": "BornCity / Microsoft To Do",
+      "source": "BornCity",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcHNuRkgyWDgzTHA0X3U0WWZwVk9RZ3dkY2FTVl9oai1QZTM5SFF1WmFNcy1BSGhnWmtiTmRJWUZfZXVvOWNmbFZTZlJEb1FYaUZLQ3NvbThwaExGS3BWRmZCbzA1QXc3eTVXaWNheTBHQWJ5NnhTaXRKei1ROWhJTWxtY3U3YUVOdTJ3TEE0d00?oc=5",
       "published": "2026-11-23T13:06:33+00:00",
       "category": "Microsoft 365"
-    },
-    {
-      "id": "cc1b7bb4d47287a7",
-      "title": "Bund beauftragt Elca mit Deepfake-Erkennung für die E-ID - IT-Markt",
-      "excerpt": "Bund beauftragt Elca mit Deepfake-Erkennung für die E-ID IT-Markt",
-      "summary": "Bund beauftragt Elca mit Deepfake-Erkennung für die E-ID IT-Markt",
-      "source": "IT-Markt",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTEV2NHp1aW1vM1hpYjRIQ2FISHZJVndTNU95VmhBLS1Yd0tsZ1pYdVRxNGdUNHNmbTJKRmNXVENMbGpPOUk4UGFKRWhBTXBJNjJIank5cGRhcE5oWjgxdXZQUWdoYlQ0T2M0dHJXLU1pSElYc3J0QUNRcTlCZnloemwyVkh0WjRIQTZhMUV4V2k4dVhLWkhrVzVqQ0Jfdw?oc=5",
-      "published": "2026-11-23T08:58:48+00:00",
-      "category": "Markt"
     },
     {
       "id": "36a23467e0a57fc8",
@@ -661,14 +681,24 @@
       "category": "Trends"
     },
     {
-      "id": "9f8722853ca30084",
-      "title": "Arrow lanciert Vertriebsportal für Cloud-Partner - IT-Markt",
-      "excerpt": "Arrow lanciert Vertriebsportal für Cloud-Partner IT-Markt",
-      "summary": "Arrow lanciert Vertriebsportal für Cloud-Partner IT-Markt",
-      "source": "IT-Markt",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUnptOFV1MmlXNXFoWXlDTURyZEQ5YlNja3dKN2VubHpvcWVoTTVMZ01nNHpHcGpxY2wtVFpkYkUxVU5zWHVxQlhIOGgzcGlCb2Q0WklMUVF5NWtMajB2MzNYTGZTRHRDcmJKTWVxWENqNWhQbF9FNklBWWNpdGMwUHp4VVZpdFh3QktvNHpSdGFJWU0?oc=5",
-      "published": "2026-11-20T15:21:31+00:00",
-      "category": "Cloud"
+      "id": "a2e59dfd78ce1c90",
+      "title": "Die Top 5 Technologie-Trends 2027 von Capgemini - Computerwoche",
+      "excerpt": "Die Top 5 Technologie-Trends 2027 von Capgemini Computerwoche",
+      "summary": "Die Top 5 Technologie-Trends 2027 von Capgemini Computerwoche",
+      "source": "Computerwoche",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTklka3k4Snp4bi1aaUhDT29rUGpOOVQyc0FGVkNoYm5majRLUEYzdDdFUDdnd3dseTVKMHdhUTJWZzNVUW45S3JOcG44YWdYeWZfdm5jR2dnVTZPMFJiRUNHUjA5NkdPajVobXpESUxQQmxZdnhLTXU3eTdlSlVYaVc5YXVDV1gtU0dMYjNOUWFtSXBmdUlUeEVWY3Fldw?oc=5",
+      "published": "2026-11-20T15:14:42+00:00",
+      "category": "Trends"
+    },
+    {
+      "id": "3befbe408d8a2146",
+      "title": "Lausanne ernennt neuen IT-Chef - Inside IT",
+      "excerpt": "Lausanne ernennt neuen IT-Chef Inside IT",
+      "summary": "Lausanne ernennt neuen IT-Chef Inside IT",
+      "source": "Inside IT / Personen",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HakFTc0tLcWxwWGJqX2ZkMklwOW9TTnEyYkFSOU9nM1NWLXFXRGoteGdNNUFwNTU1UExVVTJmMUhuajdMYlc4TFhrVHdxNVpubVVGalVPVTJEUENidXpwZFpnV3ZSVi1oVDdqQ2FNZm14dw?oc=5",
+      "published": "2026-11-17T08:00:00+00:00",
+      "category": "Personen"
     },
     {
       "id": "9e6b5f5480a8185a",
@@ -719,19 +749,9 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR2h0bm1hRUFVZ0t4V1FZaFdUbGJrUjB0NzZkUjJ5WnNtZFBHRVAzeU8xTWN3alNVZTYwS1p6TlM0RlU4Znd4cXdubEJCb3VKSm1LSkRUTkJESlpFbWJ3WWhDMGsxMElmTDg5OU52bnQyZWdfNjdUVVpxNl9TSDVYQ2Q3NGVGUGdqR0lIVmZwYm44XzBPdFE?oc=5",
       "published": "2026-11-06T08:00:00+00:00",
       "category": "Personen"
-    },
-    {
-      "id": "6d20940775b20ad8",
-      "title": "Genesys ernennt Daniel Karadza zum Leiter des Partnergeschäfts - Swiss IT Reseller",
-      "excerpt": "Genesys ernennt Daniel Karadza zum Leiter des Partnergeschäfts Swiss IT Reseller",
-      "summary": "Genesys ernennt Daniel Karadza zum Leiter des Partnergeschäfts Swiss IT Reseller",
-      "source": "IT Reseller / Personen",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaVpZTlg0RFV0T0FoYnpfUXlIaTdUemg5d1drTDVQdlUxLWZGa0FSbnVxWUp4dGdZTW1TSWJMSlVnaUtzRGJfUUZDZmJDc1BjaFUxNlFORHNYNXZmZk5PcmQ0dVZUbHRpWGxidG1LYTE2WXdXSk85YlZoV3JUTklEa1psQTVaYlNETDJDOWp3VTloazRNa05EeGxFWFliMGRaVmhPeW9aLVBYcHlnZWhN?oc=5",
-      "published": "2026-11-03T08:00:00+00:00",
-      "category": "Personen"
     }
   ],
-  "updatedAt": "2026-11-27T13:28:05.828229+00:00",
+  "updatedAt": "2026-11-27T15:09:08.716072+00:00",
   "targets": {
     "Security": 10,
     "Microsoft 365": 10,
@@ -747,11 +767,11 @@
     "Security": 10,
     "Microsoft 365": 10,
     "IT Schweiz": 10,
-    "Cloud": 9,
-    "Trends": 4,
+    "Cloud": 10,
+    "Trends": 5,
     "Markt": 10,
     "Firmen": 10
   },
-  "warning": "Nicht genügend passende aktuelle Meldungen: 1 × Cloud, 6 × Trends. 6 von 54 RSS-Quellen waren nicht erreichbar.",
+  "warning": "Nicht genügend passende aktuelle Meldungen: 5 × Trends. 4 von 54 RSS-Quellen waren nicht erreichbar.",
   "aiSummaries": false
 }
