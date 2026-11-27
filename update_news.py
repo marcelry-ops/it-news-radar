@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build a German-language 5-per-category RSS digest for GitHub Pages; stdlib only."""
+"""Build a German-language 10-per-category RSS digest for GitHub Pages; stdlib only."""
 import datetime as dt
 import difflib
 import unicodedata
@@ -17,7 +17,7 @@ from pathlib import Path
 
 UTC = dt.timezone.utc
 NOW = dt.datetime.now(UTC)
-TARGETS = {'Security': 5, 'Microsoft 365': 5, 'IT Schweiz': 5, 'Cloud': 5, 'Trends': 5, 'Markt': 5, 'Firmen': 5, 'Personen': 10}
+TARGETS = {'Security': 10, 'Microsoft 365': 10, 'IT Schweiz': 10, 'Cloud': 10, 'Trends': 10, 'Markt': 10, 'Firmen': 10, 'Personen': 10}
 MAX_AGE_DAYS = int(os.getenv('NEWS_MAX_AGE_DAYS', '7'))
 ATOM = '{http://www.w3.org/2005/Atom}'
 RSS_NS = '{http://purl.org/rss/1.0/modules/content/}'
@@ -475,6 +475,59 @@ def select(items):
   return chosen, counts
 
 
+def selection_rankings(raw_items, chosen):
+ """Rank eligible unique stories and show exactly which headlines got each slot.
+
+ For non-person categories the ranking is illustrative before cross-category
+ allocation. An item's eventual outcome still depends on categories processed
+ earlier, so the selected published slots are reported separately.
+ """
+ unique = deduplicate(raw_items)
+ selected = {cat: [row for row in chosen if row['category'] == cat] for cat in TARGETS}
+ rankings = {}
+ for cat in TARGETS:
+  pool = [row for row in unique if eligible(row, cat)]
+  if cat == 'Personen':
+   pool = deduplicate([row for row in raw_items if eligible(row, cat)])
+   pool.sort(key=lambda row: parse_date(row['published']) or dt.datetime.min.replace(tzinfo=UTC), reverse=True)
+  else:
+   pool.sort(key=lambda row: score(row, cat), reverse=True)
+  original_by_id = {row['id']: row for row in raw_items}
+  rankings[cat] = {
+   'target': TARGETS[cat],
+   'eligibleUniqueCandidates': len(pool),
+   'selectedCount': len(selected[cat]),
+   'rankingMethod': 'publication_date' if cat == 'Personen' else 'priority_score',
+   'note': 'Rangliste vor der Vergabe an andere Kategorien; nicht mit der finalen Auswahl verwechseln.',
+   'selectedArticles': [
+    {'title': row['title'], 'url': row['url'],
+     'published': row['published'],
+     'priorityScore': None if cat == 'Personen' else round(score(original_by_id.get(row['id'], {**row, 'feedHint': None}), cat), 3)}
+    for row in selected[cat]
+   ],
+   '_pool': pool,
+  }
+ return rankings
+
+
+def article_ranking(item, categories, rankings):
+ """Return reproducible pre-allocation ranks for each eligible category."""
+ out = {}
+ for cat in categories:
+  pool = rankings[cat]['_pool']
+  match = next((idx for idx, candidate in enumerate(pool)
+                if canonical_url(item['url']) == canonical_url(candidate['url'])), None)
+  if match is None:
+   match = next((idx for idx, candidate in enumerate(pool)
+                 if personnel_event_relation(item, candidate) == 'same_event' or
+                 (personnel_event_relation(item, candidate) != 'potential_conflict' and
+                  same_story(item, candidate))), None)
+  out[cat] = {'rankBeforeAllocation': match + 1 if match is not None else None,
+              'priorityScore': None if cat == 'Personen' else round(score(item, cat), 3),
+              'target': TARGETS[cat]}
+ return out
+
+
 def build_diagnostics(raw_items, chosen, failures):
  """Audit the published selection, counting each raw article occurrence once.
 
@@ -483,6 +536,7 @@ def build_diagnostics(raw_items, chosen, failures):
  """
  candidates = deduplicate(raw_items)
  chosen_by_id = {row['id']: row for row in chosen}
+ rankings = selection_rankings(raw_items, chosen)
  selected_by_category = {cat: sum(row['category'] == cat for row in chosen) for cat in TARGETS}
  reported_selected = set()
  details = []
@@ -508,9 +562,26 @@ def build_diagnostics(raw_items, chosen, failures):
   else:
    status = 'not_in_top_limit_or_allocated_to_other_category'
    selected_categories = []
+  rank_info = article_ranking(item, categories, rankings)
+  if status == 'selected':
+   reason = 'selected_for_category'
+  elif status == 'topic_filter':
+   reason = 'no_eligible_category'
+  elif status == 'duplicate_or_similar_story':
+   reason = 'same_or_similar_story_already_selected'
+  else:
+   # The selected articles are available in categoryRankings.selectedArticles.
+   # Do not claim a candidate lost solely to rank if earlier-category
+   # allocation or cross-category story blocking could have caused it.
+   reason = ('below_top_10_before_category_allocation'
+             if rank_info and all(data['rankBeforeAllocation'] is not None and
+                                  data['rankBeforeAllocation'] > TARGETS[cat]
+                                  for cat, data in rank_info.items())
+             else 'displaced_by_ranking_or_earlier_category_allocation')
   details.append({'title': item['title'], 'url': item['url'], 'source': item['source'],
                   'published': item['published'], 'eligibleCategories': categories,
-                  'selectedCategories': selected_categories, 'status': status})
+                  'selectedCategories': selected_categories, 'status': status,
+                  'selectionReason': reason, 'categoryRankings': rank_info})
 
  # Count the focused 30-day personnel searches separately from direct feeds.
  focused = [item for item in raw_items if item.get('feedSource', '').endswith(' / Personen')
@@ -578,6 +649,9 @@ def build_diagnostics(raw_items, chosen, failures):
  return {'updatedAt': NOW.isoformat(), 'feedFailures': failures,
          'rawCandidates': len(raw_items), 'uniqueCandidates': len(candidates),
          'selectedPerCategory': selected_by_category,
+         'categoryRankings': {cat: {key: value for key, value in data.items()
+                                   if key != '_pool'}
+                              for cat, data in rankings.items()},
          'personnelDiagnostics': personnel_diag,
          'articles': details[:1500],
          'note': 'Nur aus RSS/Atom erfolgreich extrahierte Artikel; nicht alle Artikel der Verlagswebseiten.'}
