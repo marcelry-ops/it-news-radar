@@ -186,6 +186,16 @@ def risk_score(row):
     return round(min(100.0,points),2)
 
 
+def attack_prerequisites(row):
+    """Derive only documented CVSS vector attributes; unknown stays unknown."""
+    vector = str(row.get('cvssVector') or '')
+    parts = dict(re.findall(r'\b(AV|PR|UI):([A-Z])\b', vector))
+    return {'attackVector': {'N':'network','A':'adjacent','L':'local','P':'physical'}.get(parts.get('AV'),'unknown'),
+            'privilegesRequired': {'N':'none','L':'low','H':'high'}.get(parts.get('PR'),'unknown'),
+            'userInteraction': {'N':'none','R':'required','P':'passive','A':'active'}.get(parts.get('UI'),'unknown'),
+            'source':'CVSS_vector' if parts else 'not_available'}
+
+
 def rank_risk(items):
     return sorted(items,key=lambda r:(risk_score(r), r.get('published') or '',r.get('id','')),reverse=True)
 
@@ -243,17 +253,49 @@ def eligible_risk(row):
     return bool(row.get('knownExploited') or (row.get('priorityProducts') and score>=7) or score>=9 or (score>=7 and (row.get('epss') or 0)>=.10))
 
 
-def merge_kev_records(entries, kev, lookup, max_missing=80):
-    """Resolve currently exploited historical CVEs via official CVE.org records."""
-    missing=[(cid,v) for cid,v in kev.items() if cid not in entries]
-    missing.sort(key=lambda p:p[1].get('dateAdded',''),reverse=True)
-    stats={'missingKev':len(missing),'attempted':0,'added':0,'failures':0,'deferred':max(0,len(missing)-max_missing)}
-    for cid,record in missing[:max_missing]:
+def merge_kev_records(entries, kev, lookup, max_missing=80, previous_backlog=None, reference_date=None):
+    """Prioritised, rotating KEV backlog; stored in the committed cves.json.
+
+    Newest catalog additions receive priority. Older pending identifiers rotate
+    on each successful run instead of remaining permanently behind new entries.
+    The result only marks a CVE exploited after inclusion in CISA KEV.
+    """
+    reference_date = reference_date or dt.datetime.now(UTC).date()
+    missing = {cid: rec for cid, rec in kev.items() if cid not in entries}
+    previous = [cid for cid in (previous_backlog or []) if cid in missing]
+    new = sorted((cid for cid in missing if cid not in previous),
+                 key=lambda cid: (missing[cid].get('dateAdded') or '', cid), reverse=True)
+    recent = []
+    for cid in sorted(missing, key=lambda key:(missing[key].get('dateAdded') or '',key),reverse=True):
+        try:
+            days = (reference_date - dt.date.fromisoformat(str(missing[cid].get('dateAdded',''))[:10])).days
+        except (ValueError, TypeError):
+            continue
+        if 0 <= days <= 30:
+            recent.append(cid)
+    # Carry forward existing work. New catalogue entries get the next chance,
+    # then a rotating share goes to earlier entries (including older KEV).
+    fresh = list(dict.fromkeys(recent + new))
+    ordered = list(dict.fromkeys(fresh + previous))
+    ordered += [cid for cid in missing if cid not in set(ordered)]
+    quota = max(0,int(max_missing))
+    fresh_quota = min(len(fresh), quota//2 + quota%2) if previous else min(len(fresh), quota)
+    attempted_ids = list(dict.fromkeys(fresh[:fresh_quota] + previous[:quota-fresh_quota]))
+    attempted_ids += [cid for cid in ordered if cid not in attempted_ids][:max(0,quota-len(attempted_ids))]
+    stats={'missingKev':len(missing),'attempted':0,'added':0,'failures':0,
+           'deferred':max(0,len(missing)-len(attempted_ids)),
+           'recentPending':len(recent),'lookups':attempted_ids,
+           'backlog':[], 'note':'Aktuelle KEV-Eintraege zuerst, alte Rueckstaende rotierend nachrecherchiert.'}
+    failed=[]
+    for cid in attempted_ids:
         stats['attempted']+=1
         try:
             row=lookup(cid)
             if row and row.get('id','').upper()==cid:
                 entries[cid]=row;stats['added']+=1
+            else: failed.append(cid)
         except Exception:
-            stats['failures']+=1
+            stats['failures']+=1; failed.append(cid)
+    # Put not-yet-attempted entries first next time, then unresolved attempts.
+    stats['backlog'] = [cid for cid in ordered if cid not in attempted_ids] + failed
     return stats

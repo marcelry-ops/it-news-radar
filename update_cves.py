@@ -17,7 +17,7 @@ import xml.etree.ElementTree as ET
 from pathlib import Path
 from radar_guard import guard_dataset
 from radar_quality import (load_kev, load_epss, enrich_risks, merge_kev_records,
-                           rank_risk, eligible_risk, risk_score, select_operational_top, select_legacy_top, _current_threat, _legacy_cve)
+                           rank_risk, eligible_risk, risk_score, select_operational_top, select_legacy_top, _current_threat, _legacy_cve, attack_prerequisites)
 from nvd_incremental import read_snapshot, modified_query_start, write_snapshot
 from nvd_historical_cache import fingerprint, read_history, write_history
 
@@ -326,6 +326,38 @@ def metric(cve):
     return None, 'UNRATED', None
 
 
+def primary_cvss_vector(cve):
+    metrics = cve.get('metrics') or {}
+    for version in ('cvssMetricV40','cvssMetricV31','cvssMetricV30','cvssMetricV2'):
+        choices = metrics.get(version) or []
+        if choices:
+            chosen = next((x for x in choices if x.get('type')=='Primary'), choices[0])
+            return (chosen.get('cvssData') or {}).get('vectorString')
+    return None
+
+
+def prior_payload(path=Path('cves.json')):
+    try:
+        row=json.loads(Path(path).read_text(encoding='utf-8'))
+        return row if isinstance(row,dict) and isinstance(row.get('items'),list) else {}
+    except (OSError, ValueError, TypeError):
+        return {}
+
+
+def make_delta(old, current, kev):
+    """Compare published top lists and exploitation evidence across runs."""
+    older={x['id']:x for x in old.get('items',[]) if isinstance(x,dict) and x.get('id')}
+    newer={x['id']:x for x in current if x.get('id')}
+    previous_evidence={x['id']:x for group in (old.get('items',[]),old.get('legacyItems',[]),old.get('exploitedItems',[])) for x in group if isinstance(x,dict) and x.get('id')}
+    return {'previousUpdatedAt':old.get('updatedAt'),
+            'newInTop50':sorted(set(newer)-set(older)),
+            'leftTop50':sorted(set(older)-set(newer)),
+            'newConfirmedExploitation':sorted(cid for cid in kev if cid in newer and not previous_evidence.get(cid,{}).get('knownExploited')),
+            'changedRiskScore':sorted([{'id':cid,'before':older[cid].get('riskScore'),'after':newer[cid].get('riskScore')}
+                for cid in set(newer)&set(older) if older[cid].get('riskScore')!=newer[cid].get('riskScore')], key=lambda x:x['id']),
+            'note':'Vergleich mit der zuvor veröffentlichten cves.json; keine globale Historie.'}
+
+
 def description(cve):
     ds = cve.get('descriptions') or []
     for lang in ('de', 'en'):
@@ -357,7 +389,7 @@ def base(cve_id):
     return {'id': cve_id, 'score': None, 'severity': 'UNRATED', 'cvssVersion': None,
             'published': None, 'modified': None, 'description': 'Keine Beschreibung vorhanden.',
             'products': [], 'references': [], 'sources': [], 'aliases': [], 'title': None, 'scoreSource': None,
-            'url': ('https://euvd.enisa.europa.eu/enisaid/' + urllib.parse.quote(cve_id)
+            'cvssVector': None, 'url': ('https://euvd.enisa.europa.eu/enisaid/' + urllib.parse.quote(cve_id)
                     if cve_id.startswith('EUVD-') else 'https://www.cve.org/CVERecord?id=' + cve_id)}
 
 
@@ -367,7 +399,7 @@ def nvd_item(cve):
     item.update(score=score, severity=severity, cvssVersion=version,
                 published=iso(cve.get('published')), modified=iso(cve.get('lastModified')),
                 description=description(cve), products=products(cve),
-                references=[x.get('url') for x in cve.get('references', []) if str(x.get('url', '')).startswith('https://')][:8],
+                cvssVector=primary_cvss_vector(cve), references=[x.get('url') for x in cve.get('references', []) if str(x.get('url', '')).startswith('https://')][:8],
                 sources=['NVD'], scoreSource=('NVD' if score is not None else None))
     return item
 
@@ -770,6 +802,7 @@ def build():
         except Exception:
             pass
 
+    prior = prior_payload()
     # Public threat intelligence: active exploitation and exploit probability.
     # A source failure never silently turns existing records into confirmed negatives.
     kev = {}
@@ -779,7 +812,8 @@ def build():
         kev = load_kev()
         kev_stats = merge_kev_records(
             entries, kev, lambda cid: safe_cveorg_lookup(cid),
-            max_missing=max(0,min(int(os.getenv('CVE_KEV_LOOKUP_LIMIT','30')),100)))
+            max_missing=max(0,min(int(os.getenv('CVE_KEV_LOOKUP_LIMIT','30')),100)),
+            previous_backlog=prior.get('kevBacklog',[]), reference_date=now.date())
     except Exception as exc:
         kev_error = str(exc)[:160]
         warnings.append('CISA KEV nicht erreichbar: '+kev_error)
@@ -813,6 +847,12 @@ def build():
     current_candidate_count = sum(_current_threat(x,now.date()) for x in selected)
     global_top, top_allocations = select_operational_top(selected, TOP_CVES, now.date())
     legacy_top = select_legacy_top(selected, TOP_CVES, now.date())
+    exploited = rank_risk([x for x in selected if x.get('knownExploited')])
+    history_excluded = sum(_legacy_cve(x,now.date()) and not _current_threat(x,now.date()) for x in selected)
+    for item in selected:
+        item['attackPrerequisites'] = attack_prerequisites(item)
+        item['exploitationEvidence'] = 'CISA_KEV' if item.get('knownExploited') else 'not_confirmed_by_kev'
+    delta = make_delta(prior,global_top,kev)
     # Explain selection and distinguish confirmed exploitation from EPSS forecasts.
     for item in global_top:
         item['selectionReason'] = ('confirmed_exploitation_cisa_kev' if item.get('knownExploited')
@@ -821,6 +861,8 @@ def build():
                                    else 'cvss_technical_severity' if item.get('selectionBucket')=='criticalCvss'
                                    else 'risk_based_fallback')
         item['exploitationEvidence'] = 'CISA_KEV' if item.get('knownExploited') else 'not_confirmed_by_kev'
+    for item in exploited:
+        item['selectionReason']='confirmed_exploitation_cisa_kev'
     for item in legacy_top:
         item['selectionReason']='historical_legacy_view'
         item['exploitationEvidence']='CISA_KEV' if item.get('knownExploited') else 'not_confirmed_by_kev' 
@@ -828,6 +870,7 @@ def build():
                      for name in PRIORITY_TERMS}
     unique = {x['id']: x for x in global_top}
     unique.update((x['id'], x) for x in legacy_top)
+    unique.update((x['id'], x) for x in exploited)
     for pool in product_pools.values():
         unique.update((x['id'], x) for x in pool)
     translate_descriptions(list(unique.values()))
@@ -842,12 +885,12 @@ def build():
                'truncated': bool('nvd' in enabled_sources and not nvd_complete),
                'source': ', '.join(x['name'] for x in source_rows if x['enabled']),
                'activeSources': [x['id'] for x in source_rows if x['enabled']],
-               'riskScoreMethod': 'heuristic_v2_1_cvss_version_and_recency', 'sort': 'risk_desc', 'priorityMode': 'diversified_threat_v4', 'minimumCvss': None,
-               'selectionDiagnostics': {'method':'diversified_threat_v4','candidateCount':candidate_count,
+               'riskScoreMethod': 'heuristic_v2_1_cvss_version_and_recency', 'sort': 'risk_desc', 'priorityMode': 'diversified_threat_v5', 'minimumCvss': None,
+               'selectionDiagnostics': {'method':'diversified_threat_v5','candidateCount':candidate_count,
                                         'currentCandidateCount':current_candidate_count,
                                         'legacyCandidateCount':candidate_count-current_candidate_count,
                                         'legacyListCount':len(legacy_top),
-                                        'excludedFromGlobalDueToHistory':sum(_legacy_cve(x,now.date()) and not _current_threat(x,now.date()) for x in selected),
+                                        'excludedFromGlobalDueToHistory':history_excluded,
                                         'bucketAllocations':top_allocations,
                                         'topKnownExploited':sum(bool(x.get('knownExploited')) for x in global_top),
                                         'topHighEpss':sum(isinstance(x.get('epss'),(int,float)) and x['epss']>=0.15 for x in global_top),
@@ -856,10 +899,13 @@ def build():
                                         'epssCoverage':sum(x.get('epss') is not None for x in global_top),
                                         'note':'CISA KEV = nachweislich ausgenutzt; EPSS = Prognose, keine Ausnutzungsbestätigung. Historische CVEs ausserhalb des globalen Rankings, ausser wenn kürzlich neu im KEV-Katalog.'},
                 'nvdIncremental': incremental, 'nvdCacheComplete': nvd_complete,
-                'kevStats': kev_stats, 'kevCount': len(kev), 'epssCount': len(epss),
+                'kevStats': {k:v for k,v in kev_stats.items() if k not in ('backlog','lookups')}, 'kevCount': len(kev), 'epssCount': len(epss),
                 'kevError': kev_error, 'epssError': epss_error,
                'warning': ' | '.join(warnings) if warnings else None,
-               'items': selected, 'legacyItems': legacy_top, 'priorityItems': product_pools, 'priorityNames': list(PRIORITY_TERMS),
+               'items': selected, 'legacyItems': legacy_top,
+               'exploitedItems': exploited, 'exploitedCount':len(exploited),
+               'kevBacklog':kev_stats.get('backlog',prior.get('kevBacklog',[])),
+               'deltaReport':delta, 'confirmedExploitationScope':'aufgeloeste_und_geeignete_KEV_Kandidaten', 'priorityItems': product_pools, 'priorityNames': list(PRIORITY_TERMS),
                'vendorDiscovery': discovery_stats, 'vendorSourceDiagnostics': vendor_diagnostics, 'targetedDiagnostics': targeted_status,
                 'retrievalDiagnostics': {'nvdIncremental':incremental, 'nvdPagesComplete':nvd_complete,
                                          'nvdRetrieved':start_index,
