@@ -140,70 +140,101 @@ def enrich_risks(items, kev, epss):
     return items
 
 
+def _published_age_days(row, reference_date):
+    """Age is based on publication, never on last-modified or CVE identifier."""
+    raw = row.get('published')
+    if not raw:
+        return None
+    try:
+        date = dt.date.fromisoformat(str(raw)[:10])
+        return max(0, (reference_date-date).days)
+    except (ValueError, TypeError):
+        return None
+
+
+def _legacy_cve(row, reference_date, years=3):
+    age = _published_age_days(row, reference_date)
+    return age is not None and age > years*366
+
+
+def _current_threat(row, reference_date):
+    """Old CVEs recently added to CISA KEV stay current threats."""
+    return not _legacy_cve(row, reference_date) or _recent_kev(row, reference_date)
+
+
 def risk_score(row):
-    """Documented 0..100 operational prioritisation heuristic, not an official standard."""
-    raw_cvss = row.get('score')
-    cvss = max(0.0, min(10.0, float(raw_cvss))) if isinstance(raw_cvss,(int,float)) and math.isfinite(raw_cvss) else 0.0
-    raw_epss = row.get('epss')
-    epss = max(0.0,min(1.0,float(raw_epss))) if isinstance(raw_epss,(int,float)) and math.isfinite(raw_epss) else 0.0
-    points = (45 if row.get('knownExploited') else 0)
-    points += epss * 25
-    points += cvss * 1.5
-    points += 10 if row.get('priorityProducts') else 0
-    if str(row.get('kevRansomware') or '').casefold() == 'known': points += 5
+    """0..100 editorial heuristic; source CVSS values and versions are preserved.
+
+    CVSS v2 is NOT treated as a modern v3/v4 severity value. The score does
+    not assert the presence of an exploit, asset exposure or business impact.
+    """
+    raw_cvss=row.get('score')
+    cvss=max(0.0,min(10.0,float(raw_cvss))) if isinstance(raw_cvss,(int,float)) and math.isfinite(raw_cvss) else 0.0
+    version=str(row.get('cvssVersion') or '').lower()
+    # CVSS v2 is not comparable with CVSS v3/v4; reduce its heuristic weight.
+    if 'cvss 2' in version: cvss*=0.65
+    raw_epss=row.get('epss')
+    epss=max(0.0,min(1.0,float(raw_epss))) if isinstance(raw_epss,(int,float)) and math.isfinite(raw_epss) else 0.0
+    points=(45 if row.get('knownExploited') else 0)
+    points += epss*25 + cvss*1.5 + (10 if row.get('priorityProducts') else 0)
+    if str(row.get('kevRansomware') or '').casefold()=='known': points+=5
+    # Publish-date bonus avoids letting a new edit to an old NVD record
+    # masquerade as a new vulnerability. No date => no bonus.
+    age=_published_age_days(row, dt.datetime.now(UTC).date())
+    if age is not None:
+        points += 12 if age<=30 else 8 if age<=90 else 4 if age<=365 else 0
     return round(min(100.0,points),2)
 
 
 def rank_risk(items):
-    return sorted(items,key=lambda r:(risk_score(r), r.get('modified') or r.get('published') or '',r.get('id','')),reverse=True)
+    return sorted(items,key=lambda r:(risk_score(r), r.get('published') or '',r.get('id','')),reverse=True)
 
 
 def _recent_kev(row, reference_date, days=120):
-    """Recent KEV addition (not CVE publication), without treating missing dates as recent."""
-    if not row.get('knownExploited') or not row.get('kevAdded'):
-        return False
+    """Only CISA KEV inclusion confirms exploitation; dates mark additions."""
+    if not row.get('knownExploited') or not row.get('kevAdded'): return False
     try:
-        added=dt.date.fromisoformat(str(row['kevAdded'])[:10])
-        age=(reference_date-added).days
+        age=(reference_date-dt.date.fromisoformat(str(row['kevAdded'])[:10])).days
         return 0 <= age <= days
-    except ValueError:
-        return False
+    except (ValueError,TypeError): return False
 
 
 def select_operational_top(items, limit=50, reference_date=None):
-    """Diversified threat-led shortlist, not a mathematically validated risk model.
+    """Risk-balanced Top 50 with evidence-backed exploitation first.
 
-    Reserve space for newly confirmed exploitation, EPSS-high, affected priority
-    products and critical CVSS. Already-selected IDs are skipped and slots are
-    filled using the baseline rank when a bucket cannot be filled.
+    Recent KEV additions are never excluded solely for the age of the CVE.
+    Older records not recently added to KEV are moved to a separate legacy
+    view. Missing publication dates stay eligible (do not invent dates).
     """
     reference_date=reference_date or dt.datetime.now(UTC).date()
-    ranked=rank_risk(items)
-    picked=[]
-    seen=set()
-    allocations={}
+    ranked=rank_risk([x for x in items if _current_threat(x,reference_date)])
+    picked=[]; seen=set(); allocations={}
     buckets=(
-        ('recentKnownExploited', 20, lambda r:_recent_kev(r,reference_date)),
-        ('highEpss', 15, lambda r: not r.get('knownExploited') and isinstance(r.get('epss'),(int,float)) and r['epss']>=0.15),
-        ('priorityProducts', 10, lambda r:not r.get('knownExploited') and bool(r.get('priorityProducts'))),
-        ('criticalCvss', 5, lambda r:not r.get('knownExploited') and isinstance(r.get('score'),(int,float)) and r['score']>=9),
+        ('recentKnownExploited',20,lambda r:_recent_kev(r,reference_date)),
+        ('highEpss',15,lambda r:not r.get('knownExploited') and isinstance(r.get('epss'),(int,float)) and r['epss']>=0.15),
+        ('priorityProducts',10,lambda r:not r.get('knownExploited') and bool(r.get('priorityProducts'))),
+        ('criticalCvss',5,lambda r:not r.get('knownExploited') and isinstance(r.get('score'),(int,float)) and r['score']>=9 and 'cvss 2' not in str(r.get('cvssVersion') or '').lower()),
     )
     for name,quota,condition in buckets:
         count=0
         for row in ranked:
-            if len(picked)>=limit or count>=quota:
-                break
+            if len(picked)>=limit or count>=quota: break
             if row['id'] not in seen and condition(row):
                 seen.add(row['id']);row['selectionBucket']=name;picked.append(row);count+=1
         allocations[name]=count
     for row in ranked:
-        if len(picked)>=limit:
-            break
+        if len(picked)>=limit: break
         if row['id'] not in seen:
             seen.add(row['id']);row['selectionBucket']='remainder';picked.append(row)
     allocations['remainder']=len(picked)-sum(allocations.values())
-    # Presentation order reflects operational importance, not timestamp alone.
-    return picked, allocations
+    return picked,allocations
+
+
+def select_legacy_top(items, limit=50, reference_date=None):
+    """Historical CVEs not newly added to KEV, for a distinct legacy view."""
+    reference_date=reference_date or dt.datetime.now(UTC).date()
+    old=[x for x in items if _legacy_cve(x,reference_date) and not _recent_kev(x,reference_date)]
+    return rank_risk(old)[:limit]
 
 
 def eligible_risk(row):
