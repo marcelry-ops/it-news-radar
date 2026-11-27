@@ -51,16 +51,6 @@
       "category": "Firmen"
     },
     {
-      "id": "a1e85b1e22e4302e",
-      "title": "Shopware 6 Migration im Mittelstand: worauf Unternehmen bei der Wahl der Shopware Agentur achten sollten - it-daily.net",
-      "excerpt": "Shopware 6 Migration im Mittelstand: worauf Unternehmen bei der Wahl der Shopware Agentur achten sollten it-daily.net",
-      "summary": "Shopware 6 Migration im Mittelstand: worauf Unternehmen bei der Wahl der Shopware Agentur achten sollten it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYkFYUDZ4RkltLVB6ODNkUHZYNlBjWDgwTUZ4d1E5N2Fsa0syaEhqWFdaeEFFSTV3dEl2LTh6SFR0dXpxRS1tNVNRc2V3cHptYVNyVTNLWmc5TmlRNlhpclN3WXAyTXRPdWR3dU1TanJlRTV4YmEzTU9wbEtTZmdESGxMZVNfU0pBNEg2Zi1R?oc=5",
-      "published": "2026-11-27T14:14:03+00:00",
-      "category": "Firmen"
-    },
-    {
       "id": "1d58fb4a7a34878e",
       "title": "1Password meldet Datenabfluss",
       "excerpt": "Hacker haben sich Zugang zu internen Systemen des Passwortmanagers 1Password verschafft und Kundendaten gestohlen. Darunter befinden sich Namen und E-Mail-Adressen, nicht aber die im Passwortmanager hinterlegten Passwörter.",
@@ -101,13 +91,13 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "d61e865d03859248",
-      "title": "FIFA bestätigt Cyberangriff auf persönliche Daten - it-daily.net",
-      "excerpt": "FIFA bestätigt Cyberangriff auf persönliche Daten it-daily.net",
-      "summary": "FIFA bestätigt Cyberangriff auf persönliche Daten it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMZTBEVkdaOEdpNWU2LTVJMU9TdTJaeUVYNk12V0VVSnpyenVmcm9tUU1FYnQ2RUNvOU45azFZUDkxRUFRNFpsRUV4bUg4ZGVCOXlBWndaR0ZTQUt4UUhSd013?oc=5",
-      "published": "2026-11-27T09:54:00+00:00",
+      "id": "d856a7701faf73d7",
+      "title": "BSI schlägt Alarm: Durch KI droht eine \"Lawine neuer Cyberangriffe\"",
+      "excerpt": "Cyberangriffe werden durch KI-Frameworks immer günstiger und schneller ausführbar. Das BSI sieht eine massive Verschärfung der Cyberbedrohungslage. ( Cybercrime , KI )",
+      "summary": "Cyberangriffe werden durch KI-Frameworks immer günstiger und schneller ausführbar. Das BSI sieht eine massive Verschärfung der Cyberbedrohungslage. ( Cybercrime , KI )",
+      "source": "Golem.de",
+      "url": "https://golem.de/news/agentische-ki-bsi-chefin-warnt-vor-cyberangriffen-zum-schnaeppchenpreis-2611-215726.html",
+      "published": "2026-11-27T09:40:01+00:00",
       "category": "Security"
     },
     {
@@ -251,6 +241,16 @@
       "category": "Firmen"
     },
     {
+      "id": "0fe7718adc21d1ee",
+      "title": "Kubernetes-Backups: Warum VM-Sicherungen für Container nicht ausreichen - it-daily.net",
+      "excerpt": "Kubernetes-Backups: Warum VM-Sicherungen für Container nicht ausreichen it-daily.net",
+      "summary": "Kubernetes-Backups: Warum VM-Sicherungen für Container nicht ausreichen it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUThGQVRXMzg5UTNlMWNjZVM1QlhPVzZFWjZIVXJmNUwwN0JjV3YtS1BSUExqUXkyS0o4VGxUQVZMWnFHdWp0MW1XZU4yWGNORXJESjJhb2FPRFR0TkxPcS1QbU9Xazhwb3ZiMERXMktVUExrelRseFZvT1dUUzd6WFdrUjNzbDZ1aTA0b0MzckZHQQ?oc=5",
+      "published": "2026-11-26T15:21:15+00:00",
+      "category": "Cloud"
+    },
+    {
       "id": "8487037040fec5a7",
       "title": "Update: Phishing-Welle folgt auf Outlook-Panne",
       "excerpt": "Nach mehr als 24 Stunden hat Microsoft die weltweite Störung seiner Cloud-Dienste behoben. Als Ursache nennt der Konzern ein technisches Problem im Zusammenhang mit Änderungen an seiner Netzwerkinfrastruktur. Nach dem Ausfall mehren sich nun die entsprechenden Phishing-Vorfälle.",
@@ -269,16 +269,6 @@
       "url": "https://netzwoche.ch/news/2026-11-26/basler-datenschutzbeauftragte-untersagt-vpn-auslagerung-an-us-amerikanischen",
       "published": "2026-11-26T13:44:33+00:00",
       "category": "Cloud"
-    },
-    {
-      "id": "a3dc7f09bc33a9d2",
-      "title": "Quanten-Startup Planqc kooperiert mit SAP - it-daily.net",
-      "excerpt": "Quanten-Startup Planqc kooperiert mit SAP it-daily.net",
-      "summary": "Quanten-Startup Planqc kooperiert mit SAP it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PbzJiNnQ3RDd4eTRjbWk5NE0xNHRndGhOdHBGTUozQVQxOVdvU2dOYU5keFdxOFFFUk93NEFPVlRIR2RERkgtYUFvdnJqNVBjbU9IamppNEEwWEpaU2xjckQ0Nmp2RHU1bnY1U1pR?oc=5",
-      "published": "2026-11-26T13:43:20+00:00",
-      "category": "Firmen"
     },
     {
       "id": "32be4e1f4926980f",
@@ -329,6 +319,16 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yTTBudFQ3cG1veURTR1REcFlscTJUSWJpSElDNzdOLWlhcXB0T0wzaDNzWDlRMTJTclk2THRTVVhPTTlHVEtSMHNDeDBWVlM1MDV3dms2RENEZw?oc=5",
       "published": "2026-11-26T12:13:26+00:00",
       "category": "IT Schweiz"
+    },
+    {
+      "id": "54de5e845ace16a7",
+      "title": "Rechnung nicht verschlüsselt: Firma muss fast 20.000 Euro zahlen - it-daily.net",
+      "excerpt": "Rechnung nicht verschlüsselt: Firma muss fast 20.000 Euro zahlen it-daily.net",
+      "summary": "Rechnung nicht verschlüsselt: Firma muss fast 20.000 Euro zahlen it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RSmRseG5rSWJNZVluZWY1WGozb3Q0YXF3a3pRMkhZTTlRMnVpdHFPVlMtcmlPem5tcGd2YUxWV1Z2UlZaVTBNaE54ekFrRzhFQXg5VE1JbkNpZEh0SmpTVjZENzFZLVBDRlYwNkR2dzJNUQ?oc=5",
+      "published": "2026-11-26T11:31:48+00:00",
+      "category": "Firmen"
     },
     {
       "id": "50b3868b9687e2bc",
@@ -441,14 +441,24 @@
       "category": "Cloud"
     },
     {
-      "id": "feae072fb4e25241",
-      "title": "Basler Datenschutzbeauftragte verhindert Datenauslagerung",
-      "excerpt": "VPN und Web Proxy sollten von einem US-Cloud-Anbieter übernommen werden.",
-      "summary": "VPN und Web Proxy sollten von einem US-Cloud-Anbieter übernommen werden.",
-      "source": "Inside IT",
-      "url": "https://inside-it.ch/basler-datenschutzbeauftragte-verhindert-datenauslagerung-20261125",
-      "published": "2026-11-25T14:20:59+00:00",
+      "id": "0996c1e36c8a6f57",
+      "title": "Multi-Cloud-Backup: Was „Cloud-nativ“ eigentlich bedeutet - it-daily.net",
+      "excerpt": "Multi-Cloud-Backup: Was „Cloud-nativ“ eigentlich bedeutet it-daily.net",
+      "summary": "Multi-Cloud-Backup: Was „Cloud-nativ“ eigentlich bedeutet it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMUFIcXEzVFc1UnhxWDRZYUM1MVMwTDdyR2dCdUcxcXRDOW4xZG54ajBfelhFaE5CT3l5dFJFUlFQSVFzM3MxekxwcERDcUhRQmtyejVHVWE0RXNibHV2X1JSbDdFTGNSVVY0MHc1N2E3Y2dDUmRaWGxHbGMxVjRyMVFnLTNnZmJ6clFjdHpR?oc=5",
+      "published": "2026-11-25T14:59:30+00:00",
       "category": "Cloud"
+    },
+    {
+      "id": "81dc3eb05ef732dd",
+      "title": "«Höhle der Löwen»: Emmer IT-Firma knackt Millionen-Rekord – doch der Deal platzt",
+      "excerpt": "«Höhle der Löwen»: Emmer IT-Firma knackt Millionen-Rekord – doch der Deal platzt Urner Zeitung",
+      "summary": "«Höhle der Löwen»: Emmer IT-Firma knackt Millionen-Rekord – doch der Deal platzt Urner Zeitung",
+      "source": "Urner Zeitung",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaHZJLWpIdUR1cWRva2xzQkhxNU9wMjZpYzRpNGowWlkzOXJUd0tKSFBER0I5OXlBRU1PcGNVYW90ZlR6RkJKb3BBQ1FZekl3MkRIZVNNWjRMYTA3M0tzSWlxeXV4ekZCb2czeWFGSERGNkx1SmdPR3ozR0NjNExJTnFBOTBGcTJzU05zNUstUVEtZzFwbi1EMUNMT3NPQkUwRE1QdVZYLXl1SUk4S2Y0UTNUUFloR3BQTmEzMVJxaWMtNzlad2wxR0RnMFhqQUdM?oc=5",
+      "published": "2026-11-25T13:17:29+00:00",
+      "category": "Firmen"
     },
     {
       "id": "4f4bfc16079cfc42",
@@ -469,16 +479,6 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMVRzUENRUnN5RGhuRnV1VkZxRU1fZVBOa0p0ZllYZXNRUGxsb0lIeTg2eDJyUE1WeGI5TmQ0ZmRINEg5V0ozc2JMbzZpUXJaT2g0di1WdXFPejI4bE42dUZxOGNTNm9pT0ItUVZuV1ZxdXZFeXhvamRvbVBWNVRYYQ?oc=5",
       "published": "2026-11-25T10:57:14+00:00",
       "category": "Markt"
-    },
-    {
-      "id": "23556ad83e71e4ca",
-      "title": "NAND-Flash-Preise dürften Anfang 2027 sinken",
-      "excerpt": "Die Vertragspreise für NAND-Flash dürften im Schlussquartal weniger stark steigen als noch im Oktober erwartet. Für Anfang 2027 zeichnet sich ein Preisrückgang ab, weil chinesische Cloud-Anbieter weniger SSDs bestellen als geplant.",
-      "summary": "Die Vertragspreise für NAND-Flash dürften im Schlussquartal weniger stark steigen als noch im Oktober erwartet. Für Anfang 2027 zeichnet sich ein Preisrückgang ab, weil chinesische Cloud-Anbieter weniger SSDs bestellen als geplant.",
-      "source": "IT Reseller",
-      "url": "https://itreseller.ch/Artikel/106679/NAND-Flash-Preise_duerften_Anfang_2027_sinken.html",
-      "published": "2026-11-25T10:52:08+00:00",
-      "category": "Cloud"
     },
     {
       "id": "5f25a9a52e1284c8",
@@ -741,7 +741,7 @@
       "category": "Personen"
     }
   ],
-  "updatedAt": "2026-11-27T22:06:44.338166+00:00",
+  "updatedAt": "2026-11-27T23:07:27.017506+00:00",
   "targets": {
     "Security": 10,
     "Microsoft 365": 10,
