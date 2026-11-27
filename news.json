@@ -51,16 +51,6 @@
       "category": "Firmen"
     },
     {
-      "id": "a1e85b1e22e4302e",
-      "title": "Shopware 6 Migration im Mittelstand: worauf Unternehmen bei der Wahl der Shopware Agentur achten sollten - it-daily.net",
-      "excerpt": "Shopware 6 Migration im Mittelstand: worauf Unternehmen bei der Wahl der Shopware Agentur achten sollten it-daily.net",
-      "summary": "Shopware 6 Migration im Mittelstand: worauf Unternehmen bei der Wahl der Shopware Agentur achten sollten it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYkFYUDZ4RkltLVB6ODNkUHZYNlBjWDgwTUZ4d1E5N2Fsa0syaEhqWFdaeEFFSTV3dEl2LTh6SFR0dXpxRS1tNVNRc2V3cHptYVNyVTNLWmc5TmlRNlhpclN3WXAyTXRPdWR3dU1TanJlRTV4YmEzTU9wbEtTZmdESGxMZVNfU0pBNEg2Zi1R?oc=5",
-      "published": "2026-11-27T14:14:03+00:00",
-      "category": "Firmen"
-    },
-    {
       "id": "1d58fb4a7a34878e",
       "title": "1Password meldet Datenabfluss",
       "excerpt": "Hacker haben sich Zugang zu internen Systemen des Passwortmanagers 1Password verschafft und Kundendaten gestohlen. Darunter befinden sich Namen und E-Mail-Adressen, nicht aber die im Passwortmanager hinterlegten Passwörter.",
@@ -101,13 +91,13 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "d61e865d03859248",
-      "title": "FIFA bestätigt Cyberangriff auf persönliche Daten - it-daily.net",
-      "excerpt": "FIFA bestätigt Cyberangriff auf persönliche Daten it-daily.net",
-      "summary": "FIFA bestätigt Cyberangriff auf persönliche Daten it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMZTBEVkdaOEdpNWU2LTVJMU9TdTJaeUVYNk12V0VVSnpyenVmcm9tUU1FYnQ2RUNvOU45azFZUDkxRUFRNFpsRUV4bUg4ZGVCOXlBWndaR0ZTQUt4UUhSd013?oc=5",
-      "published": "2026-11-27T09:54:00+00:00",
+      "id": "d856a7701faf73d7",
+      "title": "BSI schlägt Alarm: Durch KI droht eine \"Lawine neuer Cyberangriffe\"",
+      "excerpt": "Cyberangriffe werden durch KI-Frameworks immer günstiger und schneller ausführbar. Das BSI sieht eine massive Verschärfung der Cyberbedrohungslage. ( Cybercrime , KI )",
+      "summary": "Cyberangriffe werden durch KI-Frameworks immer günstiger und schneller ausführbar. Das BSI sieht eine massive Verschärfung der Cyberbedrohungslage. ( Cybercrime , KI )",
+      "source": "Golem.de",
+      "url": "https://golem.de/news/agentische-ki-bsi-chefin-warnt-vor-cyberangriffen-zum-schnaeppchenpreis-2611-215726.html",
+      "published": "2026-11-27T09:40:01+00:00",
       "category": "Security"
     },
     {
@@ -149,6 +139,16 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPODE3Mkc0UzhoUDJ1UmlLeXd0RUcya194SUJ0Wm5yNE0yNXJtMWZOVEVxWnFWYjgxcGRNVHFoMjE1OGt6c2J5elcwVVdjRlFIWTRaWXJmcWN3MkRveXMxdmlxS3hDcjh1WHhWWnFlSnlLSzZBaktiVUZlSjFJUHI3LXQ5ZzJLakZZSnFzUmdXX0JNWWJYSWpfZUNVNENfbE5qWjlIRmVPb0x4V0puX1E?oc=5",
       "published": "2026-11-27T08:10:05+00:00",
       "category": "Trends"
+    },
+    {
+      "id": "be9e7c448c7efa2a",
+      "title": "Der Kanton Thurgau stellt Amtsblatt auf digital um - SWI swissinfo.ch",
+      "excerpt": "Der Kanton Thurgau stellt Amtsblatt auf digital um SWI swissinfo.ch",
+      "summary": "Der Kanton Thurgau stellt Amtsblatt auf digital um SWI swissinfo.ch",
+      "source": "SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWjRLbkwyMUUwYnlJN2JlNEU2bTB5WElCU0lCb0FfRXhnTGczZUkyQWdFRjJmWVQ0TmdKZW5YRTlWU1hXajR1RkFwR3k5cVE2LVQzUDd1c0RtM1ZMYjljUTBiZWNDMFd3bEljWWNENlJ0YWc0RVVTQ0NtRVY1TEx0MVlYV05VWUFBYjBzUTVTbTd1QQ?oc=5",
+      "published": "2026-11-27T07:54:26+00:00",
+      "category": "IT Schweiz"
     },
     {
       "id": "88ca31b8af5d58e9",
@@ -311,16 +311,6 @@
       "category": "Security"
     },
     {
-      "id": "e20f50dcbfd22cd3",
-      "title": "Bundesrat will Mobilfunkbewilligungen beschleunigen - Inside IT",
-      "excerpt": "Bundesrat will Mobilfunkbewilligungen beschleunigen Inside IT",
-      "summary": "Bundesrat will Mobilfunkbewilligungen beschleunigen Inside IT",
-      "source": "Inside IT / Firmen",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPenJkRzk2eFlwTU5CS3dHV3BCaEhtN0R1RHg3SkRYVG9KaF84cGxka3NmNjM2Mk41bDNyRVJ2Rnp4akE3MjhTU24wWXN6bHJEZ1RINU9YZ3p6UUFoWGNnYi04bFNhdVBxVEIxdWFfRk5KbGN2YmI2QlEtR3RVUUppN1JWX1lmSnVJYnZWTTBR?oc=5",
-      "published": "2026-11-26T12:56:00+00:00",
-      "category": "IT Schweiz"
-    },
-    {
       "id": "54de5e845ace16a7",
       "title": "Rechnung nicht verschlüsselt: Firma muss fast 20.000 Euro zahlen - it-daily.net",
       "excerpt": "Rechnung nicht verschlüsselt: Firma muss fast 20.000 Euro zahlen it-daily.net",
@@ -441,13 +431,13 @@
       "category": "Cloud"
     },
     {
-      "id": "feae072fb4e25241",
-      "title": "Basler Datenschutzbeauftragte verhindert Datenauslagerung",
-      "excerpt": "VPN und Web Proxy sollten von einem US-Cloud-Anbieter übernommen werden.",
-      "summary": "VPN und Web Proxy sollten von einem US-Cloud-Anbieter übernommen werden.",
-      "source": "Inside IT",
-      "url": "https://inside-it.ch/basler-datenschutzbeauftragte-verhindert-datenauslagerung-20261125",
-      "published": "2026-11-25T14:20:59+00:00",
+      "id": "0996c1e36c8a6f57",
+      "title": "Multi-Cloud-Backup: Was „Cloud-nativ“ eigentlich bedeutet - it-daily.net",
+      "excerpt": "Multi-Cloud-Backup: Was „Cloud-nativ“ eigentlich bedeutet it-daily.net",
+      "summary": "Multi-Cloud-Backup: Was „Cloud-nativ“ eigentlich bedeutet it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMUFIcXEzVFc1UnhxWDRZYUM1MVMwTDdyR2dCdUcxcXRDOW4xZG54ajBfelhFaE5CT3l5dFJFUlFQSVFzM3MxekxwcERDcUhRQmtyejVHVWE0RXNibHV2X1JSbDdFTGNSVVY0MHc1N2E3Y2dDUmRaWGxHbGMxVjRyMVFnLTNnZmJ6clFjdHpR?oc=5",
+      "published": "2026-11-25T14:59:30+00:00",
       "category": "Cloud"
     },
     {
@@ -499,6 +489,16 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XalhEa1hFaHJsU1dlYklXSk9ldkxrQ0w2ZVNqZ2JKNGJQYlAtYUx5MEszQS1acnBicTdUQkMyazlZSXRvSUV6am9Famk0V1Y2ckFSd09zdFYzSzZ4aWliUjVBVEw5cmVzVVM5MXJPRkcxSTFnNE93?oc=5",
       "published": "2026-11-25T08:41:18+00:00",
       "category": "Markt"
+    },
+    {
+      "id": "6d7bc041c4b0cf66",
+      "title": "KI-Start-up Assora lanciert Modell zur Vorhersage der Produktnachfrage - Netzwoche",
+      "excerpt": "KI-Start-up Assora lanciert Modell zur Vorhersage der Produktnachfrage Netzwoche",
+      "summary": "KI-Start-up Assora lanciert Modell zur Vorhersage der Produktnachfrage Netzwoche",
+      "source": "Netzwoche / Firmen",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTzdSYUNqSng2WkMtWDVaQVk1SUF0SmVZWFhETGh6TzVhWEdjYmQtRzZlU2ZoTll0aW9HWXc2bE5uQ1F1Mzdmb1dmRzNMZFJWQjljaTZHdndCbUloMF9kZ1NuazBQTlFYQ080UXhodWdOSVpCMzJfazl4RWFlLUxmTHdrVDkwWlFFSmozVHNHRWlwdnNFbGdyX1A3aDRpaVdUTWNnalhOVlF2TnFPbWZZSQ?oc=5",
+      "published": "2026-11-25T08:16:03+00:00",
+      "category": "Firmen"
     },
     {
       "id": "9f87c9abaa78df95",
@@ -739,9 +739,19 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80LW1TY1Y2Yms5cGc0Z1lCWmRYbDZzcVpURjZ6eHpibmtxUktzWVZscnJyQ1dEWGhCMWRoTDRSdnlrcGVoU3pkRUVwVTBPSTVHOWZ0QTdFeXJRZVdsY3c4eFE2SWNVeUd4OHNxUHowVDhlNHhxaTdZ?oc=5",
       "published": "2026-11-04T08:00:00+00:00",
       "category": "Personen"
+    },
+    {
+      "id": "0e806a208fb5be15",
+      "title": "Apple baut Standort Zürich für KI-Forschung aus - Swiss IT Reseller",
+      "excerpt": "Apple baut Standort Zürich für KI-Forschung aus Swiss IT Reseller",
+      "summary": "Apple baut Standort Zürich für KI-Forschung aus Swiss IT Reseller",
+      "source": "IT Reseller / Personen",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZG9YZVM1eVAtWWpXVnhJOGoxSkRUelBLVHRvbzh4T1dvRnFEOGhWRDZZeGlVQWRTc3FudHI1Q0N6MEY2WUdKNnUwakhvc1VGMGdyNnotQjROZW5ISkt5YU56TFc5RkptVmJfRGJscjN0aVNoRFVHWnozQXk0Y1pGeDB3SXhiZ3R0dTJ2bFBwVl9pRmVNVHJTU2paRQ?oc=5",
+      "published": "2026-10-29T07:00:00+00:00",
+      "category": "Trends"
     }
   ],
-  "updatedAt": "2026-11-27T20:09:34.019866+00:00",
+  "updatedAt": "2026-11-27T21:07:48.503691+00:00",
   "targets": {
     "Security": 10,
     "Microsoft 365": 10,
@@ -758,10 +768,10 @@
     "Microsoft 365": 10,
     "IT Schweiz": 10,
     "Cloud": 10,
-    "Trends": 4,
+    "Trends": 5,
     "Markt": 10,
     "Firmen": 10
   },
-  "warning": "Nicht genügend passende aktuelle Meldungen: 6 × Trends.",
+  "warning": "Nicht genügend passende aktuelle Meldungen: 5 × Trends. 1 von 54 RSS-Quellen waren nicht erreichbar.",
   "aiSummaries": false
 }
