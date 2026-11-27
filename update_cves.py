@@ -17,7 +17,7 @@ import xml.etree.ElementTree as ET
 from pathlib import Path
 from radar_guard import guard_dataset
 from radar_quality import (load_kev, load_epss, enrich_risks, merge_kev_records,
-                           rank_risk, eligible_risk, risk_score)
+                           rank_risk, eligible_risk, risk_score, select_operational_top)
 from nvd_incremental import read_snapshot, modified_query_start, write_snapshot
 from nvd_historical_cache import fingerprint, read_history, write_history
 
@@ -808,7 +808,7 @@ def build():
     # Independent top-50 pools, not limited to the global 50.
     for item in selected:
         item['riskScore'] = risk_score(item)
-    global_top = rank_risk(selected)[:TOP_CVES]
+    global_top, top_allocations = select_operational_top(selected, TOP_CVES, now.date())
     product_pools = {name: rank_risk([x for x in selected if name in x.get('priorityProducts', [])])[:TOP_CVES]
                      for name in PRIORITY_TERMS}
     unique = {x['id']: x for x in global_top}
@@ -826,7 +826,15 @@ def build():
                'truncated': bool('nvd' in enabled_sources and not nvd_complete),
                'source': ', '.join(x['name'] for x in source_rows if x['enabled']),
                'activeSources': [x['id'] for x in source_rows if x['enabled']],
-               'riskScoreMethod': 'heuristic_v2_0_to_100', 'sort': 'risk_desc', 'priorityMode': 'kev_epss_cvss_product', 'minimumCvss': None,
+               'riskScoreMethod': 'heuristic_v2_0_to_100', 'sort': 'risk_desc', 'priorityMode': 'diversified_threat_v3', 'minimumCvss': None,
+               'selectionDiagnostics': {'method':'diversified_threat_v3','candidateCount':len(selected),
+                                        'bucketAllocations':top_allocations,
+                                        'topKnownExploited':sum(bool(x.get('knownExploited')) for x in global_top),
+                                        'topHighEpss':sum(isinstance(x.get('epss'),(int,float)) and x['epss']>=0.15 for x in global_top),
+                                        'topPriorityProduct':sum(bool(x.get('priorityProducts')) for x in global_top),
+                                        'kevFeedAvailable':kev_error is None,'epssFeedAvailable':epss_error is None,
+                                        'epssCoverage':sum(x.get('epss') is not None for x in global_top),
+                                        'note':'Heuristische redaktionelle Auswahl, keine Bewertung der lokalen Exponierung.'},
                 'nvdIncremental': incremental, 'nvdCacheComplete': nvd_complete,
                 'kevStats': kev_stats, 'kevCount': len(kev), 'epssCount': len(epss),
                 'kevError': kev_error, 'epssError': epss_error,

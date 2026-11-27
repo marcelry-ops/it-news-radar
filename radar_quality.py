@@ -5,6 +5,7 @@ import datetime as dt
 import hashlib
 import json
 import re
+import math
 import urllib.parse
 import urllib.request
 from difflib import SequenceMatcher
@@ -117,7 +118,7 @@ def load_epss(ids, fetch=fetch_json, batch_size=75):
         for item in data.get('data',[]):
             try:
                 score=float(item['epss']); percentile=float(item.get('percentile',0))
-                if 0<=score<=1: result[item['cve'].upper()]={'epss':score,'epssPercentile':percentile}
+                if math.isfinite(score) and math.isfinite(percentile) and 0<=score<=1 and 0<=percentile<=1: result[item['cve'].upper()]={'epss':score,'epssPercentile':percentile}
             except (ValueError,TypeError,KeyError):
                 continue
     return result
@@ -142,9 +143,9 @@ def enrich_risks(items, kev, epss):
 def risk_score(row):
     """Documented 0..100 operational prioritisation heuristic, not an official standard."""
     raw_cvss = row.get('score')
-    cvss = max(0.0, min(10.0, float(raw_cvss))) if isinstance(raw_cvss,(int,float)) else 0.0
+    cvss = max(0.0, min(10.0, float(raw_cvss))) if isinstance(raw_cvss,(int,float)) and math.isfinite(raw_cvss) else 0.0
     raw_epss = row.get('epss')
-    epss = max(0.0,min(1.0,float(raw_epss))) if isinstance(raw_epss,(int,float)) else 0.0
+    epss = max(0.0,min(1.0,float(raw_epss))) if isinstance(raw_epss,(int,float)) and math.isfinite(raw_epss) else 0.0
     points = (45 if row.get('knownExploited') else 0)
     points += epss * 25
     points += cvss * 1.5
@@ -155,6 +156,54 @@ def risk_score(row):
 
 def rank_risk(items):
     return sorted(items,key=lambda r:(risk_score(r), r.get('modified') or r.get('published') or '',r.get('id','')),reverse=True)
+
+
+def _recent_kev(row, reference_date, days=120):
+    """Recent KEV addition (not CVE publication), without treating missing dates as recent."""
+    if not row.get('knownExploited') or not row.get('kevAdded'):
+        return False
+    try:
+        added=dt.date.fromisoformat(str(row['kevAdded'])[:10])
+        age=(reference_date-added).days
+        return 0 <= age <= days
+    except ValueError:
+        return False
+
+
+def select_operational_top(items, limit=50, reference_date=None):
+    """Diversified threat-led shortlist, not a mathematically validated risk model.
+
+    Reserve space for newly confirmed exploitation, EPSS-high, affected priority
+    products and critical CVSS. Already-selected IDs are skipped and slots are
+    filled using the baseline rank when a bucket cannot be filled.
+    """
+    reference_date=reference_date or dt.datetime.now(UTC).date()
+    ranked=rank_risk(items)
+    picked=[]
+    seen=set()
+    allocations={}
+    buckets=(
+        ('recentKnownExploited', 20, lambda r:_recent_kev(r,reference_date)),
+        ('highEpss', 15, lambda r: not r.get('knownExploited') and isinstance(r.get('epss'),(int,float)) and r['epss']>=0.15),
+        ('priorityProducts', 10, lambda r:not r.get('knownExploited') and bool(r.get('priorityProducts'))),
+        ('criticalCvss', 5, lambda r:not r.get('knownExploited') and isinstance(r.get('score'),(int,float)) and r['score']>=9),
+    )
+    for name,quota,condition in buckets:
+        count=0
+        for row in ranked:
+            if len(picked)>=limit or count>=quota:
+                break
+            if row['id'] not in seen and condition(row):
+                seen.add(row['id']);row['selectionBucket']=name;picked.append(row);count+=1
+        allocations[name]=count
+    for row in ranked:
+        if len(picked)>=limit:
+            break
+        if row['id'] not in seen:
+            seen.add(row['id']);row['selectionBucket']='remainder';picked.append(row)
+    allocations['remainder']=len(picked)-sum(allocations.values())
+    # Presentation order reflects operational importance, not timestamp alone.
+    return picked, allocations
 
 
 def eligible_risk(row):
