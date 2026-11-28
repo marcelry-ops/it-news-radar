@@ -131,16 +131,6 @@
       "category": "Firmen"
     },
     {
-      "id": "1a9be17b0c0eac6d",
-      "title": "QommonsAI in Tatebayashi: 60 Verwaltungsbeschäftigte trainieren KI-Automatisierung - BornCity",
-      "excerpt": "QommonsAI in Tatebayashi: 60 Verwaltungsbeschäftigte trainieren KI-Automatisierung BornCity",
-      "summary": "QommonsAI in Tatebayashi: 60 Verwaltungsbeschäftigte trainieren KI-Automatisierung BornCity",
-      "source": "BornCity",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPODE3Mkc0UzhoUDJ1UmlLeXd0RUcya194SUJ0Wm5yNE0yNXJtMWZOVEVxWnFWYjgxcGRNVHFoMjE1OGt6c2J5elcwVVdjRlFIWTRaWXJmcWN3MkRveXMxdmlxS3hDcjh1WHhWWnFlSnlLSzZBaktiVUZlSjFJUHI3LXQ5ZzJLakZZSnFzUmdXX0JNWWJYSWpfZUNVNENfbE5qWjlIRmVPb0x4V0puX1E?oc=5",
-      "published": "2026-11-27T08:10:05+00:00",
-      "category": "Trends"
-    },
-    {
       "id": "be9e7c448c7efa2a",
       "title": "Der Kanton Thurgau stellt Amtsblatt auf digital um - SWI swissinfo.ch",
       "excerpt": "Der Kanton Thurgau stellt Amtsblatt auf digital um SWI swissinfo.ch",
@@ -361,16 +351,6 @@
       "category": "Security"
     },
     {
-      "id": "3b124470fa991b83",
-      "title": "KI-Cyberangriffe in der Schweiz: NCSC warnt vor Risiken",
-      "excerpt": "KI-Cyberangriffe in der Schweiz: NCSC warnt vor Risiken All About SECURITY",
-      "summary": "KI-Cyberangriffe in der Schweiz: NCSC warnt vor Risiken All About SECURITY",
-      "source": "All About SECURITY",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ3k0enJtbUJydVBRN0FzaER4SFJZOC0tc2NqdXpkUGpHVVdtcGtmX0J3eWJ6WFlPNml3eWtmR3l6VGE1cTBPMTVndkVZM1Q5d2Zna3dVQzV3aWxra1N4RUI3YjVvcl9FZXRCY1FwdlJBUHhJTFFsMXNxdlA3MjZiS2gyTjZ3RllXVF9jdUxiVmU3YmhTLVRIcmkxRQ?oc=5",
-      "published": "2026-11-26T08:08:51+00:00",
-      "category": "IT Schweiz"
-    },
-    {
       "id": "12ce9e5cc9330d01",
       "title": "Bechtle integriert AWS und Microsoft Marketplaces in eigene Cloud-Plattform",
       "excerpt": "Bechtle baut seine Position als Multi-Cloud-Provider aus und integriert den AWS Marketplace sowie den Microsoft Marketplace in die eigene Cloud-Plattform. Das schafft für Kunden einen zentralen Beschaffungskanal.",
@@ -491,6 +471,16 @@
       "category": "Markt"
     },
     {
+      "id": "f5d3280f975596f5",
+      "title": "ABB ergänzt Angebot für RZ-Kühlung mit Übernahme von Ziehl-Abegg - IT-Markt",
+      "excerpt": "ABB ergänzt Angebot für RZ-Kühlung mit Übernahme von Ziehl-Abegg IT-Markt",
+      "summary": "ABB ergänzt Angebot für RZ-Kühlung mit Übernahme von Ziehl-Abegg IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWWFHM0M5X0N6b2MxTzdsdTFXS1BESTc4RjVzZmV3VDFPNFNlOXJkZWpXek1xa21jMWM1UWNyQUphLXUxRm5CNjNhYkZhbEhTV0dhTHFHcXMzTUp2Q2xxLWtTekhwWUlBcTgxTW1ZSk91RjAtZlZiOWJrMjJLN09Cc2xuVFNGbzA1QThQRThTZ2JMN3h4ZXlPeW5saXEwMFZhMVJ4T3VVWFN0U2Uy?oc=5",
+      "published": "2026-11-25T09:45:34+00:00",
+      "category": "Markt"
+    },
+    {
       "id": "ae43a86b4b83833e",
       "title": "UMB verlegt seinen Hauptsitz - IT-Markt",
       "excerpt": "UMB verlegt seinen Hauptsitz IT-Markt",
@@ -551,6 +541,16 @@
       "category": "Personen"
     },
     {
+      "id": "ba5e5231522f1f31",
+      "title": "GL.iNet GoodCloud: Hacker kapern Router über die Hersteller-Cloud - ComputerBase",
+      "excerpt": "GL.iNet GoodCloud: Hacker kapern Router über die Hersteller-Cloud ComputerBase",
+      "summary": "GL.iNet GoodCloud: Hacker kapern Router über die Hersteller-Cloud ComputerBase",
+      "source": "ComputerBase",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORmFwMWItQ3hTeUZxdDBvTi1EUnFWeUUxMUNMbG5WaGh0SUl1bFFkUEZpM0lYUDlnVXhDb1lWWHBuMVE5c3k0aEk0MkVYbzM0bHZjZEJhRHJReTZMVDl6elNOZElTdFJzdG9JNm5vd2I1RHBFNkRQVXJvM3hBMkFLUUo2VjRlMUd1eVNHbFJlVnZWYXppX2taMEVydjhJdTMzejdrS2lwMnhKd1JycjBNd1gtb3Vydw?oc=5",
+      "published": "2026-11-24T20:12:00+00:00",
+      "category": "Cloud"
+    },
+    {
       "id": "ec3833a573ee4538",
       "title": "Microsoft 365 Copilot: GPT-6.2 Sol und Astra ziehen in Office ein",
       "excerpt": "Microsoft 365 Copilot: GPT-6.2 Sol und Astra ziehen in Office ein BornCity",
@@ -559,16 +559,6 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZzAwN0htaGU1NXhGTFBXQ053Ni03aUYzaVJCNmF6ejNRdjFoMEJ1MGhFRGdwdVVCaUVjUzJ6VVNlTUF2bTBNSWt4emlYN3VidDVudXFaelltSjRuVkNBMGxuLUNzQU9BUFFuNDNSaTJ2SWtFWk1pRy1DaDdjVzh4VkJnRmJmNUxONERFSDVicURDVnlxSFE?oc=5",
       "published": "2026-11-24T11:40:06+00:00",
       "category": "Microsoft 365"
-    },
-    {
-      "id": "d4c5054960372259",
-      "title": "Messenger soll Ricardo-Kunden vor Phishing schützen - IT-Markt",
-      "excerpt": "Messenger soll Ricardo-Kunden vor Phishing schützen IT-Markt",
-      "summary": "Messenger soll Ricardo-Kunden vor Phishing schützen IT-Markt",
-      "source": "IT-Markt",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVC1mckhNUDZ2eDVBMUpqcjdMTWVuQmIwYlhVY2djQV9tcndzekJHQklPS3N5YzJ2VzhaNndDd3UwbUFJWk9QM2Z0bFl6Q1JGVUF3RUFxNU1NN3phQjQ3N3NySHpQRjRHVXZEYk5HSUo1dGNGOFNWRXozSXRXR0lRM2V5dW5Ed0VaTFhCZm82OFAyTnBVM2Uw?oc=5",
-      "published": "2026-11-24T10:25:44+00:00",
-      "category": "Markt"
     },
     {
       "id": "1445b21885ac706c",
@@ -589,16 +579,6 @@
       "url": "https://itreseller.ch/Artikel/106670/Infinigate_ernennt_Tom_OReilly_zum_Chief_Transformation_Officer_.html",
       "published": "2026-11-24T08:21:51+00:00",
       "category": "Personen"
-    },
-    {
-      "id": "30c65606d5bc23f9",
-      "title": "Schwachstelle in Azure API Management (APIM) Classic führte zu Hacks - BornCity",
-      "excerpt": "Schwachstelle in Azure API Management (APIM) Classic führte zu Hacks BornCity",
-      "summary": "Schwachstelle in Azure API Management (APIM) Classic führte zu Hacks BornCity",
-      "source": "BornCity",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdzNnazdpN25hX3JwVng1MWs5dm8zeXZLeEZPOFBBOXM1Vm4wNGRSb3V1ZlkzdjdhdmpEU09PTE16VDJEaTlQZDdobV81WHhnUUxiTTRoRm5SbmpuSVVidWowUzROVFIwN1U1cjFPMThVNDJ0cG0wYnFZNVM2dE1CeHZ5M0UwRW0zSTlLN1JpYndIa214NXhKMW9EMktkUU9jSzhnRXBPWkI?oc=5",
-      "published": "2026-11-24T07:22:09+00:00",
-      "category": "Cloud"
     },
     {
       "id": "154a0622ab6b2b10",
@@ -691,6 +671,16 @@
       "category": "Personen"
     },
     {
+      "id": "d43ae9db9218dba5",
+      "title": "Carrie Francey übernimmt weltweites Partnergeschäft bei Netskope - Swiss IT Reseller",
+      "excerpt": "Carrie Francey übernimmt weltweites Partnergeschäft bei Netskope Swiss IT Reseller",
+      "summary": "Carrie Francey übernimmt weltweites Partnergeschäft bei Netskope Swiss IT Reseller",
+      "source": "IT Reseller / Personen",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbVNHYTVScVJ6R0NuWTc1ck51bzlucmpNdHNrRDU5NThQcUhLRmptNmNmTkRKVnhKa0RnX194ZENIZTVmT0xGRnVEcHpVMC1WWVdtQm5wakFnUFhnOHJ3THpFWklQaUZpMEF1TU1oREJ3NzNjb3ZmMVA4eDZkVUhQRzEwUHhOUHlBZi1ST0VnY1pRaHNLdmFfYjV2NF92ck13d19rOW14MWFuSmlZb0M3enVR?oc=5",
+      "published": "2026-11-12T07:12:00+00:00",
+      "category": "IT Schweiz"
+    },
+    {
       "id": "4e932eef5789a548",
       "title": "Stellvertretender CIO der Uni Zürich wechselt zu Switch - Netzwoche",
       "excerpt": "Stellvertretender CIO der Uni Zürich wechselt zu Switch Netzwoche",
@@ -739,19 +729,9 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80LW1TY1Y2Yms5cGc0Z1lCWmRYbDZzcVpURjZ6eHpibmtxUktzWVZscnJyQ1dEWGhCMWRoTDRSdnlrcGVoU3pkRUVwVTBPSTVHOWZ0QTdFeXJRZVdsY3c4eFE2SWNVeUd4OHNxUHowVDhlNHhxaTdZ?oc=5",
       "published": "2026-11-04T08:00:00+00:00",
       "category": "Personen"
-    },
-    {
-      "id": "0e806a208fb5be15",
-      "title": "Apple baut Standort Zürich für KI-Forschung aus - Swiss IT Reseller",
-      "excerpt": "Apple baut Standort Zürich für KI-Forschung aus Swiss IT Reseller",
-      "summary": "Apple baut Standort Zürich für KI-Forschung aus Swiss IT Reseller",
-      "source": "IT Reseller / Personen",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZG9YZVM1eVAtWWpXVnhJOGoxSkRUelBLVHRvbzh4T1dvRnFEOGhWRDZZeGlVQWRTc3FudHI1Q0N6MEY2WUdKNnUwakhvc1VGMGdyNnotQjROZW5ISkt5YU56TFc5RkptVmJfRGJscjN0aVNoRFVHWnozQXk0Y1pGeDB3SXhiZ3R0dTJ2bFBwVl9pRmVNVHJTU2paRQ?oc=5",
-      "published": "2026-10-29T07:00:00+00:00",
-      "category": "Trends"
     }
   ],
-  "updatedAt": "2026-11-28T01:27:31.984997+00:00",
+  "updatedAt": "2026-11-28T03:02:27.008362+00:00",
   "targets": {
     "Security": 10,
     "Microsoft 365": 10,
@@ -768,10 +748,10 @@
     "Microsoft 365": 10,
     "IT Schweiz": 10,
     "Cloud": 10,
-    "Trends": 5,
+    "Trends": 3,
     "Markt": 10,
     "Firmen": 10
   },
-  "warning": "Nicht genügend passende aktuelle Meldungen: 5 × Trends.",
+  "warning": "Nicht genügend passende aktuelle Meldungen: 7 × Trends.",
   "aiSummaries": false
 }
