@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "id": "f182dbb15f2db541",
+      "title": "Copilot in Microsoft 365: Dateien ändern sich ohne Dateiname oder Freigabe",
+      "excerpt": "Copilot in Microsoft 365: Dateien ändern sich ohne Dateiname oder Freigabe BornCity",
+      "summary": "Copilot in Microsoft 365: Dateien ändern sich ohne Dateiname oder Freigabe BornCity",
+      "source": "BornCity",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVEc5NUdhWEE5aG1xVHJpTW5FZnd5bDFzc21aTTNlQlpLY3ppdHJSQlZqZm5FMmlRbHN1RVhLN0hFTEQzcUdlQTRLc0NaYjNsWEdyVmEtWXJQb2VnRlhsWDFGZG9kUU5pOXp1WTI0SkE4WGVHT0RLeW1sdDJEVGV0U1U5aFV4b0ttcjV0TGdxRWN3OFFscktsa3VPbGVBWjkyeUlV?oc=5",
+      "published": "2026-11-28T14:53:05+00:00",
+      "category": "Microsoft 365"
+    },
+    {
+      "id": "956149cdde060b7b",
+      "title": "Firmenkultur bei Datastore: «Erfolg­reiche Teams haben unterschied­liche Denk­weisen» - IT Reseller",
+      "excerpt": "Firmenkultur bei Datastore: «Erfolg­reiche Teams haben unterschied­liche Denk­weisen» IT Reseller",
+      "summary": "Firmenkultur bei Datastore: «Erfolg­reiche Teams haben unterschied­liche Denk­weisen» IT Reseller",
+      "source": "IT Reseller / Personen",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdE9ETjJPZW5pQmRFMGNZQ3p3djdTU21NNnlFQXNCZ2o4ME9CTHRPWWNuQzRXa0Y3Q3lzTnhpRXRUYmVqMDcxRFBobTNiODN6NmVZTFZzVF9rb3NoQTVHUjlNUExEUmc1WmlvdXFaVk5NOGp1eGF2aGoyRF9sWEZuOXRjQ09VZ1BreHlZX0ZUM244MllWNnVIQ1lHZTdwUmV4QmZpZkxqWnIxa2NWSURnVVRYTjFBUG9MZnRkRFIxY0xxeWc?oc=5",
+      "published": "2026-11-28T14:15:28+00:00",
+      "category": "Microsoft 365"
+    },
+    {
       "id": "15aa224a7c4c60bd",
       "title": "Android-Entwickler müssen Adressen bekanntgeben - Swiss IT Magazine",
       "excerpt": "Android-Entwickler müssen Adressen bekanntgeben Swiss IT Magazine",
@@ -49,6 +69,16 @@
       "url": "https://heise.de/news/Developer-Haeppchen-Twig-sortiert-sprachgerecht-Qt-Creator-steuert-KI-Agenten-11538863.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "published": "2026-11-28T07:17:00+00:00",
       "category": "Cloud"
+    },
+    {
+      "id": "49b30161ddf273e2",
+      "title": "Outlook und GitHub: Nutzer melden erneut Login- und Nachrichtenprobleme - BornCity",
+      "excerpt": "Outlook und GitHub: Nutzer melden erneut Login- und Nachrichtenprobleme BornCity",
+      "summary": "Outlook und GitHub: Nutzer melden erneut Login- und Nachrichtenprobleme BornCity",
+      "source": "BornCity",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTkJCWXhDTzlITXZveWdxSUhXc2JZNEtGSTNHNVA1Y0NzZFM2WDNzSlhmVzhMYjN5NF9FZ2RYRjREeTBCaWkxQmhrOFFxMEhqNzBud29HODN2djFFVmNYWTBtQUN2bWNvTzhiVDlwUGVzNlQ0WVMtbEVRNUNsaWFUeUFGYzRpM1hmUWxJWUlVbVNhX2xqM2lwOEl0U2E?oc=5",
+      "published": "2026-11-28T05:19:05+00:00",
+      "category": "Microsoft 365"
     },
     {
       "id": "88ee8744ee51be3c",
@@ -301,6 +331,16 @@
       "category": "Firmen"
     },
     {
+      "id": "0fe7718adc21d1ee",
+      "title": "Kubernetes-Backups: Warum VM-Sicherungen für Container nicht ausreichen - it-daily.net",
+      "excerpt": "Kubernetes-Backups: Warum VM-Sicherungen für Container nicht ausreichen it-daily.net",
+      "summary": "Kubernetes-Backups: Warum VM-Sicherungen für Container nicht ausreichen it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUThGQVRXMzg5UTNlMWNjZVM1QlhPVzZFWjZIVXJmNUwwN0JjV3YtS1BSUExqUXkyS0o4VGxUQVZMWnFHdWp0MW1XZU4yWGNORXJESjJhb2FPRFR0TkxPcS1QbU9Xazhwb3ZiMERXMktVUExrelRseFZvT1dUUzd6WFdrUjNzbDZ1aTA0b0MzckZHQQ?oc=5",
+      "published": "2026-11-26T15:21:15+00:00",
+      "category": "Cloud"
+    },
+    {
       "id": "8487037040fec5a7",
       "title": "Update: Phishing-Welle folgt auf Outlook-Panne",
       "excerpt": "Nach mehr als 24 Stunden hat Microsoft die weltweite Störung seiner Cloud-Dienste behoben. Als Ursache nennt der Konzern ein technisches Problem im Zusammenhang mit Änderungen an seiner Netzwerkinfrastruktur. Nach dem Ausfall mehren sich nun die entsprechenden Phishing-Vorfälle.",
@@ -319,16 +359,6 @@
       "url": "https://netzwoche.ch/news/2026-11-26/basler-datenschutzbeauftragte-untersagt-vpn-auslagerung-an-us-amerikanischen",
       "published": "2026-11-26T13:44:33+00:00",
       "category": "Cloud"
-    },
-    {
-      "id": "a3dc7f09bc33a9d2",
-      "title": "Quanten-Startup Planqc kooperiert mit SAP - it-daily.net",
-      "excerpt": "Quanten-Startup Planqc kooperiert mit SAP it-daily.net",
-      "summary": "Quanten-Startup Planqc kooperiert mit SAP it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PbzJiNnQ3RDd4eTRjbWk5NE0xNHRndGhOdHBGTUozQVQxOVdvU2dOYU5keFdxOFFFUk93NEFPVlRIR2RERkgtYUFvdnJqNVBjbU9IamppNEEwWEpaU2xjckQ0Nmp2RHU1bnY1U1pR?oc=5",
-      "published": "2026-11-26T13:43:20+00:00",
-      "category": "Firmen"
     },
     {
       "id": "32be4e1f4926980f",
@@ -431,14 +461,14 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "fdbb796f7ca5666e",
-      "title": "Microsoft 365: Nach Großstörung ruft Microsoft intern „Code Red“ aus - ComputerBase",
-      "excerpt": "Microsoft 365: Nach Großstörung ruft Microsoft intern „Code Red“ aus ComputerBase",
-      "summary": "Microsoft 365: Nach Großstörung ruft Microsoft intern „Code Red“ aus ComputerBase",
-      "source": "ComputerBase",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdUhCWkdPVi1scWVodmNoVG1BeE9sVnBnSXlnZXVUTzVRUGVDVTM5aWpNSERwZVROdnBwZHppTE1XTFlNZnM2V1Zhcy00eTVSaW1OS2lhRnNSMmlBSVRPaWdLbUhTT2c2Rlh4Q183UlM4M2hXaWR2dTVwZVhzWGZJY0JkSC1tOWJXUnF6cko1a0lTeGd2bG9sczJOSTJwZkhPMUtHMGZBY3FXOUlCaGZkV3B0b3NUTGNqbFJmZUF2X1RVZ2NnOXNF?oc=5",
-      "published": "2026-11-25T16:36:00+00:00",
-      "category": "Microsoft 365"
+      "id": "0996c1e36c8a6f57",
+      "title": "Multi-Cloud-Backup: Was „Cloud-nativ“ eigentlich bedeutet - it-daily.net",
+      "excerpt": "Multi-Cloud-Backup: Was „Cloud-nativ“ eigentlich bedeutet it-daily.net",
+      "summary": "Multi-Cloud-Backup: Was „Cloud-nativ“ eigentlich bedeutet it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMUFIcXEzVFc1UnhxWDRZYUM1MVMwTDdyR2dCdUcxcXRDOW4xZG54ajBfelhFaE5CT3l5dFJFUlFQSVFzM3MxekxwcERDcUhRQmtyejVHVWE0RXNibHV2X1JSbDdFTGNSVVY0MHc1N2E3Y2dDUmRaWGxHbGMxVjRyMVFnLTNnZmJ6clFjdHpR?oc=5",
+      "published": "2026-11-25T14:59:30+00:00",
+      "category": "Cloud"
     },
     {
       "id": "feae072fb4e25241",
@@ -451,14 +481,14 @@
       "category": "Cloud"
     },
     {
-      "id": "4f4bfc16079cfc42",
-      "title": "Microsoft Teams in Citrix-VDI: SlimCore lagert Medienverarbeitung ans Endgerät aus - BornCity",
-      "excerpt": "Microsoft Teams in Citrix-VDI: SlimCore lagert Medienverarbeitung ans Endgerät aus BornCity",
-      "summary": "Microsoft Teams in Citrix-VDI: SlimCore lagert Medienverarbeitung ans Endgerät aus BornCity",
-      "source": "BornCity",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSDVEUVAtYmQ1d2JHNEFfaDhBZGxXZDdLdEZsOU9jZUU2OUNvZXFPWXYyWGJycXNRaUFscms3VHB3X292MzBNVTRQTFVpRFNTd2hqLS01YjNJVGNKbk04QThlakNieTdWZVBDRHFWd3kwYkp1SFVfdld4RFg5dF9wMUIteWZwbmp2N2ZRSWRoMEM1QmdFa3BNRkZGY3hKTDhFaEJoSjRZMldObHg4UlE?oc=5",
-      "published": "2026-11-25T12:04:05+00:00",
-      "category": "Microsoft 365"
+      "id": "81dc3eb05ef732dd",
+      "title": "«Höhle der Löwen»: Emmer IT-Firma knackt Millionen-Rekord – doch der Deal platzt",
+      "excerpt": "«Höhle der Löwen»: Emmer IT-Firma knackt Millionen-Rekord – doch der Deal platzt Urner Zeitung",
+      "summary": "«Höhle der Löwen»: Emmer IT-Firma knackt Millionen-Rekord – doch der Deal platzt Urner Zeitung",
+      "source": "Urner Zeitung",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaHZJLWpIdUR1cWRva2xzQkhxNU9wMjZpYzRpNGowWlkzOXJUd0tKSFBER0I5OXlBRU1PcGNVYW90ZlR6RkJKb3BBQ1FZekl3MkRIZVNNWjRMYTA3M0tzSWlxeXV4ekZCb2czeWFGSERGNkx1SmdPR3ozR0NjNExJTnFBOTBGcTJzU05zNUstUVEtZzFwbi1EMUNMT3NPQkUwRE1QdVZYLXl1SUk4S2Y0UTNUUFloR3BQTmEzMVJxaWMtNzlad2wxR0RnMFhqQUdM?oc=5",
+      "published": "2026-11-25T13:17:29+00:00",
+      "category": "Firmen"
     },
     {
       "id": "99aff6937c64b6f1",
@@ -489,16 +519,6 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWWFHM0M5X0N6b2MxTzdsdTFXS1BESTc4RjVzZmV3VDFPNFNlOXJkZWpXek1xa21jMWM1UWNyQUphLXUxRm5CNjNhYkZhbEhTV0dhTHFHcXMzTUp2Q2xxLWtTekhwWUlBcTgxTW1ZSk91RjAtZlZiOWJrMjJLN09Cc2xuVFNGbzA1QThQRThTZ2JMN3h4ZXlPeW5saXEwMFZhMVJ4T3VVWFN0U2Uy?oc=5",
       "published": "2026-11-25T09:45:34+00:00",
       "category": "Markt"
-    },
-    {
-      "id": "9f87c9abaa78df95",
-      "title": "Teams Rooms auf Android: HDMI-Inhalte erscheinen ab Januar auf zwei Displays",
-      "excerpt": "Teams Rooms auf Android: HDMI-Inhalte erscheinen ab Januar auf zwei Displays ad-hoc-news.de",
-      "summary": "Teams Rooms auf Android: HDMI-Inhalte erscheinen ab Januar auf zwei Displays ad-hoc-news.de",
-      "source": "ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ2o2aUFCdlk1SWd3OTRqNWVtZGRaLW9ieVNtSnB5c2lEbXhGUDB0YXFoeVVrLUxOWVBuOG1iWGZTYV9TOTZvY0ZMWTlXMWp4aVNSdG02dWx6ZGpPYU5ySU5SVWt1WGRUNHYtcXRDQXRETzQ4RktZU211N1FQbzNXNXY1SEd0WVQ1QmNHN3prbUhlbW1oYm9oOFRFWmJHNXlnNEFqSHc5dzk4OVIxR3FsVGxyUWwzb21ZREY1RHIzVDF0dw?oc=5",
-      "published": "2026-11-25T08:13:06+00:00",
-      "category": "Microsoft 365"
     },
     {
       "id": "1c1b4b8bd22241f7",
@@ -631,16 +651,6 @@
       "category": "Personen"
     },
     {
-      "id": "9b4971c080b66f67",
-      "title": "GL.iNet-Sicherheitsvorfall bei Cloud-Fernverwaltung – Schadsoftware auf Routern - BornCity",
-      "excerpt": "GL.iNet-Sicherheitsvorfall bei Cloud-Fernverwaltung – Schadsoftware auf Routern BornCity",
-      "summary": "GL.iNet-Sicherheitsvorfall bei Cloud-Fernverwaltung – Schadsoftware auf Routern BornCity",
-      "source": "BornCity",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMklBQUQ2SklqVWVJUEpmWDQ4clpyWWYwX3NoYXZZakRMWnVhSGNIT01SN3dVS3pXNE0taV9jM1k0clhmenVTei1oc2pJZXJkdU9XemgxNXV1aV96TkRzMk5kaGh0dVNrMlh5RDhQMERLV0Y5aGNpZUZyYWpoTDYxeDR1OXhHaHBlaUVueEJqODg2NjgyS3FQeEFEQkoyNWlHNTlnRVNhOEo3aU1EckhObGt0Vi1LQQ?oc=5",
-      "published": "2026-11-21T15:06:49+00:00",
-      "category": "Cloud"
-    },
-    {
       "id": "3befbe408d8a2146",
       "title": "Lausanne ernennt neuen IT-Chef - Inside IT",
       "excerpt": "Lausanne ernennt neuen IT-Chef Inside IT",
@@ -679,16 +689,6 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYTNaV2psOG1TVEVNV2w1bFBfYzgyWnUyZEdFVkdrTkI1dG81bnhTWWI2SmpJbHZMV3d1SVRwanNPRVJyeVNFQl9sY3FjVzdDb1FZTWZwVE5ZY0NBSl9tQ0dYcVlzTFh3T24xcE0wWHBtT1VtaU45SWNuenFvU2hRTXVlWlhkQmNFMS1SOW9peWFLcjNjRmF2YjNxM3VRZktudTVaZg?oc=5",
       "published": "2026-11-11T08:00:00+00:00",
       "category": "Firmen"
-    },
-    {
-      "id": "15058204067fbd98",
-      "title": "Stefan Bodenburg wird Channel-Chef DACH bei OVH Cloud - Swiss IT Reseller",
-      "excerpt": "Stefan Bodenburg wird Channel-Chef DACH bei OVH Cloud Swiss IT Reseller",
-      "summary": "Stefan Bodenburg wird Channel-Chef DACH bei OVH Cloud Swiss IT Reseller",
-      "source": "IT Reseller / Personen",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbmhqRFVxcnFZVmRySlJHOC1VazRRXzBSbnFka2J5VDBCalNNVXpEX3VNWUJpQ1FVVEVEb3dteWg0ZlVqNG5mQ1FtZlc1dl9IVUxxTWRTcG1lYVBQRlNScXpXNEZ2VHBFX3RrZTJQR2xsbXNpb3dRV2FiS3JjOGFaaWNyTWVoMjhWOUZ2dm1UZEk2OHVBOGNNcWcwdTlBYWFvZWc?oc=5",
-      "published": "2026-11-11T07:12:00+00:00",
-      "category": "Cloud"
     },
     {
       "id": "4e932eef5789a548",
@@ -741,7 +741,7 @@
       "category": "Personen"
     }
   ],
-  "updatedAt": "2026-11-28T14:14:03.793472+00:00",
+  "updatedAt": "2026-11-28T15:00:12.814785+00:00",
   "targets": {
     "Security": 10,
     "Microsoft 365": 10,
