@@ -12,10 +12,10 @@
     },
     {
       "id": "086c69922ed4a9de",
-      "title": "SOWARIS setzt auf Schweizer Cloud: Virtual Datacenter als IT-Fundament - Netzwoche",
+      "title": "SOWARIS setzt auf Schweizer Cloud: Virtual Datacenter als IT-Fundament",
       "excerpt": "SOWARIS setzt auf Schweizer Cloud: Virtual Datacenter als IT-Fundament Netzwoche",
       "summary": "SOWARIS setzt auf Schweizer Cloud: Virtual Datacenter als IT-Fundament Netzwoche",
-      "source": "Netzwoche / Firmen",
+      "source": "Netzwoche",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaS1iZkRaQVRDTHdWVnlpdkFjczhyYzF4RkVKM0FaVnpTUVBNNktWbF9HdWVnUVd2UTkxMUxYUjlVRmxHZFNWbDJ5YWYtWkg0aGNndzFrWVVMcl9leG9JMWZ3VzMxM0FzOXlTX0VSblIxRzhHNmk3aDctZ3p6bFhiVzJNalBORXNUTmloMktzT0hTUEdDRXFlN3hWeWlpbHpqanJUUzlMSV9KQW8wX3BZ?oc=5",
       "published": "2026-11-28T11:50:58+00:00",
       "category": "IT Schweiz"
@@ -51,16 +51,6 @@
       "category": "Cloud"
     },
     {
-      "id": "49b30161ddf273e2",
-      "title": "Outlook und GitHub: Nutzer melden erneut Login- und Nachrichtenprobleme - BornCity",
-      "excerpt": "Outlook und GitHub: Nutzer melden erneut Login- und Nachrichtenprobleme BornCity",
-      "summary": "Outlook und GitHub: Nutzer melden erneut Login- und Nachrichtenprobleme BornCity",
-      "source": "BornCity",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTkJCWXhDTzlITXZveWdxSUhXc2JZNEtGSTNHNVA1Y0NzZFM2WDNzSlhmVzhMYjN5NF9FZ2RYRjREeTBCaWkxQmhrOFFxMEhqNzBud29HODN2djFFVmNYWTBtQUN2bWNvTzhiVDlwUGVzNlQ0WVMtbEVRNUNsaWFUeUFGYzRpM1hmUWxJWUlVbVNhX2xqM2lwOEl0U2E?oc=5",
-      "published": "2026-11-28T05:19:05+00:00",
-      "category": "Microsoft 365"
-    },
-    {
       "id": "88ee8744ee51be3c",
       "title": "Top 10: Das beste Heizkörperthermostat im Test – ohne Cloud ab 30 Euro",
       "excerpt": "Smarte Heizkörperthermostate senken die Heizkosten und steigern den Komfort. Fast alle Modelle laufen ohne Cloud und sind zum Black Friday besonders günstig.",
@@ -69,6 +59,16 @@
       "url": "https://heise.de/bestenlisten/testsieger/top-10-das-beste-heizkoerperthermostat-im-test-ohne-cloud-ab-30-euro/1e43f3r?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "published": "2026-11-27T19:00:00+00:00",
       "category": "Cloud"
+    },
+    {
+      "id": "edd81281baf0435b",
+      "title": "Tor-Browser: Exploit enthüllt echte IP-Adresse per Klick - it-daily.net",
+      "excerpt": "Tor-Browser: Exploit enthüllt echte IP-Adresse per Klick it-daily.net",
+      "summary": "Tor-Browser: Exploit enthüllt echte IP-Adresse per Klick it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83X25rWTNvVEFnOWJyenZmWlJMNnpndkVLbGFLTVpZUjZuY04tLTRKUk1pM0ZReW5ZaHdhd0xxa2NibXFKQlo1d09TaXc2Z2lvcFc1Q2Z2bjBYOVdFOGVueHdZZ04yeUM2YnRjdHluX09PWE0?oc=5",
+      "published": "2026-11-27T18:13:44+00:00",
+      "category": "Security"
     },
     {
       "id": "72d70ed9f0c32708",
@@ -108,6 +108,16 @@
       "source": "Inside IT",
       "url": "https://inside-it.ch/zuercher-ki-startup-nextesy-bekommt-ueber-10-millionen-20261127",
       "published": "2026-11-27T14:17:40+00:00",
+      "category": "Firmen"
+    },
+    {
+      "id": "a1e85b1e22e4302e",
+      "title": "Shopware 6 Migration im Mittelstand: worauf Unternehmen bei der Wahl der Shopware Agentur achten sollten - it-daily.net",
+      "excerpt": "Shopware 6 Migration im Mittelstand: worauf Unternehmen bei der Wahl der Shopware Agentur achten sollten it-daily.net",
+      "summary": "Shopware 6 Migration im Mittelstand: worauf Unternehmen bei der Wahl der Shopware Agentur achten sollten it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYkFYUDZ4RkltLVB6ODNkUHZYNlBjWDgwTUZ4d1E5N2Fsa0syaEhqWFdaeEFFSTV3dEl2LTh6SFR0dXpxRS1tNVNRc2V3cHptYVNyVTNLWmc5TmlRNlhpclN3WXAyTXRPdWR3dU1TanJlRTV4YmEzTU9wbEtTZmdESGxMZVNfU0pBNEg2Zi1R?oc=5",
+      "published": "2026-11-27T14:14:03+00:00",
       "category": "Firmen"
     },
     {
@@ -171,14 +181,24 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "6fb48ca31c5b997c",
-      "title": "SAP soll Opfer eines Hackerangriffs geworden sein",
-      "excerpt": "Medienberichten zufolge wurde der Softwarekonzern SAP Opfer eines Hackerangriffs. Bereits vor einigen Tagen soll man verdächtige Aktivitäten festgestellt haben.",
-      "summary": "Medienberichten zufolge wurde der Softwarekonzern SAP Opfer eines Hackerangriffs. Bereits vor einigen Tagen soll man verdächtige Aktivitäten festgestellt haben.",
-      "source": "IT Reseller",
-      "url": "https://itreseller.ch/Artikel/106695/SAP_soll_Opfer_eines_Hackerangriffs_geworden_sein.html",
-      "published": "2026-11-27T09:00:38+00:00",
-      "category": "Security"
+      "id": "2bd0274bd8898870",
+      "title": "Schweiz: Erste bestätigte Cyberangriffe mit KI-Agenten - it-daily.net",
+      "excerpt": "Schweiz: Erste bestätigte Cyberangriffe mit KI-Agenten it-daily.net",
+      "summary": "Schweiz: Erste bestätigte Cyberangriffe mit KI-Agenten it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BMVpPWk91aHBJSDRaS2Zuck8wMWl4NWFGb3ktc3IxN1FzRkxwVjhZOHRLWjRJWDdvUHB0dFEwSkZoVl9XTU1CRjlTRi00cEw0QXo1YnlQdWVBajdTLXlTeVVIWld5bTMtVHBzRnZoYTAyZkZhSHJSZzQ1OA?oc=5",
+      "published": "2026-11-27T09:08:02+00:00",
+      "category": "IT Schweiz"
+    },
+    {
+      "id": "d4c179d8ac8ebbcd",
+      "title": "Datenchaos kostet Firmen ein Viertel des KI-Budgets - it-daily.net",
+      "excerpt": "Datenchaos kostet Firmen ein Viertel des KI-Budgets it-daily.net",
+      "summary": "Datenchaos kostet Firmen ein Viertel des KI-Budgets it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVbV9GZ2FhcnEwTzhkLVlFOUphaW1Dbm1TZS1nZHZrODZZQlQtaHhCRGxjRkhITmhlWmlMUnpvd1VJRl85ZC1WNHMxSkNLQ2lhc3JmRndzbXBEZDZrR01ZY0lsVmh1Y2MzN0ladUVPTQ?oc=5",
+      "published": "2026-11-27T08:26:03+00:00",
+      "category": "Firmen"
     },
     {
       "id": "1a9be17b0c0eac6d",
@@ -221,16 +241,6 @@
       "category": "IT Schweiz"
     },
     {
-      "id": "c394538bcc0ce146",
-      "title": "Check Point Gaia OS: Root-Lücke auf Firewalls aktiv ausgenutzt",
-      "excerpt": "Check Point Gaia OS: Root-Lücke auf Firewalls aktiv ausgenutzt Security-Insider",
-      "summary": "Check Point Gaia OS: Root-Lücke auf Firewalls aktiv ausgenutzt Security-Insider",
-      "source": "Security-Insider",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbkhJcnZhY2liS2g1YzZSRk9XazdVdDQ2SkJOV1ZUUzBvd1huV2V3VDlMcWFYS1VUUUI2dEVJdDZLa0ZELWFQR1ZtWWtlc3JuZk9PXzZzZkZXRzRkeDdMclpwSVJUYTltZE9aZW5zUnEtX0gyempEUUFTMkpzbm1CZUt1SklRTEI3VnFnM0RUWXpCNDBzUW5hZXdQZ3VVYmhKdWRINXYyVkloOVpIMGRFbTdxN2lyeHVIOUEzQXZoRQ?oc=5",
-      "published": "2026-11-27T06:00:00+00:00",
-      "category": "Security"
-    },
-    {
       "id": "e44265bf31f43c03",
       "title": "Microsoft-Patchday: 1.093 Schwachstellen geschlossen, 63 davon kritisch",
       "excerpt": "Microsoft-Patchday: 1.093 Schwachstellen geschlossen, 63 davon kritisch BornCity",
@@ -259,6 +269,16 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSnNCbVd6Y1JZWXQ0VkQwS2hsZ0M4VUM3MG5GUEZMemo2V25OYzJ4WkFEZ19vbFVWWG01ZEVFT2xsQW45VTVBUW5vRnF2RlZMWE5jMjBEcUY1SkhwZzFScUhEdWc2djl4VDBLbEV0UG5mX1J2U1hUS1dGYzBsRnhDa2pNcDlSWnZOVFNKSGFLTFc3eDJPZ3htcVBxQTluckJIVDNwUlhOZ09Ra3hwR3F2cGlaUXB4U05MV0E?oc=5",
       "published": "2026-11-27T04:23:27+00:00",
       "category": "Microsoft 365"
+    },
+    {
+      "id": "7a01e907063ffb90",
+      "title": "Betrug an Ransomware-Opfern: FBI stellt Doppelfalle",
+      "excerpt": "Ransomware-Opfer zahlten einer US-Firma Geld für Entschlüsselung von Daten. Stattdessen zahlte die Firma Lösegeld und behielt die Differenz, sagt die Anklage.",
+      "summary": "Ransomware-Opfer zahlten einer US-Firma Geld für Entschlüsselung von Daten. Stattdessen zahlte die Firma Lösegeld und behielt die Differenz, sagt die Anklage.",
+      "source": "heise Security",
+      "url": "https://heise.de/news/Betrug-an-Ransomware-Opfern-FBI-stellt-Doppelfalle-11539919.html",
+      "published": "2026-11-27T04:01:00+00:00",
+      "category": "Security"
     },
     {
       "id": "46fad86095fcbfd7",
@@ -301,6 +321,16 @@
       "category": "Cloud"
     },
     {
+      "id": "a3dc7f09bc33a9d2",
+      "title": "Quanten-Startup Planqc kooperiert mit SAP - it-daily.net",
+      "excerpt": "Quanten-Startup Planqc kooperiert mit SAP it-daily.net",
+      "summary": "Quanten-Startup Planqc kooperiert mit SAP it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PbzJiNnQ3RDd4eTRjbWk5NE0xNHRndGhOdHBGTUozQVQxOVdvU2dOYU5keFdxOFFFUk93NEFPVlRIR2RERkgtYUFvdnJqNVBjbU9IamppNEEwWEpaU2xjckQ0Nmp2RHU1bnY1U1pR?oc=5",
+      "published": "2026-11-26T13:43:20+00:00",
+      "category": "Firmen"
+    },
+    {
       "id": "32be4e1f4926980f",
       "title": "Warnung vor „erheblichen Folgen“: Erfolgreicher Cyberangriff auf die FIFA",
       "excerpt": "Bei der FIFA haben Cyberkriminelle persönliche und geschäftliche Daten abgegriffen. Der Verband wiegelt gleichzeitig ab und warnt.",
@@ -309,6 +339,16 @@
       "url": "https://heise.de/news/Warnung-vor-erheblichen-Folgen-Erfolgreicher-Cyberangriff-auf-die-FIFA-11539255.html",
       "published": "2026-11-26T13:33:00+00:00",
       "category": "Security"
+    },
+    {
+      "id": "974494a12f74fccd",
+      "title": "SAP: Spionagevorwürfe um Startup-Partner Conduct - it-daily.net",
+      "excerpt": "SAP: Spionagevorwürfe um Startup-Partner Conduct it-daily.net",
+      "summary": "SAP: Spionagevorwürfe um Startup-Partner Conduct it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RYUFEY0x5WFVUMVJnTDNwV2dDMzNldHpGV0ZuQjFqN3FLMmJCcC13bm8wNWlfSVlwai1jYmQxR2tiYk50MkpkTGlNQ0d2WGkxcDZScFpOMDY5M0ZCRkRSRm8yWXBqUmZQVFdVSWE3QWxJdw?oc=5",
+      "published": "2026-11-26T13:27:38+00:00",
+      "category": "Firmen"
     },
     {
       "id": "cc4438d80ff81dc6",
@@ -371,16 +411,6 @@
       "category": "Cloud"
     },
     {
-      "id": "ca66ae0a29aece42",
-      "title": "Konkurrenz für Palantir: Berliner Firma A11 startet KI-Software als europäische Alternative - t3n",
-      "excerpt": "Konkurrenz für Palantir: Berliner Firma A11 startet KI-Software als europäische Alternative t3n",
-      "summary": "Konkurrenz für Palantir: Berliner Firma A11 startet KI-Software als europäische Alternative t3n",
-      "source": "t3n",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOREJDNHdyaXU5TUtRd3FJOUU1U0VrS3hHUEhKSm1HNGt6VU1mWEx4RnYyRW9OQUxndEpxaVZ6dF8yaVpNQTJXc3FLRFdmOFpNZmdqaHhOTWdzMmdzaUJZVkRkbTN4NlZVM3Y2eklRUHZEeTNYcEVnd2Z1TmI5NEh0R3hHS1RTUkFRb1FrclliTjRrT0lqRDMwTF82OFV2c19QMEo5QTlUMl8yZU9jX3FiQlg1bFhJc0lHVU1KdjV3?oc=5",
-      "published": "2026-11-26T06:25:38+00:00",
-      "category": "Firmen"
-    },
-    {
       "id": "3f5d746a55af3138",
       "title": "Chrome Zero-Day: Exploit aktiv, Update 157.0.8103.50",
       "excerpt": "Chrome Zero-Day: Exploit aktiv, Update 157.0.8103.50 Security-Insider",
@@ -421,6 +451,16 @@
       "category": "Cloud"
     },
     {
+      "id": "4f4bfc16079cfc42",
+      "title": "Microsoft Teams in Citrix-VDI: SlimCore lagert Medienverarbeitung ans Endgerät aus - BornCity",
+      "excerpt": "Microsoft Teams in Citrix-VDI: SlimCore lagert Medienverarbeitung ans Endgerät aus BornCity",
+      "summary": "Microsoft Teams in Citrix-VDI: SlimCore lagert Medienverarbeitung ans Endgerät aus BornCity",
+      "source": "BornCity",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSDVEUVAtYmQ1d2JHNEFfaDhBZGxXZDdLdEZsOU9jZUU2OUNvZXFPWXYyWGJycXNRaUFscms3VHB3X292MzBNVTRQTFVpRFNTd2hqLS01YjNJVGNKbk04QThlakNieTdWZVBDRHFWd3kwYkp1SFVfdld4RFg5dF9wMUIteWZwbmp2N2ZRSWRoMEM1QmdFa3BNRkZGY3hKTDhFaEJoSjRZMldObHg4UlE?oc=5",
+      "published": "2026-11-25T12:04:05+00:00",
+      "category": "Microsoft 365"
+    },
+    {
       "id": "99aff6937c64b6f1",
       "title": "Schweizer Tech-Aktionäre atmen auf - IT-Markt",
       "excerpt": "Schweizer Tech-Aktionäre atmen auf IT-Markt",
@@ -429,16 +469,6 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMVRzUENRUnN5RGhuRnV1VkZxRU1fZVBOa0p0ZllYZXNRUGxsb0lIeTg2eDJyUE1WeGI5TmQ0ZmRINEg5V0ozc2JMbzZpUXJaT2g0di1WdXFPejI4bE42dUZxOGNTNm9pT0ItUVZuV1ZxdXZFeXhvamRvbVBWNVRYYQ?oc=5",
       "published": "2026-11-25T10:57:14+00:00",
       "category": "Markt"
-    },
-    {
-      "id": "23556ad83e71e4ca",
-      "title": "NAND-Flash-Preise dürften Anfang 2027 sinken",
-      "excerpt": "Die Vertragspreise für NAND-Flash dürften im Schlussquartal weniger stark steigen als noch im Oktober erwartet. Für Anfang 2027 zeichnet sich ein Preisrückgang ab, weil chinesische Cloud-Anbieter weniger SSDs bestellen als geplant.",
-      "summary": "Die Vertragspreise für NAND-Flash dürften im Schlussquartal weniger stark steigen als noch im Oktober erwartet. Für Anfang 2027 zeichnet sich ein Preisrückgang ab, weil chinesische Cloud-Anbieter weniger SSDs bestellen als geplant.",
-      "source": "IT Reseller",
-      "url": "https://itreseller.ch/Artikel/106679/NAND-Flash-Preise_duerften_Anfang_2027_sinken.html",
-      "published": "2026-11-25T10:52:08+00:00",
-      "category": "Cloud"
     },
     {
       "id": "5f25a9a52e1284c8",
@@ -459,16 +489,6 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWWFHM0M5X0N6b2MxTzdsdTFXS1BESTc4RjVzZmV3VDFPNFNlOXJkZWpXek1xa21jMWM1UWNyQUphLXUxRm5CNjNhYkZhbEhTV0dhTHFHcXMzTUp2Q2xxLWtTekhwWUlBcTgxTW1ZSk91RjAtZlZiOWJrMjJLN09Cc2xuVFNGbzA1QThQRThTZ2JMN3h4ZXlPeW5saXEwMFZhMVJ4T3VVWFN0U2Uy?oc=5",
       "published": "2026-11-25T09:45:34+00:00",
       "category": "Markt"
-    },
-    {
-      "id": "6d7bc041c4b0cf66",
-      "title": "KI-Start-up Assora lanciert Modell zur Vorhersage der Produktnachfrage - Netzwoche",
-      "excerpt": "KI-Start-up Assora lanciert Modell zur Vorhersage der Produktnachfrage Netzwoche",
-      "summary": "KI-Start-up Assora lanciert Modell zur Vorhersage der Produktnachfrage Netzwoche",
-      "source": "Netzwoche / Firmen",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTzdSYUNqSng2WkMtWDVaQVk1SUF0SmVZWFhETGh6TzVhWEdjYmQtRzZlU2ZoTll0aW9HWXc2bE5uQ1F1Mzdmb1dmRzNMZFJWQjljaTZHdndCbUloMF9kZ1NuazBQTlFYQ080UXhodWdOSVpCMzJfazl4RWFlLUxmTHdrVDkwWlFFSmozVHNHRWlwdnNFbGdyX1A3aDRpaVdUTWNnalhOVlF2TnFPbWZZSQ?oc=5",
-      "published": "2026-11-25T08:16:03+00:00",
-      "category": "Firmen"
     },
     {
       "id": "9f87c9abaa78df95",
@@ -519,16 +539,6 @@
       "url": "https://itreseller.ch/Artikel/106673/Nutanix-CEO_Rajiv_Ramaswami_kuendigt_Abschied_an.html",
       "published": "2026-11-25T06:28:56+00:00",
       "category": "Personen"
-    },
-    {
-      "id": "ba5e5231522f1f31",
-      "title": "GL.iNet GoodCloud: Hacker kapern Router über die Hersteller-Cloud - ComputerBase",
-      "excerpt": "GL.iNet GoodCloud: Hacker kapern Router über die Hersteller-Cloud ComputerBase",
-      "summary": "GL.iNet GoodCloud: Hacker kapern Router über die Hersteller-Cloud ComputerBase",
-      "source": "ComputerBase",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORmFwMWItQ3hTeUZxdDBvTi1EUnFWeUUxMUNMbG5WaGh0SUl1bFFkUEZpM0lYUDlnVXhDb1lWWHBuMVE5c3k0aEk0MkVYbzM0bHZjZEJhRHJReTZMVDl6elNOZElTdFJzdG9JNm5vd2I1RHBFNkRQVXJvM3hBMkFLUUo2VjRlMUd1eVNHbFJlVnZWYXppX2taMEVydjhJdTMzejdrS2lwMnhKd1JycjBNd1gtb3Vydw?oc=5",
-      "published": "2026-11-24T20:12:00+00:00",
-      "category": "Cloud"
     },
     {
       "id": "d4c5054960372259",
@@ -601,16 +611,6 @@
       "category": "Trends"
     },
     {
-      "id": "f03dbe3a49012f9e",
-      "title": "Crowdstrike übernimmt Zscaler für knapp 44 Milliarden - Inside IT",
-      "excerpt": "Crowdstrike übernimmt Zscaler für knapp 44 Milliarden Inside IT",
-      "summary": "Crowdstrike übernimmt Zscaler für knapp 44 Milliarden Inside IT",
-      "source": "Inside IT / Firmen",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdXl4RndDQ3B1ZVJoMUpPUUlkaDlUbUpuaWhBX25xRno0WkNKZWFCSFk4MXJGQkxSWjh0Q2c3aVZISzc1MkNWdUxIMEtxcW8zTWNYX1pTWUhUdktoSkJHSHpvRVAyc1pFSmExSjlIcXk2c1c4RUpmOVJlanlMMFd6cnRhM184VXIybHh2UE1yV2tvWFk?oc=5",
-      "published": "2026-11-23T13:17:00+00:00",
-      "category": "Firmen"
-    },
-    {
       "id": "7752aea542c6aa6e",
       "title": "Microsoft To Do wird zum 30. Juni 2027 eingestellt - BornCity",
       "excerpt": "Microsoft To Do wird zum 30. Juni 2027 eingestellt BornCity",
@@ -631,14 +631,24 @@
       "category": "Personen"
     },
     {
-      "id": "c93a1c8939720484",
-      "title": "Sven Schoenaerts übernimmt erweiterte Partnerrolle bei Nutanix - Swiss IT Reseller",
-      "excerpt": "Sven Schoenaerts übernimmt erweiterte Partnerrolle bei Nutanix Swiss IT Reseller",
-      "summary": "Sven Schoenaerts übernimmt erweiterte Partnerrolle bei Nutanix Swiss IT Reseller",
-      "source": "IT Reseller / Personen",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU1dhR2RNYVFyelhyYkxzUFRUMG1TampPS3BOMTBncXB3YVJVZTZ6cGEtdjg0ZVNTTFVkRXlTNzFRLWF0RzVVX2xyajhDcExKRUF2WG9SU29lMnR4bXBXeGtGdG9HR1dLSWhVZEhHdHJHa0RLYnhodVlvZXRNTHlhTEdPZjZFWFZ2SzcxWjhvczY2NlJ0YmhiMmZOaUhXMDgxVnlsd3N5ZWZPblBhb3c?oc=5",
-      "published": "2026-11-13T08:00:00+00:00",
-      "category": "IT Schweiz"
+      "id": "9b4971c080b66f67",
+      "title": "GL.iNet-Sicherheitsvorfall bei Cloud-Fernverwaltung – Schadsoftware auf Routern - BornCity",
+      "excerpt": "GL.iNet-Sicherheitsvorfall bei Cloud-Fernverwaltung – Schadsoftware auf Routern BornCity",
+      "summary": "GL.iNet-Sicherheitsvorfall bei Cloud-Fernverwaltung – Schadsoftware auf Routern BornCity",
+      "source": "BornCity",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMklBQUQ2SklqVWVJUEpmWDQ4clpyWWYwX3NoYXZZakRMWnVhSGNIT01SN3dVS3pXNE0taV9jM1k0clhmenVTei1oc2pJZXJkdU9XemgxNXV1aV96TkRzMk5kaGh0dVNrMlh5RDhQMERLV0Y5aGNpZUZyYWpoTDYxeDR1OXhHaHBlaUVueEJqODg2NjgyS3FQeEFEQkoyNWlHNTlnRVNhOEo3aU1EckhObGt0Vi1LQQ?oc=5",
+      "published": "2026-11-21T15:06:49+00:00",
+      "category": "Cloud"
+    },
+    {
+      "id": "3befbe408d8a2146",
+      "title": "Lausanne ernennt neuen IT-Chef - Inside IT",
+      "excerpt": "Lausanne ernennt neuen IT-Chef Inside IT",
+      "summary": "Lausanne ernennt neuen IT-Chef Inside IT",
+      "source": "Inside IT / Personen",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HakFTc0tLcWxwWGJqX2ZkMklwOW9TTnEyYkFSOU9nM1NWLXFXRGoteGdNNUFwNTU1UExVVTJmMUhuajdMYlc4TFhrVHdxNVpubVVGalVPVTJEUENidXpwZFpnV3ZSVi1oVDdqQ2FNZm14dw?oc=5",
+      "published": "2026-11-17T08:00:00+00:00",
+      "category": "Personen"
     },
     {
       "id": "9e6b5f5480a8185a",
@@ -669,6 +679,16 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYTNaV2psOG1TVEVNV2w1bFBfYzgyWnUyZEdFVkdrTkI1dG81bnhTWWI2SmpJbHZMV3d1SVRwanNPRVJyeVNFQl9sY3FjVzdDb1FZTWZwVE5ZY0NBSl9tQ0dYcVlzTFh3T24xcE0wWHBtT1VtaU45SWNuenFvU2hRTXVlWlhkQmNFMS1SOW9peWFLcjNjRmF2YjNxM3VRZktudTVaZg?oc=5",
       "published": "2026-11-11T08:00:00+00:00",
       "category": "Firmen"
+    },
+    {
+      "id": "15058204067fbd98",
+      "title": "Stefan Bodenburg wird Channel-Chef DACH bei OVH Cloud - Swiss IT Reseller",
+      "excerpt": "Stefan Bodenburg wird Channel-Chef DACH bei OVH Cloud Swiss IT Reseller",
+      "summary": "Stefan Bodenburg wird Channel-Chef DACH bei OVH Cloud Swiss IT Reseller",
+      "source": "IT Reseller / Personen",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbmhqRFVxcnFZVmRySlJHOC1VazRRXzBSbnFka2J5VDBCalNNVXpEX3VNWUJpQ1FVVEVEb3dteWg0ZlVqNG5mQ1FtZlc1dl9IVUxxTWRTcG1lYVBQRlNScXpXNEZ2VHBFX3RrZTJQR2xsbXNpb3dRV2FiS3JjOGFaaWNyTWVoMjhWOUZ2dm1UZEk2OHVBOGNNcWcwdTlBYWFvZWc?oc=5",
+      "published": "2026-11-11T07:12:00+00:00",
+      "category": "Cloud"
     },
     {
       "id": "4e932eef5789a548",
@@ -711,27 +731,17 @@
       "category": "Personen"
     },
     {
-      "id": "6d20940775b20ad8",
-      "title": "Genesys ernennt Daniel Karadza zum Leiter des Partnergeschäfts - Swiss IT Reseller",
-      "excerpt": "Genesys ernennt Daniel Karadza zum Leiter des Partnergeschäfts Swiss IT Reseller",
-      "summary": "Genesys ernennt Daniel Karadza zum Leiter des Partnergeschäfts Swiss IT Reseller",
-      "source": "IT Reseller / Personen",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaVpZTlg0RFV0T0FoYnpfUXlIaTdUemg5d1drTDVQdlUxLWZGa0FSbnVxWUp4dGdZTW1TSWJMSlVnaUtzRGJfUUZDZmJDc1BjaFUxNlFORHNYNXZmZk5PcmQ0dVZUbHRpWGxidG1LYTE2WXdXSk85YlZoV3JUTklEa1psQTVaYlNETDJDOWp3VTloazRNa05EeGxFWFliMGRaVmhPeW9aLVBYcHlnZWhN?oc=5",
-      "published": "2026-11-03T08:00:00+00:00",
+      "id": "e8ad53c88ad70043",
+      "title": "Emma Walmsley wird neue CEO von HP - Inside IT",
+      "excerpt": "Emma Walmsley wird neue CEO von HP Inside IT",
+      "summary": "Emma Walmsley wird neue CEO von HP Inside IT",
+      "source": "Inside IT / Personen",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80LW1TY1Y2Yms5cGc0Z1lCWmRYbDZzcVpURjZ6eHpibmtxUktzWVZscnJyQ1dEWGhCMWRoTDRSdnlrcGVoU3pkRUVwVTBPSTVHOWZ0QTdFeXJRZVdsY3c4eFE2SWNVeUd4OHNxUHowVDhlNHhxaTdZ?oc=5",
+      "published": "2026-11-04T08:00:00+00:00",
       "category": "Personen"
-    },
-    {
-      "id": "4c178d0c3dbcdee1",
-      "title": "Syncron baut Partnerschaft mit Conet aus - Swiss IT Reseller",
-      "excerpt": "Syncron baut Partnerschaft mit Conet aus Swiss IT Reseller",
-      "summary": "Syncron baut Partnerschaft mit Conet aus Swiss IT Reseller",
-      "source": "IT Reseller / Personen",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbVJvM2hIazJoQlNfdVdYRVR3ejIzOTY5c2JYdUdJZFFKanBmMnNtdF96eVVkREdZd2JWQkpUY282LVBJVU5PTmtrOW9lcmVIa3lTRVdvSnJzd0xaQzlfY2RzcThYVDRYWkoxUVA2RUxCcmZmUVU5d3Byd1k1d3I5czYwVWdCXzFsWmxfRlFtSQ?oc=5",
-      "published": "2026-10-30T07:00:00+00:00",
-      "category": "Firmen"
     }
   ],
-  "updatedAt": "2026-11-28T13:12:03.046340+00:00",
+  "updatedAt": "2026-11-28T14:14:03.793472+00:00",
   "targets": {
     "Security": 10,
     "Microsoft 365": 10,
@@ -743,7 +753,7 @@
     "Personen": 10
   },
   "counts": {
-    "Personen": 9,
+    "Personen": 10,
     "Security": 10,
     "Microsoft 365": 10,
     "IT Schweiz": 10,
@@ -752,6 +762,6 @@
     "Markt": 10,
     "Firmen": 10
   },
-  "warning": "Nicht genügend passende aktuelle Meldungen: 6 × Trends, 1 × Personen. 4 von 54 RSS-Quellen waren nicht erreichbar.",
+  "warning": "Nicht genügend passende aktuelle Meldungen: 6 × Trends.",
   "aiSummaries": false
 }
