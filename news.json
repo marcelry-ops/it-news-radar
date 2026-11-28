@@ -61,6 +61,16 @@
       "category": "Firmen"
     },
     {
+      "id": "a1e85b1e22e4302e",
+      "title": "Shopware 6 Migration im Mittelstand: worauf Unternehmen bei der Wahl der Shopware Agentur achten sollten - it-daily.net",
+      "excerpt": "Shopware 6 Migration im Mittelstand: worauf Unternehmen bei der Wahl der Shopware Agentur achten sollten it-daily.net",
+      "summary": "Shopware 6 Migration im Mittelstand: worauf Unternehmen bei der Wahl der Shopware Agentur achten sollten it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYkFYUDZ4RkltLVB6ODNkUHZYNlBjWDgwTUZ4d1E5N2Fsa0syaEhqWFdaeEFFSTV3dEl2LTh6SFR0dXpxRS1tNVNRc2V3cHptYVNyVTNLWmc5TmlRNlhpclN3WXAyTXRPdWR3dU1TanJlRTV4YmEzTU9wbEtTZmdESGxMZVNfU0pBNEg2Zi1R?oc=5",
+      "published": "2026-11-27T14:14:03+00:00",
+      "category": "Firmen"
+    },
+    {
       "id": "1d58fb4a7a34878e",
       "title": "1Password meldet Datenabfluss",
       "excerpt": "Hacker haben sich Zugang zu internen Systemen des Passwortmanagers 1Password verschafft und Kundendaten gestohlen. Darunter befinden sich Namen und E-Mail-Adressen, nicht aber die im Passwortmanager hinterlegten Passwörter.",
@@ -68,16 +78,6 @@
       "source": "Netzwoche",
       "url": "https://netzwoche.ch/news/2026-11-27/1password-meldet-datenabfluss",
       "published": "2026-11-27T10:49:07+00:00",
-      "category": "Security"
-    },
-    {
-      "id": "7a9bf814a246a634",
-      "title": "1Password meldet Datenabfluss - SwissCybersecurity.net",
-      "excerpt": "1Password meldet Datenabfluss SwissCybersecurity.net",
-      "summary": "1Password meldet Datenabfluss SwissCybersecurity.net",
-      "source": "Swiss Cybersecurity",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMUFwUnJQTGFjN2lVc0pCZDhPeDNuUWJ0V2JaZUVRVWhDeXBrSzg0Q1dveWs2UjUyTjZCQTRGbk9xT1pLMi1ZeUlxU0JNTnhNcXEzcFZrWlNlYnZ2SWpNbkRtTnl6cE5FeWhsNjVmai1CeURxelh1cDNMSEMtcldXc0pidTZncTg?oc=5",
-      "published": "2026-11-27T10:43:04+00:00",
       "category": "Security"
     },
     {
@@ -131,14 +131,14 @@
       "category": "Firmen"
     },
     {
-      "id": "be9e7c448c7efa2a",
-      "title": "Der Kanton Thurgau stellt Amtsblatt auf digital um - SWI swissinfo.ch",
-      "excerpt": "Der Kanton Thurgau stellt Amtsblatt auf digital um SWI swissinfo.ch",
-      "summary": "Der Kanton Thurgau stellt Amtsblatt auf digital um SWI swissinfo.ch",
-      "source": "SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWjRLbkwyMUUwYnlJN2JlNEU2bTB5WElCU0lCb0FfRXhnTGczZUkyQWdFRjJmWVQ0TmdKZW5YRTlWU1hXajR1RkFwR3k5cVE2LVQzUDd1c0RtM1ZMYjljUTBiZWNDMFd3bEljWWNENlJ0YWc0RVVTQ0NtRVY1TEx0MVlYV05VWUFBYjBzUTVTbTd1QQ?oc=5",
-      "published": "2026-11-27T07:54:26+00:00",
-      "category": "IT Schweiz"
+      "id": "1a9be17b0c0eac6d",
+      "title": "QommonsAI in Tatebayashi: 60 Verwaltungsbeschäftigte trainieren KI-Automatisierung - BornCity",
+      "excerpt": "QommonsAI in Tatebayashi: 60 Verwaltungsbeschäftigte trainieren KI-Automatisierung BornCity",
+      "summary": "QommonsAI in Tatebayashi: 60 Verwaltungsbeschäftigte trainieren KI-Automatisierung BornCity",
+      "source": "BornCity",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPODE3Mkc0UzhoUDJ1UmlLeXd0RUcya194SUJ0Wm5yNE0yNXJtMWZOVEVxWnFWYjgxcGRNVHFoMjE1OGt6c2J5elcwVVdjRlFIWTRaWXJmcWN3MkRveXMxdmlxS3hDcjh1WHhWWnFlSnlLSzZBaktiVUZlSjFJUHI3LXQ5ZzJLakZZSnFzUmdXX0JNWWJYSWpfZUNVNENfbE5qWjlIRmVPb0x4V0puX1E?oc=5",
+      "published": "2026-11-27T08:10:05+00:00",
+      "category": "Trends"
     },
     {
       "id": "88ca31b8af5d58e9",
@@ -147,6 +147,16 @@
       "summary": "Out-of-Band-Patch für Windows Server 2025 veröffentlicht Swiss IT Magazine",
       "source": "IT Magazine Schweiz",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR1VHcy1VQ1ZPdEtDdm1pZkU1MzRnUVdJQjhHSURGZnpGaWp1Q0ZVaG9hUTRUVVBLYUNHSERyZ1lBQnVVd2trQ2Q0cFgzTU5xaWdfWW42anNVTzlwQUF3QzZDaFplWFdOeEI0UU5SRXhuaWtuV1FJdTFMakE4Wkt1TnNPY0xhclE3b1duMzlaa2lNcC1KZ2JYa3ZGdE55emVScDlnSFVn?oc=5",
+      "published": "2026-11-27T07:12:00+00:00",
+      "category": "IT Schweiz"
+    },
+    {
+      "id": "7e68baa165b981cd",
+      "title": "SAP soll Opfer eines Hackerangriffs geworden sein - Swiss IT Magazine",
+      "excerpt": "SAP soll Opfer eines Hackerangriffs geworden sein Swiss IT Magazine",
+      "summary": "SAP soll Opfer eines Hackerangriffs geworden sein Swiss IT Magazine",
+      "source": "IT Magazine Schweiz",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOamZ4andLVGtNOVpsT3BpSEdOcnB1b3pMZkN3MUNQMmdvUHRLaHBydXhEdEwweFRQZzhkUDVmWTR2aTA3ZHV2S0Q1dHBwdlpyMWtXRVgwWlNjTmwxNi00M3VDcXRNZHBMZWpvaEhycVA3ZmJscjh0QnA3Yk1lWXo2YjlwNHZWY0tMXzF4RlFLcTNkVWRMejVEXzBR?oc=5",
       "published": "2026-11-27T07:12:00+00:00",
       "category": "IT Schweiz"
     },
@@ -161,6 +171,16 @@
       "category": "IT Schweiz"
     },
     {
+      "id": "527896617e7e1eeb",
+      "title": "Nachfrage nach OLED-Panels mit Sichtschutz soll kräftig steigen - IT Reseller",
+      "excerpt": "Nachfrage nach OLED-Panels mit Sichtschutz soll kräftig steigen IT Reseller",
+      "summary": "Nachfrage nach OLED-Panels mit Sichtschutz soll kräftig steigen IT Reseller",
+      "source": "IT Reseller / Firmen",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRWE0UERnOWxOMDZJTDBHMVVSODB3aE5wSkpENVY4LThlamVoZE1iRkpJQ0ZuYXJhSnBZOFdKWUFrdDlVOWZ4cl8yR2EtZ1ZmT3FXZnliTmF1clN6YjZBUVdHWUs4Mm1leC1DSTVXbjdwVHZWaVdIY3FSc01RWXZvV3RkZGdTbExBbzQ2eW9ZeDVOX0o2dEJvakM3VVZtMnVlZ05PQnFXUTBCczhVejd3?oc=5",
+      "published": "2026-11-27T07:12:00+00:00",
+      "category": "Markt"
+    },
+    {
       "id": "24fb92f64d3a3d87",
       "title": "Wohin 2026 Schweizer Cybersecurity-Budgets fliessen",
       "excerpt": "Wohin 2026 Schweizer Cybersecurity-Budgets fliessen IT-Markt",
@@ -169,6 +189,16 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZl81SDRBVnZTSXRrdURPal9mb1FJRzVzeUJweExTQkpCMUFpMm05VzBhUW5pNkNFUGlIQ25EdDM5emEwTUh0cXNvRWlXZURubUZwMmdXMU5VMGFtbzNkTno4T29HZjlwOFJXc3RIdThVNGpVdUpMOUMxRDRKUGl3emdNa1ZPdWNCbDQ2b3otRzNlMjU1bmc?oc=5",
       "published": "2026-11-27T07:00:00+00:00",
       "category": "IT Schweiz"
+    },
+    {
+      "id": "c394538bcc0ce146",
+      "title": "Check Point Gaia OS: Root-Lücke auf Firewalls aktiv ausgenutzt",
+      "excerpt": "Check Point Gaia OS: Root-Lücke auf Firewalls aktiv ausgenutzt Security-Insider",
+      "summary": "Check Point Gaia OS: Root-Lücke auf Firewalls aktiv ausgenutzt Security-Insider",
+      "source": "Security-Insider",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbkhJcnZhY2liS2g1YzZSRk9XazdVdDQ2SkJOV1ZUUzBvd1huV2V3VDlMcWFYS1VUUUI2dEVJdDZLa0ZELWFQR1ZtWWtlc3JuZk9PXzZzZkZXRzRkeDdMclpwSVJUYTltZE9aZW5zUnEtX0gyempEUUFTMkpzbm1CZUt1SklRTEI3VnFnM0RUWXpCNDBzUW5hZXdQZ3VVYmhKdWRINXYyVkloOVpIMGRFbTdxN2lyeHVIOUEzQXZoRQ?oc=5",
+      "published": "2026-11-27T06:00:00+00:00",
+      "category": "Security"
     },
     {
       "id": "e44265bf31f43c03",
@@ -301,16 +331,6 @@
       "category": "IT Schweiz"
     },
     {
-      "id": "54de5e845ace16a7",
-      "title": "Rechnung nicht verschlüsselt: Firma muss fast 20.000 Euro zahlen - it-daily.net",
-      "excerpt": "Rechnung nicht verschlüsselt: Firma muss fast 20.000 Euro zahlen it-daily.net",
-      "summary": "Rechnung nicht verschlüsselt: Firma muss fast 20.000 Euro zahlen it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RSmRseG5rSWJNZVluZWY1WGozb3Q0YXF3a3pRMkhZTTlRMnVpdHFPVlMtcmlPem5tcGd2YUxWV1Z2UlZaVTBNaE54ekFrRzhFQXg5VE1JbkNpZEh0SmpTVjZENzFZLVBDRlYwNkR2dzJNUQ?oc=5",
-      "published": "2026-11-26T11:31:48+00:00",
-      "category": "Firmen"
-    },
-    {
       "id": "50b3868b9687e2bc",
       "title": "Stadt Bern will digitaler werden",
       "excerpt": "Neben einer KI-Strategie und einem neuen Rahmen für die digitale Sicherheit plant die Stadt mit dem Bernportal eine zentrale Plattform für Verwaltungsdienstleistungen.",
@@ -351,13 +371,13 @@
       "category": "Security"
     },
     {
-      "id": "12ce9e5cc9330d01",
-      "title": "Bechtle integriert AWS und Microsoft Marketplaces in eigene Cloud-Plattform",
-      "excerpt": "Bechtle baut seine Position als Multi-Cloud-Provider aus und integriert den AWS Marketplace sowie den Microsoft Marketplace in die eigene Cloud-Plattform. Das schafft für Kunden einen zentralen Beschaffungskanal.",
-      "summary": "Bechtle baut seine Position als Multi-Cloud-Provider aus und integriert den AWS Marketplace sowie den Microsoft Marketplace in die eigene Cloud-Plattform. Das schafft für Kunden einen zentralen Beschaffungskanal.",
-      "source": "IT Reseller",
-      "url": "https://itreseller.ch/Artikel/106689/Bechtle_integriert_AWS_und_Microsoft_Marketplaces_in_eigene_Cloud-Plattform.html",
-      "published": "2026-11-26T07:58:24+00:00",
+      "id": "b369d55b5756f936",
+      "title": "Bechtle integriert AWS und Microsoft Marketplaces in eigene Cloud-Plattform - Swiss IT Reseller",
+      "excerpt": "Bechtle integriert AWS und Microsoft Marketplaces in eigene Cloud-Plattform Swiss IT Reseller",
+      "summary": "Bechtle integriert AWS und Microsoft Marketplaces in eigene Cloud-Plattform Swiss IT Reseller",
+      "source": "IT Reseller / Firmen",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMU8xbDhjZjFOZkJYWFA0QVRQYWpvSDdsYkVTS0dsQWRId2lmUTZ3eVA3Nnd5aTExWktTWHJVTmV2dmpXSUltU2EwMUVYcFVVYXRsc0d1eW5WWWl0akRZb0htenB1NnBMMkJwREFfMGR5Y0lBWkdnT2twQ2JQVmVFQXVtSWVVZTBsRWdkTzIxOUZRUFZ6UjE2bFozdDd5TDdwS0dWRG1XVDBRWVQ1VjV4UHF1MEhsYkN0TlBDTDNB?oc=5",
+      "published": "2026-11-26T07:12:00+00:00",
       "category": "Cloud"
     },
     {
@@ -501,14 +521,14 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "1c1b4b8bd22241f7",
-      "title": "Dell verdoppelt Umsatz dank starkem Servergeschäft",
-      "excerpt": "Dell hat im dritten Quartal mehr als doppelt so viel umgesetzt wie vor einem Jahr. Allein mit KI-Servern erzielte der Konzern 22 Milliarden Dollar und hebt seine Umsatzprognose für das Gesamtjahr erneut an.",
-      "summary": "Dell hat im dritten Quartal mehr als doppelt so viel umgesetzt wie vor einem Jahr. Allein mit KI-Servern erzielte der Konzern 22 Milliarden Dollar und hebt seine Umsatzprognose für das Gesamtjahr erneut an.",
-      "source": "IT Reseller",
-      "url": "https://itreseller.ch/Artikel/106676/Dell_verdoppelt_Umsatz_dank_starkem_Servergeschaeft.html",
-      "published": "2026-11-25T08:09:05+00:00",
-      "category": "Markt"
+      "id": "c93ca087eec342e4",
+      "title": "Nutanix-CEO Rajiv Ramaswami kündigt Abschied an - Swiss IT Reseller",
+      "excerpt": "Nutanix-CEO Rajiv Ramaswami kündigt Abschied an Swiss IT Reseller",
+      "summary": "Nutanix-CEO Rajiv Ramaswami kündigt Abschied an Swiss IT Reseller",
+      "source": "IT Reseller / Personen",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZE5OZjJCcnlMTHB3dWpIeTJKa2RQdnRHLWFTeXVVNEMtdl9KYTVmN3k3SDh2OEhUMF83dVM2ZTRQU251dUp4TExLOWFIMDVxTFF4SnFDeUp4TDJlVTFQUkRlcTRVRk1Ec0JJc3c5a2FxWEJRYXNtY3g5TEg5ZDk3XzdjZmRFS2VQd3RTRUZJdENaTUJvUkNqYkRn?oc=5",
+      "published": "2026-11-25T07:12:00+00:00",
+      "category": "Personen"
     },
     {
       "id": "77c7844d1aab7d36",
@@ -521,24 +541,14 @@
       "category": "Markt"
     },
     {
-      "id": "a806c25c45d6805c",
-      "title": "HP meldet mehr Umsatz und weniger Gewinn - IT Reseller",
-      "excerpt": "HP meldet mehr Umsatz und weniger Gewinn IT Reseller",
-      "summary": "HP meldet mehr Umsatz und weniger Gewinn IT Reseller",
+      "id": "d93660df9e147171",
+      "title": "Dell verdoppelt Umsatz dank starkem Servergeschäft - Swiss IT Reseller",
+      "excerpt": "Dell verdoppelt Umsatz dank starkem Servergeschäft Swiss IT Reseller",
+      "summary": "Dell verdoppelt Umsatz dank starkem Servergeschäft Swiss IT Reseller",
       "source": "IT Reseller / Firmen",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYXd3ZGFyX2ctN3R6cmUya1Q3ckpjWUZoeXpXd2U1bGQ1aTJTd05aTi1UR2lLWGNORU9FLTk1SXEwN3NQZEZDQzV4ZUJ5aW5jMmI5U1N3OS1IVUhmdnJhaktFNEVlZmxZWnBuZTA5dWJvLUVKay1sd1hXSnV3Yzk0aVplX3lBV0xZcXptN1NDTQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbTEzM3VGelprNEsxczgxc1F4T2lYcXlkVUtWMU5lcjZPeVZFbkpfTmlZUFhyT1Y4c0dxc2JEaVM3bjJ0UGNHWENqX2tEcG1mZFVHQ1hpMGQzcnBncDFwTlVURTVvOE5OQ1RMYkI5TkdwLVVnTm1iSGl3ZC0tSUxySV81WU1lemNvUEw2dDRseGZRYUhnVXN4T2Y5UDNTUQ?oc=5",
       "published": "2026-11-25T07:12:00+00:00",
       "category": "Markt"
-    },
-    {
-      "id": "0de11cb35c678b2e",
-      "title": "Nutanix-CEO Rajiv Ramaswami kündigt Abschied an",
-      "excerpt": "Nach fast sechs Jahren als CEO von Nutanix hat Rajiv Ramaswami seinen Abschied angekündigt. Er bleibt im Amt, bis ein Nachfolger gefunden ist, und soll Nutanix danach noch eine Zeit lang als Senior Advisor begleiten.",
-      "summary": "Nach fast sechs Jahren als CEO von Nutanix hat Rajiv Ramaswami seinen Abschied angekündigt. Er bleibt im Amt, bis ein Nachfolger gefunden ist, und soll Nutanix danach noch eine Zeit lang als Senior Advisor begleiten.",
-      "source": "IT Reseller",
-      "url": "https://itreseller.ch/Artikel/106673/Nutanix-CEO_Rajiv_Ramaswami_kuendigt_Abschied_an.html",
-      "published": "2026-11-25T06:28:56+00:00",
-      "category": "Personen"
     },
     {
       "id": "ba5e5231522f1f31",
@@ -571,13 +581,13 @@
       "category": "Cloud"
     },
     {
-      "id": "403ab82b316d0f70",
-      "title": "Infinigate ernennt Tom OReilly zum Chief Transformation Officer",
-      "excerpt": "Tom OReilly ist neuer Chief Transformation Officer bei Infinigate. Er soll sich vor allem auf den Ausbau und die Optimierung des Plattformgeschäftes konzentrieren.",
-      "summary": "Tom OReilly ist neuer Chief Transformation Officer bei Infinigate. Er soll sich vor allem auf den Ausbau und die Optimierung des Plattformgeschäftes konzentrieren.",
-      "source": "IT Reseller",
-      "url": "https://itreseller.ch/Artikel/106670/Infinigate_ernennt_Tom_OReilly_zum_Chief_Transformation_Officer_.html",
-      "published": "2026-11-24T08:21:51+00:00",
+      "id": "71de01c55c022bba",
+      "title": "Infinigate ernennt Tom O’Reilly zum Chief Transformation Officer - IT Reseller",
+      "excerpt": "Infinigate ernennt Tom O’Reilly zum Chief Transformation Officer IT Reseller",
+      "summary": "Infinigate ernennt Tom O’Reilly zum Chief Transformation Officer IT Reseller",
+      "source": "IT Reseller / Personen",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZV93SFU3WnBNVFlXdlJkWEJ1OG1PS1hpSUN1WVRsTUd0YUNDVHRBaDJzdmhrcnRRRnlHLXUtRTdTMll4SXNxcDU5bk5WZmtmMTFGYUt5aWVqTF8ydEFrTUJVaVJzWFd1WnE5NWFFaUhlOWg1UkxlS2lMWVN3emZMRDR3ZWU3Smh4cXRvZ0dLSW9GTUVUdGlBRVVwRDhxSTYtVWhLZTA2UmVFM0JQRmNF?oc=5",
+      "published": "2026-11-24T07:12:00+00:00",
       "category": "Personen"
     },
     {
@@ -731,7 +741,7 @@
       "category": "Personen"
     }
   ],
-  "updatedAt": "2026-11-28T03:02:27.008362+00:00",
+  "updatedAt": "2026-11-28T04:07:27.515670+00:00",
   "targets": {
     "Security": 10,
     "Microsoft 365": 10,
@@ -748,10 +758,10 @@
     "Microsoft 365": 10,
     "IT Schweiz": 10,
     "Cloud": 10,
-    "Trends": 3,
+    "Trends": 4,
     "Markt": 10,
     "Firmen": 10
   },
-  "warning": "Nicht genügend passende aktuelle Meldungen: 7 × Trends.",
+  "warning": "Nicht genügend passende aktuelle Meldungen: 6 × Trends. 1 von 54 RSS-Quellen waren nicht erreichbar.",
   "aiSummaries": false
 }
