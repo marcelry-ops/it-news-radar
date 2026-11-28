@@ -41,6 +41,16 @@
       "category": "Markt"
     },
     {
+      "id": "af3ad91dfc5cd1f2",
+      "title": "SAP goes KI: Opfer eines Cyberangriffs geworden; Abbau von 10.000 Stellen geplant - BornCity",
+      "excerpt": "SAP goes KI: Opfer eines Cyberangriffs geworden; Abbau von 10.000 Stellen geplant BornCity",
+      "summary": "SAP goes KI: Opfer eines Cyberangriffs geworden; Abbau von 10.000 Stellen geplant BornCity",
+      "source": "BornCity",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS2NVRXNJclFDOXgyX0Y0bmtuaTZjQWFlZ2x0QnowUWdfTWVqeGpaS3U5anpPekJ1d0FneXhYQmZLOUh6SG9GcHpYX0NrV01YekRxN09BNEpya1g1RWh5XzgzcFFVaGVEN2VkTVRjTkp2RC0zamE0RGxEYWJ2cFZCaEczR1ZadEczMmR4cW9SQVVCb3gtaHpWMTB6X3RkU2ROY2tpVkZPbXJjcUJhYXh3RlRTMUNJTEJ4?oc=5",
+      "published": "2026-11-27T14:50:35+00:00",
+      "category": "Security"
+    },
+    {
       "id": "2aea70dfa99ff5f2",
       "title": "Zürcher KI-Startup Nextesy bekommt über 10 Millionen",
       "excerpt": "Angeführt wird die Finanzierungsrunde von Swisscom Ventures. Nextesy will mit dem Kapital seine KI-Plattform weiterentwickeln und international expandieren.",
@@ -89,16 +99,6 @@
       "url": "https://netzwoche.ch/news/2026-11-27/microsoft-ruft-nach-m365-ausfall-code-red-aus",
       "published": "2026-11-27T10:13:35+00:00",
       "category": "Microsoft 365"
-    },
-    {
-      "id": "d856a7701faf73d7",
-      "title": "BSI schlägt Alarm: Durch KI droht eine \"Lawine neuer Cyberangriffe\"",
-      "excerpt": "Cyberangriffe werden durch KI-Frameworks immer günstiger und schneller ausführbar. Das BSI sieht eine massive Verschärfung der Cyberbedrohungslage. ( Cybercrime , KI )",
-      "summary": "Cyberangriffe werden durch KI-Frameworks immer günstiger und schneller ausführbar. Das BSI sieht eine massive Verschärfung der Cyberbedrohungslage. ( Cybercrime , KI )",
-      "source": "Golem.de",
-      "url": "https://golem.de/news/agentische-ki-bsi-chefin-warnt-vor-cyberangriffen-zum-schnaeppchenpreis-2611-215726.html",
-      "published": "2026-11-27T09:40:01+00:00",
-      "category": "Security"
     },
     {
       "id": "6eecfe604813df7b",
@@ -311,16 +311,6 @@
       "category": "IT Schweiz"
     },
     {
-      "id": "0803b42bc3f3860a",
-      "title": "News-Übersicht - Swiss IT Reseller",
-      "excerpt": "News-Übersicht Swiss IT Reseller",
-      "summary": "News-Übersicht Swiss IT Reseller",
-      "source": "IT Reseller / Firmen",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yTTBudFQ3cG1veURTR1REcFlscTJUSWJpSElDNzdOLWlhcXB0T0wzaDNzWDlRMTJTclk2THRTVVhPTTlHVEtSMHNDeDBWVlM1MDV3dms2RENEZw?oc=5",
-      "published": "2026-11-26T12:13:26+00:00",
-      "category": "IT Schweiz"
-    },
-    {
       "id": "54de5e845ace16a7",
       "title": "Rechnung nicht verschlüsselt: Firma muss fast 20.000 Euro zahlen - it-daily.net",
       "excerpt": "Rechnung nicht verschlüsselt: Firma muss fast 20.000 Euro zahlen it-daily.net",
@@ -369,6 +359,16 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT0dFTm1VS0V5YXFOSWtoX2JvZTkzWmxpTWpDeHhsNFpBRTFIOXZPX3VIM1phWHd5M3dJV3A0NDQxaWNXM093MnIwdmlmOURzdmM3cThrUEhsUmVoWm1IWkR2aTRabjJaa2lDUkV4WVpJbGVOanpDQnZ0enI1cWdxYzhSbVVQa3FjT2lHOXllTk44QXY5azFSMnQyLXo2RGFPWnU1Y1BEOXZTY2c2MEUxTUdrMEtPNjNjLWxBWmM1Q0h5MXc?oc=5",
       "published": "2026-11-26T08:59:18+00:00",
       "category": "Security"
+    },
+    {
+      "id": "3b124470fa991b83",
+      "title": "KI-Cyberangriffe in der Schweiz: NCSC warnt vor Risiken",
+      "excerpt": "KI-Cyberangriffe in der Schweiz: NCSC warnt vor Risiken All About SECURITY",
+      "summary": "KI-Cyberangriffe in der Schweiz: NCSC warnt vor Risiken All About SECURITY",
+      "source": "All About SECURITY",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ3k0enJtbUJydVBRN0FzaER4SFJZOC0tc2NqdXpkUGpHVVdtcGtmX0J3eWJ6WFlPNml3eWtmR3l6VGE1cTBPMTVndkVZM1Q5d2Zna3dVQzV3aWxra1N4RUI3YjVvcl9FZXRCY1FwdlJBUHhJTFFsMXNxdlA3MjZiS2gyTjZ3RllXVF9jdUxiVmU3YmhTLVRIcmkxRQ?oc=5",
+      "published": "2026-11-26T08:08:51+00:00",
+      "category": "IT Schweiz"
     },
     {
       "id": "12ce9e5cc9330d01",
@@ -739,9 +739,19 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80LW1TY1Y2Yms5cGc0Z1lCWmRYbDZzcVpURjZ6eHpibmtxUktzWVZscnJyQ1dEWGhCMWRoTDRSdnlrcGVoU3pkRUVwVTBPSTVHOWZ0QTdFeXJRZVdsY3c4eFE2SWNVeUd4OHNxUHowVDhlNHhxaTdZ?oc=5",
       "published": "2026-11-04T08:00:00+00:00",
       "category": "Personen"
+    },
+    {
+      "id": "0e806a208fb5be15",
+      "title": "Apple baut Standort Zürich für KI-Forschung aus - Swiss IT Reseller",
+      "excerpt": "Apple baut Standort Zürich für KI-Forschung aus Swiss IT Reseller",
+      "summary": "Apple baut Standort Zürich für KI-Forschung aus Swiss IT Reseller",
+      "source": "IT Reseller / Personen",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZG9YZVM1eVAtWWpXVnhJOGoxSkRUelBLVHRvbzh4T1dvRnFEOGhWRDZZeGlVQWRTc3FudHI1Q0N6MEY2WUdKNnUwakhvc1VGMGdyNnotQjROZW5ISkt5YU56TFc5RkptVmJfRGJscjN0aVNoRFVHWnozQXk0Y1pGeDB3SXhiZ3R0dTJ2bFBwVl9pRmVNVHJTU2paRQ?oc=5",
+      "published": "2026-10-29T07:00:00+00:00",
+      "category": "Trends"
     }
   ],
-  "updatedAt": "2026-11-27T23:07:27.017506+00:00",
+  "updatedAt": "2026-11-27T23:59:33.675472+00:00",
   "targets": {
     "Security": 10,
     "Microsoft 365": 10,
@@ -758,10 +768,10 @@
     "Microsoft 365": 10,
     "IT Schweiz": 10,
     "Cloud": 10,
-    "Trends": 4,
+    "Trends": 5,
     "Markt": 10,
     "Firmen": 10
   },
-  "warning": "Nicht genügend passende aktuelle Meldungen: 6 × Trends.",
+  "warning": "Nicht genügend passende aktuelle Meldungen: 5 × Trends.",
   "aiSummaries": false
 }
