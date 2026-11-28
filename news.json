@@ -561,6 +561,16 @@
       "category": "Microsoft 365"
     },
     {
+      "id": "d4c5054960372259",
+      "title": "Messenger soll Ricardo-Kunden vor Phishing schützen - IT-Markt",
+      "excerpt": "Messenger soll Ricardo-Kunden vor Phishing schützen IT-Markt",
+      "summary": "Messenger soll Ricardo-Kunden vor Phishing schützen IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVC1mckhNUDZ2eDVBMUpqcjdMTWVuQmIwYlhVY2djQV9tcndzekJHQklPS3N5YzJ2VzhaNndDd3UwbUFJWk9QM2Z0bFl6Q1JGVUF3RUFxNU1NN3phQjQ3N3NySHpQRjRHVXZEYk5HSUo1dGNGOFNWRXozSXRXR0lRM2V5dW5Ed0VaTFhCZm82OFAyTnBVM2Uw?oc=5",
+      "published": "2026-11-24T10:25:44+00:00",
+      "category": "Markt"
+    },
+    {
       "id": "1445b21885ac706c",
       "title": "Microsoft schliesst Sicherheitslücke in Azure API Management - SwissCybersecurity.net",
       "excerpt": "Microsoft schliesst Sicherheitslücke in Azure API Management SwissCybersecurity.net",
@@ -589,16 +599,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdzNnazdpN25hX3JwVng1MWs5dm8zeXZLeEZPOFBBOXM1Vm4wNGRSb3V1ZlkzdjdhdmpEU09PTE16VDJEaTlQZDdobV81WHhnUUxiTTRoRm5SbmpuSVVidWowUzROVFIwN1U1cjFPMThVNDJ0cG0wYnFZNVM2dE1CeHZ5M0UwRW0zSTlLN1JpYndIa214NXhKMW9EMktkUU9jSzhnRXBPWkI?oc=5",
       "published": "2026-11-24T07:22:09+00:00",
       "category": "Cloud"
-    },
-    {
-      "id": "8ee5b0e43a1899ff",
-      "title": "HPE steigert Umsatz um 50 Prozent - IT Reseller",
-      "excerpt": "HPE steigert Umsatz um 50 Prozent IT Reseller",
-      "summary": "HPE steigert Umsatz um 50 Prozent IT Reseller",
-      "source": "IT Reseller / Firmen",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNM3BRaXVRQkhrVHJLRmQ2SEtHa2M5bmV4ZHY2cVBKa0xUM1Nrc3h6SXYwR0VnbU5kdnNIemlOc2w4S2h0bXZDMS1UUlUzV3lxV3UzZWk2OVlCQm5zT3VKX3E1NFFXN292cHltZ3pIdXp3Y2pKam5tbFZzTWJwUENELUNYSGhKdw?oc=5",
-      "published": "2026-11-24T07:12:00+00:00",
-      "category": "Markt"
     },
     {
       "id": "154a0622ab6b2b10",
@@ -751,7 +751,7 @@
       "category": "Trends"
     }
   ],
-  "updatedAt": "2026-11-27T23:59:33.675472+00:00",
+  "updatedAt": "2026-11-28T01:27:31.984997+00:00",
   "targets": {
     "Security": 10,
     "Microsoft 365": 10,
