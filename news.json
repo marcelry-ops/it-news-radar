@@ -81,6 +81,16 @@
       "category": "Microsoft 365"
     },
     {
+      "id": "39a63cdbe7bda4bf",
+      "title": "GTA 6 kommt ohne generative KI – und das dürfte anderen Branchen zu denken geben - t3n",
+      "excerpt": "GTA 6 kommt ohne generative KI – und das dürfte anderen Branchen zu denken geben t3n",
+      "summary": "GTA 6 kommt ohne generative KI – und das dürfte anderen Branchen zu denken geben t3n",
+      "source": "t3n",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNWpGVTBaX2lDM0ZsOThFeTE0dE9WZVNMSGVNX1RuMUpfM2EwSER4M3VvOWF5cnJ5ckZpUGNfWnVqS25uQXRNZEkzdkxpaXFQenMtZWRmcFB3TEpYYmxZN2VPWU5SLXpwREZvTG1JSFg2cFdaWTBDbDdJYWJXM3RJYXpfOHdsRXdnX2RCQUZ5aHdmR3p5NjRZblZodnoyV3k0S01mb2hJNHBaZHBickRzR3BabEc1VklpQjAteFJYZTU0ZzF0bUpIU2MyRGZDNFlWNDgzTzln?oc=5",
+      "published": "2026-11-28T05:15:00+00:00",
+      "category": "Trends"
+    },
+    {
       "id": "88ee8744ee51be3c",
       "title": "Top 10: Das beste Heizkörperthermostat im Test – ohne Cloud ab 30 Euro",
       "excerpt": "Smarte Heizkörperthermostate senken die Heizkosten und steigern den Komfort. Fast alle Modelle laufen ohne Cloud und sind zum Black Friday besonders günstig.",
@@ -311,16 +321,6 @@
       "category": "Security"
     },
     {
-      "id": "46fad86095fcbfd7",
-      "title": "„Halluzination“ statt Fehler: So funktioniert das Glosslighting der KI-Firmen - T3N",
-      "excerpt": "„Halluzination“ statt Fehler: So funktioniert das Glosslighting der KI-Firmen T3N",
-      "summary": "„Halluzination“ statt Fehler: So funktioniert das Glosslighting der KI-Firmen T3N",
-      "source": "t3n",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5abGNZWWFVRVJQeW5LcUQ5VUdpd2M0REQzYmc5SW5EemlnSk1KNS1oc1d3U09zRDRiNEdZZm1GMzEyT1FUakR6eUV2NWc1UXoyeG9KdEh0R3VEM0V6aEgwYmhtQXdLTlM5aFBXdldwZk9BVnNXaEE?oc=5",
-      "published": "2026-11-26T18:04:07+00:00",
-      "category": "Firmen"
-    },
-    {
       "id": "ec17847af3a84266",
       "title": "KI-Startup Surelio sammelt eine Million",
       "excerpt": "Das Lausanner Unternehmen will die Mittel für den Ausbau seiner Aktivitäten in der Schweiz und Portugal sowie für technische Weiterentwicklungen einsetzen.",
@@ -329,16 +329,6 @@
       "url": "https://inside-it.ch/ki-startup-surelio-sammelt-eine-million-20261126",
       "published": "2026-11-26T15:51:29+00:00",
       "category": "Firmen"
-    },
-    {
-      "id": "0fe7718adc21d1ee",
-      "title": "Kubernetes-Backups: Warum VM-Sicherungen für Container nicht ausreichen - it-daily.net",
-      "excerpt": "Kubernetes-Backups: Warum VM-Sicherungen für Container nicht ausreichen it-daily.net",
-      "summary": "Kubernetes-Backups: Warum VM-Sicherungen für Container nicht ausreichen it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUThGQVRXMzg5UTNlMWNjZVM1QlhPVzZFWjZIVXJmNUwwN0JjV3YtS1BSUExqUXkyS0o4VGxUQVZMWnFHdWp0MW1XZU4yWGNORXJESjJhb2FPRFR0TkxPcS1QbU9Xazhwb3ZiMERXMktVUExrelRseFZvT1dUUzd6WFdrUjNzbDZ1aTA0b0MzckZHQQ?oc=5",
-      "published": "2026-11-26T15:21:15+00:00",
-      "category": "Cloud"
     },
     {
       "id": "8487037040fec5a7",
@@ -359,6 +349,16 @@
       "url": "https://netzwoche.ch/news/2026-11-26/basler-datenschutzbeauftragte-untersagt-vpn-auslagerung-an-us-amerikanischen",
       "published": "2026-11-26T13:44:33+00:00",
       "category": "Cloud"
+    },
+    {
+      "id": "a3dc7f09bc33a9d2",
+      "title": "Quanten-Startup Planqc kooperiert mit SAP - it-daily.net",
+      "excerpt": "Quanten-Startup Planqc kooperiert mit SAP it-daily.net",
+      "summary": "Quanten-Startup Planqc kooperiert mit SAP it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PbzJiNnQ3RDd4eTRjbWk5NE0xNHRndGhOdHBGTUozQVQxOVdvU2dOYU5keFdxOFFFUk93NEFPVlRIR2RERkgtYUFvdnJqNVBjbU9IamppNEEwWEpaU2xjckQ0Nmp2RHU1bnY1U1pR?oc=5",
+      "published": "2026-11-26T13:43:20+00:00",
+      "category": "Firmen"
     },
     {
       "id": "32be4e1f4926980f",
@@ -461,16 +461,6 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "0996c1e36c8a6f57",
-      "title": "Multi-Cloud-Backup: Was „Cloud-nativ“ eigentlich bedeutet - it-daily.net",
-      "excerpt": "Multi-Cloud-Backup: Was „Cloud-nativ“ eigentlich bedeutet it-daily.net",
-      "summary": "Multi-Cloud-Backup: Was „Cloud-nativ“ eigentlich bedeutet it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMUFIcXEzVFc1UnhxWDRZYUM1MVMwTDdyR2dCdUcxcXRDOW4xZG54ajBfelhFaE5CT3l5dFJFUlFQSVFzM3MxekxwcERDcUhRQmtyejVHVWE0RXNibHV2X1JSbDdFTGNSVVY0MHc1N2E3Y2dDUmRaWGxHbGMxVjRyMVFnLTNnZmJ6clFjdHpR?oc=5",
-      "published": "2026-11-25T14:59:30+00:00",
-      "category": "Cloud"
-    },
-    {
       "id": "feae072fb4e25241",
       "title": "Basler Datenschutzbeauftragte verhindert Datenauslagerung",
       "excerpt": "VPN und Web Proxy sollten von einem US-Cloud-Anbieter übernommen werden.",
@@ -501,6 +491,16 @@
       "category": "Markt"
     },
     {
+      "id": "23556ad83e71e4ca",
+      "title": "NAND-Flash-Preise dürften Anfang 2027 sinken",
+      "excerpt": "Die Vertragspreise für NAND-Flash dürften im Schlussquartal weniger stark steigen als noch im Oktober erwartet. Für Anfang 2027 zeichnet sich ein Preisrückgang ab, weil chinesische Cloud-Anbieter weniger SSDs bestellen als geplant.",
+      "summary": "Die Vertragspreise für NAND-Flash dürften im Schlussquartal weniger stark steigen als noch im Oktober erwartet. Für Anfang 2027 zeichnet sich ein Preisrückgang ab, weil chinesische Cloud-Anbieter weniger SSDs bestellen als geplant.",
+      "source": "IT Reseller",
+      "url": "https://itreseller.ch/Artikel/106679/NAND-Flash-Preise_duerften_Anfang_2027_sinken.html",
+      "published": "2026-11-25T10:52:08+00:00",
+      "category": "Cloud"
+    },
+    {
       "id": "5f25a9a52e1284c8",
       "title": "Cyberangriffe mit KI-Agenten erreichen die Schweiz - IT-Markt",
       "excerpt": "Cyberangriffe mit KI-Agenten erreichen die Schweiz IT-Markt",
@@ -519,6 +519,16 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWWFHM0M5X0N6b2MxTzdsdTFXS1BESTc4RjVzZmV3VDFPNFNlOXJkZWpXek1xa21jMWM1UWNyQUphLXUxRm5CNjNhYkZhbEhTV0dhTHFHcXMzTUp2Q2xxLWtTekhwWUlBcTgxTW1ZSk91RjAtZlZiOWJrMjJLN09Cc2xuVFNGbzA1QThQRThTZ2JMN3h4ZXlPeW5saXEwMFZhMVJ4T3VVWFN0U2Uy?oc=5",
       "published": "2026-11-25T09:45:34+00:00",
       "category": "Markt"
+    },
+    {
+      "id": "6d7bc041c4b0cf66",
+      "title": "KI-Start-up Assora lanciert Modell zur Vorhersage der Produktnachfrage - Netzwoche",
+      "excerpt": "KI-Start-up Assora lanciert Modell zur Vorhersage der Produktnachfrage Netzwoche",
+      "summary": "KI-Start-up Assora lanciert Modell zur Vorhersage der Produktnachfrage Netzwoche",
+      "source": "Netzwoche / Firmen",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTzdSYUNqSng2WkMtWDVaQVk1SUF0SmVZWFhETGh6TzVhWEdjYmQtRzZlU2ZoTll0aW9HWXc2bE5uQ1F1Mzdmb1dmRzNMZFJWQjljaTZHdndCbUloMF9kZ1NuazBQTlFYQ080UXhodWdOSVpCMzJfazl4RWFlLUxmTHdrVDkwWlFFSmozVHNHRWlwdnNFbGdyX1A3aDRpaVdUTWNnalhOVlF2TnFPbWZZSQ?oc=5",
+      "published": "2026-11-25T08:16:03+00:00",
+      "category": "Firmen"
     },
     {
       "id": "1c1b4b8bd22241f7",
@@ -681,6 +691,16 @@
       "category": "Firmen"
     },
     {
+      "id": "15058204067fbd98",
+      "title": "Stefan Bodenburg wird Channel-Chef DACH bei OVH Cloud - Swiss IT Reseller",
+      "excerpt": "Stefan Bodenburg wird Channel-Chef DACH bei OVH Cloud Swiss IT Reseller",
+      "summary": "Stefan Bodenburg wird Channel-Chef DACH bei OVH Cloud Swiss IT Reseller",
+      "source": "IT Reseller / Personen",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbmhqRFVxcnFZVmRySlJHOC1VazRRXzBSbnFka2J5VDBCalNNVXpEX3VNWUJpQ1FVVEVEb3dteWg0ZlVqNG5mQ1FtZlc1dl9IVUxxTWRTcG1lYVBQRlNScXpXNEZ2VHBFX3RrZTJQR2xsbXNpb3dRV2FiS3JjOGFaaWNyTWVoMjhWOUZ2dm1UZEk2OHVBOGNNcWcwdTlBYWFvZWc?oc=5",
+      "published": "2026-11-11T07:12:00+00:00",
+      "category": "Cloud"
+    },
+    {
       "id": "4e932eef5789a548",
       "title": "Stellvertretender CIO der Uni Zürich wechselt zu Switch - Netzwoche",
       "excerpt": "Stellvertretender CIO der Uni Zürich wechselt zu Switch Netzwoche",
@@ -729,19 +749,9 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80LW1TY1Y2Yms5cGc0Z1lCWmRYbDZzcVpURjZ6eHpibmtxUktzWVZscnJyQ1dEWGhCMWRoTDRSdnlrcGVoU3pkRUVwVTBPSTVHOWZ0QTdFeXJRZVdsY3c4eFE2SWNVeUd4OHNxUHowVDhlNHhxaTdZ?oc=5",
       "published": "2026-11-04T08:00:00+00:00",
       "category": "Personen"
-    },
-    {
-      "id": "4c178d0c3dbcdee1",
-      "title": "Syncron baut Partnerschaft mit Conet aus - Swiss IT Reseller",
-      "excerpt": "Syncron baut Partnerschaft mit Conet aus Swiss IT Reseller",
-      "summary": "Syncron baut Partnerschaft mit Conet aus Swiss IT Reseller",
-      "source": "IT Reseller / Personen",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbVJvM2hIazJoQlNfdVdYRVR3ejIzOTY5c2JYdUdJZFFKanBmMnNtdF96eVVkREdZd2JWQkpUY282LVBJVU5PTmtrOW9lcmVIa3lTRVdvSnJzd0xaQzlfY2RzcThYVDRYWkoxUVA2RUxCcmZmUVU5d3Byd1k1d3I5czYwVWdCXzFsWmxfRlFtSQ?oc=5",
-      "published": "2026-10-30T07:00:00+00:00",
-      "category": "Firmen"
     }
   ],
-  "updatedAt": "2026-11-28T16:58:57.386578+00:00",
+  "updatedAt": "2026-11-28T17:55:00.902442+00:00",
   "targets": {
     "Security": 10,
     "Microsoft 365": 10,
@@ -758,10 +768,10 @@
     "Microsoft 365": 10,
     "IT Schweiz": 10,
     "Cloud": 10,
-    "Trends": 4,
+    "Trends": 5,
     "Markt": 10,
     "Firmen": 10
   },
-  "warning": "Nicht genügend passende aktuelle Meldungen: 6 × Trends.",
+  "warning": "Nicht genügend passende aktuelle Meldungen: 5 × Trends.",
   "aiSummaries": false
 }
