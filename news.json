@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "id": "23e91484cd69d377",
+      "title": "Developer-Häppchen: Twig sortiert sprachgerecht, Qt Creator steuert KI-Agenten",
+      "excerpt": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu MantisBT, Fastbelt, Twig, Qt Creator, W3C, IPFire, Kubernetes, Vim Classic und Kotlin.",
+      "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu MantisBT, Fastbelt, Twig, Qt Creator, W3C, IPFire, Kubernetes, Vim Classic und Kotlin.",
+      "source": "heise online",
+      "url": "https://heise.de/news/Developer-Haeppchen-Twig-sortiert-sprachgerecht-Qt-Creator-steuert-KI-Agenten-11538863.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published": "2026-11-28T07:17:00+00:00",
+      "category": "Cloud"
+    },
+    {
+      "id": "15aa224a7c4c60bd",
+      "title": "Android-Entwickler müssen Adressen bekanntgeben - Swiss IT Magazine",
+      "excerpt": "Android-Entwickler müssen Adressen bekanntgeben Swiss IT Magazine",
+      "summary": "Android-Entwickler müssen Adressen bekanntgeben Swiss IT Magazine",
+      "source": "IT Magazine Schweiz",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa1UyRGlnNy1GdmFaY08tems5cmJpUFNvZ1BhYldtRExUQlNHOVVITjhWeDlUMjZwX3ktaWFrdVBIRnhBclA3MmtZaDE3U0pKTEp5UFBIQjlzUW02UFR4T1lhYVNLUHBtdlhGUFI0RzNobnFsNjREN3BENHhoZ3o3X19jSGJJU05LeG51bi1fU1JseVptYW9kTg?oc=5",
+      "published": "2026-11-28T07:01:12+00:00",
+      "category": "IT Schweiz"
+    },
+    {
       "id": "49b30161ddf273e2",
       "title": "Outlook und GitHub: Nutzer melden erneut Login- und Nachrichtenprobleme - BornCity",
       "excerpt": "Outlook und GitHub: Nutzer melden erneut Login- und Nachrichtenprobleme BornCity",
@@ -11,6 +31,16 @@
       "category": "Microsoft 365"
     },
     {
+      "id": "39a63cdbe7bda4bf",
+      "title": "GTA 6 kommt ohne generative KI – und das dürfte anderen Branchen zu denken geben - t3n",
+      "excerpt": "GTA 6 kommt ohne generative KI – und das dürfte anderen Branchen zu denken geben t3n",
+      "summary": "GTA 6 kommt ohne generative KI – und das dürfte anderen Branchen zu denken geben t3n",
+      "source": "t3n",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNWpGVTBaX2lDM0ZsOThFeTE0dE9WZVNMSGVNX1RuMUpfM2EwSER4M3VvOWF5cnJ5ckZpUGNfWnVqS25uQXRNZEkzdkxpaXFQenMtZWRmcFB3TEpYYmxZN2VPWU5SLXpwREZvTG1JSFg2cFdaWTBDbDdJYWJXM3RJYXpfOHdsRXdnX2RCQUZ5aHdmR3p5NjRZblZodnoyV3k0S01mb2hJNHBaZHBickRzR3BabEc1VklpQjAteFJYZTU0ZzF0bUpIU2MyRGZDNFlWNDgzTzln?oc=5",
+      "published": "2026-11-28T05:15:00+00:00",
+      "category": "Trends"
+    },
+    {
       "id": "88ee8744ee51be3c",
       "title": "Top 10: Das beste Heizkörperthermostat im Test – ohne Cloud ab 30 Euro",
       "excerpt": "Smarte Heizkörperthermostate senken die Heizkosten und steigern den Komfort. Fast alle Modelle laufen ohne Cloud und sind zum Black Friday besonders günstig.",
@@ -19,6 +49,16 @@
       "url": "https://heise.de/bestenlisten/testsieger/top-10-das-beste-heizkoerperthermostat-im-test-ohne-cloud-ab-30-euro/1e43f3r?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "published": "2026-11-27T19:00:00+00:00",
       "category": "Cloud"
+    },
+    {
+      "id": "edd81281baf0435b",
+      "title": "Tor-Browser: Exploit enthüllt echte IP-Adresse per Klick - it-daily.net",
+      "excerpt": "Tor-Browser: Exploit enthüllt echte IP-Adresse per Klick it-daily.net",
+      "summary": "Tor-Browser: Exploit enthüllt echte IP-Adresse per Klick it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83X25rWTNvVEFnOWJyenZmWlJMNnpndkVLbGFLTVpZUjZuY04tLTRKUk1pM0ZReW5ZaHdhd0xxa2NibXFKQlo1d09TaXc2Z2lvcFc1Q2Z2bjBYOVdFOGVueHdZZ04yeUM2YnRjdHluX09PWE0?oc=5",
+      "published": "2026-11-27T18:13:44+00:00",
+      "category": "Security"
     },
     {
       "id": "72d70ed9f0c32708",
@@ -58,6 +98,16 @@
       "source": "Inside IT",
       "url": "https://inside-it.ch/zuercher-ki-startup-nextesy-bekommt-ueber-10-millionen-20261127",
       "published": "2026-11-27T14:17:40+00:00",
+      "category": "Firmen"
+    },
+    {
+      "id": "a1e85b1e22e4302e",
+      "title": "Shopware 6 Migration im Mittelstand: worauf Unternehmen bei der Wahl der Shopware Agentur achten sollten - it-daily.net",
+      "excerpt": "Shopware 6 Migration im Mittelstand: worauf Unternehmen bei der Wahl der Shopware Agentur achten sollten it-daily.net",
+      "summary": "Shopware 6 Migration im Mittelstand: worauf Unternehmen bei der Wahl der Shopware Agentur achten sollten it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYkFYUDZ4RkltLVB6ODNkUHZYNlBjWDgwTUZ4d1E5N2Fsa0syaEhqWFdaeEFFSTV3dEl2LTh6SFR0dXpxRS1tNVNRc2V3cHptYVNyVTNLWmc5TmlRNlhpclN3WXAyTXRPdWR3dU1TanJlRTV4YmEzTU9wbEtTZmdESGxMZVNfU0pBNEg2Zi1R?oc=5",
+      "published": "2026-11-27T14:14:03+00:00",
       "category": "Firmen"
     },
     {
@@ -111,14 +161,34 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "d856a7701faf73d7",
-      "title": "BSI schlägt Alarm: Durch KI droht eine \"Lawine neuer Cyberangriffe\"",
-      "excerpt": "Cyberangriffe werden durch KI-Frameworks immer günstiger und schneller ausführbar. Das BSI sieht eine massive Verschärfung der Cyberbedrohungslage. ( Cybercrime , KI )",
-      "summary": "Cyberangriffe werden durch KI-Frameworks immer günstiger und schneller ausführbar. Das BSI sieht eine massive Verschärfung der Cyberbedrohungslage. ( Cybercrime , KI )",
-      "source": "Golem.de",
-      "url": "https://golem.de/news/agentische-ki-bsi-chefin-warnt-vor-cyberangriffen-zum-schnaeppchenpreis-2611-215726.html",
-      "published": "2026-11-27T09:40:01+00:00",
-      "category": "Security"
+      "id": "6eecfe604813df7b",
+      "title": "Microsoft To Do: Apps werden am 30. Juni 2027 endgültig eingestellt",
+      "excerpt": "Microsoft To Do: Apps werden am 30. Juni 2027 endgültig eingestellt ad-hoc-news.de",
+      "summary": "Microsoft To Do: Apps werden am 30. Juni 2027 endgültig eingestellt ad-hoc-news.de",
+      "source": "ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTXlDb1VvUHV0TXhLMDVrV0hyZHZnY1V1WldfalFyOHQxY0x4a3lOV2xDYWc3VkhQbzg1ZEpSLU1XRUhvRWxqUzRBbWp2b2xHd0x0emkyakY3YzgtcndqN2hEQkMyMVlCZVZFUndXbm5BWlZyN2VqbFcwOVpGUHBwRFQ3SVRFMjE5aDJkZjc1VGRXMERidm14TkF3MVZRdGhhQ1ZqSl93YzU5czlnRVgwODhTNnM1QQ?oc=5",
+      "published": "2026-11-27T09:12:08+00:00",
+      "category": "Microsoft 365"
+    },
+    {
+      "id": "2bd0274bd8898870",
+      "title": "Schweiz: Erste bestätigte Cyberangriffe mit KI-Agenten - it-daily.net",
+      "excerpt": "Schweiz: Erste bestätigte Cyberangriffe mit KI-Agenten it-daily.net",
+      "summary": "Schweiz: Erste bestätigte Cyberangriffe mit KI-Agenten it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BMVpPWk91aHBJSDRaS2Zuck8wMWl4NWFGb3ktc3IxN1FzRkxwVjhZOHRLWjRJWDdvUHB0dFEwSkZoVl9XTU1CRjlTRi00cEw0QXo1YnlQdWVBajdTLXlTeVVIWld5bTMtVHBzRnZoYTAyZkZhSHJSZzQ1OA?oc=5",
+      "published": "2026-11-27T09:08:02+00:00",
+      "category": "IT Schweiz"
+    },
+    {
+      "id": "d4c179d8ac8ebbcd",
+      "title": "Datenchaos kostet Firmen ein Viertel des KI-Budgets - it-daily.net",
+      "excerpt": "Datenchaos kostet Firmen ein Viertel des KI-Budgets it-daily.net",
+      "summary": "Datenchaos kostet Firmen ein Viertel des KI-Budgets it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVbV9GZ2FhcnEwTzhkLVlFOUphaW1Dbm1TZS1nZHZrODZZQlQtaHhCRGxjRkhITmhlWmlMUnpvd1VJRl85ZC1WNHMxSkNLQ2lhc3JmRndzbXBEZDZrR01ZY0lsVmh1Y2MzN0ladUVPTQ?oc=5",
+      "published": "2026-11-27T08:26:03+00:00",
+      "category": "Firmen"
     },
     {
       "id": "1a9be17b0c0eac6d",
@@ -129,6 +199,36 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPODE3Mkc0UzhoUDJ1UmlLeXd0RUcya194SUJ0Wm5yNE0yNXJtMWZOVEVxWnFWYjgxcGRNVHFoMjE1OGt6c2J5elcwVVdjRlFIWTRaWXJmcWN3MkRveXMxdmlxS3hDcjh1WHhWWnFlSnlLSzZBaktiVUZlSjFJUHI3LXQ5ZzJLakZZSnFzUmdXX0JNWWJYSWpfZUNVNENfbE5qWjlIRmVPb0x4V0puX1E?oc=5",
       "published": "2026-11-27T08:10:05+00:00",
       "category": "Trends"
+    },
+    {
+      "id": "88ca31b8af5d58e9",
+      "title": "Out-of-Band-Patch für Windows Server 2025 veröffentlicht - Swiss IT Magazine",
+      "excerpt": "Out-of-Band-Patch für Windows Server 2025 veröffentlicht Swiss IT Magazine",
+      "summary": "Out-of-Band-Patch für Windows Server 2025 veröffentlicht Swiss IT Magazine",
+      "source": "IT Magazine Schweiz",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR1VHcy1VQ1ZPdEtDdm1pZkU1MzRnUVdJQjhHSURGZnpGaWp1Q0ZVaG9hUTRUVVBLYUNHSERyZ1lBQnVVd2trQ2Q0cFgzTU5xaWdfWW42anNVTzlwQUF3QzZDaFplWFdOeEI0UU5SRXhuaWtuV1FJdTFMakE4Wkt1TnNPY0xhclE3b1duMzlaa2lNcC1KZ2JYa3ZGdE55emVScDlnSFVn?oc=5",
+      "published": "2026-11-27T07:12:00+00:00",
+      "category": "IT Schweiz"
+    },
+    {
+      "id": "00e53bc84d9c16ea",
+      "title": "Telnet-Client wird aus Windows entfernt - Swiss IT Magazine",
+      "excerpt": "Telnet-Client wird aus Windows entfernt Swiss IT Magazine",
+      "summary": "Telnet-Client wird aus Windows entfernt Swiss IT Magazine",
+      "source": "IT Magazine Schweiz",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdnpnR3JZVFBHUVVmRHhxNkNSeFNEdFppd19SRWVpcDVpX0pQU1Z0M3MtZC1lVFh1Z3dwa3htV2JlQjRvUGhYU2ZLVG9PSDFack9ocDVlc2JTcmN6YzFBNC1fQVJGS1NJTFZUUzdZa3EzdFNQUzlLRGxOT29YYWgtY0stbWZYY0FxVkYwVQ?oc=5",
+      "published": "2026-11-27T07:12:00+00:00",
+      "category": "IT Schweiz"
+    },
+    {
+      "id": "8638d54b1dd31af3",
+      "title": "Hiscox startet digitales Versicherungsangebot für KMU in der Schweiz mit Insurtech Toni Digital",
+      "excerpt": "Hiscox startet digitales Versicherungsangebot für KMU in der Schweiz mit Insurtech Toni Digital IT Finanzmagazin",
+      "summary": "Hiscox startet digitales Versicherungsangebot für KMU in der Schweiz mit Insurtech Toni Digital IT Finanzmagazin",
+      "source": "IT Finanzmagazin",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPellfcTMwMjF2Y3Q0UEk1elFuVFVUbDRPelBaSFBoRlBLTXpNTjZiZWg5R21jbnVHWEoyV2paeGdoWWpRUEswdW5ENml4RHpaY3RKQlYzMXc2cTZpMEFHWkJiRlhHUC1JVF91dDB1NWwxNXJZdmRlXzQ0Q2pnOU1pLXNoNXp6VEdlaU9MQnZsWEJocEFIVVpER1pR?oc=5",
+      "published": "2026-11-27T07:04:11+00:00",
+      "category": "IT Schweiz"
     },
     {
       "id": "24fb92f64d3a3d87",
@@ -149,6 +249,16 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYUptWnRIeWVuWHZlOEYzVnVZZEhXWHNhdkR6Mmh3RzIyTU9lemJheUtBOUc0LWdTTm45Nm9Ba3hyVmtRMUx1SmZROUdmR1Flc2N2a0pYS0hKOWhaLUtXbGRqQUYtNl92eHdLa1AyWU9iQ0hROHNRbExFR3BReEdpVlpBRmh6U3FwWDhiNFFTTzlhSS1rN1E0OHY5RVc?oc=5",
       "published": "2026-11-27T05:13:06+00:00",
       "category": "Security"
+    },
+    {
+      "id": "73ea9563af68b23a",
+      "title": "Android 17 verhindert Bluetooth-Switching - Swiss IT Magazine",
+      "excerpt": "Android 17 verhindert Bluetooth-Switching Swiss IT Magazine",
+      "summary": "Android 17 verhindert Bluetooth-Switching Swiss IT Magazine",
+      "source": "IT Magazine Schweiz",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdGM0aEpiMzVJSUVWR2RIdHR3TXhKT3gxTVlTRVBOMkRJRDRuT0pDRXlfTVFNM19iLW9uS3BURTRQSkVSWWF6S282UU1pM1VUeklGa0wxMnRlWlpkUE95M1dzNjZ6Q0pwNHBUcldiZ1dpNkRGUWgtaW9WNnRxWnBMSWl4bHM3cHJFbTI4U0hLTQ?oc=5",
+      "published": "2026-11-27T05:03:28+00:00",
+      "category": "IT Schweiz"
     },
     {
       "id": "2d545d185d3cb960",
@@ -221,6 +331,16 @@
       "category": "Security"
     },
     {
+      "id": "974494a12f74fccd",
+      "title": "SAP: Spionagevorwürfe um Startup-Partner Conduct - it-daily.net",
+      "excerpt": "SAP: Spionagevorwürfe um Startup-Partner Conduct it-daily.net",
+      "summary": "SAP: Spionagevorwürfe um Startup-Partner Conduct it-daily.net",
+      "source": "IT-Daily",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RYUFEY0x5WFVUMVJnTDNwV2dDMzNldHpGV0ZuQjFqN3FLMmJCcC13bm8wNWlfSVlwai1jYmQxR2tiYk50MkpkTGlNQ0d2WGkxcDZScFpOMDY5M0ZCRkRSRm8yWXBqUmZQVFdVSWE3QWxJdw?oc=5",
+      "published": "2026-11-26T13:27:38+00:00",
+      "category": "Firmen"
+    },
+    {
       "id": "cc4438d80ff81dc6",
       "title": "Cyberangriff auf US-Behörde gegen Finanzkriminalität",
       "excerpt": "Eine weitere US-Behörde ist Opfer eines Cyberangriffs geworden. Dieses Mal trifft es eine Abteilung gegen Finanzkriminalität.",
@@ -229,16 +349,6 @@
       "url": "https://heise.de/news/Cyberangriff-auf-US-Behoerde-gegen-Finanzkriminalitaet-11539155.html",
       "published": "2026-11-26T12:59:00+00:00",
       "category": "Security"
-    },
-    {
-      "id": "e20f50dcbfd22cd3",
-      "title": "Bundesrat will Mobilfunkbewilligungen beschleunigen - Inside IT",
-      "excerpt": "Bundesrat will Mobilfunkbewilligungen beschleunigen Inside IT",
-      "summary": "Bundesrat will Mobilfunkbewilligungen beschleunigen Inside IT",
-      "source": "Inside IT / Firmen",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPenJkRzk2eFlwTU5CS3dHV3BCaEhtN0R1RHg3SkRYVG9KaF84cGxka3NmNjM2Mk41bDNyRVJ2Rnp4akE3MjhTU24wWXN6bHJEZ1RINU9YZ3p6UUFoWGNnYi04bFNhdVBxVEIxdWFfRk5KbGN2YmI2QlEtR3RVUUppN1JWX1lmSnVJYnZWTTBR?oc=5",
-      "published": "2026-11-26T12:56:00+00:00",
-      "category": "IT Schweiz"
     },
     {
       "id": "50b3868b9687e2bc",
@@ -301,16 +411,6 @@
       "category": "Security"
     },
     {
-      "id": "ca66ae0a29aece42",
-      "title": "Konkurrenz für Palantir: Berliner Firma A11 startet KI-Software als europäische Alternative - t3n",
-      "excerpt": "Konkurrenz für Palantir: Berliner Firma A11 startet KI-Software als europäische Alternative t3n",
-      "summary": "Konkurrenz für Palantir: Berliner Firma A11 startet KI-Software als europäische Alternative t3n",
-      "source": "t3n",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOREJDNHdyaXU5TUtRd3FJOUU1U0VrS3hHUEhKSm1HNGt6VU1mWEx4RnYyRW9OQUxndEpxaVZ6dF8yaVpNQTJXc3FLRFdmOFpNZmdqaHhOTWdzMmdzaUJZVkRkbTN4NlZVM3Y2eklRUHZEeTNYcEVnd2Z1TmI5NEh0R3hHS1RTUkFRb1FrclliTjRrT0lqRDMwTF82OFV2c19QMEo5QTlUMl8yZU9jX3FiQlg1bFhJc0lHVU1KdjV3?oc=5",
-      "published": "2026-11-26T06:25:38+00:00",
-      "category": "Firmen"
-    },
-    {
       "id": "3f5d746a55af3138",
       "title": "Chrome Zero-Day: Exploit aktiv, Update 157.0.8103.50",
       "excerpt": "Chrome Zero-Day: Exploit aktiv, Update 157.0.8103.50 Security-Insider",
@@ -371,16 +471,6 @@
       "category": "Cloud"
     },
     {
-      "id": "81dc3eb05ef732dd",
-      "title": "«Höhle der Löwen»: Emmer IT-Firma knackt Millionen-Rekord – doch der Deal platzt",
-      "excerpt": "«Höhle der Löwen»: Emmer IT-Firma knackt Millionen-Rekord – doch der Deal platzt Urner Zeitung",
-      "summary": "«Höhle der Löwen»: Emmer IT-Firma knackt Millionen-Rekord – doch der Deal platzt Urner Zeitung",
-      "source": "Urner Zeitung",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaHZJLWpIdUR1cWRva2xzQkhxNU9wMjZpYzRpNGowWlkzOXJUd0tKSFBER0I5OXlBRU1PcGNVYW90ZlR6RkJKb3BBQ1FZekl3MkRIZVNNWjRMYTA3M0tzSWlxeXV4ekZCb2czeWFGSERGNkx1SmdPR3ozR0NjNExJTnFBOTBGcTJzU05zNUstUVEtZzFwbi1EMUNMT3NPQkUwRE1QdVZYLXl1SUk4S2Y0UTNUUFloR3BQTmEzMVJxaWMtNzlad2wxR0RnMFhqQUdM?oc=5",
-      "published": "2026-11-25T13:17:29+00:00",
-      "category": "Firmen"
-    },
-    {
       "id": "4f4bfc16079cfc42",
       "title": "Microsoft Teams in Citrix-VDI: SlimCore lagert Medienverarbeitung ans Endgerät aus - BornCity",
       "excerpt": "Microsoft Teams in Citrix-VDI: SlimCore lagert Medienverarbeitung ans Endgerät aus BornCity",
@@ -399,16 +489,6 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMVRzUENRUnN5RGhuRnV1VkZxRU1fZVBOa0p0ZllYZXNRUGxsb0lIeTg2eDJyUE1WeGI5TmQ0ZmRINEg5V0ozc2JMbzZpUXJaT2g0di1WdXFPejI4bE42dUZxOGNTNm9pT0ItUVZuV1ZxdXZFeXhvamRvbVBWNVRYYQ?oc=5",
       "published": "2026-11-25T10:57:14+00:00",
       "category": "Markt"
-    },
-    {
-      "id": "23556ad83e71e4ca",
-      "title": "NAND-Flash-Preise dürften Anfang 2027 sinken",
-      "excerpt": "Die Vertragspreise für NAND-Flash dürften im Schlussquartal weniger stark steigen als noch im Oktober erwartet. Für Anfang 2027 zeichnet sich ein Preisrückgang ab, weil chinesische Cloud-Anbieter weniger SSDs bestellen als geplant.",
-      "summary": "Die Vertragspreise für NAND-Flash dürften im Schlussquartal weniger stark steigen als noch im Oktober erwartet. Für Anfang 2027 zeichnet sich ein Preisrückgang ab, weil chinesische Cloud-Anbieter weniger SSDs bestellen als geplant.",
-      "source": "IT Reseller",
-      "url": "https://itreseller.ch/Artikel/106679/NAND-Flash-Preise_duerften_Anfang_2027_sinken.html",
-      "published": "2026-11-25T10:52:08+00:00",
-      "category": "Cloud"
     },
     {
       "id": "5f25a9a52e1284c8",
@@ -431,14 +511,24 @@
       "category": "Markt"
     },
     {
-      "id": "6d7bc041c4b0cf66",
-      "title": "KI-Start-up Assora lanciert Modell zur Vorhersage der Produktnachfrage - Netzwoche",
-      "excerpt": "KI-Start-up Assora lanciert Modell zur Vorhersage der Produktnachfrage Netzwoche",
-      "summary": "KI-Start-up Assora lanciert Modell zur Vorhersage der Produktnachfrage Netzwoche",
-      "source": "Netzwoche / Firmen",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTzdSYUNqSng2WkMtWDVaQVk1SUF0SmVZWFhETGh6TzVhWEdjYmQtRzZlU2ZoTll0aW9HWXc2bE5uQ1F1Mzdmb1dmRzNMZFJWQjljaTZHdndCbUloMF9kZ1NuazBQTlFYQ080UXhodWdOSVpCMzJfazl4RWFlLUxmTHdrVDkwWlFFSmozVHNHRWlwdnNFbGdyX1A3aDRpaVdUTWNnalhOVlF2TnFPbWZZSQ?oc=5",
-      "published": "2026-11-25T08:16:03+00:00",
-      "category": "Firmen"
+      "id": "ae43a86b4b83833e",
+      "title": "UMB verlegt seinen Hauptsitz - IT-Markt",
+      "excerpt": "UMB verlegt seinen Hauptsitz IT-Markt",
+      "summary": "UMB verlegt seinen Hauptsitz IT-Markt",
+      "source": "IT-Markt",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XalhEa1hFaHJsU1dlYklXSk9ldkxrQ0w2ZVNqZ2JKNGJQYlAtYUx5MEszQS1acnBicTdUQkMyazlZSXRvSUV6am9Famk0V1Y2ckFSd09zdFYzSzZ4aWliUjVBVEw5cmVzVVM5MXJPRkcxSTFnNE93?oc=5",
+      "published": "2026-11-25T08:41:18+00:00",
+      "category": "Markt"
+    },
+    {
+      "id": "9f87c9abaa78df95",
+      "title": "Teams Rooms auf Android: HDMI-Inhalte erscheinen ab Januar auf zwei Displays",
+      "excerpt": "Teams Rooms auf Android: HDMI-Inhalte erscheinen ab Januar auf zwei Displays ad-hoc-news.de",
+      "summary": "Teams Rooms auf Android: HDMI-Inhalte erscheinen ab Januar auf zwei Displays ad-hoc-news.de",
+      "source": "ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ2o2aUFCdlk1SWd3OTRqNWVtZGRaLW9ieVNtSnB5c2lEbXhGUDB0YXFoeVVrLUxOWVBuOG1iWGZTYV9TOTZvY0ZMWTlXMWp4aVNSdG02dWx6ZGpPYU5ySU5SVWt1WGRUNHYtcXRDQXRETzQ4RktZU211N1FQbzNXNXY1SEd0WVQ1QmNHN3prbUhlbW1oYm9oOFRFWmJHNXlnNEFqSHc5dzk4OVIxR3FsVGxyUWwzb21ZREY1RHIzVDF0dw?oc=5",
+      "published": "2026-11-25T08:13:06+00:00",
+      "category": "Microsoft 365"
     },
     {
       "id": "1c1b4b8bd22241f7",
@@ -451,12 +541,12 @@
       "category": "Markt"
     },
     {
-      "id": "a806c25c45d6805c",
-      "title": "HP meldet mehr Umsatz und weniger Gewinn - IT Reseller",
-      "excerpt": "HP meldet mehr Umsatz und weniger Gewinn IT Reseller",
-      "summary": "HP meldet mehr Umsatz und weniger Gewinn IT Reseller",
-      "source": "IT Reseller / Firmen",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYXd3ZGFyX2ctN3R6cmUya1Q3ckpjWUZoeXpXd2U1bGQ1aTJTd05aTi1UR2lLWGNORU9FLTk1SXEwN3NQZEZDQzV4ZUJ5aW5jMmI5U1N3OS1IVUhmdnJhaktFNEVlZmxZWnBuZTA5dWJvLUVKay1sd1hXSnV3Yzk0aVplX3lBV0xZcXptN1NDTQ?oc=5",
+      "id": "77c7844d1aab7d36",
+      "title": "Apple bringt zum 1. Dezember zwei (Product)RED-Produkte auf den Markt - Swiss IT Magazine",
+      "excerpt": "Apple bringt zum 1. Dezember zwei (Product)RED-Produkte auf den Markt Swiss IT Magazine",
+      "summary": "Apple bringt zum 1. Dezember zwei (Product)RED-Produkte auf den Markt Swiss IT Magazine",
+      "source": "IT Magazine Schweiz",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbEVxd2R0WTkwbWFlT1RWUldNWUQxUExsRG42VzlTWTlESXZxUzY1eEZzbG5kUEM4LTVMUGVkTks1UjRKQkFwOGdOQUpLYW96a3I2VG1pOEEwZFliRGJKLThjN1lKVUl2LXYyX3N1Q3phLU1jNHJPSkhFcXdoTmJvYU9LQlpXSGJoQUZObFBjbXRCVEdmYmFaUWJZejAya3hvcEJ4Nm1qdDJvanAyU2ZiYmNn?oc=5",
       "published": "2026-11-25T07:12:00+00:00",
       "category": "Markt"
     },
@@ -481,26 +571,6 @@
       "category": "Cloud"
     },
     {
-      "id": "fefc05043c0b2ce5",
-      "title": "Nach Microsoft-Ausfall: So abhängig ist die deutsche Verwaltung von Outlook, Teams und Co. - t3n",
-      "excerpt": "Nach Microsoft-Ausfall: So abhängig ist die deutsche Verwaltung von Outlook, Teams und Co. t3n",
-      "summary": "Nach Microsoft-Ausfall: So abhängig ist die deutsche Verwaltung von Outlook, Teams und Co. t3n",
-      "source": "t3n",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNWtqMVRwMmFYS2JDWURTcEQwWXpyNUU5dFNiZk9WSWJMY01kOWRDUkl2dTlsZVVvME45V3hlZEp2RUR5OUdvazNadVk4RU5sOEowQUJRdHJhc0R5bXQ1RjJLOGlwNTNxTnFldEhOT3ZCVXlQbl9HWk9rZVJBNW9wYmM2VEZmYWFybm5BRXpvdw?oc=5",
-      "published": "2026-11-24T14:05:41+00:00",
-      "category": "Microsoft 365"
-    },
-    {
-      "id": "d4c5054960372259",
-      "title": "Messenger soll Ricardo-Kunden vor Phishing schützen - IT-Markt",
-      "excerpt": "Messenger soll Ricardo-Kunden vor Phishing schützen IT-Markt",
-      "summary": "Messenger soll Ricardo-Kunden vor Phishing schützen IT-Markt",
-      "source": "IT-Markt",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVC1mckhNUDZ2eDVBMUpqcjdMTWVuQmIwYlhVY2djQV9tcndzekJHQklPS3N5YzJ2VzhaNndDd3UwbUFJWk9QM2Z0bFl6Q1JGVUF3RUFxNU1NN3phQjQ3N3NySHpQRjRHVXZEYk5HSUo1dGNGOFNWRXozSXRXR0lRM2V5dW5Ed0VaTFhCZm82OFAyTnBVM2Uw?oc=5",
-      "published": "2026-11-24T10:25:44+00:00",
-      "category": "Markt"
-    },
-    {
       "id": "403ab82b316d0f70",
       "title": "Infinigate ernennt Tom OReilly zum Chief Transformation Officer",
       "excerpt": "Tom OReilly ist neuer Chief Transformation Officer bei Infinigate. Er soll sich vor allem auf den Ausbau und die Optimierung des Plattformgeschäftes konzentrieren.",
@@ -522,13 +592,13 @@
     },
     {
       "id": "154a0622ab6b2b10",
-      "title": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse",
+      "title": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse - Swiss IT Reseller",
       "excerpt": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse Swiss IT Reseller",
       "summary": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse Swiss IT Reseller",
-      "source": "Swiss IT Reseller",
+      "source": "IT Reseller / Firmen",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY3JBZmg3bDJmVlJjSXVCZmlSUWdNNkcyVUhjWDQ5eFJYcWZQZGowcUtJQlRaVGwweDBLOVc1c1g1YkVSeTRzZDhNZUJWclQycy1VRzBtM2hEN012dzdJTTZSWmswZEtJRUtNNzF3dkRGLUp0QTZONktKMlJ2Ymxib3l0NkJEdmFyZ2RlN3V0b3ZYOF9UZkpwa1AwUU1rNS10TE5vVS1vbm5zb0Nk?oc=5",
       "published": "2026-11-24T07:12:00+00:00",
-      "category": "Firmen"
+      "category": "IT Schweiz"
     },
     {
       "id": "48f6cf571c9179f0",
@@ -541,14 +611,14 @@
       "category": "Firmen"
     },
     {
-      "id": "22cf533ddeab4744",
-      "title": "Hermes Enterprise: Nous Research bringt KI-Agenten direkt in Microsoft Teams - BornCity",
-      "excerpt": "Hermes Enterprise: Nous Research bringt KI-Agenten direkt in Microsoft Teams BornCity",
-      "summary": "Hermes Enterprise: Nous Research bringt KI-Agenten direkt in Microsoft Teams BornCity",
-      "source": "BornCity / Microsoft To Do",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcWRzYkV6eGk0T1llNG1xOWlIcDF3NVg5d2Y3QzI4NllxSXozYWRLUHZHV0xTRGlYdWZCRlRkR1owWDJYQkt1Z3k2anhBRFNjb3BfcXczWDN4YndLT0YtY0pSVm5rbVNDeDF4VjRqSi1FRWtpNUlRZGwxbnQ2UU5HbmFBRGpvdktBSTc2c19qeWNpNE1lNVZUZmZMeWloSThOMjEzLQ?oc=5",
-      "published": "2026-11-23T18:19:04+00:00",
-      "category": "Microsoft 365"
+      "id": "cafe2150ada18e0e",
+      "title": "Künstliche Intelligenz: Wie KI-Assistenten verschlüsselte Messenger unsicher machen - Netzpolitik.org",
+      "excerpt": "Künstliche Intelligenz: Wie KI-Assistenten verschlüsselte Messenger unsicher machen Netzpolitik.org",
+      "summary": "Künstliche Intelligenz: Wie KI-Assistenten verschlüsselte Messenger unsicher machen Netzpolitik.org",
+      "source": "netzpolitik.org",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbGxLcnFDNC1ScTh0OG9LcUVMQXFEeXc1NGZ2a0djYmV2c3dVNGVFdXhIVGJzUEkwZzBlZGpMSFVaUHl2N1N0amFldFdDdllzU0lVbXF4TmdBMlBMT0xmSlJaclRtZWt2Wi1PX1lFT2ZpdU9JLWViWGJEYWs0dXFKZUFqSWlhcUt2V2ZHVmU2ajlkZlhic3lCTEpVVFBNWE56dWowS1c4bU9UdnlSaHNmQXd2V0I?oc=5",
+      "published": "2026-11-23T15:08:04+00:00",
+      "category": "Trends"
     },
     {
       "id": "7752aea542c6aa6e",
@@ -581,16 +651,6 @@
       "category": "Trends"
     },
     {
-      "id": "780b87d758b0ae74",
-      "title": "Marc Flück übernimmt Vertriebsleitung bei Lake Solutions - Swiss IT Reseller",
-      "excerpt": "Marc Flück übernimmt Vertriebsleitung bei Lake Solutions Swiss IT Reseller",
-      "summary": "Marc Flück übernimmt Vertriebsleitung bei Lake Solutions Swiss IT Reseller",
-      "source": "IT Reseller / Personen",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeU4xb2U4SUwwTTZIRDZ3OWR4OWJwRzUzMHZmUVZOV1dPTzhhcV83MFVpTTJQZGRhUVFpNzVxTkJUeDZGWTlaSkNPRGVWUUZqdVVrNDVFWTBEbEdXVzgzd00tOGdzUkJ0TFB2Y01feldGUFlLN01KSzhTakFMaXYwUVptRXJiTENNUEEyRC1VeGlVQzRDRm93cUtUdUUyX2c3VEZnUVQ4cw?oc=5",
-      "published": "2026-11-18T07:12:00+00:00",
-      "category": "IT Schweiz"
-    },
-    {
       "id": "3befbe408d8a2146",
       "title": "Lausanne ernennt neuen IT-Chef - Inside IT",
       "excerpt": "Lausanne ernennt neuen IT-Chef Inside IT",
@@ -599,16 +659,6 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HakFTc0tLcWxwWGJqX2ZkMklwOW9TTnEyYkFSOU9nM1NWLXFXRGoteGdNNUFwNTU1UExVVTJmMUhuajdMYlc4TFhrVHdxNVpubVVGalVPVTJEUENidXpwZFpnV3ZSVi1oVDdqQ2FNZm14dw?oc=5",
       "published": "2026-11-17T08:00:00+00:00",
       "category": "Personen"
-    },
-    {
-      "id": "c93a1c8939720484",
-      "title": "Sven Schoenaerts übernimmt erweiterte Partnerrolle bei Nutanix - Swiss IT Reseller",
-      "excerpt": "Sven Schoenaerts übernimmt erweiterte Partnerrolle bei Nutanix Swiss IT Reseller",
-      "summary": "Sven Schoenaerts übernimmt erweiterte Partnerrolle bei Nutanix Swiss IT Reseller",
-      "source": "IT Reseller / Personen",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU1dhR2RNYVFyelhyYkxzUFRUMG1TampPS3BOMTBncXB3YVJVZTZ6cGEtdjg0ZVNTTFVkRXlTNzFRLWF0RzVVX2xyajhDcExKRUF2WG9SU29lMnR4bXBXeGtGdG9HR1dLSWhVZEhHdHJHa0RLYnhodVlvZXRNTHlhTEdPZjZFWFZ2SzcxWjhvczY2NlJ0YmhiMmZOaUhXMDgxVnlsd3N5ZWZPblBhb3c?oc=5",
-      "published": "2026-11-13T08:00:00+00:00",
-      "category": "IT Schweiz"
     },
     {
       "id": "9e6b5f5480a8185a",
@@ -628,7 +678,7 @@
       "source": "IT Reseller / Personen",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYTNaV2psOG1TVEVNV2w1bFBfYzgyWnUyZEdFVkdrTkI1dG81bnhTWWI2SmpJbHZMV3d1SVRwanNPRVJyeVNFQl9sY3FjVzdDb1FZTWZwVE5ZY0NBSl9tQ0dYcVlzTFh3T24xcE0wWHBtT1VtaU45SWNuenFvU2hRTXVlWlhkQmNFMS1SOW9peWFLcjNjRmF2YjNxM3VRZktudTVaZg?oc=5",
       "published": "2026-11-11T08:00:00+00:00",
-      "category": "IT Schweiz"
+      "category": "Firmen"
     },
     {
       "id": "4e932eef5789a548",
@@ -671,16 +721,6 @@
       "category": "Personen"
     },
     {
-      "id": "80b32d9357f75f05",
-      "title": "Bechtle übernimmt britischen KI-Spezialisten Bespoke XYZ - Swiss IT Reseller",
-      "excerpt": "Bechtle übernimmt britischen KI-Spezialisten Bespoke XYZ Swiss IT Reseller",
-      "summary": "Bechtle übernimmt britischen KI-Spezialisten Bespoke XYZ Swiss IT Reseller",
-      "source": "IT Reseller / Personen",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ3FoOHp3dGhoWlNWd3pNOUFPcTdia2c2ZFEwLVNlNFhHakt5VjNrN3NYcnFQeHF6RjNhR1FrRFdpbk13ZmlYanJSLXFpb0ItOGx0MzVmZ2paUGhTemw2QzZPbDVJa1pWWkUtYV81UmlHV3UxUDdiaXJSQ1BBS3Z5LUVlYjk0S3VubDJPa2x4TEJYQmJKY3c3YVNaaHYzZG83X3R4TmNR?oc=5",
-      "published": "2026-11-06T08:00:00+00:00",
-      "category": "IT Schweiz"
-    },
-    {
       "id": "e8ad53c88ad70043",
       "title": "Emma Walmsley wird neue CEO von HP - Inside IT",
       "excerpt": "Emma Walmsley wird neue CEO von HP Inside IT",
@@ -691,26 +731,6 @@
       "category": "Personen"
     },
     {
-      "id": "29b06300ba1ab5d8",
-      "title": "Marvell übernimmt Lumentum für 115 Milliarden Dollar - Swiss IT Reseller",
-      "excerpt": "Marvell übernimmt Lumentum für 115 Milliarden Dollar Swiss IT Reseller",
-      "summary": "Marvell übernimmt Lumentum für 115 Milliarden Dollar Swiss IT Reseller",
-      "source": "IT Reseller / Personen",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ2daTFVXY01udi1sYTZOYWlDa0lqRkJhNU9RaTJxX2wzREZQS3pYVE5vazlSZmJBN1ZCOHd3RXJwY0kyY1FET2Y2aHJZaWxWZDI3bUM0X0hmajlLY3dyazRvd1FsSFJfWHd2eFJYR2FPRDZMcXowenB2Y2FlWjN0ampxMG1YSTJLcC1iVFFFVXM1Vm45dUZWNXpfYTZGNlNJOFE?oc=5",
-      "published": "2026-11-03T08:00:00+00:00",
-      "category": "IT Schweiz"
-    },
-    {
-      "id": "7bbaa19bd15bd9bf",
-      "title": "Roland Keller übernimmt Operations bei Tech Data Schweiz - Swiss IT Reseller",
-      "excerpt": "Roland Keller übernimmt Operations bei Tech Data Schweiz Swiss IT Reseller",
-      "summary": "Roland Keller übernimmt Operations bei Tech Data Schweiz Swiss IT Reseller",
-      "source": "IT Reseller / Personen",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUUpQVjV1YzM1Sm1jVG85bnZJLWxrV19SUjdGNmNkdXM0S2ozbGExbk5FM1UwRHU0TDRJQ3R3ay1UNkRDM3BOZVFKZUZUSjQ2d19xYW9Rb3ZxSDljTFNIQ0VUdU54ZGRPdjV4MXJPZ2k0bFNiQ0xEalVDZlRFTE9wbHZ1ZzVqTWw3ZVBGWUEydVl3eURUODR3MF9wUkxDcVFvMUJVQg?oc=5",
-      "published": "2026-11-01T07:00:00+00:00",
-      "category": "IT Schweiz"
-    },
-    {
       "id": "4c178d0c3dbcdee1",
       "title": "Syncron baut Partnerschaft mit Conet aus - Swiss IT Reseller",
       "excerpt": "Syncron baut Partnerschaft mit Conet aus Swiss IT Reseller",
@@ -719,19 +739,9 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbVJvM2hIazJoQlNfdVdYRVR3ejIzOTY5c2JYdUdJZFFKanBmMnNtdF96eVVkREdZd2JWQkpUY282LVBJVU5PTmtrOW9lcmVIa3lTRVdvSnJzd0xaQzlfY2RzcThYVDRYWkoxUVA2RUxCcmZmUVU5d3Byd1k1d3I5czYwVWdCXzFsWmxfRlFtSQ?oc=5",
       "published": "2026-10-30T07:00:00+00:00",
       "category": "Firmen"
-    },
-    {
-      "id": "0e806a208fb5be15",
-      "title": "Apple baut Standort Zürich für KI-Forschung aus - Swiss IT Reseller",
-      "excerpt": "Apple baut Standort Zürich für KI-Forschung aus Swiss IT Reseller",
-      "summary": "Apple baut Standort Zürich für KI-Forschung aus Swiss IT Reseller",
-      "source": "IT Reseller / Personen",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZG9YZVM1eVAtWWpXVnhJOGoxSkRUelBLVHRvbzh4T1dvRnFEOGhWRDZZeGlVQWRTc3FudHI1Q0N6MEY2WUdKNnUwakhvc1VGMGdyNnotQjROZW5ISkt5YU56TFc5RkptVmJfRGJscjN0aVNoRFVHWnozQXk0Y1pGeDB3SXhiZ3R0dTJ2bFBwVl9pRmVNVHJTU2paRQ?oc=5",
-      "published": "2026-10-29T07:00:00+00:00",
-      "category": "Trends"
     }
   ],
-  "updatedAt": "2026-11-28T06:11:06.910817+00:00",
+  "updatedAt": "2026-11-28T07:27:28.338775+00:00",
   "targets": {
     "Security": 10,
     "Microsoft 365": 10,
@@ -748,10 +758,10 @@
     "Microsoft 365": 10,
     "IT Schweiz": 10,
     "Cloud": 10,
-    "Trends": 3,
+    "Trends": 4,
     "Markt": 10,
     "Firmen": 10
   },
-  "warning": "Nicht genügend passende aktuelle Meldungen: 7 × Trends. 12 von 54 RSS-Quellen waren nicht erreichbar.",
+  "warning": "Nicht genügend passende aktuelle Meldungen: 6 × Trends.",
   "aiSummaries": false
 }
