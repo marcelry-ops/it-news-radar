@@ -81,6 +81,16 @@
       "category": "Security"
     },
     {
+      "id": "7a9bf814a246a634",
+      "title": "1Password meldet Datenabfluss - SwissCybersecurity.net",
+      "excerpt": "1Password meldet Datenabfluss SwissCybersecurity.net",
+      "summary": "1Password meldet Datenabfluss SwissCybersecurity.net",
+      "source": "Swiss Cybersecurity",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMUFwUnJQTGFjN2lVc0pCZDhPeDNuUWJ0V2JaZUVRVWhDeXBrSzg0Q1dveWs2UjUyTjZCQTRGbk9xT1pLMi1ZeUlxU0JNTnhNcXEzcFZrWlNlYnZ2SWpNbkRtTnl6cE5FeWhsNjVmai1CeURxelh1cDNMSEMtcldXc0pidTZncTg?oc=5",
+      "published": "2026-11-27T10:43:04+00:00",
+      "category": "Security"
+    },
+    {
       "id": "7452be104cc886e7",
       "title": "SAP bleibt Vertragspartner: Databricks-Funktionen wandern in Business Data Cloud",
       "excerpt": "Genie, Lakeflow, Unity Gateway und Lakebase kommen in SAPs Business Data Cloud, eine Kopplung von Genie und Joule ist geplant.",
@@ -151,16 +161,6 @@
       "category": "IT Schweiz"
     },
     {
-      "id": "7e68baa165b981cd",
-      "title": "SAP soll Opfer eines Hackerangriffs geworden sein - Swiss IT Magazine",
-      "excerpt": "SAP soll Opfer eines Hackerangriffs geworden sein Swiss IT Magazine",
-      "summary": "SAP soll Opfer eines Hackerangriffs geworden sein Swiss IT Magazine",
-      "source": "IT Magazine Schweiz",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOamZ4andLVGtNOVpsT3BpSEdOcnB1b3pMZkN3MUNQMmdvUHRLaHBydXhEdEwweFRQZzhkUDVmWTR2aTA3ZHV2S0Q1dHBwdlpyMWtXRVgwWlNjTmwxNi00M3VDcXRNZHBMZWpvaEhycVA3ZmJscjh0QnA3Yk1lWXo2YjlwNHZWY0tMXzF4RlFLcTNkVWRMejVEXzBR?oc=5",
-      "published": "2026-11-27T07:12:00+00:00",
-      "category": "IT Schweiz"
-    },
-    {
       "id": "00e53bc84d9c16ea",
       "title": "Telnet-Client wird aus Windows entfernt - Swiss IT Magazine",
       "excerpt": "Telnet-Client wird aus Windows entfernt Swiss IT Magazine",
@@ -171,14 +171,14 @@
       "category": "IT Schweiz"
     },
     {
-      "id": "527896617e7e1eeb",
-      "title": "Nachfrage nach OLED-Panels mit Sichtschutz soll kräftig steigen - IT Reseller",
-      "excerpt": "Nachfrage nach OLED-Panels mit Sichtschutz soll kräftig steigen IT Reseller",
-      "summary": "Nachfrage nach OLED-Panels mit Sichtschutz soll kräftig steigen IT Reseller",
-      "source": "IT Reseller / Firmen",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRWE0UERnOWxOMDZJTDBHMVVSODB3aE5wSkpENVY4LThlamVoZE1iRkpJQ0ZuYXJhSnBZOFdKWUFrdDlVOWZ4cl8yR2EtZ1ZmT3FXZnliTmF1clN6YjZBUVdHWUs4Mm1leC1DSTVXbjdwVHZWaVdIY3FSc01RWXZvV3RkZGdTbExBbzQ2eW9ZeDVOX0o2dEJvakM3VVZtMnVlZ05PQnFXUTBCczhVejd3?oc=5",
-      "published": "2026-11-27T07:12:00+00:00",
-      "category": "Markt"
+      "id": "8638d54b1dd31af3",
+      "title": "Hiscox startet digitales Versicherungsangebot für KMU in der Schweiz mit Insurtech Toni Digital",
+      "excerpt": "Hiscox startet digitales Versicherungsangebot für KMU in der Schweiz mit Insurtech Toni Digital IT Finanzmagazin",
+      "summary": "Hiscox startet digitales Versicherungsangebot für KMU in der Schweiz mit Insurtech Toni Digital IT Finanzmagazin",
+      "source": "IT Finanzmagazin",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPellfcTMwMjF2Y3Q0UEk1elFuVFVUbDRPelBaSFBoRlBLTXpNTjZiZWg5R21jbnVHWEoyV2paeGdoWWpRUEswdW5ENml4RHpaY3RKQlYzMXc2cTZpMEFHWkJiRlhHUC1JVF91dDB1NWwxNXJZdmRlXzQ0Q2pnOU1pLXNoNXp6VEdlaU9MQnZsWEJocEFIVVpER1pR?oc=5",
+      "published": "2026-11-27T07:04:11+00:00",
+      "category": "IT Schweiz"
     },
     {
       "id": "24fb92f64d3a3d87",
@@ -189,16 +189,6 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZl81SDRBVnZTSXRrdURPal9mb1FJRzVzeUJweExTQkpCMUFpMm05VzBhUW5pNkNFUGlIQ25EdDM5emEwTUh0cXNvRWlXZURubUZwMmdXMU5VMGFtbzNkTno4T29HZjlwOFJXc3RIdThVNGpVdUpMOUMxRDRKUGl3emdNa1ZPdWNCbDQ2b3otRzNlMjU1bmc?oc=5",
       "published": "2026-11-27T07:00:00+00:00",
       "category": "IT Schweiz"
-    },
-    {
-      "id": "c394538bcc0ce146",
-      "title": "Check Point Gaia OS: Root-Lücke auf Firewalls aktiv ausgenutzt",
-      "excerpt": "Check Point Gaia OS: Root-Lücke auf Firewalls aktiv ausgenutzt Security-Insider",
-      "summary": "Check Point Gaia OS: Root-Lücke auf Firewalls aktiv ausgenutzt Security-Insider",
-      "source": "Security-Insider",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbkhJcnZhY2liS2g1YzZSRk9XazdVdDQ2SkJOV1ZUUzBvd1huV2V3VDlMcWFYS1VUUUI2dEVJdDZLa0ZELWFQR1ZtWWtlc3JuZk9PXzZzZkZXRzRkeDdMclpwSVJUYTltZE9aZW5zUnEtX0gyempEUUFTMkpzbm1CZUt1SklRTEI3VnFnM0RUWXpCNDBzUW5hZXdQZ3VVYmhKdWRINXYyVkloOVpIMGRFbTdxN2lyeHVIOUEzQXZoRQ?oc=5",
-      "published": "2026-11-27T06:00:00+00:00",
-      "category": "Security"
     },
     {
       "id": "e44265bf31f43c03",
@@ -259,16 +249,6 @@
       "url": "https://inside-it.ch/ki-startup-surelio-sammelt-eine-million-20261126",
       "published": "2026-11-26T15:51:29+00:00",
       "category": "Firmen"
-    },
-    {
-      "id": "0fe7718adc21d1ee",
-      "title": "Kubernetes-Backups: Warum VM-Sicherungen für Container nicht ausreichen - it-daily.net",
-      "excerpt": "Kubernetes-Backups: Warum VM-Sicherungen für Container nicht ausreichen it-daily.net",
-      "summary": "Kubernetes-Backups: Warum VM-Sicherungen für Container nicht ausreichen it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUThGQVRXMzg5UTNlMWNjZVM1QlhPVzZFWjZIVXJmNUwwN0JjV3YtS1BSUExqUXkyS0o4VGxUQVZMWnFHdWp0MW1XZU4yWGNORXJESjJhb2FPRFR0TkxPcS1QbU9Xazhwb3ZiMERXMktVUExrelRseFZvT1dUUzd6WFdrUjNzbDZ1aTA0b0MzckZHQQ?oc=5",
-      "published": "2026-11-26T15:21:15+00:00",
-      "category": "Cloud"
     },
     {
       "id": "8487037040fec5a7",
@@ -371,13 +351,13 @@
       "category": "Security"
     },
     {
-      "id": "b369d55b5756f936",
-      "title": "Bechtle integriert AWS und Microsoft Marketplaces in eigene Cloud-Plattform - Swiss IT Reseller",
-      "excerpt": "Bechtle integriert AWS und Microsoft Marketplaces in eigene Cloud-Plattform Swiss IT Reseller",
-      "summary": "Bechtle integriert AWS und Microsoft Marketplaces in eigene Cloud-Plattform Swiss IT Reseller",
-      "source": "IT Reseller / Firmen",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMU8xbDhjZjFOZkJYWFA0QVRQYWpvSDdsYkVTS0dsQWRId2lmUTZ3eVA3Nnd5aTExWktTWHJVTmV2dmpXSUltU2EwMUVYcFVVYXRsc0d1eW5WWWl0akRZb0htenB1NnBMMkJwREFfMGR5Y0lBWkdnT2twQ2JQVmVFQXVtSWVVZTBsRWdkTzIxOUZRUFZ6UjE2bFozdDd5TDdwS0dWRG1XVDBRWVQ1VjV4UHF1MEhsYkN0TlBDTDNB?oc=5",
-      "published": "2026-11-26T07:12:00+00:00",
+      "id": "12ce9e5cc9330d01",
+      "title": "Bechtle integriert AWS und Microsoft Marketplaces in eigene Cloud-Plattform",
+      "excerpt": "Bechtle baut seine Position als Multi-Cloud-Provider aus und integriert den AWS Marketplace sowie den Microsoft Marketplace in die eigene Cloud-Plattform. Das schafft für Kunden einen zentralen Beschaffungskanal.",
+      "summary": "Bechtle baut seine Position als Multi-Cloud-Provider aus und integriert den AWS Marketplace sowie den Microsoft Marketplace in die eigene Cloud-Plattform. Das schafft für Kunden einen zentralen Beschaffungskanal.",
+      "source": "IT Reseller",
+      "url": "https://itreseller.ch/Artikel/106689/Bechtle_integriert_AWS_und_Microsoft_Marketplaces_in_eigene_Cloud-Plattform.html",
+      "published": "2026-11-26T07:58:24+00:00",
       "category": "Cloud"
     },
     {
@@ -441,13 +421,13 @@
       "category": "Cloud"
     },
     {
-      "id": "0996c1e36c8a6f57",
-      "title": "Multi-Cloud-Backup: Was „Cloud-nativ“ eigentlich bedeutet - it-daily.net",
-      "excerpt": "Multi-Cloud-Backup: Was „Cloud-nativ“ eigentlich bedeutet it-daily.net",
-      "summary": "Multi-Cloud-Backup: Was „Cloud-nativ“ eigentlich bedeutet it-daily.net",
-      "source": "IT-Daily",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMUFIcXEzVFc1UnhxWDRZYUM1MVMwTDdyR2dCdUcxcXRDOW4xZG54ajBfelhFaE5CT3l5dFJFUlFQSVFzM3MxekxwcERDcUhRQmtyejVHVWE0RXNibHV2X1JSbDdFTGNSVVY0MHc1N2E3Y2dDUmRaWGxHbGMxVjRyMVFnLTNnZmJ6clFjdHpR?oc=5",
-      "published": "2026-11-25T14:59:30+00:00",
+      "id": "feae072fb4e25241",
+      "title": "Basler Datenschutzbeauftragte verhindert Datenauslagerung",
+      "excerpt": "VPN und Web Proxy sollten von einem US-Cloud-Anbieter übernommen werden.",
+      "summary": "VPN und Web Proxy sollten von einem US-Cloud-Anbieter übernommen werden.",
+      "source": "Inside IT",
+      "url": "https://inside-it.ch/basler-datenschutzbeauftragte-verhindert-datenauslagerung-20261125",
+      "published": "2026-11-25T14:20:59+00:00",
       "category": "Cloud"
     },
     {
@@ -479,6 +459,16 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMVRzUENRUnN5RGhuRnV1VkZxRU1fZVBOa0p0ZllYZXNRUGxsb0lIeTg2eDJyUE1WeGI5TmQ0ZmRINEg5V0ozc2JMbzZpUXJaT2g0di1WdXFPejI4bE42dUZxOGNTNm9pT0ItUVZuV1ZxdXZFeXhvamRvbVBWNVRYYQ?oc=5",
       "published": "2026-11-25T10:57:14+00:00",
       "category": "Markt"
+    },
+    {
+      "id": "23556ad83e71e4ca",
+      "title": "NAND-Flash-Preise dürften Anfang 2027 sinken",
+      "excerpt": "Die Vertragspreise für NAND-Flash dürften im Schlussquartal weniger stark steigen als noch im Oktober erwartet. Für Anfang 2027 zeichnet sich ein Preisrückgang ab, weil chinesische Cloud-Anbieter weniger SSDs bestellen als geplant.",
+      "summary": "Die Vertragspreise für NAND-Flash dürften im Schlussquartal weniger stark steigen als noch im Oktober erwartet. Für Anfang 2027 zeichnet sich ein Preisrückgang ab, weil chinesische Cloud-Anbieter weniger SSDs bestellen als geplant.",
+      "source": "IT Reseller",
+      "url": "https://itreseller.ch/Artikel/106679/NAND-Flash-Preise_duerften_Anfang_2027_sinken.html",
+      "published": "2026-11-25T10:52:08+00:00",
+      "category": "Cloud"
     },
     {
       "id": "5f25a9a52e1284c8",
@@ -521,14 +511,14 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "c93ca087eec342e4",
-      "title": "Nutanix-CEO Rajiv Ramaswami kündigt Abschied an - Swiss IT Reseller",
-      "excerpt": "Nutanix-CEO Rajiv Ramaswami kündigt Abschied an Swiss IT Reseller",
-      "summary": "Nutanix-CEO Rajiv Ramaswami kündigt Abschied an Swiss IT Reseller",
-      "source": "IT Reseller / Personen",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZE5OZjJCcnlMTHB3dWpIeTJKa2RQdnRHLWFTeXVVNEMtdl9KYTVmN3k3SDh2OEhUMF83dVM2ZTRQU251dUp4TExLOWFIMDVxTFF4SnFDeUp4TDJlVTFQUkRlcTRVRk1Ec0JJc3c5a2FxWEJRYXNtY3g5TEg5ZDk3XzdjZmRFS2VQd3RTRUZJdENaTUJvUkNqYkRn?oc=5",
-      "published": "2026-11-25T07:12:00+00:00",
-      "category": "Personen"
+      "id": "1c1b4b8bd22241f7",
+      "title": "Dell verdoppelt Umsatz dank starkem Servergeschäft",
+      "excerpt": "Dell hat im dritten Quartal mehr als doppelt so viel umgesetzt wie vor einem Jahr. Allein mit KI-Servern erzielte der Konzern 22 Milliarden Dollar und hebt seine Umsatzprognose für das Gesamtjahr erneut an.",
+      "summary": "Dell hat im dritten Quartal mehr als doppelt so viel umgesetzt wie vor einem Jahr. Allein mit KI-Servern erzielte der Konzern 22 Milliarden Dollar und hebt seine Umsatzprognose für das Gesamtjahr erneut an.",
+      "source": "IT Reseller",
+      "url": "https://itreseller.ch/Artikel/106676/Dell_verdoppelt_Umsatz_dank_starkem_Servergeschaeft.html",
+      "published": "2026-11-25T08:09:05+00:00",
+      "category": "Markt"
     },
     {
       "id": "77c7844d1aab7d36",
@@ -541,24 +531,24 @@
       "category": "Markt"
     },
     {
-      "id": "d93660df9e147171",
-      "title": "Dell verdoppelt Umsatz dank starkem Servergeschäft - Swiss IT Reseller",
-      "excerpt": "Dell verdoppelt Umsatz dank starkem Servergeschäft Swiss IT Reseller",
-      "summary": "Dell verdoppelt Umsatz dank starkem Servergeschäft Swiss IT Reseller",
+      "id": "a806c25c45d6805c",
+      "title": "HP meldet mehr Umsatz und weniger Gewinn - IT Reseller",
+      "excerpt": "HP meldet mehr Umsatz und weniger Gewinn IT Reseller",
+      "summary": "HP meldet mehr Umsatz und weniger Gewinn IT Reseller",
       "source": "IT Reseller / Firmen",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbTEzM3VGelprNEsxczgxc1F4T2lYcXlkVUtWMU5lcjZPeVZFbkpfTmlZUFhyT1Y4c0dxc2JEaVM3bjJ0UGNHWENqX2tEcG1mZFVHQ1hpMGQzcnBncDFwTlVURTVvOE5OQ1RMYkI5TkdwLVVnTm1iSGl3ZC0tSUxySV81WU1lemNvUEw2dDRseGZRYUhnVXN4T2Y5UDNTUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYXd3ZGFyX2ctN3R6cmUya1Q3ckpjWUZoeXpXd2U1bGQ1aTJTd05aTi1UR2lLWGNORU9FLTk1SXEwN3NQZEZDQzV4ZUJ5aW5jMmI5U1N3OS1IVUhmdnJhaktFNEVlZmxZWnBuZTA5dWJvLUVKay1sd1hXSnV3Yzk0aVplX3lBV0xZcXptN1NDTQ?oc=5",
       "published": "2026-11-25T07:12:00+00:00",
       "category": "Markt"
     },
     {
-      "id": "ba5e5231522f1f31",
-      "title": "GL.iNet GoodCloud: Hacker kapern Router über die Hersteller-Cloud - ComputerBase",
-      "excerpt": "GL.iNet GoodCloud: Hacker kapern Router über die Hersteller-Cloud ComputerBase",
-      "summary": "GL.iNet GoodCloud: Hacker kapern Router über die Hersteller-Cloud ComputerBase",
-      "source": "ComputerBase",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORmFwMWItQ3hTeUZxdDBvTi1EUnFWeUUxMUNMbG5WaGh0SUl1bFFkUEZpM0lYUDlnVXhDb1lWWHBuMVE5c3k0aEk0MkVYbzM0bHZjZEJhRHJReTZMVDl6elNOZElTdFJzdG9JNm5vd2I1RHBFNkRQVXJvM3hBMkFLUUo2VjRlMUd1eVNHbFJlVnZWYXppX2taMEVydjhJdTMzejdrS2lwMnhKd1JycjBNd1gtb3Vydw?oc=5",
-      "published": "2026-11-24T20:12:00+00:00",
-      "category": "Cloud"
+      "id": "0de11cb35c678b2e",
+      "title": "Nutanix-CEO Rajiv Ramaswami kündigt Abschied an",
+      "excerpt": "Nach fast sechs Jahren als CEO von Nutanix hat Rajiv Ramaswami seinen Abschied angekündigt. Er bleibt im Amt, bis ein Nachfolger gefunden ist, und soll Nutanix danach noch eine Zeit lang als Senior Advisor begleiten.",
+      "summary": "Nach fast sechs Jahren als CEO von Nutanix hat Rajiv Ramaswami seinen Abschied angekündigt. Er bleibt im Amt, bis ein Nachfolger gefunden ist, und soll Nutanix danach noch eine Zeit lang als Senior Advisor begleiten.",
+      "source": "IT Reseller",
+      "url": "https://itreseller.ch/Artikel/106673/Nutanix-CEO_Rajiv_Ramaswami_kuendigt_Abschied_an.html",
+      "published": "2026-11-25T06:28:56+00:00",
+      "category": "Personen"
     },
     {
       "id": "ec3833a573ee4538",
@@ -571,34 +561,34 @@
       "category": "Microsoft 365"
     },
     {
-      "id": "1445b21885ac706c",
-      "title": "Microsoft schliesst Sicherheitslücke in Azure API Management - SwissCybersecurity.net",
-      "excerpt": "Microsoft schliesst Sicherheitslücke in Azure API Management SwissCybersecurity.net",
-      "summary": "Microsoft schliesst Sicherheitslücke in Azure API Management SwissCybersecurity.net",
-      "source": "Swiss Cybersecurity",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNjhMWS1oUkthWG43X0k3eHZtMGtyLTlteEVSalA3Wk96SVZvaEd6cWZkdmk5VnpsZVRaOC1udndWdEhjaEVkTElFdFdVRUpFOVpMdGgtam0zanFDZHZYSDlrMXNpYm9ubmhKTEVuQjJ6bVdNWVd5LW5HNGt3UnIzNlM2SjZHTXZ3X2Q3bGstZEM0MlJpN3IySXJYZmNSN3p0TkxHZ0cwTXpBTWhCa3NOZ0Zn?oc=5",
-      "published": "2026-11-24T09:05:40+00:00",
-      "category": "Cloud"
-    },
-    {
-      "id": "71de01c55c022bba",
-      "title": "Infinigate ernennt Tom O’Reilly zum Chief Transformation Officer - IT Reseller",
-      "excerpt": "Infinigate ernennt Tom O’Reilly zum Chief Transformation Officer IT Reseller",
-      "summary": "Infinigate ernennt Tom O’Reilly zum Chief Transformation Officer IT Reseller",
-      "source": "IT Reseller / Personen",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZV93SFU3WnBNVFlXdlJkWEJ1OG1PS1hpSUN1WVRsTUd0YUNDVHRBaDJzdmhrcnRRRnlHLXUtRTdTMll4SXNxcDU5bk5WZmtmMTFGYUt5aWVqTF8ydEFrTUJVaVJzWFd1WnE5NWFFaUhlOWg1UkxlS2lMWVN3emZMRDR3ZWU3Smh4cXRvZ0dLSW9GTUVUdGlBRVVwRDhxSTYtVWhLZTA2UmVFM0JQRmNF?oc=5",
-      "published": "2026-11-24T07:12:00+00:00",
+      "id": "403ab82b316d0f70",
+      "title": "Infinigate ernennt Tom OReilly zum Chief Transformation Officer",
+      "excerpt": "Tom OReilly ist neuer Chief Transformation Officer bei Infinigate. Er soll sich vor allem auf den Ausbau und die Optimierung des Plattformgeschäftes konzentrieren.",
+      "summary": "Tom OReilly ist neuer Chief Transformation Officer bei Infinigate. Er soll sich vor allem auf den Ausbau und die Optimierung des Plattformgeschäftes konzentrieren.",
+      "source": "IT Reseller",
+      "url": "https://itreseller.ch/Artikel/106670/Infinigate_ernennt_Tom_OReilly_zum_Chief_Transformation_Officer_.html",
+      "published": "2026-11-24T08:21:51+00:00",
       "category": "Personen"
     },
     {
+      "id": "30c65606d5bc23f9",
+      "title": "Schwachstelle in Azure API Management (APIM) Classic führte zu Hacks - BornCity",
+      "excerpt": "Schwachstelle in Azure API Management (APIM) Classic führte zu Hacks BornCity",
+      "summary": "Schwachstelle in Azure API Management (APIM) Classic führte zu Hacks BornCity",
+      "source": "BornCity",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdzNnazdpN25hX3JwVng1MWs5dm8zeXZLeEZPOFBBOXM1Vm4wNGRSb3V1ZlkzdjdhdmpEU09PTE16VDJEaTlQZDdobV81WHhnUUxiTTRoRm5SbmpuSVVidWowUzROVFIwN1U1cjFPMThVNDJ0cG0wYnFZNVM2dE1CeHZ5M0UwRW0zSTlLN1JpYndIa214NXhKMW9EMktkUU9jSzhnRXBPWkI?oc=5",
+      "published": "2026-11-24T07:22:09+00:00",
+      "category": "Cloud"
+    },
+    {
       "id": "154a0622ab6b2b10",
-      "title": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse",
+      "title": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse - Swiss IT Reseller",
       "excerpt": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse Swiss IT Reseller",
       "summary": "Oliver Wyman übernimmt Zürcher Technologieberatung Synpulse Swiss IT Reseller",
-      "source": "Swiss IT Reseller",
+      "source": "IT Reseller / Firmen",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY3JBZmg3bDJmVlJjSXVCZmlSUWdNNkcyVUhjWDQ5eFJYcWZQZGowcUtJQlRaVGwweDBLOVc1c1g1YkVSeTRzZDhNZUJWclQycy1VRzBtM2hEN012dzdJTTZSWmswZEtJRUtNNzF3dkRGLUp0QTZONktKMlJ2Ymxib3l0NkJEdmFyZ2RlN3V0b3ZYOF9UZkpwa1AwUU1rNS10TE5vVS1vbm5zb0Nk?oc=5",
       "published": "2026-11-24T07:12:00+00:00",
-      "category": "Firmen"
+      "category": "IT Schweiz"
     },
     {
       "id": "48f6cf571c9179f0",
@@ -609,16 +599,6 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56SWpfQWxfR2hwRWhGc3NEaHJRN2taRGVOVnRPcEJ5c1FHMC13THFPNDJnNUNhMXYwbGtNNHFoVmZzOFJXMlZrLTNnZmF5aFd0SzY0NnVNQ3pLZHQwRFZvS0J4R0NQN0R3aTV1MW5SUEgyZw?oc=5",
       "published": "2026-11-24T06:04:00+00:00",
       "category": "Firmen"
-    },
-    {
-      "id": "93f78af4a6bd1526",
-      "title": "Drei Mini-PCs, ein KI-Modell: Microsoft vernetzt Windows per USB4 - ComputerBase",
-      "excerpt": "Drei Mini-PCs, ein KI-Modell: Microsoft vernetzt Windows per USB4 ComputerBase",
-      "summary": "Drei Mini-PCs, ein KI-Modell: Microsoft vernetzt Windows per USB4 ComputerBase",
-      "source": "ComputerBase",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc3RXcWhJV0tmSkRheFdkb1RNM0tJRHI5U0t1djA2a3paSjlWMTJ4RGVrZGxKTDFnUXY1NVdQWFhRV2ZNQWt2WERiNkwwS3lIamhsWFBCWUZzSTd1Q3J4dkctXzRwYzcyVTdJZ3VBLUVhbzJ2YVQwWUc2bndPMWhPQmJNUWUxM2tETGY4UEJBZkZJd0NHX3JsNFZpbzhSQ0FWVDZfNzdZdTRGQWFWMEJWQ1pmQnNQNUd4VWFCNA?oc=5",
-      "published": "2026-11-23T20:45:00+00:00",
-      "category": "Trends"
     },
     {
       "id": "cafe2150ada18e0e",
@@ -661,6 +641,16 @@
       "category": "Trends"
     },
     {
+      "id": "9b4971c080b66f67",
+      "title": "GL.iNet-Sicherheitsvorfall bei Cloud-Fernverwaltung – Schadsoftware auf Routern - BornCity",
+      "excerpt": "GL.iNet-Sicherheitsvorfall bei Cloud-Fernverwaltung – Schadsoftware auf Routern BornCity",
+      "summary": "GL.iNet-Sicherheitsvorfall bei Cloud-Fernverwaltung – Schadsoftware auf Routern BornCity",
+      "source": "BornCity",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMklBQUQ2SklqVWVJUEpmWDQ4clpyWWYwX3NoYXZZakRMWnVhSGNIT01SN3dVS3pXNE0taV9jM1k0clhmenVTei1oc2pJZXJkdU9XemgxNXV1aV96TkRzMk5kaGh0dVNrMlh5RDhQMERLV0Y5aGNpZUZyYWpoTDYxeDR1OXhHaHBlaUVueEJqODg2NjgyS3FQeEFEQkoyNWlHNTlnRVNhOEo3aU1EckhObGt0Vi1LQQ?oc=5",
+      "published": "2026-11-21T15:06:49+00:00",
+      "category": "Cloud"
+    },
+    {
       "id": "3befbe408d8a2146",
       "title": "Lausanne ernennt neuen IT-Chef - Inside IT",
       "excerpt": "Lausanne ernennt neuen IT-Chef Inside IT",
@@ -681,14 +671,14 @@
       "category": "Personen"
     },
     {
-      "id": "d43ae9db9218dba5",
-      "title": "Carrie Francey übernimmt weltweites Partnergeschäft bei Netskope - Swiss IT Reseller",
-      "excerpt": "Carrie Francey übernimmt weltweites Partnergeschäft bei Netskope Swiss IT Reseller",
-      "summary": "Carrie Francey übernimmt weltweites Partnergeschäft bei Netskope Swiss IT Reseller",
+      "id": "8e4053955507c578",
+      "title": "Ironforge, Edorex und Begasoft gehen KI-Partnerschaft ein - Swiss IT Reseller",
+      "excerpt": "Ironforge, Edorex und Begasoft gehen KI-Partnerschaft ein Swiss IT Reseller",
+      "summary": "Ironforge, Edorex und Begasoft gehen KI-Partnerschaft ein Swiss IT Reseller",
       "source": "IT Reseller / Personen",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbVNHYTVScVJ6R0NuWTc1ck51bzlucmpNdHNrRDU5NThQcUhLRmptNmNmTkRKVnhKa0RnX194ZENIZTVmT0xGRnVEcHpVMC1WWVdtQm5wakFnUFhnOHJ3THpFWklQaUZpMEF1TU1oREJ3NzNjb3ZmMVA4eDZkVUhQRzEwUHhOUHlBZi1ST0VnY1pRaHNLdmFfYjV2NF92ck13d19rOW14MWFuSmlZb0M3enVR?oc=5",
-      "published": "2026-11-12T07:12:00+00:00",
-      "category": "IT Schweiz"
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYTNaV2psOG1TVEVNV2w1bFBfYzgyWnUyZEdFVkdrTkI1dG81bnhTWWI2SmpJbHZMV3d1SVRwanNPRVJyeVNFQl9sY3FjVzdDb1FZTWZwVE5ZY0NBSl9tQ0dYcVlzTFh3T24xcE0wWHBtT1VtaU45SWNuenFvU2hRTXVlWlhkQmNFMS1SOW9peWFLcjNjRmF2YjNxM3VRZktudTVaZg?oc=5",
+      "published": "2026-11-11T08:00:00+00:00",
+      "category": "Firmen"
     },
     {
       "id": "4e932eef5789a548",
@@ -741,7 +731,7 @@
       "category": "Personen"
     }
   ],
-  "updatedAt": "2026-11-28T04:07:27.515670+00:00",
+  "updatedAt": "2026-11-28T05:12:29.092769+00:00",
   "targets": {
     "Security": 10,
     "Microsoft 365": 10,
@@ -758,10 +748,10 @@
     "Microsoft 365": 10,
     "IT Schweiz": 10,
     "Cloud": 10,
-    "Trends": 4,
+    "Trends": 3,
     "Markt": 10,
     "Firmen": 10
   },
-  "warning": "Nicht genügend passende aktuelle Meldungen: 6 × Trends. 1 von 54 RSS-Quellen waren nicht erreichbar.",
+  "warning": "Nicht genügend passende aktuelle Meldungen: 7 × Trends.",
   "aiSummaries": false
 }
